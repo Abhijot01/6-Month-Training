@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>UAV Recommendation Test</title>
+</head>
+<body>
+
+<h2>🚀 UAV Recommendation Engine Test</h2>
+
+<button onclick="testRecommend()">Test Recommendation</button>
+
+<pre id="result"></pre>
+
+<script>
+
+async function testRecommend() {
+  try {
+    const response = await fetch('http://localhost:5000/api/recommend', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(
+
+/* =========================
+   TEST CASES (UNCOMMENT ONE)
+========================= */
+
+{
+  "esc_id": 13,
+  "motor_id": 12
+}
+
+/*
+{
+  "esc_id": 103
+}
+*/
+
+/*
+{
+  "frame_id": 103,
+  "motor_id": 12,
+  "esc_id": 43
+}
+*/
+
+      )
+    });
+
+    const data = await response.json();
+
+    document.getElementById('result').innerText =
+      JSON.stringify(data, null, 2);
+
+  } catch (err) {
+    document.getElementById('result').innerText =
+      '❌ Error: ' + err.message;
+  }
+}
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,51 @@
+BatteryID,Brand,Category,SubCategory,BatteryChemistry,CellCount,Voltage_V,Capacity_mAh,DischargeRate_C,Energy_Wh,ConnectorType,IntendedUse,CompatibleDroneType,Notes
+BAT-0401,CNHL,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1500mAh,130C,22.2Wh,XT60,Freestyle FPV,FPV Drone,Real-world inspired CNHL FPV LiPo battery configuration.
+BAT-0402,Ovonic,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1550mAh,100C,22.94Wh,XT60,Freestyle,FPV Drone,Real-world inspired Ovonic FPV LiPo battery configuration.
+BAT-0403,Zeee,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1500mAh,120C,22.2Wh,XT60,Freestyle FPV,FPV Drone,Real-world inspired Zeee FPV LiPo battery configuration.
+BAT-0404,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1850mAh,150C,41.07Wh,XT60,Competition Racing,FPV Drone,Real-world inspired DOGCOM FPV LiPo battery configuration.
+BAT-0405,Zeee,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1800mAh,100C,39.96Wh,XT60,Long Range FPV,FPV Drone,Real-world inspired Zeee FPV LiPo battery configuration.
+BAT-0406,Gens Ace,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1300mAh,100C,19.24Wh,XT60,Freestyle FPV,FPV Drone,Real-world inspired Gens Ace FPV LiPo battery configuration.
+BAT-0407,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1850mAh,150C,41.07Wh,XT60,Competition Racing,FPV Drone,Real-world inspired DOGCOM FPV LiPo battery configuration.
+BAT-0408,Gens Ace,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1600mAh,120C,35.52Wh,XT60,Racing,FPV Drone,Real-world inspired Gens Ace FPV LiPo battery configuration.
+BAT-0409,Gens Ace,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1300mAh,100C,19.24Wh,XT60,Freestyle FPV,FPV Drone,Real-world inspired Gens Ace FPV LiPo battery configuration.
+BAT-0410,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1500mAh,130C,33.3Wh,XT60,FPV Racing,FPV Drone,Real-world inspired Gaoneng GNB FPV LiPo battery configuration.
+BAT-0411,Ovonic,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1550mAh,100C,22.94Wh,XT60,Freestyle,FPV Drone,Real-world inspired Ovonic FPV LiPo battery configuration.
+BAT-0412,Zeee,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1800mAh,100C,39.96Wh,XT60,Long Range FPV,FPV Drone,Real-world inspired Zeee FPV LiPo battery configuration.
+BAT-0413,Zeee,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1800mAh,100C,39.96Wh,XT60,Long Range FPV,FPV Drone,Real-world inspired Zeee FPV LiPo battery configuration.
+BAT-0414,CNHL,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,2000mAh,100C,44.4Wh,XT60,Long Range,FPV Drone,Real-world inspired CNHL FPV LiPo battery configuration.
+BAT-0415,CNHL,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,2000mAh,100C,44.4Wh,XT60,Long Range,FPV Drone,Real-world inspired CNHL FPV LiPo battery configuration.
+BAT-0416,Ovonic,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1550mAh,120C,34.41Wh,XT60,Racing,FPV Drone,Real-world inspired Ovonic FPV LiPo battery configuration.
+BAT-0417,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1100mAh,120C,16.28Wh,XT60,Freestyle,FPV Drone,Real-world inspired Gaoneng GNB FPV LiPo battery configuration.
+BAT-0418,Tattu,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,850mAh,150C,12.58Wh,XT30,Cinewhoop Racing,FPV Drone,Real-world inspired Tattu FPV LiPo battery configuration.
+BAT-0419,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1100mAh,120C,16.28Wh,XT60,Freestyle,FPV Drone,Real-world inspired Gaoneng GNB FPV LiPo battery configuration.
+BAT-0420,CNHL,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1500mAh,130C,22.2Wh,XT60,Freestyle FPV,FPV Drone,Real-world inspired CNHL FPV LiPo battery configuration.
+BAT-0421,CNHL,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,2000mAh,100C,44.4Wh,XT60,Long Range,FPV Drone,Real-world inspired CNHL FPV LiPo battery configuration.
+BAT-0422,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1850mAh,150C,41.07Wh,XT60,Competition Racing,FPV Drone,Real-world inspired DOGCOM FPV LiPo battery configuration.
+BAT-0423,Zeee,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1500mAh,120C,22.2Wh,XT60,Freestyle FPV,FPV Drone,Real-world inspired Zeee FPV LiPo battery configuration.
+BAT-0424,Ovonic,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1550mAh,120C,34.41Wh,XT60,Racing,FPV Drone,Real-world inspired Ovonic FPV LiPo battery configuration.
+BAT-0425,Ovonic,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1550mAh,120C,34.41Wh,XT60,Racing,FPV Drone,Real-world inspired Ovonic FPV LiPo battery configuration.
+BAT-0426,Gens Ace,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1600mAh,120C,35.52Wh,XT60,Racing,FPV Drone,Real-world inspired Gens Ace FPV LiPo battery configuration.
+BAT-0427,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1850mAh,150C,41.07Wh,XT60,Competition Racing,FPV Drone,Real-world inspired DOGCOM FPV LiPo battery configuration.
+BAT-0428,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1500mAh,130C,33.3Wh,XT60,FPV Racing,FPV Drone,Real-world inspired Gaoneng GNB FPV LiPo battery configuration.
+BAT-0429,Gens Ace,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1300mAh,100C,19.24Wh,XT60,Freestyle FPV,FPV Drone,Real-world inspired Gens Ace FPV LiPo battery configuration.
+BAT-0430,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1850mAh,150C,41.07Wh,XT60,Competition Racing,FPV Drone,Real-world inspired DOGCOM FPV LiPo battery configuration.
+BAT-0431,Ovonic,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1550mAh,100C,22.94Wh,XT60,Freestyle,FPV Drone,Real-world inspired Ovonic FPV LiPo battery configuration.
+BAT-0432,Ovonic,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1550mAh,120C,34.41Wh,XT60,Racing,FPV Drone,Real-world inspired Ovonic FPV LiPo battery configuration.
+BAT-0433,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1850mAh,150C,41.07Wh,XT60,Competition Racing,FPV Drone,Real-world inspired DOGCOM FPV LiPo battery configuration.
+BAT-0434,Tattu,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,850mAh,150C,12.58Wh,XT30,Cinewhoop Racing,FPV Drone,Real-world inspired Tattu FPV LiPo battery configuration.
+BAT-0435,CNHL,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,2000mAh,100C,44.4Wh,XT60,Long Range,FPV Drone,Real-world inspired CNHL FPV LiPo battery configuration.
+BAT-0436,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1850mAh,150C,41.07Wh,XT60,Competition Racing,FPV Drone,Real-world inspired DOGCOM FPV LiPo battery configuration.
+BAT-0437,Ovonic,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1550mAh,120C,34.41Wh,XT60,Racing,FPV Drone,Real-world inspired Ovonic FPV LiPo battery configuration.
+BAT-0438,Tattu,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,2200mAh,120C,48.84Wh,XT60,Long Range FPV,FPV Drone,Real-world inspired Tattu FPV LiPo battery configuration.
+BAT-0439,Gens Ace,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1600mAh,120C,35.52Wh,XT60,Racing,FPV Drone,Real-world inspired Gens Ace FPV LiPo battery configuration.
+BAT-0440,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1100mAh,120C,16.28Wh,XT60,Freestyle,FPV Drone,Real-world inspired Gaoneng GNB FPV LiPo battery configuration.
+BAT-0441,Gens Ace,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1600mAh,120C,35.52Wh,XT60,Racing,FPV Drone,Real-world inspired Gens Ace FPV LiPo battery configuration.
+BAT-0442,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1100mAh,120C,16.28Wh,XT60,Freestyle,FPV Drone,Real-world inspired Gaoneng GNB FPV LiPo battery configuration.
+BAT-0443,CNHL,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1500mAh,130C,22.2Wh,XT60,Freestyle FPV,FPV Drone,Real-world inspired CNHL FPV LiPo battery configuration.
+BAT-0444,Tattu,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,2200mAh,120C,48.84Wh,XT60,Long Range FPV,FPV Drone,Real-world inspired Tattu FPV LiPo battery configuration.
+BAT-0445,CNHL,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1500mAh,130C,22.2Wh,XT60,Freestyle FPV,FPV Drone,Real-world inspired CNHL FPV LiPo battery configuration.
+BAT-0446,CNHL,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,2000mAh,100C,44.4Wh,XT60,Long Range,FPV Drone,Real-world inspired CNHL FPV LiPo battery configuration.
+BAT-0447,Zeee,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,1800mAh,100C,39.96Wh,XT60,Long Range FPV,FPV Drone,Real-world inspired Zeee FPV LiPo battery configuration.
+BAT-0448,Zeee,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1500mAh,120C,22.2Wh,XT60,Freestyle FPV,FPV Drone,Real-world inspired Zeee FPV LiPo battery configuration.
+BAT-0449,Gens Ace,Batteries,LiPo FPV Battery,LiPo,4S,14.8V,1300mAh,100C,19.24Wh,XT60,Freestyle FPV,FPV Drone,Real-world inspired Gens Ace FPV LiPo battery configuration.
+BAT-0450,CNHL,Batteries,LiPo FPV Battery,LiPo,6S,22.2V,2000mAh,100C,44.4Wh,XT60,Long Range,FPV Drone,Real-world inspired CNHL FPV LiPo battery configuration.

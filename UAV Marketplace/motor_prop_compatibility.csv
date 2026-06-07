@@ -1,0 +1,2001 @@
+﻿MotorID,PropellerID,CompatibilityLevel,RecommendedUse
+MTR-0224,PROP-0254,Performance,Freestyle FPV
+MTR-0257,PROP-0116,Performance,Freestyle FPV
+MTR-0229,PROP-0273,Safe,Racing FPV
+MTR-0452,PROP-0161,Safe,Cinematic FPV
+MTR-0414,PROP-0063,Safe,Racing FPV
+MTR-0344,PROP-0276,Safe,Cinematic FPV
+MTR-0155,PROP-0289,Performance,Freestyle FPV
+MTR-0106,PROP-0045,Safe,Cinematic FPV
+MTR-0100,PROP-0198,Recommended,Cinematic FPV
+MTR-0279,PROP-0169,Safe,Long Range FPV
+MTR-0062,PROP-0276,Recommended,Freestyle FPV
+MTR-0372,PROP-0055,Safe,Long Range FPV
+MTR-0489,PROP-0286,Recommended,Cinematic FPV
+MTR-0427,PROP-0033,Performance,Racing FPV
+MTR-0021,PROP-0150,Performance,Cinematic FPV
+MTR-0437,PROP-0198,Recommended,Freestyle FPV
+MTR-0117,PROP-0234,Performance,Long Range FPV
+MTR-0193,PROP-0168,Recommended,Freestyle FPV
+MTR-0265,PROP-0084,Performance,Long Range FPV
+MTR-0160,PROP-0080,Recommended,Racing FPV
+MTR-0091,PROP-0248,Recommended,Freestyle FPV
+MTR-0414,PROP-0182,Safe,Freestyle FPV
+MTR-0173,PROP-0089,Performance,Freestyle FPV
+MTR-0005,PROP-0264,Safe,Cinematic FPV
+MTR-0344,PROP-0135,Safe,Freestyle FPV
+MTR-0218,PROP-0096,Performance,Freestyle FPV
+MTR-0414,PROP-0174,Safe,Freestyle FPV
+MTR-0424,PROP-0005,Safe,Long Range FPV
+MTR-0135,PROP-0105,Performance,Racing FPV
+MTR-0242,PROP-0062,Performance,Long Range FPV
+MTR-0344,PROP-0299,Performance,Cinematic FPV
+MTR-0148,PROP-0082,Performance,Long Range FPV
+MTR-0392,PROP-0263,Recommended,Racing FPV
+MTR-0464,PROP-0163,Performance,Cinematic FPV
+MTR-0440,PROP-0100,Performance,Racing FPV
+MTR-0130,PROP-0266,Recommended,Freestyle FPV
+MTR-0164,PROP-0065,Recommended,Freestyle FPV
+MTR-0326,PROP-0113,Recommended,Long Range FPV
+MTR-0206,PROP-0239,Performance,Long Range FPV
+MTR-0277,PROP-0065,Safe,Freestyle FPV
+MTR-0351,PROP-0074,Safe,Long Range FPV
+MTR-0091,PROP-0025,Performance,Racing FPV
+MTR-0155,PROP-0132,Safe,Long Range FPV
+MTR-0344,PROP-0120,Recommended,Cinematic FPV
+MTR-0389,PROP-0074,Performance,Freestyle FPV
+MTR-0286,PROP-0267,Performance,Racing FPV
+MTR-0446,PROP-0084,Recommended,Racing FPV
+MTR-0125,PROP-0090,Safe,Racing FPV
+MTR-0044,PROP-0253,Safe,Racing FPV
+MTR-0029,PROP-0151,Recommended,Freestyle FPV
+MTR-0014,PROP-0110,Safe,Cinematic FPV
+MTR-0285,PROP-0154,Recommended,Long Range FPV
+MTR-0282,PROP-0172,Safe,Freestyle FPV
+MTR-0338,PROP-0067,Safe,Freestyle FPV
+MTR-0429,PROP-0237,Performance,Long Range FPV
+MTR-0434,PROP-0172,Safe,Cinematic FPV
+MTR-0062,PROP-0173,Performance,Long Range FPV
+MTR-0462,PROP-0086,Safe,Racing FPV
+MTR-0442,PROP-0110,Recommended,Freestyle FPV
+MTR-0245,PROP-0273,Safe,Cinematic FPV
+MTR-0017,PROP-0070,Safe,Racing FPV
+MTR-0324,PROP-0130,Recommended,Long Range FPV
+MTR-0037,PROP-0115,Performance,Freestyle FPV
+MTR-0365,PROP-0128,Recommended,Racing FPV
+MTR-0301,PROP-0148,Recommended,Racing FPV
+MTR-0202,PROP-0140,Recommended,Long Range FPV
+MTR-0053,PROP-0109,Safe,Freestyle FPV
+MTR-0413,PROP-0090,Performance,Long Range FPV
+MTR-0141,PROP-0050,Safe,Freestyle FPV
+MTR-0200,PROP-0123,Performance,Long Range FPV
+MTR-0191,PROP-0158,Safe,Cinematic FPV
+MTR-0142,PROP-0104,Recommended,Racing FPV
+MTR-0193,PROP-0213,Recommended,Cinematic FPV
+MTR-0259,PROP-0088,Safe,Long Range FPV
+MTR-0119,PROP-0084,Recommended,Racing FPV
+MTR-0473,PROP-0083,Recommended,Cinematic FPV
+MTR-0420,PROP-0219,Safe,Racing FPV
+MTR-0140,PROP-0185,Performance,Freestyle FPV
+MTR-0168,PROP-0278,Safe,Long Range FPV
+MTR-0328,PROP-0053,Recommended,Long Range FPV
+MTR-0218,PROP-0289,Performance,Freestyle FPV
+MTR-0374,PROP-0097,Recommended,Cinematic FPV
+MTR-0395,PROP-0260,Recommended,Long Range FPV
+MTR-0079,PROP-0201,Recommended,Long Range FPV
+MTR-0432,PROP-0089,Performance,Long Range FPV
+MTR-0031,PROP-0261,Recommended,Cinematic FPV
+MTR-0312,PROP-0198,Performance,Cinematic FPV
+MTR-0058,PROP-0274,Safe,Racing FPV
+MTR-0434,PROP-0223,Safe,Racing FPV
+MTR-0435,PROP-0180,Recommended,Cinematic FPV
+MTR-0054,PROP-0055,Performance,Long Range FPV
+MTR-0361,PROP-0260,Recommended,Freestyle FPV
+MTR-0182,PROP-0063,Safe,Long Range FPV
+MTR-0153,PROP-0086,Performance,Freestyle FPV
+MTR-0408,PROP-0244,Safe,Cinematic FPV
+MTR-0295,PROP-0110,Recommended,Freestyle FPV
+MTR-0152,PROP-0114,Safe,Racing FPV
+MTR-0453,PROP-0167,Performance,Racing FPV
+MTR-0496,PROP-0285,Safe,Racing FPV
+MTR-0141,PROP-0083,Recommended,Racing FPV
+MTR-0411,PROP-0253,Recommended,Racing FPV
+MTR-0239,PROP-0194,Safe,Racing FPV
+MTR-0337,PROP-0036,Performance,Freestyle FPV
+MTR-0092,PROP-0216,Recommended,Long Range FPV
+MTR-0156,PROP-0072,Recommended,Cinematic FPV
+MTR-0079,PROP-0224,Safe,Cinematic FPV
+MTR-0447,PROP-0194,Performance,Freestyle FPV
+MTR-0455,PROP-0286,Safe,Long Range FPV
+MTR-0465,PROP-0291,Performance,Long Range FPV
+MTR-0075,PROP-0124,Performance,Racing FPV
+MTR-0413,PROP-0025,Performance,Long Range FPV
+MTR-0049,PROP-0035,Recommended,Freestyle FPV
+MTR-0481,PROP-0131,Recommended,Long Range FPV
+MTR-0080,PROP-0009,Performance,Cinematic FPV
+MTR-0243,PROP-0297,Recommended,Cinematic FPV
+MTR-0402,PROP-0031,Performance,Racing FPV
+MTR-0006,PROP-0117,Recommended,Freestyle FPV
+MTR-0163,PROP-0110,Safe,Cinematic FPV
+MTR-0246,PROP-0183,Safe,Racing FPV
+MTR-0155,PROP-0040,Safe,Long Range FPV
+MTR-0247,PROP-0085,Performance,Cinematic FPV
+MTR-0145,PROP-0282,Performance,Racing FPV
+MTR-0027,PROP-0157,Performance,Cinematic FPV
+MTR-0136,PROP-0151,Performance,Racing FPV
+MTR-0007,PROP-0275,Performance,Long Range FPV
+MTR-0468,PROP-0286,Performance,Long Range FPV
+MTR-0497,PROP-0272,Recommended,Cinematic FPV
+MTR-0252,PROP-0240,Safe,Racing FPV
+MTR-0212,PROP-0101,Safe,Long Range FPV
+MTR-0216,PROP-0016,Performance,Racing FPV
+MTR-0310,PROP-0078,Performance,Cinematic FPV
+MTR-0212,PROP-0271,Safe,Cinematic FPV
+MTR-0377,PROP-0115,Recommended,Cinematic FPV
+MTR-0194,PROP-0192,Recommended,Racing FPV
+MTR-0356,PROP-0274,Performance,Racing FPV
+MTR-0230,PROP-0283,Safe,Racing FPV
+MTR-0142,PROP-0018,Performance,Long Range FPV
+MTR-0273,PROP-0245,Safe,Racing FPV
+MTR-0036,PROP-0160,Safe,Cinematic FPV
+MTR-0245,PROP-0056,Safe,Cinematic FPV
+MTR-0191,PROP-0082,Safe,Racing FPV
+MTR-0003,PROP-0078,Performance,Long Range FPV
+MTR-0356,PROP-0139,Safe,Cinematic FPV
+MTR-0421,PROP-0292,Safe,Freestyle FPV
+MTR-0130,PROP-0023,Safe,Freestyle FPV
+MTR-0076,PROP-0181,Performance,Long Range FPV
+MTR-0243,PROP-0223,Performance,Long Range FPV
+MTR-0418,PROP-0080,Performance,Racing FPV
+MTR-0375,PROP-0285,Recommended,Long Range FPV
+MTR-0195,PROP-0289,Recommended,Long Range FPV
+MTR-0469,PROP-0170,Recommended,Freestyle FPV
+MTR-0080,PROP-0213,Performance,Cinematic FPV
+MTR-0369,PROP-0291,Performance,Freestyle FPV
+MTR-0111,PROP-0017,Safe,Racing FPV
+MTR-0427,PROP-0200,Safe,Racing FPV
+MTR-0370,PROP-0072,Performance,Racing FPV
+MTR-0267,PROP-0216,Recommended,Racing FPV
+MTR-0478,PROP-0158,Recommended,Racing FPV
+MTR-0244,PROP-0256,Recommended,Cinematic FPV
+MTR-0499,PROP-0243,Recommended,Long Range FPV
+MTR-0328,PROP-0006,Recommended,Long Range FPV
+MTR-0116,PROP-0036,Recommended,Cinematic FPV
+MTR-0226,PROP-0240,Safe,Long Range FPV
+MTR-0156,PROP-0156,Safe,Long Range FPV
+MTR-0018,PROP-0091,Safe,Racing FPV
+MTR-0055,PROP-0152,Performance,Cinematic FPV
+MTR-0478,PROP-0299,Recommended,Racing FPV
+MTR-0354,PROP-0050,Performance,Long Range FPV
+MTR-0158,PROP-0195,Recommended,Racing FPV
+MTR-0058,PROP-0152,Performance,Racing FPV
+MTR-0404,PROP-0147,Safe,Freestyle FPV
+MTR-0293,PROP-0229,Recommended,Long Range FPV
+MTR-0454,PROP-0280,Recommended,Racing FPV
+MTR-0151,PROP-0259,Safe,Freestyle FPV
+MTR-0342,PROP-0122,Recommended,Freestyle FPV
+MTR-0208,PROP-0167,Safe,Racing FPV
+MTR-0178,PROP-0052,Recommended,Freestyle FPV
+MTR-0240,PROP-0190,Recommended,Long Range FPV
+MTR-0301,PROP-0130,Safe,Freestyle FPV
+MTR-0238,PROP-0294,Performance,Cinematic FPV
+MTR-0462,PROP-0020,Safe,Long Range FPV
+MTR-0141,PROP-0230,Performance,Cinematic FPV
+MTR-0313,PROP-0254,Recommended,Racing FPV
+MTR-0234,PROP-0127,Performance,Cinematic FPV
+MTR-0439,PROP-0044,Recommended,Cinematic FPV
+MTR-0144,PROP-0218,Performance,Freestyle FPV
+MTR-0291,PROP-0052,Performance,Long Range FPV
+MTR-0037,PROP-0181,Safe,Freestyle FPV
+MTR-0301,PROP-0120,Performance,Long Range FPV
+MTR-0370,PROP-0140,Recommended,Racing FPV
+MTR-0499,PROP-0040,Performance,Cinematic FPV
+MTR-0225,PROP-0254,Performance,Freestyle FPV
+MTR-0286,PROP-0170,Recommended,Cinematic FPV
+MTR-0261,PROP-0113,Recommended,Racing FPV
+MTR-0161,PROP-0193,Safe,Freestyle FPV
+MTR-0392,PROP-0280,Performance,Cinematic FPV
+MTR-0022,PROP-0288,Recommended,Cinematic FPV
+MTR-0356,PROP-0262,Performance,Cinematic FPV
+MTR-0226,PROP-0112,Safe,Long Range FPV
+MTR-0480,PROP-0209,Safe,Freestyle FPV
+MTR-0398,PROP-0184,Safe,Freestyle FPV
+MTR-0372,PROP-0121,Recommended,Racing FPV
+MTR-0454,PROP-0043,Safe,Long Range FPV
+MTR-0067,PROP-0170,Performance,Cinematic FPV
+MTR-0459,PROP-0127,Safe,Racing FPV
+MTR-0094,PROP-0182,Recommended,Long Range FPV
+MTR-0089,PROP-0051,Recommended,Freestyle FPV
+MTR-0424,PROP-0063,Recommended,Freestyle FPV
+MTR-0381,PROP-0168,Performance,Freestyle FPV
+MTR-0462,PROP-0251,Performance,Cinematic FPV
+MTR-0310,PROP-0225,Safe,Freestyle FPV
+MTR-0028,PROP-0233,Recommended,Long Range FPV
+MTR-0448,PROP-0035,Recommended,Long Range FPV
+MTR-0154,PROP-0292,Performance,Long Range FPV
+MTR-0372,PROP-0028,Safe,Cinematic FPV
+MTR-0337,PROP-0147,Safe,Cinematic FPV
+MTR-0331,PROP-0094,Performance,Freestyle FPV
+MTR-0104,PROP-0010,Safe,Cinematic FPV
+MTR-0376,PROP-0003,Recommended,Long Range FPV
+MTR-0061,PROP-0256,Safe,Racing FPV
+MTR-0317,PROP-0193,Safe,Long Range FPV
+MTR-0100,PROP-0050,Safe,Racing FPV
+MTR-0277,PROP-0200,Performance,Racing FPV
+MTR-0116,PROP-0234,Performance,Racing FPV
+MTR-0374,PROP-0005,Safe,Freestyle FPV
+MTR-0215,PROP-0105,Safe,Long Range FPV
+MTR-0237,PROP-0098,Performance,Racing FPV
+MTR-0081,PROP-0254,Recommended,Cinematic FPV
+MTR-0028,PROP-0217,Safe,Freestyle FPV
+MTR-0022,PROP-0134,Performance,Long Range FPV
+MTR-0190,PROP-0213,Performance,Freestyle FPV
+MTR-0223,PROP-0255,Performance,Cinematic FPV
+MTR-0063,PROP-0255,Recommended,Long Range FPV
+MTR-0231,PROP-0215,Safe,Racing FPV
+MTR-0429,PROP-0053,Safe,Cinematic FPV
+MTR-0323,PROP-0271,Recommended,Racing FPV
+MTR-0168,PROP-0147,Performance,Cinematic FPV
+MTR-0346,PROP-0211,Safe,Long Range FPV
+MTR-0463,PROP-0048,Recommended,Long Range FPV
+MTR-0487,PROP-0290,Performance,Cinematic FPV
+MTR-0474,PROP-0054,Recommended,Racing FPV
+MTR-0046,PROP-0103,Recommended,Long Range FPV
+MTR-0454,PROP-0050,Safe,Long Range FPV
+MTR-0205,PROP-0132,Recommended,Cinematic FPV
+MTR-0099,PROP-0143,Recommended,Cinematic FPV
+MTR-0404,PROP-0234,Safe,Cinematic FPV
+MTR-0274,PROP-0016,Recommended,Long Range FPV
+MTR-0156,PROP-0101,Performance,Long Range FPV
+MTR-0363,PROP-0038,Safe,Racing FPV
+MTR-0343,PROP-0280,Performance,Long Range FPV
+MTR-0037,PROP-0042,Performance,Freestyle FPV
+MTR-0333,PROP-0239,Recommended,Long Range FPV
+MTR-0031,PROP-0064,Safe,Racing FPV
+MTR-0275,PROP-0104,Performance,Racing FPV
+MTR-0489,PROP-0289,Performance,Freestyle FPV
+MTR-0496,PROP-0220,Recommended,Racing FPV
+MTR-0451,PROP-0014,Safe,Racing FPV
+MTR-0491,PROP-0104,Safe,Racing FPV
+MTR-0077,PROP-0052,Safe,Freestyle FPV
+MTR-0007,PROP-0177,Performance,Long Range FPV
+MTR-0001,PROP-0203,Performance,Cinematic FPV
+MTR-0228,PROP-0186,Safe,Freestyle FPV
+MTR-0464,PROP-0182,Recommended,Long Range FPV
+MTR-0330,PROP-0117,Performance,Cinematic FPV
+MTR-0170,PROP-0184,Safe,Long Range FPV
+MTR-0205,PROP-0062,Recommended,Long Range FPV
+MTR-0482,PROP-0169,Performance,Racing FPV
+MTR-0239,PROP-0231,Recommended,Long Range FPV
+MTR-0498,PROP-0197,Recommended,Freestyle FPV
+MTR-0208,PROP-0242,Performance,Cinematic FPV
+MTR-0064,PROP-0042,Performance,Freestyle FPV
+MTR-0438,PROP-0234,Safe,Long Range FPV
+MTR-0125,PROP-0166,Performance,Cinematic FPV
+MTR-0437,PROP-0269,Recommended,Long Range FPV
+MTR-0140,PROP-0279,Safe,Long Range FPV
+MTR-0091,PROP-0202,Performance,Racing FPV
+MTR-0179,PROP-0300,Recommended,Racing FPV
+MTR-0204,PROP-0006,Recommended,Freestyle FPV
+MTR-0113,PROP-0263,Performance,Cinematic FPV
+MTR-0187,PROP-0231,Safe,Racing FPV
+MTR-0272,PROP-0277,Safe,Racing FPV
+MTR-0358,PROP-0173,Recommended,Long Range FPV
+MTR-0324,PROP-0088,Recommended,Cinematic FPV
+MTR-0439,PROP-0243,Recommended,Long Range FPV
+MTR-0496,PROP-0174,Safe,Racing FPV
+MTR-0437,PROP-0127,Performance,Freestyle FPV
+MTR-0084,PROP-0105,Performance,Racing FPV
+MTR-0145,PROP-0034,Performance,Racing FPV
+MTR-0450,PROP-0014,Recommended,Long Range FPV
+MTR-0044,PROP-0179,Safe,Freestyle FPV
+MTR-0307,PROP-0218,Performance,Cinematic FPV
+MTR-0184,PROP-0029,Safe,Long Range FPV
+MTR-0311,PROP-0274,Recommended,Freestyle FPV
+MTR-0010,PROP-0002,Recommended,Long Range FPV
+MTR-0393,PROP-0087,Performance,Racing FPV
+MTR-0057,PROP-0184,Safe,Racing FPV
+MTR-0363,PROP-0032,Safe,Freestyle FPV
+MTR-0379,PROP-0179,Performance,Long Range FPV
+MTR-0487,PROP-0175,Performance,Freestyle FPV
+MTR-0347,PROP-0169,Recommended,Racing FPV
+MTR-0340,PROP-0096,Recommended,Long Range FPV
+MTR-0370,PROP-0241,Performance,Long Range FPV
+MTR-0251,PROP-0085,Safe,Cinematic FPV
+MTR-0407,PROP-0170,Safe,Racing FPV
+MTR-0409,PROP-0201,Safe,Long Range FPV
+MTR-0495,PROP-0187,Performance,Long Range FPV
+MTR-0325,PROP-0155,Recommended,Freestyle FPV
+MTR-0193,PROP-0241,Recommended,Racing FPV
+MTR-0447,PROP-0130,Performance,Racing FPV
+MTR-0452,PROP-0187,Performance,Freestyle FPV
+MTR-0137,PROP-0154,Safe,Cinematic FPV
+MTR-0420,PROP-0033,Performance,Long Range FPV
+MTR-0276,PROP-0126,Performance,Long Range FPV
+MTR-0072,PROP-0186,Recommended,Long Range FPV
+MTR-0129,PROP-0030,Performance,Cinematic FPV
+MTR-0270,PROP-0205,Performance,Long Range FPV
+MTR-0291,PROP-0169,Recommended,Cinematic FPV
+MTR-0474,PROP-0104,Safe,Long Range FPV
+MTR-0223,PROP-0187,Safe,Long Range FPV
+MTR-0176,PROP-0263,Recommended,Racing FPV
+MTR-0283,PROP-0268,Safe,Cinematic FPV
+MTR-0422,PROP-0026,Performance,Long Range FPV
+MTR-0278,PROP-0196,Safe,Long Range FPV
+MTR-0169,PROP-0262,Safe,Cinematic FPV
+MTR-0126,PROP-0218,Recommended,Racing FPV
+MTR-0405,PROP-0034,Safe,Long Range FPV
+MTR-0296,PROP-0033,Safe,Long Range FPV
+MTR-0138,PROP-0004,Safe,Racing FPV
+MTR-0058,PROP-0232,Safe,Racing FPV
+MTR-0370,PROP-0060,Recommended,Racing FPV
+MTR-0460,PROP-0034,Recommended,Long Range FPV
+MTR-0098,PROP-0009,Performance,Freestyle FPV
+MTR-0226,PROP-0299,Recommended,Racing FPV
+MTR-0029,PROP-0207,Safe,Freestyle FPV
+MTR-0124,PROP-0223,Performance,Long Range FPV
+MTR-0158,PROP-0174,Recommended,Cinematic FPV
+MTR-0158,PROP-0221,Safe,Freestyle FPV
+MTR-0111,PROP-0052,Performance,Racing FPV
+MTR-0387,PROP-0265,Performance,Freestyle FPV
+MTR-0448,PROP-0175,Recommended,Freestyle FPV
+MTR-0278,PROP-0126,Performance,Freestyle FPV
+MTR-0291,PROP-0257,Performance,Cinematic FPV
+MTR-0261,PROP-0155,Safe,Freestyle FPV
+MTR-0171,PROP-0054,Safe,Racing FPV
+MTR-0252,PROP-0288,Recommended,Long Range FPV
+MTR-0433,PROP-0034,Recommended,Racing FPV
+MTR-0137,PROP-0091,Safe,Cinematic FPV
+MTR-0086,PROP-0007,Safe,Cinematic FPV
+MTR-0018,PROP-0262,Recommended,Racing FPV
+MTR-0241,PROP-0053,Safe,Long Range FPV
+MTR-0257,PROP-0199,Performance,Freestyle FPV
+MTR-0490,PROP-0046,Safe,Freestyle FPV
+MTR-0140,PROP-0276,Safe,Cinematic FPV
+MTR-0415,PROP-0259,Performance,Freestyle FPV
+MTR-0407,PROP-0131,Performance,Freestyle FPV
+MTR-0013,PROP-0156,Safe,Long Range FPV
+MTR-0411,PROP-0130,Safe,Racing FPV
+MTR-0295,PROP-0250,Recommended,Long Range FPV
+MTR-0470,PROP-0217,Recommended,Freestyle FPV
+MTR-0012,PROP-0278,Recommended,Long Range FPV
+MTR-0297,PROP-0194,Recommended,Long Range FPV
+MTR-0001,PROP-0067,Recommended,Racing FPV
+MTR-0216,PROP-0281,Performance,Freestyle FPV
+MTR-0398,PROP-0050,Safe,Freestyle FPV
+MTR-0097,PROP-0264,Performance,Freestyle FPV
+MTR-0259,PROP-0041,Performance,Long Range FPV
+MTR-0218,PROP-0289,Safe,Long Range FPV
+MTR-0418,PROP-0191,Safe,Cinematic FPV
+MTR-0219,PROP-0001,Performance,Long Range FPV
+MTR-0092,PROP-0018,Performance,Freestyle FPV
+MTR-0156,PROP-0038,Performance,Freestyle FPV
+MTR-0445,PROP-0257,Recommended,Freestyle FPV
+MTR-0416,PROP-0260,Safe,Racing FPV
+MTR-0053,PROP-0183,Performance,Freestyle FPV
+MTR-0490,PROP-0095,Performance,Cinematic FPV
+MTR-0006,PROP-0034,Performance,Cinematic FPV
+MTR-0016,PROP-0083,Performance,Freestyle FPV
+MTR-0234,PROP-0236,Performance,Racing FPV
+MTR-0500,PROP-0259,Performance,Long Range FPV
+MTR-0108,PROP-0193,Recommended,Racing FPV
+MTR-0164,PROP-0016,Recommended,Cinematic FPV
+MTR-0051,PROP-0147,Performance,Long Range FPV
+MTR-0362,PROP-0132,Safe,Racing FPV
+MTR-0309,PROP-0029,Safe,Racing FPV
+MTR-0197,PROP-0228,Performance,Cinematic FPV
+MTR-0224,PROP-0050,Recommended,Racing FPV
+MTR-0266,PROP-0272,Recommended,Racing FPV
+MTR-0260,PROP-0141,Recommended,Racing FPV
+MTR-0156,PROP-0034,Performance,Freestyle FPV
+MTR-0085,PROP-0123,Safe,Cinematic FPV
+MTR-0428,PROP-0117,Recommended,Long Range FPV
+MTR-0012,PROP-0050,Performance,Racing FPV
+MTR-0031,PROP-0181,Performance,Long Range FPV
+MTR-0041,PROP-0062,Recommended,Cinematic FPV
+MTR-0080,PROP-0035,Recommended,Racing FPV
+MTR-0439,PROP-0226,Recommended,Racing FPV
+MTR-0049,PROP-0155,Safe,Long Range FPV
+MTR-0242,PROP-0174,Safe,Racing FPV
+MTR-0379,PROP-0074,Recommended,Racing FPV
+MTR-0435,PROP-0151,Recommended,Cinematic FPV
+MTR-0238,PROP-0211,Recommended,Cinematic FPV
+MTR-0360,PROP-0051,Performance,Freestyle FPV
+MTR-0195,PROP-0155,Performance,Freestyle FPV
+MTR-0122,PROP-0200,Recommended,Freestyle FPV
+MTR-0251,PROP-0180,Recommended,Racing FPV
+MTR-0269,PROP-0014,Safe,Cinematic FPV
+MTR-0242,PROP-0262,Recommended,Cinematic FPV
+MTR-0076,PROP-0114,Recommended,Racing FPV
+MTR-0032,PROP-0070,Recommended,Racing FPV
+MTR-0406,PROP-0041,Performance,Cinematic FPV
+MTR-0340,PROP-0132,Recommended,Freestyle FPV
+MTR-0474,PROP-0087,Recommended,Long Range FPV
+MTR-0336,PROP-0240,Recommended,Freestyle FPV
+MTR-0002,PROP-0111,Performance,Racing FPV
+MTR-0114,PROP-0280,Performance,Freestyle FPV
+MTR-0416,PROP-0041,Recommended,Freestyle FPV
+MTR-0247,PROP-0078,Safe,Freestyle FPV
+MTR-0188,PROP-0160,Performance,Racing FPV
+MTR-0255,PROP-0080,Safe,Long Range FPV
+MTR-0203,PROP-0038,Recommended,Freestyle FPV
+MTR-0028,PROP-0197,Safe,Long Range FPV
+MTR-0429,PROP-0218,Recommended,Racing FPV
+MTR-0336,PROP-0204,Safe,Cinematic FPV
+MTR-0423,PROP-0062,Safe,Cinematic FPV
+MTR-0253,PROP-0014,Performance,Racing FPV
+MTR-0206,PROP-0260,Safe,Racing FPV
+MTR-0284,PROP-0298,Recommended,Freestyle FPV
+MTR-0448,PROP-0082,Recommended,Long Range FPV
+MTR-0031,PROP-0108,Safe,Cinematic FPV
+MTR-0479,PROP-0212,Performance,Cinematic FPV
+MTR-0107,PROP-0076,Safe,Racing FPV
+MTR-0346,PROP-0003,Recommended,Long Range FPV
+MTR-0470,PROP-0148,Recommended,Racing FPV
+MTR-0428,PROP-0025,Recommended,Long Range FPV
+MTR-0130,PROP-0128,Safe,Long Range FPV
+MTR-0078,PROP-0170,Recommended,Racing FPV
+MTR-0204,PROP-0080,Safe,Freestyle FPV
+MTR-0083,PROP-0114,Recommended,Freestyle FPV
+MTR-0085,PROP-0188,Performance,Cinematic FPV
+MTR-0439,PROP-0196,Safe,Cinematic FPV
+MTR-0362,PROP-0228,Performance,Freestyle FPV
+MTR-0156,PROP-0260,Safe,Racing FPV
+MTR-0128,PROP-0117,Safe,Racing FPV
+MTR-0083,PROP-0164,Safe,Long Range FPV
+MTR-0076,PROP-0092,Performance,Cinematic FPV
+MTR-0157,PROP-0007,Performance,Freestyle FPV
+MTR-0092,PROP-0142,Performance,Long Range FPV
+MTR-0171,PROP-0154,Safe,Racing FPV
+MTR-0178,PROP-0099,Recommended,Freestyle FPV
+MTR-0376,PROP-0270,Safe,Freestyle FPV
+MTR-0378,PROP-0300,Performance,Cinematic FPV
+MTR-0489,PROP-0243,Performance,Long Range FPV
+MTR-0306,PROP-0256,Safe,Racing FPV
+MTR-0195,PROP-0150,Safe,Freestyle FPV
+MTR-0181,PROP-0211,Performance,Racing FPV
+MTR-0278,PROP-0012,Performance,Freestyle FPV
+MTR-0291,PROP-0063,Safe,Racing FPV
+MTR-0255,PROP-0279,Performance,Racing FPV
+MTR-0381,PROP-0001,Recommended,Long Range FPV
+MTR-0012,PROP-0277,Performance,Freestyle FPV
+MTR-0370,PROP-0233,Safe,Long Range FPV
+MTR-0178,PROP-0284,Recommended,Cinematic FPV
+MTR-0186,PROP-0275,Safe,Freestyle FPV
+MTR-0087,PROP-0082,Recommended,Racing FPV
+MTR-0414,PROP-0093,Recommended,Cinematic FPV
+MTR-0306,PROP-0162,Recommended,Racing FPV
+MTR-0135,PROP-0036,Recommended,Freestyle FPV
+MTR-0467,PROP-0062,Performance,Freestyle FPV
+MTR-0195,PROP-0224,Recommended,Long Range FPV
+MTR-0445,PROP-0088,Performance,Long Range FPV
+MTR-0091,PROP-0258,Safe,Long Range FPV
+MTR-0070,PROP-0227,Safe,Freestyle FPV
+MTR-0133,PROP-0149,Recommended,Racing FPV
+MTR-0427,PROP-0268,Performance,Racing FPV
+MTR-0280,PROP-0184,Performance,Racing FPV
+MTR-0492,PROP-0235,Performance,Cinematic FPV
+MTR-0483,PROP-0028,Safe,Cinematic FPV
+MTR-0011,PROP-0071,Recommended,Freestyle FPV
+MTR-0299,PROP-0184,Safe,Racing FPV
+MTR-0298,PROP-0162,Safe,Freestyle FPV
+MTR-0348,PROP-0019,Performance,Cinematic FPV
+MTR-0257,PROP-0225,Recommended,Cinematic FPV
+MTR-0448,PROP-0132,Safe,Racing FPV
+MTR-0294,PROP-0002,Performance,Long Range FPV
+MTR-0249,PROP-0080,Performance,Racing FPV
+MTR-0265,PROP-0272,Safe,Long Range FPV
+MTR-0295,PROP-0102,Performance,Racing FPV
+MTR-0084,PROP-0240,Safe,Freestyle FPV
+MTR-0176,PROP-0131,Safe,Freestyle FPV
+MTR-0163,PROP-0257,Safe,Racing FPV
+MTR-0316,PROP-0147,Recommended,Long Range FPV
+MTR-0128,PROP-0039,Recommended,Long Range FPV
+MTR-0339,PROP-0295,Recommended,Cinematic FPV
+MTR-0308,PROP-0039,Safe,Cinematic FPV
+MTR-0005,PROP-0292,Safe,Racing FPV
+MTR-0470,PROP-0202,Safe,Cinematic FPV
+MTR-0164,PROP-0054,Safe,Long Range FPV
+MTR-0158,PROP-0057,Recommended,Freestyle FPV
+MTR-0093,PROP-0209,Recommended,Racing FPV
+MTR-0277,PROP-0067,Recommended,Freestyle FPV
+MTR-0200,PROP-0090,Performance,Cinematic FPV
+MTR-0145,PROP-0073,Safe,Long Range FPV
+MTR-0377,PROP-0135,Safe,Cinematic FPV
+MTR-0253,PROP-0273,Recommended,Freestyle FPV
+MTR-0013,PROP-0095,Safe,Racing FPV
+MTR-0230,PROP-0041,Performance,Racing FPV
+MTR-0170,PROP-0182,Performance,Racing FPV
+MTR-0183,PROP-0093,Safe,Freestyle FPV
+MTR-0017,PROP-0090,Recommended,Racing FPV
+MTR-0154,PROP-0057,Performance,Long Range FPV
+MTR-0187,PROP-0137,Performance,Long Range FPV
+MTR-0005,PROP-0170,Performance,Cinematic FPV
+MTR-0408,PROP-0127,Safe,Racing FPV
+MTR-0407,PROP-0209,Recommended,Racing FPV
+MTR-0232,PROP-0073,Performance,Cinematic FPV
+MTR-0024,PROP-0037,Safe,Racing FPV
+MTR-0233,PROP-0077,Recommended,Cinematic FPV
+MTR-0068,PROP-0155,Safe,Racing FPV
+MTR-0390,PROP-0046,Safe,Freestyle FPV
+MTR-0114,PROP-0290,Safe,Cinematic FPV
+MTR-0056,PROP-0012,Performance,Freestyle FPV
+MTR-0045,PROP-0282,Safe,Cinematic FPV
+MTR-0127,PROP-0130,Performance,Long Range FPV
+MTR-0240,PROP-0182,Recommended,Freestyle FPV
+MTR-0402,PROP-0117,Safe,Freestyle FPV
+MTR-0443,PROP-0162,Safe,Cinematic FPV
+MTR-0389,PROP-0048,Safe,Long Range FPV
+MTR-0119,PROP-0040,Performance,Racing FPV
+MTR-0294,PROP-0285,Recommended,Cinematic FPV
+MTR-0071,PROP-0035,Recommended,Long Range FPV
+MTR-0148,PROP-0108,Performance,Racing FPV
+MTR-0468,PROP-0293,Performance,Racing FPV
+MTR-0463,PROP-0044,Recommended,Cinematic FPV
+MTR-0277,PROP-0147,Recommended,Freestyle FPV
+MTR-0207,PROP-0281,Safe,Freestyle FPV
+MTR-0124,PROP-0172,Safe,Racing FPV
+MTR-0325,PROP-0010,Recommended,Racing FPV
+MTR-0387,PROP-0005,Safe,Cinematic FPV
+MTR-0235,PROP-0298,Performance,Long Range FPV
+MTR-0437,PROP-0107,Recommended,Freestyle FPV
+MTR-0292,PROP-0007,Recommended,Racing FPV
+MTR-0431,PROP-0043,Recommended,Racing FPV
+MTR-0015,PROP-0141,Recommended,Freestyle FPV
+MTR-0441,PROP-0278,Safe,Freestyle FPV
+MTR-0221,PROP-0159,Performance,Cinematic FPV
+MTR-0163,PROP-0181,Safe,Cinematic FPV
+MTR-0061,PROP-0108,Performance,Long Range FPV
+MTR-0343,PROP-0221,Safe,Freestyle FPV
+MTR-0029,PROP-0191,Performance,Long Range FPV
+MTR-0076,PROP-0070,Recommended,Cinematic FPV
+MTR-0320,PROP-0264,Performance,Racing FPV
+MTR-0385,PROP-0216,Safe,Racing FPV
+MTR-0044,PROP-0104,Performance,Racing FPV
+MTR-0251,PROP-0277,Recommended,Racing FPV
+MTR-0357,PROP-0205,Safe,Freestyle FPV
+MTR-0141,PROP-0277,Performance,Freestyle FPV
+MTR-0248,PROP-0112,Performance,Long Range FPV
+MTR-0249,PROP-0180,Safe,Cinematic FPV
+MTR-0145,PROP-0155,Safe,Racing FPV
+MTR-0192,PROP-0104,Recommended,Freestyle FPV
+MTR-0323,PROP-0006,Safe,Cinematic FPV
+MTR-0459,PROP-0078,Recommended,Long Range FPV
+MTR-0256,PROP-0086,Recommended,Freestyle FPV
+MTR-0476,PROP-0051,Recommended,Racing FPV
+MTR-0304,PROP-0201,Performance,Racing FPV
+MTR-0493,PROP-0039,Recommended,Long Range FPV
+MTR-0471,PROP-0029,Performance,Long Range FPV
+MTR-0198,PROP-0039,Safe,Cinematic FPV
+MTR-0326,PROP-0100,Performance,Freestyle FPV
+MTR-0372,PROP-0215,Recommended,Long Range FPV
+MTR-0144,PROP-0092,Safe,Racing FPV
+MTR-0109,PROP-0080,Recommended,Cinematic FPV
+MTR-0391,PROP-0164,Recommended,Long Range FPV
+MTR-0313,PROP-0090,Performance,Racing FPV
+MTR-0434,PROP-0109,Performance,Cinematic FPV
+MTR-0087,PROP-0263,Recommended,Racing FPV
+MTR-0295,PROP-0054,Safe,Long Range FPV
+MTR-0312,PROP-0218,Safe,Freestyle FPV
+MTR-0142,PROP-0095,Performance,Racing FPV
+MTR-0185,PROP-0090,Safe,Long Range FPV
+MTR-0274,PROP-0087,Recommended,Cinematic FPV
+MTR-0229,PROP-0210,Safe,Freestyle FPV
+MTR-0306,PROP-0172,Performance,Long Range FPV
+MTR-0290,PROP-0160,Recommended,Freestyle FPV
+MTR-0231,PROP-0050,Recommended,Freestyle FPV
+MTR-0071,PROP-0228,Performance,Long Range FPV
+MTR-0269,PROP-0045,Recommended,Freestyle FPV
+MTR-0372,PROP-0289,Safe,Freestyle FPV
+MTR-0438,PROP-0140,Safe,Cinematic FPV
+MTR-0057,PROP-0291,Performance,Long Range FPV
+MTR-0389,PROP-0018,Performance,Cinematic FPV
+MTR-0438,PROP-0256,Performance,Freestyle FPV
+MTR-0382,PROP-0156,Recommended,Cinematic FPV
+MTR-0495,PROP-0121,Recommended,Cinematic FPV
+MTR-0452,PROP-0015,Recommended,Racing FPV
+MTR-0321,PROP-0015,Performance,Freestyle FPV
+MTR-0302,PROP-0098,Performance,Freestyle FPV
+MTR-0324,PROP-0200,Safe,Racing FPV
+MTR-0194,PROP-0098,Recommended,Cinematic FPV
+MTR-0193,PROP-0053,Safe,Freestyle FPV
+MTR-0183,PROP-0102,Safe,Long Range FPV
+MTR-0383,PROP-0119,Recommended,Cinematic FPV
+MTR-0037,PROP-0026,Recommended,Freestyle FPV
+MTR-0420,PROP-0011,Performance,Long Range FPV
+MTR-0122,PROP-0004,Performance,Long Range FPV
+MTR-0192,PROP-0086,Performance,Cinematic FPV
+MTR-0238,PROP-0282,Performance,Racing FPV
+MTR-0303,PROP-0243,Recommended,Cinematic FPV
+MTR-0077,PROP-0098,Recommended,Freestyle FPV
+MTR-0448,PROP-0183,Recommended,Long Range FPV
+MTR-0409,PROP-0076,Recommended,Freestyle FPV
+MTR-0296,PROP-0201,Safe,Racing FPV
+MTR-0391,PROP-0138,Performance,Cinematic FPV
+MTR-0458,PROP-0117,Safe,Freestyle FPV
+MTR-0403,PROP-0106,Performance,Freestyle FPV
+MTR-0400,PROP-0100,Safe,Cinematic FPV
+MTR-0374,PROP-0020,Recommended,Racing FPV
+MTR-0094,PROP-0105,Safe,Long Range FPV
+MTR-0175,PROP-0228,Performance,Long Range FPV
+MTR-0007,PROP-0187,Performance,Cinematic FPV
+MTR-0009,PROP-0049,Performance,Racing FPV
+MTR-0448,PROP-0292,Performance,Cinematic FPV
+MTR-0404,PROP-0096,Safe,Cinematic FPV
+MTR-0488,PROP-0070,Safe,Cinematic FPV
+MTR-0033,PROP-0281,Recommended,Long Range FPV
+MTR-0413,PROP-0105,Safe,Freestyle FPV
+MTR-0102,PROP-0263,Recommended,Freestyle FPV
+MTR-0017,PROP-0236,Performance,Long Range FPV
+MTR-0424,PROP-0067,Safe,Racing FPV
+MTR-0304,PROP-0136,Safe,Racing FPV
+MTR-0197,PROP-0105,Recommended,Racing FPV
+MTR-0121,PROP-0073,Performance,Freestyle FPV
+MTR-0309,PROP-0216,Safe,Racing FPV
+MTR-0037,PROP-0195,Recommended,Freestyle FPV
+MTR-0403,PROP-0015,Recommended,Cinematic FPV
+MTR-0293,PROP-0282,Recommended,Freestyle FPV
+MTR-0199,PROP-0051,Recommended,Long Range FPV
+MTR-0278,PROP-0253,Performance,Long Range FPV
+MTR-0136,PROP-0016,Recommended,Long Range FPV
+MTR-0024,PROP-0276,Safe,Cinematic FPV
+MTR-0104,PROP-0013,Performance,Racing FPV
+MTR-0036,PROP-0169,Recommended,Cinematic FPV
+MTR-0341,PROP-0095,Performance,Racing FPV
+MTR-0316,PROP-0167,Recommended,Racing FPV
+MTR-0426,PROP-0265,Performance,Racing FPV
+MTR-0473,PROP-0055,Safe,Cinematic FPV
+MTR-0315,PROP-0030,Safe,Racing FPV
+MTR-0239,PROP-0143,Safe,Long Range FPV
+MTR-0475,PROP-0220,Recommended,Long Range FPV
+MTR-0286,PROP-0179,Performance,Freestyle FPV
+MTR-0469,PROP-0174,Recommended,Racing FPV
+MTR-0047,PROP-0133,Safe,Cinematic FPV
+MTR-0452,PROP-0152,Performance,Freestyle FPV
+MTR-0198,PROP-0005,Performance,Long Range FPV
+MTR-0030,PROP-0285,Performance,Long Range FPV
+MTR-0239,PROP-0102,Safe,Freestyle FPV
+MTR-0322,PROP-0277,Safe,Racing FPV
+MTR-0201,PROP-0128,Performance,Freestyle FPV
+MTR-0109,PROP-0034,Recommended,Freestyle FPV
+MTR-0148,PROP-0140,Recommended,Racing FPV
+MTR-0222,PROP-0255,Recommended,Freestyle FPV
+MTR-0034,PROP-0110,Performance,Cinematic FPV
+MTR-0482,PROP-0204,Safe,Cinematic FPV
+MTR-0447,PROP-0024,Performance,Racing FPV
+MTR-0485,PROP-0273,Safe,Cinematic FPV
+MTR-0138,PROP-0278,Safe,Racing FPV
+MTR-0154,PROP-0227,Recommended,Long Range FPV
+MTR-0277,PROP-0002,Safe,Freestyle FPV
+MTR-0044,PROP-0247,Safe,Cinematic FPV
+MTR-0049,PROP-0298,Recommended,Long Range FPV
+MTR-0378,PROP-0032,Safe,Cinematic FPV
+MTR-0067,PROP-0277,Recommended,Racing FPV
+MTR-0006,PROP-0178,Safe,Long Range FPV
+MTR-0323,PROP-0002,Safe,Freestyle FPV
+MTR-0207,PROP-0229,Recommended,Long Range FPV
+MTR-0406,PROP-0109,Recommended,Racing FPV
+MTR-0278,PROP-0100,Recommended,Long Range FPV
+MTR-0318,PROP-0070,Performance,Racing FPV
+MTR-0074,PROP-0033,Safe,Racing FPV
+MTR-0430,PROP-0068,Safe,Long Range FPV
+MTR-0024,PROP-0183,Recommended,Racing FPV
+MTR-0461,PROP-0178,Recommended,Cinematic FPV
+MTR-0156,PROP-0199,Recommended,Long Range FPV
+MTR-0466,PROP-0144,Safe,Cinematic FPV
+MTR-0310,PROP-0130,Recommended,Freestyle FPV
+MTR-0279,PROP-0031,Safe,Cinematic FPV
+MTR-0482,PROP-0293,Performance,Long Range FPV
+MTR-0296,PROP-0016,Performance,Racing FPV
+MTR-0093,PROP-0281,Recommended,Long Range FPV
+MTR-0454,PROP-0099,Safe,Long Range FPV
+MTR-0008,PROP-0091,Performance,Freestyle FPV
+MTR-0410,PROP-0239,Performance,Freestyle FPV
+MTR-0387,PROP-0231,Recommended,Cinematic FPV
+MTR-0437,PROP-0122,Recommended,Racing FPV
+MTR-0364,PROP-0006,Performance,Freestyle FPV
+MTR-0287,PROP-0141,Performance,Cinematic FPV
+MTR-0473,PROP-0252,Recommended,Long Range FPV
+MTR-0049,PROP-0179,Safe,Racing FPV
+MTR-0154,PROP-0141,Recommended,Racing FPV
+MTR-0272,PROP-0221,Safe,Cinematic FPV
+MTR-0268,PROP-0133,Performance,Racing FPV
+MTR-0308,PROP-0163,Safe,Cinematic FPV
+MTR-0236,PROP-0265,Recommended,Long Range FPV
+MTR-0001,PROP-0058,Performance,Long Range FPV
+MTR-0028,PROP-0268,Recommended,Freestyle FPV
+MTR-0470,PROP-0001,Recommended,Cinematic FPV
+MTR-0374,PROP-0233,Performance,Racing FPV
+MTR-0167,PROP-0292,Performance,Racing FPV
+MTR-0496,PROP-0222,Performance,Cinematic FPV
+MTR-0302,PROP-0297,Performance,Racing FPV
+MTR-0372,PROP-0115,Recommended,Long Range FPV
+MTR-0103,PROP-0039,Safe,Cinematic FPV
+MTR-0476,PROP-0290,Recommended,Freestyle FPV
+MTR-0335,PROP-0171,Performance,Long Range FPV
+MTR-0053,PROP-0236,Safe,Racing FPV
+MTR-0217,PROP-0017,Safe,Cinematic FPV
+MTR-0444,PROP-0046,Safe,Cinematic FPV
+MTR-0251,PROP-0128,Performance,Cinematic FPV
+MTR-0490,PROP-0164,Performance,Cinematic FPV
+MTR-0013,PROP-0068,Safe,Cinematic FPV
+MTR-0193,PROP-0136,Performance,Freestyle FPV
+MTR-0065,PROP-0126,Recommended,Racing FPV
+MTR-0159,PROP-0051,Safe,Long Range FPV
+MTR-0497,PROP-0290,Performance,Racing FPV
+MTR-0413,PROP-0014,Performance,Long Range FPV
+MTR-0491,PROP-0166,Safe,Freestyle FPV
+MTR-0378,PROP-0156,Performance,Long Range FPV
+MTR-0301,PROP-0143,Safe,Freestyle FPV
+MTR-0163,PROP-0263,Performance,Cinematic FPV
+MTR-0364,PROP-0107,Safe,Freestyle FPV
+MTR-0298,PROP-0137,Safe,Freestyle FPV
+MTR-0314,PROP-0102,Recommended,Cinematic FPV
+MTR-0372,PROP-0160,Recommended,Cinematic FPV
+MTR-0296,PROP-0030,Safe,Freestyle FPV
+MTR-0077,PROP-0120,Performance,Long Range FPV
+MTR-0258,PROP-0219,Recommended,Racing FPV
+MTR-0283,PROP-0147,Safe,Long Range FPV
+MTR-0124,PROP-0162,Safe,Long Range FPV
+MTR-0219,PROP-0057,Safe,Long Range FPV
+MTR-0283,PROP-0041,Recommended,Cinematic FPV
+MTR-0108,PROP-0035,Performance,Freestyle FPV
+MTR-0408,PROP-0183,Safe,Long Range FPV
+MTR-0328,PROP-0064,Recommended,Long Range FPV
+MTR-0127,PROP-0088,Performance,Racing FPV
+MTR-0328,PROP-0296,Recommended,Cinematic FPV
+MTR-0003,PROP-0005,Recommended,Long Range FPV
+MTR-0002,PROP-0219,Safe,Racing FPV
+MTR-0071,PROP-0262,Performance,Racing FPV
+MTR-0185,PROP-0267,Recommended,Racing FPV
+MTR-0357,PROP-0016,Safe,Racing FPV
+MTR-0025,PROP-0159,Safe,Long Range FPV
+MTR-0061,PROP-0110,Recommended,Long Range FPV
+MTR-0109,PROP-0210,Performance,Freestyle FPV
+MTR-0449,PROP-0229,Recommended,Long Range FPV
+MTR-0139,PROP-0274,Performance,Racing FPV
+MTR-0378,PROP-0044,Safe,Freestyle FPV
+MTR-0033,PROP-0214,Performance,Cinematic FPV
+MTR-0123,PROP-0142,Performance,Cinematic FPV
+MTR-0234,PROP-0173,Safe,Cinematic FPV
+MTR-0313,PROP-0062,Performance,Cinematic FPV
+MTR-0407,PROP-0042,Recommended,Freestyle FPV
+MTR-0250,PROP-0090,Recommended,Racing FPV
+MTR-0209,PROP-0178,Performance,Cinematic FPV
+MTR-0375,PROP-0242,Recommended,Long Range FPV
+MTR-0348,PROP-0099,Recommended,Racing FPV
+MTR-0369,PROP-0016,Recommended,Racing FPV
+MTR-0348,PROP-0146,Recommended,Cinematic FPV
+MTR-0016,PROP-0046,Recommended,Long Range FPV
+MTR-0495,PROP-0131,Performance,Freestyle FPV
+MTR-0366,PROP-0199,Safe,Long Range FPV
+MTR-0460,PROP-0241,Safe,Long Range FPV
+MTR-0117,PROP-0163,Safe,Cinematic FPV
+MTR-0074,PROP-0189,Safe,Cinematic FPV
+MTR-0417,PROP-0042,Performance,Long Range FPV
+MTR-0471,PROP-0052,Recommended,Racing FPV
+MTR-0149,PROP-0227,Safe,Long Range FPV
+MTR-0497,PROP-0008,Recommended,Racing FPV
+MTR-0439,PROP-0057,Recommended,Freestyle FPV
+MTR-0291,PROP-0003,Performance,Freestyle FPV
+MTR-0459,PROP-0047,Recommended,Cinematic FPV
+MTR-0329,PROP-0062,Performance,Long Range FPV
+MTR-0087,PROP-0047,Recommended,Long Range FPV
+MTR-0047,PROP-0010,Recommended,Racing FPV
+MTR-0020,PROP-0062,Safe,Freestyle FPV
+MTR-0434,PROP-0009,Recommended,Freestyle FPV
+MTR-0030,PROP-0022,Safe,Cinematic FPV
+MTR-0111,PROP-0279,Performance,Long Range FPV
+MTR-0129,PROP-0047,Performance,Long Range FPV
+MTR-0327,PROP-0153,Performance,Racing FPV
+MTR-0173,PROP-0060,Safe,Racing FPV
+MTR-0401,PROP-0257,Performance,Long Range FPV
+MTR-0050,PROP-0170,Recommended,Freestyle FPV
+MTR-0479,PROP-0017,Performance,Long Range FPV
+MTR-0400,PROP-0004,Safe,Cinematic FPV
+MTR-0420,PROP-0181,Recommended,Long Range FPV
+MTR-0132,PROP-0036,Safe,Long Range FPV
+MTR-0214,PROP-0080,Recommended,Freestyle FPV
+MTR-0007,PROP-0086,Performance,Long Range FPV
+MTR-0032,PROP-0233,Safe,Freestyle FPV
+MTR-0177,PROP-0183,Performance,Long Range FPV
+MTR-0022,PROP-0110,Recommended,Racing FPV
+MTR-0233,PROP-0174,Performance,Racing FPV
+MTR-0114,PROP-0083,Safe,Freestyle FPV
+MTR-0104,PROP-0273,Performance,Long Range FPV
+MTR-0178,PROP-0229,Safe,Racing FPV
+MTR-0174,PROP-0213,Performance,Cinematic FPV
+MTR-0347,PROP-0289,Recommended,Long Range FPV
+MTR-0048,PROP-0178,Recommended,Freestyle FPV
+MTR-0344,PROP-0256,Recommended,Racing FPV
+MTR-0408,PROP-0020,Safe,Cinematic FPV
+MTR-0407,PROP-0207,Safe,Long Range FPV
+MTR-0486,PROP-0299,Safe,Cinematic FPV
+MTR-0258,PROP-0247,Safe,Freestyle FPV
+MTR-0249,PROP-0229,Performance,Freestyle FPV
+MTR-0196,PROP-0075,Safe,Freestyle FPV
+MTR-0162,PROP-0052,Safe,Cinematic FPV
+MTR-0155,PROP-0113,Performance,Racing FPV
+MTR-0023,PROP-0181,Recommended,Cinematic FPV
+MTR-0380,PROP-0094,Performance,Racing FPV
+MTR-0297,PROP-0159,Performance,Long Range FPV
+MTR-0110,PROP-0259,Recommended,Long Range FPV
+MTR-0496,PROP-0159,Performance,Freestyle FPV
+MTR-0386,PROP-0039,Safe,Racing FPV
+MTR-0415,PROP-0019,Recommended,Racing FPV
+MTR-0034,PROP-0163,Performance,Cinematic FPV
+MTR-0043,PROP-0144,Performance,Freestyle FPV
+MTR-0307,PROP-0170,Safe,Racing FPV
+MTR-0459,PROP-0146,Recommended,Cinematic FPV
+MTR-0423,PROP-0029,Safe,Racing FPV
+MTR-0385,PROP-0034,Recommended,Long Range FPV
+MTR-0433,PROP-0210,Safe,Long Range FPV
+MTR-0085,PROP-0136,Safe,Freestyle FPV
+MTR-0431,PROP-0161,Performance,Racing FPV
+MTR-0407,PROP-0190,Safe,Long Range FPV
+MTR-0135,PROP-0199,Performance,Freestyle FPV
+MTR-0240,PROP-0273,Safe,Freestyle FPV
+MTR-0196,PROP-0167,Recommended,Freestyle FPV
+MTR-0448,PROP-0056,Safe,Cinematic FPV
+MTR-0450,PROP-0270,Performance,Long Range FPV
+MTR-0209,PROP-0047,Performance,Racing FPV
+MTR-0420,PROP-0043,Performance,Racing FPV
+MTR-0040,PROP-0202,Recommended,Cinematic FPV
+MTR-0039,PROP-0110,Recommended,Racing FPV
+MTR-0239,PROP-0051,Performance,Freestyle FPV
+MTR-0271,PROP-0209,Performance,Long Range FPV
+MTR-0436,PROP-0125,Safe,Cinematic FPV
+MTR-0116,PROP-0272,Performance,Cinematic FPV
+MTR-0334,PROP-0088,Recommended,Long Range FPV
+MTR-0448,PROP-0079,Safe,Cinematic FPV
+MTR-0197,PROP-0042,Recommended,Racing FPV
+MTR-0475,PROP-0172,Performance,Racing FPV
+MTR-0280,PROP-0201,Safe,Cinematic FPV
+MTR-0399,PROP-0294,Recommended,Freestyle FPV
+MTR-0199,PROP-0046,Performance,Freestyle FPV
+MTR-0264,PROP-0031,Recommended,Cinematic FPV
+MTR-0058,PROP-0073,Recommended,Cinematic FPV
+MTR-0147,PROP-0132,Safe,Racing FPV
+MTR-0297,PROP-0173,Performance,Long Range FPV
+MTR-0140,PROP-0216,Performance,Cinematic FPV
+MTR-0047,PROP-0056,Performance,Freestyle FPV
+MTR-0068,PROP-0142,Safe,Freestyle FPV
+MTR-0415,PROP-0292,Performance,Cinematic FPV
+MTR-0276,PROP-0118,Safe,Long Range FPV
+MTR-0394,PROP-0182,Safe,Racing FPV
+MTR-0143,PROP-0182,Performance,Long Range FPV
+MTR-0096,PROP-0281,Recommended,Long Range FPV
+MTR-0167,PROP-0023,Safe,Long Range FPV
+MTR-0049,PROP-0188,Performance,Racing FPV
+MTR-0493,PROP-0180,Safe,Long Range FPV
+MTR-0365,PROP-0241,Recommended,Cinematic FPV
+MTR-0271,PROP-0082,Performance,Racing FPV
+MTR-0498,PROP-0060,Safe,Freestyle FPV
+MTR-0408,PROP-0237,Performance,Cinematic FPV
+MTR-0247,PROP-0186,Safe,Long Range FPV
+MTR-0486,PROP-0046,Performance,Cinematic FPV
+MTR-0220,PROP-0023,Performance,Cinematic FPV
+MTR-0358,PROP-0282,Recommended,Racing FPV
+MTR-0277,PROP-0235,Performance,Freestyle FPV
+MTR-0345,PROP-0001,Recommended,Racing FPV
+MTR-0317,PROP-0196,Safe,Racing FPV
+MTR-0295,PROP-0059,Performance,Freestyle FPV
+MTR-0266,PROP-0104,Safe,Cinematic FPV
+MTR-0174,PROP-0288,Recommended,Cinematic FPV
+MTR-0423,PROP-0149,Performance,Racing FPV
+MTR-0119,PROP-0195,Safe,Long Range FPV
+MTR-0111,PROP-0287,Performance,Long Range FPV
+MTR-0217,PROP-0238,Performance,Racing FPV
+MTR-0195,PROP-0033,Safe,Cinematic FPV
+MTR-0119,PROP-0039,Performance,Long Range FPV
+MTR-0007,PROP-0270,Recommended,Racing FPV
+MTR-0135,PROP-0124,Safe,Racing FPV
+MTR-0094,PROP-0299,Recommended,Long Range FPV
+MTR-0337,PROP-0208,Safe,Freestyle FPV
+MTR-0150,PROP-0098,Performance,Freestyle FPV
+MTR-0354,PROP-0160,Safe,Long Range FPV
+MTR-0005,PROP-0135,Safe,Freestyle FPV
+MTR-0499,PROP-0033,Recommended,Racing FPV
+MTR-0351,PROP-0223,Performance,Cinematic FPV
+MTR-0295,PROP-0190,Performance,Racing FPV
+MTR-0305,PROP-0287,Performance,Racing FPV
+MTR-0104,PROP-0196,Performance,Racing FPV
+MTR-0454,PROP-0197,Recommended,Racing FPV
+MTR-0068,PROP-0208,Safe,Cinematic FPV
+MTR-0374,PROP-0083,Performance,Freestyle FPV
+MTR-0462,PROP-0017,Recommended,Cinematic FPV
+MTR-0300,PROP-0200,Recommended,Long Range FPV
+MTR-0362,PROP-0084,Performance,Freestyle FPV
+MTR-0081,PROP-0122,Performance,Freestyle FPV
+MTR-0240,PROP-0011,Performance,Freestyle FPV
+MTR-0015,PROP-0104,Safe,Freestyle FPV
+MTR-0001,PROP-0207,Performance,Freestyle FPV
+MTR-0218,PROP-0088,Recommended,Freestyle FPV
+MTR-0415,PROP-0125,Performance,Long Range FPV
+MTR-0407,PROP-0044,Safe,Long Range FPV
+MTR-0187,PROP-0236,Recommended,Long Range FPV
+MTR-0233,PROP-0149,Recommended,Long Range FPV
+MTR-0173,PROP-0069,Recommended,Cinematic FPV
+MTR-0468,PROP-0162,Recommended,Cinematic FPV
+MTR-0145,PROP-0162,Safe,Long Range FPV
+MTR-0436,PROP-0263,Recommended,Freestyle FPV
+MTR-0307,PROP-0235,Safe,Freestyle FPV
+MTR-0191,PROP-0294,Recommended,Long Range FPV
+MTR-0034,PROP-0172,Performance,Racing FPV
+MTR-0267,PROP-0248,Safe,Long Range FPV
+MTR-0107,PROP-0141,Safe,Long Range FPV
+MTR-0192,PROP-0060,Recommended,Long Range FPV
+MTR-0105,PROP-0280,Performance,Cinematic FPV
+MTR-0438,PROP-0229,Safe,Freestyle FPV
+MTR-0168,PROP-0131,Performance,Long Range FPV
+MTR-0333,PROP-0158,Recommended,Cinematic FPV
+MTR-0018,PROP-0011,Safe,Freestyle FPV
+MTR-0386,PROP-0065,Performance,Racing FPV
+MTR-0464,PROP-0235,Safe,Long Range FPV
+MTR-0217,PROP-0196,Safe,Freestyle FPV
+MTR-0090,PROP-0178,Recommended,Freestyle FPV
+MTR-0387,PROP-0198,Recommended,Freestyle FPV
+MTR-0138,PROP-0187,Recommended,Long Range FPV
+MTR-0124,PROP-0051,Recommended,Racing FPV
+MTR-0085,PROP-0274,Performance,Long Range FPV
+MTR-0468,PROP-0133,Recommended,Freestyle FPV
+MTR-0370,PROP-0037,Recommended,Cinematic FPV
+MTR-0061,PROP-0106,Performance,Racing FPV
+MTR-0008,PROP-0261,Performance,Cinematic FPV
+MTR-0012,PROP-0088,Performance,Freestyle FPV
+MTR-0269,PROP-0211,Recommended,Freestyle FPV
+MTR-0467,PROP-0144,Performance,Freestyle FPV
+MTR-0261,PROP-0234,Performance,Freestyle FPV
+MTR-0095,PROP-0287,Performance,Long Range FPV
+MTR-0148,PROP-0223,Performance,Racing FPV
+MTR-0421,PROP-0204,Performance,Freestyle FPV
+MTR-0128,PROP-0151,Safe,Long Range FPV
+MTR-0428,PROP-0114,Recommended,Cinematic FPV
+MTR-0156,PROP-0071,Performance,Long Range FPV
+MTR-0296,PROP-0174,Recommended,Freestyle FPV
+MTR-0040,PROP-0063,Recommended,Racing FPV
+MTR-0079,PROP-0086,Recommended,Racing FPV
+MTR-0216,PROP-0023,Safe,Freestyle FPV
+MTR-0375,PROP-0235,Safe,Long Range FPV
+MTR-0302,PROP-0174,Performance,Freestyle FPV
+MTR-0222,PROP-0034,Recommended,Cinematic FPV
+MTR-0242,PROP-0161,Safe,Long Range FPV
+MTR-0053,PROP-0026,Safe,Racing FPV
+MTR-0423,PROP-0158,Recommended,Cinematic FPV
+MTR-0280,PROP-0104,Performance,Long Range FPV
+MTR-0266,PROP-0126,Performance,Long Range FPV
+MTR-0162,PROP-0267,Recommended,Cinematic FPV
+MTR-0438,PROP-0260,Performance,Racing FPV
+MTR-0301,PROP-0211,Safe,Cinematic FPV
+MTR-0037,PROP-0036,Safe,Racing FPV
+MTR-0405,PROP-0260,Performance,Freestyle FPV
+MTR-0282,PROP-0197,Safe,Cinematic FPV
+MTR-0054,PROP-0094,Safe,Freestyle FPV
+MTR-0132,PROP-0069,Performance,Long Range FPV
+MTR-0060,PROP-0145,Recommended,Long Range FPV
+MTR-0429,PROP-0252,Safe,Cinematic FPV
+MTR-0012,PROP-0121,Safe,Long Range FPV
+MTR-0188,PROP-0269,Recommended,Long Range FPV
+MTR-0088,PROP-0108,Performance,Long Range FPV
+MTR-0322,PROP-0185,Safe,Long Range FPV
+MTR-0319,PROP-0169,Safe,Long Range FPV
+MTR-0500,PROP-0267,Performance,Racing FPV
+MTR-0011,PROP-0170,Safe,Cinematic FPV
+MTR-0426,PROP-0113,Recommended,Freestyle FPV
+MTR-0301,PROP-0273,Recommended,Long Range FPV
+MTR-0299,PROP-0205,Performance,Freestyle FPV
+MTR-0033,PROP-0214,Safe,Cinematic FPV
+MTR-0488,PROP-0205,Safe,Freestyle FPV
+MTR-0086,PROP-0156,Recommended,Freestyle FPV
+MTR-0304,PROP-0175,Recommended,Long Range FPV
+MTR-0125,PROP-0061,Recommended,Long Range FPV
+MTR-0250,PROP-0288,Recommended,Freestyle FPV
+MTR-0220,PROP-0195,Safe,Long Range FPV
+MTR-0036,PROP-0173,Recommended,Racing FPV
+MTR-0338,PROP-0042,Recommended,Racing FPV
+MTR-0310,PROP-0232,Performance,Long Range FPV
+MTR-0260,PROP-0201,Performance,Long Range FPV
+MTR-0279,PROP-0195,Recommended,Racing FPV
+MTR-0392,PROP-0036,Recommended,Freestyle FPV
+MTR-0474,PROP-0170,Safe,Long Range FPV
+MTR-0025,PROP-0134,Safe,Racing FPV
+MTR-0216,PROP-0292,Performance,Cinematic FPV
+MTR-0184,PROP-0107,Recommended,Long Range FPV
+MTR-0403,PROP-0246,Performance,Freestyle FPV
+MTR-0139,PROP-0286,Recommended,Racing FPV
+MTR-0395,PROP-0268,Safe,Long Range FPV
+MTR-0196,PROP-0237,Safe,Long Range FPV
+MTR-0056,PROP-0227,Recommended,Long Range FPV
+MTR-0059,PROP-0076,Performance,Racing FPV
+MTR-0079,PROP-0045,Safe,Long Range FPV
+MTR-0466,PROP-0278,Recommended,Long Range FPV
+MTR-0115,PROP-0120,Safe,Cinematic FPV
+MTR-0161,PROP-0228,Performance,Long Range FPV
+MTR-0448,PROP-0051,Recommended,Long Range FPV
+MTR-0248,PROP-0141,Recommended,Racing FPV
+MTR-0407,PROP-0002,Safe,Racing FPV
+MTR-0237,PROP-0138,Performance,Racing FPV
+MTR-0117,PROP-0036,Recommended,Cinematic FPV
+MTR-0029,PROP-0099,Recommended,Long Range FPV
+MTR-0146,PROP-0139,Safe,Cinematic FPV
+MTR-0350,PROP-0164,Recommended,Racing FPV
+MTR-0056,PROP-0186,Recommended,Long Range FPV
+MTR-0105,PROP-0279,Safe,Racing FPV
+MTR-0429,PROP-0064,Safe,Cinematic FPV
+MTR-0315,PROP-0277,Recommended,Cinematic FPV
+MTR-0369,PROP-0133,Safe,Long Range FPV
+MTR-0138,PROP-0053,Safe,Long Range FPV
+MTR-0050,PROP-0133,Safe,Racing FPV
+MTR-0488,PROP-0133,Recommended,Freestyle FPV
+MTR-0014,PROP-0262,Performance,Freestyle FPV
+MTR-0038,PROP-0295,Recommended,Racing FPV
+MTR-0104,PROP-0205,Recommended,Racing FPV
+MTR-0388,PROP-0250,Recommended,Cinematic FPV
+MTR-0442,PROP-0031,Safe,Long Range FPV
+MTR-0194,PROP-0016,Recommended,Freestyle FPV
+MTR-0123,PROP-0291,Performance,Racing FPV
+MTR-0129,PROP-0132,Performance,Cinematic FPV
+MTR-0015,PROP-0034,Recommended,Cinematic FPV
+MTR-0338,PROP-0111,Performance,Cinematic FPV
+MTR-0144,PROP-0217,Safe,Freestyle FPV
+MTR-0091,PROP-0094,Performance,Racing FPV
+MTR-0393,PROP-0076,Performance,Cinematic FPV
+MTR-0083,PROP-0020,Performance,Cinematic FPV
+MTR-0238,PROP-0300,Safe,Cinematic FPV
+MTR-0413,PROP-0070,Safe,Racing FPV
+MTR-0121,PROP-0207,Safe,Racing FPV
+MTR-0464,PROP-0126,Performance,Freestyle FPV
+MTR-0177,PROP-0023,Safe,Long Range FPV
+MTR-0147,PROP-0221,Performance,Freestyle FPV
+MTR-0334,PROP-0011,Performance,Long Range FPV
+MTR-0368,PROP-0007,Recommended,Freestyle FPV
+MTR-0096,PROP-0106,Recommended,Long Range FPV
+MTR-0118,PROP-0125,Performance,Racing FPV
+MTR-0106,PROP-0006,Recommended,Racing FPV
+MTR-0226,PROP-0063,Performance,Racing FPV
+MTR-0424,PROP-0219,Recommended,Freestyle FPV
+MTR-0396,PROP-0222,Performance,Freestyle FPV
+MTR-0324,PROP-0004,Performance,Racing FPV
+MTR-0140,PROP-0046,Recommended,Racing FPV
+MTR-0107,PROP-0197,Recommended,Cinematic FPV
+MTR-0427,PROP-0195,Performance,Cinematic FPV
+MTR-0144,PROP-0139,Performance,Cinematic FPV
+MTR-0429,PROP-0199,Safe,Cinematic FPV
+MTR-0082,PROP-0031,Recommended,Freestyle FPV
+MTR-0055,PROP-0262,Performance,Long Range FPV
+MTR-0317,PROP-0298,Safe,Racing FPV
+MTR-0017,PROP-0164,Recommended,Racing FPV
+MTR-0365,PROP-0272,Safe,Freestyle FPV
+MTR-0056,PROP-0045,Performance,Cinematic FPV
+MTR-0359,PROP-0102,Performance,Freestyle FPV
+MTR-0335,PROP-0052,Recommended,Long Range FPV
+MTR-0028,PROP-0127,Safe,Racing FPV
+MTR-0373,PROP-0120,Performance,Cinematic FPV
+MTR-0239,PROP-0026,Performance,Long Range FPV
+MTR-0200,PROP-0024,Performance,Cinematic FPV
+MTR-0485,PROP-0048,Recommended,Freestyle FPV
+MTR-0171,PROP-0120,Recommended,Freestyle FPV
+MTR-0437,PROP-0084,Performance,Racing FPV
+MTR-0285,PROP-0064,Performance,Long Range FPV
+MTR-0216,PROP-0019,Safe,Freestyle FPV
+MTR-0467,PROP-0054,Performance,Racing FPV
+MTR-0382,PROP-0279,Performance,Long Range FPV
+MTR-0460,PROP-0166,Recommended,Racing FPV
+MTR-0331,PROP-0262,Safe,Long Range FPV
+MTR-0028,PROP-0299,Safe,Cinematic FPV
+MTR-0137,PROP-0147,Performance,Long Range FPV
+MTR-0234,PROP-0121,Performance,Freestyle FPV
+MTR-0334,PROP-0094,Recommended,Long Range FPV
+MTR-0419,PROP-0175,Recommended,Long Range FPV
+MTR-0263,PROP-0067,Recommended,Cinematic FPV
+MTR-0253,PROP-0098,Performance,Racing FPV
+MTR-0356,PROP-0061,Safe,Freestyle FPV
+MTR-0263,PROP-0033,Recommended,Racing FPV
+MTR-0369,PROP-0177,Performance,Long Range FPV
+MTR-0015,PROP-0035,Performance,Racing FPV
+MTR-0088,PROP-0024,Safe,Freestyle FPV
+MTR-0377,PROP-0232,Performance,Long Range FPV
+MTR-0272,PROP-0119,Recommended,Long Range FPV
+MTR-0385,PROP-0088,Safe,Long Range FPV
+MTR-0166,PROP-0190,Recommended,Long Range FPV
+MTR-0485,PROP-0181,Recommended,Racing FPV
+MTR-0078,PROP-0204,Safe,Cinematic FPV
+MTR-0460,PROP-0221,Recommended,Long Range FPV
+MTR-0323,PROP-0192,Recommended,Long Range FPV
+MTR-0164,PROP-0292,Recommended,Freestyle FPV
+MTR-0116,PROP-0040,Performance,Racing FPV
+MTR-0472,PROP-0099,Performance,Long Range FPV
+MTR-0413,PROP-0037,Performance,Cinematic FPV
+MTR-0001,PROP-0147,Recommended,Long Range FPV
+MTR-0110,PROP-0276,Performance,Racing FPV
+MTR-0121,PROP-0025,Safe,Freestyle FPV
+MTR-0359,PROP-0114,Safe,Long Range FPV
+MTR-0293,PROP-0299,Recommended,Long Range FPV
+MTR-0164,PROP-0268,Safe,Cinematic FPV
+MTR-0163,PROP-0269,Safe,Freestyle FPV
+MTR-0234,PROP-0250,Safe,Cinematic FPV
+MTR-0014,PROP-0187,Performance,Racing FPV
+MTR-0098,PROP-0146,Safe,Cinematic FPV
+MTR-0298,PROP-0234,Recommended,Freestyle FPV
+MTR-0440,PROP-0282,Recommended,Long Range FPV
+MTR-0272,PROP-0188,Safe,Cinematic FPV
+MTR-0041,PROP-0080,Safe,Long Range FPV
+MTR-0043,PROP-0244,Recommended,Freestyle FPV
+MTR-0476,PROP-0171,Recommended,Cinematic FPV
+MTR-0295,PROP-0039,Recommended,Freestyle FPV
+MTR-0440,PROP-0142,Performance,Freestyle FPV
+MTR-0043,PROP-0098,Safe,Racing FPV
+MTR-0354,PROP-0217,Recommended,Long Range FPV
+MTR-0225,PROP-0087,Safe,Racing FPV
+MTR-0459,PROP-0184,Safe,Cinematic FPV
+MTR-0131,PROP-0276,Safe,Racing FPV
+MTR-0105,PROP-0280,Performance,Racing FPV
+MTR-0139,PROP-0027,Performance,Cinematic FPV
+MTR-0452,PROP-0285,Recommended,Long Range FPV
+MTR-0134,PROP-0019,Performance,Long Range FPV
+MTR-0167,PROP-0240,Recommended,Cinematic FPV
+MTR-0399,PROP-0273,Safe,Racing FPV
+MTR-0185,PROP-0020,Recommended,Long Range FPV
+MTR-0091,PROP-0214,Safe,Cinematic FPV
+MTR-0368,PROP-0162,Recommended,Long Range FPV
+MTR-0274,PROP-0177,Safe,Racing FPV
+MTR-0413,PROP-0184,Performance,Long Range FPV
+MTR-0253,PROP-0104,Recommended,Long Range FPV
+MTR-0002,PROP-0103,Performance,Long Range FPV
+MTR-0068,PROP-0087,Recommended,Cinematic FPV
+MTR-0179,PROP-0256,Performance,Freestyle FPV
+MTR-0495,PROP-0077,Safe,Long Range FPV
+MTR-0317,PROP-0016,Recommended,Freestyle FPV
+MTR-0054,PROP-0076,Recommended,Freestyle FPV
+MTR-0237,PROP-0074,Safe,Racing FPV
+MTR-0437,PROP-0111,Recommended,Cinematic FPV
+MTR-0082,PROP-0156,Safe,Freestyle FPV
+MTR-0465,PROP-0037,Recommended,Cinematic FPV
+MTR-0383,PROP-0220,Recommended,Racing FPV
+MTR-0050,PROP-0075,Performance,Freestyle FPV
+MTR-0235,PROP-0089,Performance,Long Range FPV
+MTR-0005,PROP-0129,Safe,Freestyle FPV
+MTR-0443,PROP-0245,Performance,Cinematic FPV
+MTR-0013,PROP-0082,Performance,Long Range FPV
+MTR-0051,PROP-0135,Performance,Cinematic FPV
+MTR-0048,PROP-0134,Safe,Long Range FPV
+MTR-0082,PROP-0098,Safe,Cinematic FPV
+MTR-0232,PROP-0186,Performance,Racing FPV
+MTR-0381,PROP-0041,Safe,Racing FPV
+MTR-0441,PROP-0162,Recommended,Freestyle FPV
+MTR-0157,PROP-0068,Safe,Freestyle FPV
+MTR-0145,PROP-0255,Performance,Cinematic FPV
+MTR-0286,PROP-0260,Safe,Freestyle FPV
+MTR-0382,PROP-0260,Safe,Racing FPV
+MTR-0387,PROP-0065,Performance,Freestyle FPV
+MTR-0112,PROP-0044,Safe,Racing FPV
+MTR-0034,PROP-0191,Performance,Freestyle FPV
+MTR-0371,PROP-0029,Recommended,Long Range FPV
+MTR-0241,PROP-0093,Safe,Freestyle FPV
+MTR-0023,PROP-0028,Safe,Freestyle FPV
+MTR-0409,PROP-0297,Recommended,Freestyle FPV
+MTR-0340,PROP-0031,Performance,Freestyle FPV
+MTR-0240,PROP-0077,Performance,Racing FPV
+MTR-0449,PROP-0186,Performance,Long Range FPV
+MTR-0224,PROP-0106,Recommended,Long Range FPV
+MTR-0051,PROP-0093,Safe,Freestyle FPV
+MTR-0334,PROP-0037,Safe,Long Range FPV
+MTR-0116,PROP-0258,Safe,Cinematic FPV
+MTR-0200,PROP-0083,Recommended,Freestyle FPV
+MTR-0205,PROP-0255,Performance,Long Range FPV
+MTR-0353,PROP-0191,Safe,Cinematic FPV
+MTR-0249,PROP-0216,Safe,Freestyle FPV
+MTR-0156,PROP-0160,Recommended,Cinematic FPV
+MTR-0160,PROP-0222,Safe,Cinematic FPV
+MTR-0325,PROP-0044,Recommended,Racing FPV
+MTR-0037,PROP-0103,Safe,Cinematic FPV
+MTR-0123,PROP-0099,Performance,Long Range FPV
+MTR-0102,PROP-0164,Recommended,Cinematic FPV
+MTR-0110,PROP-0084,Performance,Racing FPV
+MTR-0409,PROP-0279,Performance,Freestyle FPV
+MTR-0256,PROP-0106,Performance,Racing FPV
+MTR-0105,PROP-0144,Safe,Freestyle FPV
+MTR-0292,PROP-0141,Recommended,Long Range FPV
+MTR-0374,PROP-0257,Recommended,Long Range FPV
+MTR-0050,PROP-0159,Performance,Freestyle FPV
+MTR-0004,PROP-0212,Recommended,Long Range FPV
+MTR-0235,PROP-0030,Recommended,Freestyle FPV
+MTR-0307,PROP-0275,Safe,Cinematic FPV
+MTR-0365,PROP-0081,Performance,Freestyle FPV
+MTR-0473,PROP-0100,Recommended,Racing FPV
+MTR-0313,PROP-0127,Performance,Long Range FPV
+MTR-0277,PROP-0117,Performance,Freestyle FPV
+MTR-0265,PROP-0297,Performance,Freestyle FPV
+MTR-0209,PROP-0146,Safe,Long Range FPV
+MTR-0063,PROP-0170,Performance,Long Range FPV
+MTR-0500,PROP-0045,Safe,Freestyle FPV
+MTR-0231,PROP-0117,Performance,Racing FPV
+MTR-0125,PROP-0013,Performance,Long Range FPV
+MTR-0135,PROP-0279,Performance,Cinematic FPV
+MTR-0450,PROP-0026,Performance,Cinematic FPV
+MTR-0291,PROP-0287,Recommended,Long Range FPV
+MTR-0166,PROP-0051,Performance,Cinematic FPV
+MTR-0014,PROP-0209,Safe,Long Range FPV
+MTR-0149,PROP-0291,Recommended,Freestyle FPV
+MTR-0115,PROP-0051,Safe,Racing FPV
+MTR-0256,PROP-0089,Performance,Cinematic FPV
+MTR-0106,PROP-0127,Recommended,Racing FPV
+MTR-0455,PROP-0016,Recommended,Freestyle FPV
+MTR-0458,PROP-0259,Recommended,Freestyle FPV
+MTR-0427,PROP-0202,Recommended,Racing FPV
+MTR-0085,PROP-0282,Recommended,Cinematic FPV
+MTR-0383,PROP-0101,Safe,Cinematic FPV
+MTR-0190,PROP-0271,Safe,Racing FPV
+MTR-0156,PROP-0266,Recommended,Long Range FPV
+MTR-0414,PROP-0010,Safe,Cinematic FPV
+MTR-0415,PROP-0065,Recommended,Cinematic FPV
+MTR-0179,PROP-0061,Recommended,Racing FPV
+MTR-0074,PROP-0015,Safe,Freestyle FPV
+MTR-0029,PROP-0244,Recommended,Freestyle FPV
+MTR-0342,PROP-0006,Safe,Racing FPV
+MTR-0302,PROP-0148,Recommended,Long Range FPV
+MTR-0092,PROP-0073,Safe,Cinematic FPV
+MTR-0154,PROP-0261,Recommended,Long Range FPV
+MTR-0088,PROP-0225,Safe,Long Range FPV
+MTR-0338,PROP-0263,Performance,Cinematic FPV
+MTR-0048,PROP-0288,Safe,Cinematic FPV
+MTR-0298,PROP-0218,Recommended,Freestyle FPV
+MTR-0367,PROP-0294,Safe,Long Range FPV
+MTR-0112,PROP-0173,Recommended,Cinematic FPV
+MTR-0412,PROP-0173,Safe,Freestyle FPV
+MTR-0066,PROP-0079,Safe,Cinematic FPV
+MTR-0385,PROP-0161,Performance,Long Range FPV
+MTR-0190,PROP-0128,Safe,Freestyle FPV
+MTR-0123,PROP-0010,Performance,Racing FPV
+MTR-0300,PROP-0217,Performance,Racing FPV
+MTR-0040,PROP-0126,Safe,Racing FPV
+MTR-0070,PROP-0256,Recommended,Long Range FPV
+MTR-0257,PROP-0144,Safe,Racing FPV
+MTR-0180,PROP-0182,Performance,Long Range FPV
+MTR-0310,PROP-0108,Performance,Freestyle FPV
+MTR-0017,PROP-0216,Safe,Racing FPV
+MTR-0307,PROP-0243,Safe,Racing FPV
+MTR-0463,PROP-0064,Recommended,Racing FPV
+MTR-0188,PROP-0227,Safe,Freestyle FPV
+MTR-0249,PROP-0022,Performance,Freestyle FPV
+MTR-0231,PROP-0287,Safe,Cinematic FPV
+MTR-0337,PROP-0131,Safe,Racing FPV
+MTR-0353,PROP-0216,Recommended,Long Range FPV
+MTR-0426,PROP-0261,Performance,Racing FPV
+MTR-0228,PROP-0038,Recommended,Cinematic FPV
+MTR-0184,PROP-0112,Recommended,Cinematic FPV
+MTR-0136,PROP-0167,Performance,Cinematic FPV
+MTR-0446,PROP-0255,Safe,Cinematic FPV
+MTR-0175,PROP-0052,Safe,Racing FPV
+MTR-0217,PROP-0116,Performance,Racing FPV
+MTR-0447,PROP-0174,Safe,Cinematic FPV
+MTR-0047,PROP-0219,Performance,Cinematic FPV
+MTR-0023,PROP-0297,Recommended,Racing FPV
+MTR-0268,PROP-0266,Safe,Racing FPV
+MTR-0239,PROP-0190,Safe,Racing FPV
+MTR-0148,PROP-0197,Performance,Cinematic FPV
+MTR-0111,PROP-0272,Performance,Long Range FPV
+MTR-0099,PROP-0126,Recommended,Racing FPV
+MTR-0228,PROP-0039,Recommended,Long Range FPV
+MTR-0370,PROP-0031,Safe,Cinematic FPV
+MTR-0364,PROP-0148,Safe,Racing FPV
+MTR-0258,PROP-0233,Recommended,Freestyle FPV
+MTR-0218,PROP-0032,Performance,Racing FPV
+MTR-0080,PROP-0061,Recommended,Freestyle FPV
+MTR-0228,PROP-0140,Safe,Freestyle FPV
+MTR-0128,PROP-0092,Safe,Racing FPV
+MTR-0002,PROP-0206,Performance,Freestyle FPV
+MTR-0441,PROP-0145,Performance,Long Range FPV
+MTR-0464,PROP-0204,Safe,Long Range FPV
+MTR-0161,PROP-0258,Safe,Long Range FPV
+MTR-0220,PROP-0170,Performance,Long Range FPV
+MTR-0069,PROP-0054,Recommended,Cinematic FPV
+MTR-0347,PROP-0193,Performance,Freestyle FPV
+MTR-0431,PROP-0125,Recommended,Freestyle FPV
+MTR-0348,PROP-0171,Recommended,Freestyle FPV
+MTR-0256,PROP-0107,Performance,Long Range FPV
+MTR-0393,PROP-0057,Safe,Racing FPV
+MTR-0081,PROP-0171,Recommended,Long Range FPV
+MTR-0120,PROP-0121,Safe,Racing FPV
+MTR-0443,PROP-0300,Recommended,Cinematic FPV
+MTR-0088,PROP-0161,Performance,Racing FPV
+MTR-0230,PROP-0276,Performance,Freestyle FPV
+MTR-0067,PROP-0054,Recommended,Freestyle FPV
+MTR-0178,PROP-0300,Performance,Freestyle FPV
+MTR-0476,PROP-0159,Safe,Cinematic FPV
+MTR-0280,PROP-0217,Recommended,Freestyle FPV
+MTR-0194,PROP-0015,Recommended,Racing FPV
+MTR-0004,PROP-0138,Performance,Long Range FPV
+MTR-0161,PROP-0065,Recommended,Cinematic FPV
+MTR-0147,PROP-0191,Performance,Cinematic FPV
+MTR-0332,PROP-0071,Performance,Long Range FPV
+MTR-0092,PROP-0212,Recommended,Freestyle FPV
+MTR-0329,PROP-0226,Recommended,Freestyle FPV
+MTR-0304,PROP-0095,Performance,Freestyle FPV
+MTR-0272,PROP-0280,Safe,Racing FPV
+MTR-0142,PROP-0202,Recommended,Freestyle FPV
+MTR-0107,PROP-0156,Performance,Long Range FPV
+MTR-0468,PROP-0267,Recommended,Cinematic FPV
+MTR-0362,PROP-0034,Safe,Cinematic FPV
+MTR-0230,PROP-0074,Safe,Freestyle FPV
+MTR-0146,PROP-0134,Safe,Cinematic FPV
+MTR-0218,PROP-0261,Safe,Cinematic FPV
+MTR-0076,PROP-0078,Performance,Racing FPV
+MTR-0416,PROP-0231,Recommended,Long Range FPV
+MTR-0351,PROP-0036,Safe,Cinematic FPV
+MTR-0216,PROP-0232,Performance,Long Range FPV
+MTR-0105,PROP-0053,Recommended,Long Range FPV
+MTR-0210,PROP-0255,Performance,Racing FPV
+MTR-0295,PROP-0240,Performance,Cinematic FPV
+MTR-0032,PROP-0067,Performance,Cinematic FPV
+MTR-0122,PROP-0038,Recommended,Cinematic FPV
+MTR-0363,PROP-0092,Safe,Freestyle FPV
+MTR-0140,PROP-0203,Safe,Cinematic FPV
+MTR-0155,PROP-0183,Safe,Freestyle FPV
+MTR-0003,PROP-0127,Recommended,Racing FPV
+MTR-0201,PROP-0068,Recommended,Cinematic FPV
+MTR-0396,PROP-0224,Safe,Long Range FPV
+MTR-0241,PROP-0221,Safe,Cinematic FPV
+MTR-0492,PROP-0235,Safe,Racing FPV
+MTR-0024,PROP-0277,Performance,Freestyle FPV
+MTR-0262,PROP-0120,Safe,Long Range FPV
+MTR-0417,PROP-0270,Recommended,Long Range FPV
+MTR-0096,PROP-0275,Recommended,Long Range FPV
+MTR-0291,PROP-0168,Safe,Racing FPV
+MTR-0244,PROP-0185,Recommended,Cinematic FPV
+MTR-0394,PROP-0175,Performance,Long Range FPV
+MTR-0089,PROP-0190,Safe,Freestyle FPV
+MTR-0170,PROP-0296,Safe,Racing FPV
+MTR-0459,PROP-0274,Recommended,Racing FPV
+MTR-0307,PROP-0049,Recommended,Freestyle FPV
+MTR-0498,PROP-0272,Performance,Freestyle FPV
+MTR-0439,PROP-0288,Recommended,Long Range FPV
+MTR-0252,PROP-0114,Performance,Racing FPV
+MTR-0098,PROP-0187,Recommended,Cinematic FPV
+MTR-0208,PROP-0176,Performance,Long Range FPV
+MTR-0104,PROP-0051,Performance,Racing FPV
+MTR-0089,PROP-0226,Performance,Cinematic FPV
+MTR-0161,PROP-0262,Performance,Racing FPV
+MTR-0345,PROP-0047,Safe,Freestyle FPV
+MTR-0135,PROP-0264,Recommended,Racing FPV
+MTR-0001,PROP-0055,Recommended,Racing FPV
+MTR-0094,PROP-0035,Performance,Cinematic FPV
+MTR-0260,PROP-0006,Safe,Long Range FPV
+MTR-0238,PROP-0168,Performance,Racing FPV
+MTR-0347,PROP-0080,Safe,Freestyle FPV
+MTR-0183,PROP-0203,Performance,Freestyle FPV
+MTR-0045,PROP-0128,Performance,Racing FPV
+MTR-0313,PROP-0090,Performance,Long Range FPV
+MTR-0218,PROP-0107,Performance,Long Range FPV
+MTR-0381,PROP-0027,Safe,Long Range FPV
+MTR-0182,PROP-0041,Recommended,Freestyle FPV
+MTR-0002,PROP-0071,Performance,Cinematic FPV
+MTR-0412,PROP-0030,Recommended,Long Range FPV
+MTR-0315,PROP-0013,Safe,Racing FPV
+MTR-0129,PROP-0297,Performance,Freestyle FPV
+MTR-0244,PROP-0119,Performance,Cinematic FPV
+MTR-0007,PROP-0045,Safe,Racing FPV
+MTR-0088,PROP-0039,Recommended,Cinematic FPV
+MTR-0049,PROP-0174,Recommended,Long Range FPV
+MTR-0218,PROP-0010,Recommended,Freestyle FPV
+MTR-0313,PROP-0244,Performance,Long Range FPV
+MTR-0215,PROP-0148,Recommended,Racing FPV
+MTR-0025,PROP-0189,Performance,Cinematic FPV
+MTR-0131,PROP-0183,Recommended,Cinematic FPV
+MTR-0320,PROP-0053,Safe,Long Range FPV
+MTR-0472,PROP-0287,Safe,Cinematic FPV
+MTR-0095,PROP-0205,Recommended,Cinematic FPV
+MTR-0193,PROP-0257,Performance,Cinematic FPV
+MTR-0267,PROP-0011,Recommended,Freestyle FPV
+MTR-0362,PROP-0262,Performance,Freestyle FPV
+MTR-0135,PROP-0019,Performance,Freestyle FPV
+MTR-0472,PROP-0013,Performance,Freestyle FPV
+MTR-0150,PROP-0105,Recommended,Freestyle FPV
+MTR-0476,PROP-0173,Performance,Racing FPV
+MTR-0252,PROP-0229,Performance,Cinematic FPV
+MTR-0286,PROP-0214,Safe,Cinematic FPV
+MTR-0469,PROP-0032,Safe,Long Range FPV
+MTR-0500,PROP-0247,Performance,Freestyle FPV
+MTR-0219,PROP-0036,Performance,Racing FPV
+MTR-0016,PROP-0216,Safe,Freestyle FPV
+MTR-0315,PROP-0075,Recommended,Long Range FPV
+MTR-0488,PROP-0198,Recommended,Long Range FPV
+MTR-0154,PROP-0175,Safe,Cinematic FPV
+MTR-0438,PROP-0067,Safe,Cinematic FPV
+MTR-0090,PROP-0230,Recommended,Cinematic FPV
+MTR-0380,PROP-0262,Safe,Freestyle FPV
+MTR-0325,PROP-0103,Recommended,Cinematic FPV
+MTR-0020,PROP-0225,Recommended,Long Range FPV
+MTR-0449,PROP-0066,Performance,Long Range FPV
+MTR-0120,PROP-0075,Recommended,Freestyle FPV
+MTR-0069,PROP-0143,Performance,Racing FPV
+MTR-0353,PROP-0151,Safe,Racing FPV
+MTR-0363,PROP-0152,Safe,Racing FPV
+MTR-0048,PROP-0289,Recommended,Cinematic FPV
+MTR-0181,PROP-0262,Safe,Racing FPV
+MTR-0460,PROP-0005,Recommended,Long Range FPV
+MTR-0335,PROP-0026,Recommended,Long Range FPV
+MTR-0239,PROP-0107,Performance,Freestyle FPV
+MTR-0261,PROP-0217,Performance,Long Range FPV
+MTR-0312,PROP-0230,Safe,Freestyle FPV
+MTR-0237,PROP-0199,Recommended,Long Range FPV
+MTR-0049,PROP-0226,Performance,Cinematic FPV
+MTR-0395,PROP-0238,Safe,Racing FPV
+MTR-0079,PROP-0250,Recommended,Cinematic FPV
+MTR-0466,PROP-0200,Recommended,Cinematic FPV
+MTR-0434,PROP-0094,Performance,Racing FPV
+MTR-0040,PROP-0116,Safe,Racing FPV
+MTR-0142,PROP-0233,Performance,Racing FPV
+MTR-0221,PROP-0277,Safe,Cinematic FPV
+MTR-0258,PROP-0142,Recommended,Racing FPV
+MTR-0328,PROP-0282,Recommended,Long Range FPV
+MTR-0022,PROP-0222,Safe,Racing FPV
+MTR-0486,PROP-0084,Safe,Cinematic FPV
+MTR-0237,PROP-0254,Performance,Long Range FPV
+MTR-0351,PROP-0091,Recommended,Racing FPV
+MTR-0153,PROP-0024,Performance,Long Range FPV
+MTR-0192,PROP-0269,Recommended,Cinematic FPV
+MTR-0343,PROP-0195,Performance,Cinematic FPV
+MTR-0457,PROP-0063,Recommended,Freestyle FPV
+MTR-0326,PROP-0124,Performance,Freestyle FPV
+MTR-0435,PROP-0267,Recommended,Freestyle FPV
+MTR-0399,PROP-0011,Recommended,Racing FPV
+MTR-0092,PROP-0071,Recommended,Freestyle FPV
+MTR-0074,PROP-0276,Performance,Freestyle FPV
+MTR-0389,PROP-0077,Recommended,Freestyle FPV
+MTR-0087,PROP-0226,Performance,Cinematic FPV
+MTR-0118,PROP-0050,Recommended,Cinematic FPV
+MTR-0409,PROP-0124,Recommended,Long Range FPV
+MTR-0306,PROP-0270,Recommended,Racing FPV
+MTR-0133,PROP-0206,Safe,Cinematic FPV
+MTR-0216,PROP-0210,Recommended,Racing FPV
+MTR-0071,PROP-0048,Performance,Long Range FPV
+MTR-0055,PROP-0069,Recommended,Cinematic FPV
+MTR-0269,PROP-0043,Safe,Long Range FPV
+MTR-0473,PROP-0232,Recommended,Racing FPV
+MTR-0017,PROP-0222,Performance,Freestyle FPV
+MTR-0032,PROP-0018,Performance,Long Range FPV
+MTR-0480,PROP-0035,Performance,Freestyle FPV
+MTR-0427,PROP-0053,Performance,Cinematic FPV
+MTR-0365,PROP-0098,Safe,Long Range FPV
+MTR-0094,PROP-0004,Recommended,Long Range FPV
+MTR-0061,PROP-0094,Recommended,Racing FPV
+MTR-0320,PROP-0096,Safe,Long Range FPV
+MTR-0345,PROP-0096,Performance,Racing FPV
+MTR-0214,PROP-0198,Performance,Cinematic FPV
+MTR-0250,PROP-0059,Safe,Freestyle FPV
+MTR-0268,PROP-0164,Safe,Cinematic FPV
+MTR-0221,PROP-0117,Recommended,Long Range FPV
+MTR-0253,PROP-0029,Performance,Racing FPV
+MTR-0486,PROP-0042,Performance,Cinematic FPV
+MTR-0449,PROP-0213,Safe,Racing FPV
+MTR-0168,PROP-0291,Safe,Racing FPV
+MTR-0046,PROP-0276,Safe,Cinematic FPV
+MTR-0003,PROP-0047,Performance,Freestyle FPV
+MTR-0120,PROP-0160,Safe,Freestyle FPV
+MTR-0432,PROP-0262,Recommended,Cinematic FPV
+MTR-0456,PROP-0278,Recommended,Long Range FPV
+MTR-0178,PROP-0033,Safe,Racing FPV
+MTR-0423,PROP-0046,Recommended,Long Range FPV
+MTR-0366,PROP-0081,Recommended,Cinematic FPV
+MTR-0016,PROP-0260,Safe,Racing FPV
+MTR-0368,PROP-0132,Recommended,Freestyle FPV
+MTR-0309,PROP-0071,Recommended,Cinematic FPV
+MTR-0221,PROP-0187,Recommended,Cinematic FPV
+MTR-0316,PROP-0150,Recommended,Long Range FPV
+MTR-0188,PROP-0186,Safe,Freestyle FPV
+MTR-0355,PROP-0117,Recommended,Freestyle FPV
+MTR-0250,PROP-0047,Recommended,Long Range FPV
+MTR-0100,PROP-0213,Recommended,Freestyle FPV
+MTR-0476,PROP-0288,Safe,Cinematic FPV
+MTR-0195,PROP-0295,Performance,Cinematic FPV
+MTR-0311,PROP-0153,Performance,Freestyle FPV
+MTR-0483,PROP-0035,Safe,Racing FPV
+MTR-0094,PROP-0218,Recommended,Freestyle FPV
+MTR-0181,PROP-0107,Performance,Cinematic FPV
+MTR-0069,PROP-0073,Performance,Freestyle FPV
+MTR-0362,PROP-0206,Recommended,Cinematic FPV
+MTR-0122,PROP-0047,Safe,Cinematic FPV
+MTR-0428,PROP-0268,Recommended,Cinematic FPV
+MTR-0486,PROP-0137,Performance,Freestyle FPV
+MTR-0085,PROP-0108,Safe,Long Range FPV
+MTR-0122,PROP-0119,Performance,Cinematic FPV
+MTR-0229,PROP-0102,Safe,Cinematic FPV
+MTR-0256,PROP-0146,Safe,Freestyle FPV
+MTR-0363,PROP-0300,Safe,Freestyle FPV
+MTR-0446,PROP-0109,Performance,Freestyle FPV
+MTR-0103,PROP-0231,Safe,Freestyle FPV
+MTR-0314,PROP-0143,Safe,Cinematic FPV
+MTR-0200,PROP-0206,Safe,Freestyle FPV
+MTR-0061,PROP-0290,Safe,Long Range FPV
+MTR-0174,PROP-0071,Safe,Freestyle FPV
+MTR-0240,PROP-0265,Recommended,Freestyle FPV
+MTR-0276,PROP-0123,Performance,Freestyle FPV
+MTR-0038,PROP-0041,Recommended,Freestyle FPV
+MTR-0196,PROP-0009,Performance,Racing FPV
+MTR-0403,PROP-0240,Recommended,Racing FPV
+MTR-0266,PROP-0230,Safe,Racing FPV
+MTR-0427,PROP-0299,Safe,Cinematic FPV
+MTR-0025,PROP-0162,Recommended,Racing FPV
+MTR-0480,PROP-0171,Performance,Cinematic FPV
+MTR-0303,PROP-0175,Recommended,Cinematic FPV
+MTR-0067,PROP-0031,Performance,Racing FPV
+MTR-0227,PROP-0002,Recommended,Long Range FPV
+MTR-0219,PROP-0296,Recommended,Long Range FPV
+MTR-0013,PROP-0028,Performance,Freestyle FPV
+MTR-0245,PROP-0066,Safe,Racing FPV
+MTR-0383,PROP-0024,Recommended,Racing FPV
+MTR-0458,PROP-0108,Performance,Freestyle FPV
+MTR-0461,PROP-0018,Recommended,Racing FPV
+MTR-0338,PROP-0140,Performance,Long Range FPV
+MTR-0467,PROP-0022,Safe,Racing FPV
+MTR-0437,PROP-0008,Recommended,Cinematic FPV
+MTR-0162,PROP-0150,Safe,Freestyle FPV
+MTR-0483,PROP-0240,Recommended,Freestyle FPV
+MTR-0341,PROP-0100,Recommended,Freestyle FPV
+MTR-0359,PROP-0276,Safe,Long Range FPV
+MTR-0054,PROP-0060,Safe,Freestyle FPV
+MTR-0250,PROP-0073,Safe,Freestyle FPV
+MTR-0299,PROP-0019,Safe,Long Range FPV
+MTR-0446,PROP-0279,Performance,Cinematic FPV
+MTR-0157,PROP-0089,Performance,Long Range FPV
+MTR-0378,PROP-0162,Safe,Freestyle FPV
+MTR-0080,PROP-0259,Performance,Racing FPV
+MTR-0237,PROP-0054,Performance,Long Range FPV
+MTR-0494,PROP-0184,Safe,Cinematic FPV
+MTR-0395,PROP-0125,Recommended,Freestyle FPV
+MTR-0289,PROP-0085,Recommended,Cinematic FPV
+MTR-0075,PROP-0018,Performance,Long Range FPV
+MTR-0363,PROP-0239,Recommended,Cinematic FPV
+MTR-0242,PROP-0248,Performance,Long Range FPV
+MTR-0068,PROP-0166,Performance,Racing FPV
+MTR-0499,PROP-0111,Safe,Long Range FPV
+MTR-0087,PROP-0143,Recommended,Freestyle FPV
+MTR-0267,PROP-0269,Recommended,Freestyle FPV
+MTR-0146,PROP-0145,Performance,Freestyle FPV
+MTR-0055,PROP-0037,Recommended,Racing FPV
+MTR-0183,PROP-0229,Performance,Freestyle FPV
+MTR-0171,PROP-0149,Safe,Racing FPV
+MTR-0319,PROP-0298,Recommended,Cinematic FPV
+MTR-0312,PROP-0173,Safe,Racing FPV
+MTR-0015,PROP-0044,Safe,Long Range FPV
+MTR-0185,PROP-0185,Recommended,Cinematic FPV
+MTR-0341,PROP-0010,Performance,Long Range FPV
+MTR-0324,PROP-0138,Performance,Racing FPV
+MTR-0101,PROP-0147,Recommended,Long Range FPV
+MTR-0419,PROP-0081,Recommended,Long Range FPV
+MTR-0214,PROP-0006,Recommended,Long Range FPV
+MTR-0020,PROP-0196,Safe,Cinematic FPV
+MTR-0497,PROP-0030,Safe,Cinematic FPV
+MTR-0091,PROP-0286,Safe,Cinematic FPV
+MTR-0358,PROP-0031,Safe,Long Range FPV
+MTR-0141,PROP-0170,Recommended,Cinematic FPV
+MTR-0078,PROP-0211,Safe,Freestyle FPV
+MTR-0278,PROP-0172,Performance,Racing FPV
+MTR-0133,PROP-0045,Safe,Long Range FPV
+MTR-0243,PROP-0239,Performance,Long Range FPV
+MTR-0307,PROP-0185,Safe,Freestyle FPV
+MTR-0432,PROP-0101,Safe,Long Range FPV
+MTR-0232,PROP-0204,Recommended,Racing FPV
+MTR-0310,PROP-0071,Recommended,Racing FPV
+MTR-0367,PROP-0090,Safe,Freestyle FPV
+MTR-0214,PROP-0286,Safe,Long Range FPV
+MTR-0358,PROP-0042,Recommended,Long Range FPV
+MTR-0422,PROP-0263,Recommended,Long Range FPV
+MTR-0030,PROP-0038,Performance,Long Range FPV
+MTR-0036,PROP-0297,Recommended,Long Range FPV
+MTR-0318,PROP-0124,Performance,Long Range FPV
+MTR-0245,PROP-0282,Safe,Racing FPV
+MTR-0427,PROP-0015,Safe,Racing FPV
+MTR-0305,PROP-0176,Performance,Racing FPV
+MTR-0135,PROP-0152,Recommended,Long Range FPV
+MTR-0034,PROP-0247,Recommended,Racing FPV
+MTR-0080,PROP-0042,Performance,Racing FPV
+MTR-0051,PROP-0127,Recommended,Racing FPV
+MTR-0008,PROP-0020,Safe,Cinematic FPV
+MTR-0115,PROP-0205,Safe,Cinematic FPV
+MTR-0001,PROP-0284,Safe,Freestyle FPV
+MTR-0392,PROP-0221,Performance,Freestyle FPV
+MTR-0012,PROP-0189,Performance,Long Range FPV
+MTR-0497,PROP-0024,Safe,Freestyle FPV
+MTR-0460,PROP-0015,Performance,Long Range FPV
+MTR-0329,PROP-0131,Recommended,Long Range FPV
+MTR-0310,PROP-0239,Performance,Freestyle FPV
+MTR-0035,PROP-0133,Recommended,Cinematic FPV
+MTR-0289,PROP-0142,Performance,Racing FPV
+MTR-0109,PROP-0208,Performance,Long Range FPV
+MTR-0336,PROP-0012,Performance,Cinematic FPV
+MTR-0210,PROP-0030,Recommended,Racing FPV
+MTR-0030,PROP-0012,Safe,Cinematic FPV
+MTR-0028,PROP-0193,Safe,Freestyle FPV
+MTR-0206,PROP-0184,Safe,Cinematic FPV
+MTR-0139,PROP-0175,Recommended,Cinematic FPV
+MTR-0211,PROP-0188,Safe,Racing FPV
+MTR-0075,PROP-0148,Recommended,Long Range FPV
+MTR-0441,PROP-0215,Safe,Long Range FPV
+MTR-0163,PROP-0285,Performance,Cinematic FPV
+MTR-0480,PROP-0059,Safe,Cinematic FPV
+MTR-0036,PROP-0044,Recommended,Cinematic FPV
+MTR-0426,PROP-0072,Performance,Racing FPV
+MTR-0282,PROP-0225,Safe,Racing FPV
+MTR-0180,PROP-0182,Recommended,Freestyle FPV
+MTR-0134,PROP-0262,Safe,Long Range FPV
+MTR-0443,PROP-0047,Safe,Long Range FPV
+MTR-0197,PROP-0117,Performance,Freestyle FPV
+MTR-0244,PROP-0282,Recommended,Freestyle FPV
+MTR-0333,PROP-0114,Safe,Long Range FPV
+MTR-0331,PROP-0013,Safe,Racing FPV
+MTR-0131,PROP-0215,Recommended,Racing FPV
+MTR-0257,PROP-0294,Recommended,Freestyle FPV
+MTR-0145,PROP-0218,Performance,Racing FPV
+MTR-0192,PROP-0140,Safe,Racing FPV
+MTR-0436,PROP-0141,Safe,Racing FPV
+MTR-0112,PROP-0217,Performance,Long Range FPV
+MTR-0467,PROP-0193,Safe,Racing FPV
+MTR-0064,PROP-0108,Safe,Racing FPV
+MTR-0080,PROP-0247,Safe,Racing FPV
+MTR-0347,PROP-0240,Recommended,Long Range FPV
+MTR-0259,PROP-0235,Safe,Racing FPV
+MTR-0176,PROP-0197,Performance,Long Range FPV
+MTR-0396,PROP-0226,Performance,Racing FPV
+MTR-0180,PROP-0085,Recommended,Cinematic FPV
+MTR-0189,PROP-0044,Recommended,Long Range FPV
+MTR-0473,PROP-0095,Recommended,Freestyle FPV
+MTR-0467,PROP-0159,Performance,Cinematic FPV
+MTR-0305,PROP-0149,Recommended,Cinematic FPV
+MTR-0165,PROP-0004,Safe,Cinematic FPV
+MTR-0423,PROP-0145,Safe,Long Range FPV
+MTR-0137,PROP-0098,Safe,Freestyle FPV
+MTR-0262,PROP-0145,Recommended,Long Range FPV
+MTR-0069,PROP-0043,Performance,Freestyle FPV
+MTR-0304,PROP-0136,Performance,Long Range FPV
+MTR-0483,PROP-0182,Recommended,Freestyle FPV
+MTR-0377,PROP-0104,Recommended,Racing FPV
+MTR-0486,PROP-0163,Safe,Cinematic FPV
+MTR-0379,PROP-0247,Performance,Cinematic FPV
+MTR-0367,PROP-0287,Safe,Cinematic FPV
+MTR-0236,PROP-0042,Safe,Long Range FPV
+MTR-0056,PROP-0060,Safe,Cinematic FPV
+MTR-0273,PROP-0087,Safe,Freestyle FPV
+MTR-0052,PROP-0041,Performance,Racing FPV
+MTR-0327,PROP-0293,Recommended,Cinematic FPV
+MTR-0225,PROP-0178,Safe,Cinematic FPV
+MTR-0370,PROP-0286,Safe,Cinematic FPV
+MTR-0379,PROP-0097,Performance,Racing FPV
+MTR-0099,PROP-0103,Safe,Long Range FPV
+MTR-0165,PROP-0158,Recommended,Racing FPV
+MTR-0325,PROP-0109,Recommended,Racing FPV
+MTR-0132,PROP-0239,Performance,Cinematic FPV
+MTR-0300,PROP-0254,Performance,Long Range FPV
+MTR-0287,PROP-0001,Performance,Long Range FPV
+MTR-0413,PROP-0217,Recommended,Cinematic FPV
+MTR-0072,PROP-0132,Performance,Cinematic FPV
+MTR-0290,PROP-0246,Performance,Cinematic FPV
+MTR-0237,PROP-0217,Safe,Cinematic FPV
+MTR-0100,PROP-0181,Safe,Long Range FPV
+MTR-0461,PROP-0003,Safe,Cinematic FPV
+MTR-0362,PROP-0121,Performance,Long Range FPV
+MTR-0298,PROP-0086,Safe,Cinematic FPV
+MTR-0458,PROP-0147,Recommended,Cinematic FPV
+MTR-0435,PROP-0098,Performance,Long Range FPV
+MTR-0260,PROP-0288,Recommended,Cinematic FPV
+MTR-0021,PROP-0260,Performance,Racing FPV
+MTR-0359,PROP-0296,Performance,Racing FPV
+MTR-0190,PROP-0056,Recommended,Long Range FPV
+MTR-0235,PROP-0140,Performance,Freestyle FPV
+MTR-0118,PROP-0147,Performance,Racing FPV
+MTR-0082,PROP-0195,Recommended,Freestyle FPV
+MTR-0342,PROP-0004,Recommended,Racing FPV
+MTR-0489,PROP-0051,Safe,Freestyle FPV
+MTR-0042,PROP-0291,Performance,Long Range FPV
+MTR-0471,PROP-0177,Recommended,Cinematic FPV
+MTR-0440,PROP-0104,Safe,Cinematic FPV
+MTR-0467,PROP-0266,Performance,Freestyle FPV
+MTR-0086,PROP-0101,Recommended,Long Range FPV
+MTR-0313,PROP-0187,Safe,Freestyle FPV
+MTR-0230,PROP-0024,Performance,Long Range FPV
+MTR-0075,PROP-0039,Performance,Racing FPV
+MTR-0002,PROP-0279,Safe,Freestyle FPV
+MTR-0149,PROP-0089,Recommended,Long Range FPV
+MTR-0011,PROP-0221,Safe,Freestyle FPV
+MTR-0010,PROP-0215,Recommended,Long Range FPV
+MTR-0269,PROP-0250,Safe,Long Range FPV
+MTR-0018,PROP-0146,Safe,Cinematic FPV
+MTR-0124,PROP-0036,Performance,Freestyle FPV
+MTR-0097,PROP-0280,Performance,Cinematic FPV
+MTR-0402,PROP-0216,Performance,Freestyle FPV
+MTR-0215,PROP-0260,Performance,Freestyle FPV
+MTR-0228,PROP-0052,Recommended,Racing FPV
+MTR-0335,PROP-0186,Safe,Freestyle FPV
+MTR-0184,PROP-0254,Safe,Racing FPV
+MTR-0475,PROP-0163,Recommended,Cinematic FPV
+MTR-0139,PROP-0099,Safe,Freestyle FPV
+MTR-0467,PROP-0173,Recommended,Long Range FPV
+MTR-0307,PROP-0300,Performance,Freestyle FPV
+MTR-0008,PROP-0067,Performance,Long Range FPV
+MTR-0380,PROP-0072,Safe,Long Range FPV
+MTR-0392,PROP-0125,Performance,Freestyle FPV
+MTR-0277,PROP-0227,Safe,Cinematic FPV
+MTR-0428,PROP-0220,Performance,Racing FPV
+MTR-0105,PROP-0291,Safe,Long Range FPV
+MTR-0036,PROP-0137,Safe,Freestyle FPV
+MTR-0090,PROP-0290,Performance,Long Range FPV
+MTR-0308,PROP-0253,Safe,Racing FPV
+MTR-0246,PROP-0013,Safe,Racing FPV
+MTR-0248,PROP-0300,Safe,Long Range FPV
+MTR-0303,PROP-0087,Performance,Freestyle FPV
+MTR-0211,PROP-0138,Performance,Long Range FPV
+MTR-0103,PROP-0083,Safe,Long Range FPV
+MTR-0236,PROP-0277,Safe,Long Range FPV
+MTR-0364,PROP-0241,Recommended,Freestyle FPV
+MTR-0087,PROP-0294,Safe,Freestyle FPV
+MTR-0395,PROP-0117,Recommended,Cinematic FPV
+MTR-0088,PROP-0094,Safe,Racing FPV
+MTR-0215,PROP-0107,Performance,Racing FPV
+MTR-0115,PROP-0162,Recommended,Cinematic FPV
+MTR-0175,PROP-0103,Performance,Freestyle FPV
+MTR-0412,PROP-0051,Recommended,Freestyle FPV
+MTR-0284,PROP-0129,Performance,Freestyle FPV
+MTR-0375,PROP-0206,Recommended,Racing FPV
+MTR-0136,PROP-0059,Performance,Racing FPV
+MTR-0188,PROP-0273,Recommended,Cinematic FPV
+MTR-0060,PROP-0109,Performance,Racing FPV
+MTR-0034,PROP-0046,Safe,Racing FPV
+MTR-0241,PROP-0137,Recommended,Racing FPV
+MTR-0497,PROP-0254,Safe,Cinematic FPV
+MTR-0231,PROP-0251,Safe,Cinematic FPV
+MTR-0239,PROP-0063,Performance,Racing FPV
+MTR-0061,PROP-0298,Safe,Racing FPV
+MTR-0370,PROP-0140,Performance,Freestyle FPV
+MTR-0011,PROP-0161,Safe,Long Range FPV
+MTR-0452,PROP-0035,Safe,Racing FPV
+MTR-0182,PROP-0244,Performance,Cinematic FPV
+MTR-0442,PROP-0001,Performance,Racing FPV
+MTR-0422,PROP-0158,Recommended,Racing FPV
+MTR-0324,PROP-0232,Performance,Cinematic FPV
+MTR-0291,PROP-0023,Safe,Racing FPV
+MTR-0167,PROP-0151,Performance,Racing FPV
+MTR-0434,PROP-0094,Recommended,Cinematic FPV
+MTR-0057,PROP-0229,Safe,Racing FPV
+MTR-0025,PROP-0179,Performance,Freestyle FPV
+MTR-0163,PROP-0247,Recommended,Racing FPV
+MTR-0193,PROP-0196,Performance,Freestyle FPV
+MTR-0001,PROP-0263,Performance,Long Range FPV
+MTR-0197,PROP-0138,Performance,Freestyle FPV
+MTR-0099,PROP-0057,Safe,Racing FPV
+MTR-0451,PROP-0092,Recommended,Long Range FPV
+MTR-0478,PROP-0151,Safe,Racing FPV
+MTR-0459,PROP-0131,Safe,Long Range FPV
+MTR-0173,PROP-0181,Safe,Racing FPV
+MTR-0315,PROP-0046,Safe,Long Range FPV
+MTR-0019,PROP-0271,Recommended,Freestyle FPV
+MTR-0460,PROP-0053,Safe,Long Range FPV
+MTR-0187,PROP-0052,Recommended,Long Range FPV
+MTR-0084,PROP-0238,Recommended,Cinematic FPV
+MTR-0281,PROP-0058,Performance,Freestyle FPV
+MTR-0494,PROP-0269,Recommended,Cinematic FPV
+MTR-0341,PROP-0024,Safe,Freestyle FPV
+MTR-0437,PROP-0126,Safe,Long Range FPV
+MTR-0151,PROP-0262,Performance,Racing FPV
+MTR-0094,PROP-0125,Performance,Freestyle FPV
+MTR-0252,PROP-0026,Performance,Cinematic FPV
+MTR-0044,PROP-0045,Recommended,Racing FPV
+MTR-0320,PROP-0094,Safe,Cinematic FPV
+MTR-0401,PROP-0122,Performance,Cinematic FPV
+MTR-0427,PROP-0190,Recommended,Freestyle FPV
+MTR-0487,PROP-0032,Performance,Freestyle FPV
+MTR-0276,PROP-0267,Recommended,Long Range FPV
+MTR-0107,PROP-0028,Performance,Long Range FPV
+MTR-0171,PROP-0038,Safe,Cinematic FPV
+MTR-0124,PROP-0174,Performance,Racing FPV
+MTR-0470,PROP-0283,Performance,Long Range FPV
+MTR-0097,PROP-0036,Recommended,Long Range FPV
+MTR-0156,PROP-0014,Performance,Cinematic FPV
+MTR-0430,PROP-0281,Safe,Freestyle FPV
+MTR-0425,PROP-0272,Safe,Freestyle FPV
+MTR-0078,PROP-0145,Recommended,Cinematic FPV
+MTR-0377,PROP-0213,Performance,Racing FPV
+MTR-0056,PROP-0264,Safe,Cinematic FPV
+MTR-0236,PROP-0117,Performance,Cinematic FPV
+MTR-0465,PROP-0268,Performance,Freestyle FPV
+MTR-0305,PROP-0063,Safe,Racing FPV
+MTR-0350,PROP-0063,Performance,Freestyle FPV
+MTR-0411,PROP-0201,Recommended,Long Range FPV
+MTR-0082,PROP-0016,Recommended,Cinematic FPV
+MTR-0210,PROP-0072,Safe,Freestyle FPV
+MTR-0347,PROP-0057,Safe,Long Range FPV
+MTR-0396,PROP-0261,Safe,Long Range FPV
+MTR-0257,PROP-0118,Safe,Long Range FPV
+MTR-0185,PROP-0227,Performance,Cinematic FPV
+MTR-0098,PROP-0277,Performance,Long Range FPV
+MTR-0326,PROP-0054,Safe,Freestyle FPV
+MTR-0108,PROP-0129,Performance,Freestyle FPV
+MTR-0330,PROP-0269,Safe,Racing FPV
+MTR-0353,PROP-0048,Recommended,Racing FPV
+MTR-0346,PROP-0241,Safe,Freestyle FPV
+MTR-0033,PROP-0207,Recommended,Racing FPV
+MTR-0498,PROP-0071,Recommended,Racing FPV
+MTR-0072,PROP-0054,Safe,Long Range FPV
+MTR-0419,PROP-0268,Recommended,Freestyle FPV
+MTR-0430,PROP-0180,Performance,Cinematic FPV
+MTR-0133,PROP-0021,Performance,Freestyle FPV
+MTR-0348,PROP-0300,Performance,Freestyle FPV
+MTR-0437,PROP-0131,Recommended,Racing FPV
+MTR-0054,PROP-0032,Recommended,Cinematic FPV
+MTR-0216,PROP-0244,Performance,Racing FPV
+MTR-0092,PROP-0295,Safe,Cinematic FPV
+MTR-0389,PROP-0010,Recommended,Racing FPV
+MTR-0413,PROP-0249,Recommended,Long Range FPV
+MTR-0040,PROP-0159,Recommended,Cinematic FPV
+MTR-0294,PROP-0201,Safe,Racing FPV
+MTR-0106,PROP-0059,Recommended,Cinematic FPV
+MTR-0063,PROP-0222,Performance,Racing FPV
+MTR-0254,PROP-0128,Performance,Racing FPV
+MTR-0074,PROP-0087,Safe,Long Range FPV
+MTR-0235,PROP-0271,Performance,Freestyle FPV
+MTR-0036,PROP-0123,Performance,Cinematic FPV
+MTR-0309,PROP-0099,Recommended,Racing FPV
+MTR-0457,PROP-0238,Safe,Long Range FPV
+MTR-0011,PROP-0098,Safe,Freestyle FPV
+MTR-0481,PROP-0180,Safe,Freestyle FPV
+MTR-0231,PROP-0049,Safe,Cinematic FPV
+MTR-0250,PROP-0126,Recommended,Cinematic FPV
+MTR-0159,PROP-0053,Safe,Long Range FPV
+MTR-0199,PROP-0135,Performance,Racing FPV
+MTR-0075,PROP-0055,Performance,Cinematic FPV
+MTR-0488,PROP-0152,Performance,Freestyle FPV
+MTR-0044,PROP-0031,Recommended,Long Range FPV
+MTR-0043,PROP-0176,Safe,Racing FPV
+MTR-0172,PROP-0121,Recommended,Racing FPV
+MTR-0373,PROP-0296,Recommended,Long Range FPV
+MTR-0320,PROP-0137,Recommended,Freestyle FPV
+MTR-0401,PROP-0296,Safe,Long Range FPV
+MTR-0231,PROP-0104,Recommended,Long Range FPV
+MTR-0427,PROP-0115,Recommended,Cinematic FPV
+MTR-0129,PROP-0273,Performance,Racing FPV
+MTR-0427,PROP-0239,Recommended,Cinematic FPV
+MTR-0165,PROP-0087,Recommended,Cinematic FPV
+MTR-0142,PROP-0024,Recommended,Cinematic FPV
+MTR-0352,PROP-0013,Safe,Long Range FPV
+MTR-0076,PROP-0074,Safe,Racing FPV
+MTR-0210,PROP-0226,Performance,Long Range FPV
+MTR-0452,PROP-0069,Performance,Long Range FPV
+MTR-0036,PROP-0008,Performance,Cinematic FPV
+MTR-0042,PROP-0087,Safe,Long Range FPV
+MTR-0039,PROP-0020,Safe,Racing FPV
+MTR-0407,PROP-0082,Performance,Long Range FPV
+MTR-0255,PROP-0182,Recommended,Cinematic FPV
+MTR-0029,PROP-0284,Performance,Racing FPV
+MTR-0440,PROP-0030,Safe,Cinematic FPV
+MTR-0081,PROP-0217,Safe,Freestyle FPV
+MTR-0207,PROP-0058,Recommended,Freestyle FPV
+MTR-0414,PROP-0017,Safe,Freestyle FPV
+MTR-0483,PROP-0042,Performance,Long Range FPV
+MTR-0005,PROP-0256,Performance,Long Range FPV
+MTR-0415,PROP-0067,Safe,Long Range FPV
+MTR-0493,PROP-0225,Recommended,Long Range FPV
+MTR-0389,PROP-0233,Safe,Cinematic FPV
+MTR-0252,PROP-0097,Recommended,Long Range FPV
+MTR-0028,PROP-0097,Performance,Cinematic FPV
+MTR-0446,PROP-0217,Recommended,Long Range FPV
+MTR-0005,PROP-0124,Safe,Long Range FPV
+MTR-0327,PROP-0149,Safe,Racing FPV
+MTR-0164,PROP-0033,Safe,Long Range FPV
+MTR-0301,PROP-0187,Safe,Cinematic FPV
+MTR-0499,PROP-0050,Recommended,Freestyle FPV
+MTR-0168,PROP-0229,Performance,Cinematic FPV
+MTR-0196,PROP-0268,Performance,Cinematic FPV
+MTR-0002,PROP-0036,Performance,Long Range FPV
+MTR-0264,PROP-0085,Performance,Cinematic FPV
+MTR-0081,PROP-0069,Performance,Freestyle FPV
+MTR-0107,PROP-0092,Performance,Long Range FPV
+MTR-0018,PROP-0066,Recommended,Freestyle FPV
+MTR-0158,PROP-0157,Recommended,Racing FPV
+MTR-0051,PROP-0077,Performance,Long Range FPV
+MTR-0017,PROP-0144,Recommended,Freestyle FPV
+MTR-0466,PROP-0180,Performance,Freestyle FPV
+MTR-0086,PROP-0057,Recommended,Freestyle FPV
+MTR-0470,PROP-0109,Recommended,Long Range FPV
+MTR-0185,PROP-0280,Safe,Freestyle FPV
+MTR-0286,PROP-0195,Recommended,Long Range FPV
+MTR-0237,PROP-0286,Recommended,Long Range FPV
+MTR-0133,PROP-0091,Recommended,Racing FPV
+MTR-0269,PROP-0199,Recommended,Freestyle FPV
+MTR-0366,PROP-0180,Performance,Racing FPV
+MTR-0095,PROP-0088,Performance,Cinematic FPV
+MTR-0399,PROP-0293,Safe,Long Range FPV
+MTR-0394,PROP-0206,Performance,Racing FPV
+MTR-0475,PROP-0150,Recommended,Long Range FPV
+MTR-0103,PROP-0185,Recommended,Freestyle FPV
+MTR-0014,PROP-0230,Recommended,Freestyle FPV
+MTR-0135,PROP-0017,Safe,Freestyle FPV
+MTR-0201,PROP-0249,Recommended,Racing FPV
+MTR-0141,PROP-0023,Safe,Racing FPV
+MTR-0462,PROP-0212,Recommended,Freestyle FPV
+MTR-0252,PROP-0290,Recommended,Racing FPV
+MTR-0035,PROP-0004,Recommended,Long Range FPV
+MTR-0389,PROP-0032,Performance,Racing FPV
+MTR-0089,PROP-0202,Performance,Freestyle FPV
+MTR-0262,PROP-0155,Performance,Long Range FPV
+MTR-0330,PROP-0032,Safe,Racing FPV
+MTR-0231,PROP-0097,Recommended,Long Range FPV
+MTR-0157,PROP-0035,Safe,Cinematic FPV
+MTR-0414,PROP-0164,Recommended,Long Range FPV
+MTR-0311,PROP-0123,Performance,Racing FPV
+MTR-0338,PROP-0057,Safe,Long Range FPV
+MTR-0396,PROP-0174,Safe,Long Range FPV
+MTR-0358,PROP-0089,Performance,Long Range FPV
+MTR-0094,PROP-0274,Safe,Racing FPV
+MTR-0340,PROP-0244,Performance,Long Range FPV
+MTR-0095,PROP-0279,Safe,Cinematic FPV
+MTR-0255,PROP-0109,Safe,Cinematic FPV
+MTR-0295,PROP-0132,Safe,Long Range FPV
+MTR-0098,PROP-0029,Performance,Cinematic FPV
+MTR-0239,PROP-0088,Safe,Cinematic FPV
+MTR-0194,PROP-0144,Performance,Long Range FPV
+MTR-0046,PROP-0231,Performance,Cinematic FPV
+MTR-0394,PROP-0229,Safe,Long Range FPV
+MTR-0104,PROP-0041,Safe,Freestyle FPV
+MTR-0284,PROP-0163,Safe,Long Range FPV
+MTR-0297,PROP-0213,Recommended,Racing FPV
+MTR-0126,PROP-0255,Performance,Freestyle FPV
+MTR-0497,PROP-0257,Safe,Long Range FPV
+MTR-0106,PROP-0205,Safe,Racing FPV
+MTR-0065,PROP-0148,Recommended,Freestyle FPV
+MTR-0087,PROP-0122,Safe,Cinematic FPV
+MTR-0083,PROP-0009,Safe,Racing FPV
+MTR-0066,PROP-0079,Recommended,Long Range FPV
+MTR-0260,PROP-0188,Performance,Racing FPV
+MTR-0201,PROP-0143,Performance,Freestyle FPV
+MTR-0357,PROP-0240,Safe,Long Range FPV
+MTR-0022,PROP-0127,Safe,Cinematic FPV
+MTR-0334,PROP-0072,Performance,Freestyle FPV
+MTR-0126,PROP-0084,Safe,Cinematic FPV
+MTR-0128,PROP-0227,Recommended,Cinematic FPV
+MTR-0238,PROP-0027,Recommended,Freestyle FPV
+MTR-0160,PROP-0293,Performance,Racing FPV
+MTR-0264,PROP-0192,Performance,Long Range FPV
+MTR-0279,PROP-0015,Safe,Racing FPV
+MTR-0249,PROP-0004,Recommended,Cinematic FPV
+MTR-0046,PROP-0144,Performance,Freestyle FPV
+MTR-0210,PROP-0230,Recommended,Freestyle FPV
+MTR-0449,PROP-0082,Recommended,Cinematic FPV
+MTR-0092,PROP-0166,Recommended,Freestyle FPV
+MTR-0066,PROP-0240,Safe,Cinematic FPV
+MTR-0238,PROP-0165,Recommended,Freestyle FPV
+MTR-0046,PROP-0132,Recommended,Cinematic FPV
+MTR-0427,PROP-0010,Performance,Cinematic FPV
+MTR-0433,PROP-0027,Performance,Racing FPV
+MTR-0392,PROP-0017,Recommended,Cinematic FPV
+MTR-0110,PROP-0039,Safe,Freestyle FPV
+MTR-0274,PROP-0272,Performance,Racing FPV
+MTR-0047,PROP-0161,Recommended,Long Range FPV
+MTR-0036,PROP-0115,Safe,Racing FPV
+MTR-0072,PROP-0294,Safe,Racing FPV
+MTR-0039,PROP-0084,Recommended,Cinematic FPV
+MTR-0073,PROP-0175,Recommended,Racing FPV
+MTR-0020,PROP-0241,Recommended,Racing FPV
+MTR-0473,PROP-0225,Performance,Long Range FPV
+MTR-0077,PROP-0088,Performance,Cinematic FPV
+MTR-0431,PROP-0008,Safe,Cinematic FPV
+MTR-0374,PROP-0003,Recommended,Cinematic FPV
+MTR-0296,PROP-0254,Safe,Long Range FPV
+MTR-0149,PROP-0004,Safe,Cinematic FPV
+MTR-0197,PROP-0296,Recommended,Freestyle FPV
+MTR-0068,PROP-0147,Performance,Freestyle FPV
+MTR-0224,PROP-0281,Performance,Cinematic FPV
+MTR-0470,PROP-0021,Recommended,Racing FPV
+MTR-0181,PROP-0154,Safe,Cinematic FPV
+MTR-0248,PROP-0210,Performance,Cinematic FPV
+MTR-0490,PROP-0258,Recommended,Freestyle FPV
+MTR-0233,PROP-0296,Recommended,Cinematic FPV
+MTR-0222,PROP-0237,Recommended,Cinematic FPV
+MTR-0084,PROP-0172,Safe,Long Range FPV
+MTR-0034,PROP-0298,Performance,Racing FPV
+MTR-0332,PROP-0013,Performance,Long Range FPV
+MTR-0195,PROP-0085,Recommended,Long Range FPV
+MTR-0119,PROP-0017,Recommended,Cinematic FPV
+MTR-0334,PROP-0189,Safe,Racing FPV
+MTR-0032,PROP-0266,Performance,Freestyle FPV
+MTR-0093,PROP-0208,Performance,Long Range FPV
+MTR-0329,PROP-0116,Performance,Freestyle FPV

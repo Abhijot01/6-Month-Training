@@ -1,0 +1,351 @@
+﻿VTXID,Brand,Category,SubCategory,VideoSystem,FrequencyBand,OutputPower_mW,ChannelCount,InputVoltage,AntennaConnector,ControlProtocol,MountPattern_mm,AntennaType,SupportedDroneType,IntendedUse
+VTX-0001,Flywoo,Video Transmitter,FPV VTX,Analog,1.3GHz,1600,40,5V,MMCX,None,25.5x25.5,LHCP,Industrial,Industrial UAV
+VTX-0002,Diatone,Video Transmitter,FPV VTX,Walksnail,2.4GHz,800,32,3-6S,SMA,None,30x30,LHCP,FPV,Long Range FPV
+VTX-0003,AKK,Video Transmitter,FPV VTX,HD Digital,1.3GHz,200,16,2-6S,MMCX,MSP,25.5x25.5,Circular,Industrial,Industrial UAV
+VTX-0004,Flywoo,Video Transmitter,FPV VTX,Analog,1.3GHz,100,32,7-26V,MMCX,Tramp,30x30,Circular,FPV,Freestyle FPV
+VTX-0005,iFlight,Video Transmitter,FPV VTX,Walksnail,1.3GHz,1600,8,5V,RP-SMA,MSP,Whoop,Circular,FPV,Cinematic FPV
+VTX-0006,HGLRC,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,25,32,7-26V,U.FL,SmartAudio,25.5x25.5,LHCP,FPV,Cinematic FPV
+VTX-0007,Diatone,Video Transmitter,FPV VTX,Walksnail,5.8GHz,800,24,3-6S,MMCX,Tramp,20x20,Circular,Industrial,Industrial UAV
+VTX-0008,Eachine,Video Transmitter,FPV VTX,HDZero,2.4GHz,1000,8,2-6S,SMA,None,25.5x25.5,LHCP,FPV,Cinematic FPV
+VTX-0009,TBS,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,1600,40,7-26V,RP-SMA,None,25.5x25.5,LHCP,FPV,Racing FPV
+VTX-0010,iFlight,Video Transmitter,FPV VTX,HD Digital,2.4GHz,100,8,3-6S,U.FL,None,Whoop,RHCP,FPV,Freestyle FPV
+VTX-0011,TBS,Video Transmitter,FPV VTX,HDZero,5.8GHz,25,8,5V,SMA,None,30x30,RHCP,FPV,Long Range FPV
+VTX-0012,TBS,Video Transmitter,FPV VTX,HD Digital,2.4GHz,500,16,5V,U.FL,Tramp,Whoop,RHCP,FPV,Long Range FPV
+VTX-0013,HGLRC,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,1000,8,2-6S,MMCX,MSP,30x30,Linear,Industrial,Industrial UAV
+VTX-0014,Walksnail,Video Transmitter,FPV VTX,Walksnail,5.8GHz,1600,16,2-6S,MMCX,MSP,Whoop,LHCP,FPV,Cinematic FPV
+VTX-0015,TBS,Video Transmitter,FPV VTX,HD Digital,1.3GHz,100,32,5V,SMA,None,20x20,RHCP,FPV,Long Range FPV
+VTX-0016,iFlight,Video Transmitter,FPV VTX,HDZero,5.8GHz,25,32,5V,SMA,MSP,Whoop,Linear,FPV,Cinematic FPV
+VTX-0017,SpeedyBee,Video Transmitter,FPV VTX,Analog,2.4GHz,200,40,5V,U.FL,Tramp,25.5x25.5,LHCP,FPV,Long Range FPV
+VTX-0018,SpeedyBee,Video Transmitter,FPV VTX,Analog,1.3GHz,25,8,5V,SMA,MSP,Whoop,Linear,FPV,Racing FPV
+VTX-0019,BetaFPV,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,100,8,5V,SMA,MSP,20x20,Circular,FPV,Long Range FPV
+VTX-0020,Foxeer,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,1600,40,2-6S,U.FL,Tramp,25.5x25.5,Linear,FPV,Long Range FPV
+VTX-0021,AKK,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,100,40,7-26V,SMA,SmartAudio,30x30,Circular,FPV,Racing FPV
+VTX-0022,BetaFPV,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,500,16,7-26V,SMA,None,20x20,LHCP,FPV,Freestyle FPV
+VTX-0023,AKK,Video Transmitter,FPV VTX,Analog,5.8GHz,500,32,2-6S,U.FL,MSP,Whoop,RHCP,FPV,Cinematic FPV
+VTX-0024,TBS,Video Transmitter,FPV VTX,HD Digital,5.8GHz,1000,8,3-6S,RP-SMA,Tramp,25.5x25.5,LHCP,FPV,Cinematic FPV
+VTX-0025,AKK,Video Transmitter,FPV VTX,HDZero,1.3GHz,400,40,2-6S,RP-SMA,MSP,Whoop,Circular,Industrial,Industrial UAV
+VTX-0026,TBS,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,1000,40,7-26V,RP-SMA,Tramp,25.5x25.5,Linear,Industrial,Industrial UAV
+VTX-0027,Eachine,Video Transmitter,FPV VTX,HDZero,1.3GHz,25,8,7-26V,U.FL,Tramp,Whoop,Linear,FPV,Freestyle FPV
+VTX-0028,TBS,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,25,16,7-26V,MMCX,Tramp,30x30,LHCP,FPV,Racing FPV
+VTX-0029,AKK,Video Transmitter,FPV VTX,HDZero,2.4GHz,200,8,7-26V,U.FL,SmartAudio,Whoop,LHCP,FPV,Freestyle FPV
+VTX-0030,iFlight,Video Transmitter,FPV VTX,HDZero,1.3GHz,25,16,2-6S,RP-SMA,None,20x20,LHCP,FPV,Cinematic FPV
+VTX-0031,Flywoo,Video Transmitter,FPV VTX,Analog,5.8GHz,1000,16,3-6S,RP-SMA,SmartAudio,Whoop,LHCP,FPV,Racing FPV
+VTX-0032,Foxeer,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,25,16,5V,RP-SMA,MSP,Whoop,RHCP,FPV,Freestyle FPV
+VTX-0033,Eachine,Video Transmitter,FPV VTX,Walksnail,5.8GHz,400,16,7-26V,MMCX,None,Whoop,Linear,Industrial,Industrial UAV
+VTX-0034,Walksnail,Video Transmitter,FPV VTX,HDZero,2.4GHz,100,16,5V,SMA,None,25.5x25.5,RHCP,FPV,Long Range FPV
+VTX-0035,iFlight,Video Transmitter,FPV VTX,Analog,1.3GHz,800,8,2-6S,MMCX,Tramp,25.5x25.5,Linear,FPV,Long Range FPV
+VTX-0036,Walksnail,Video Transmitter,FPV VTX,Analog,5.8GHz,500,24,5V,U.FL,SmartAudio,25.5x25.5,Circular,Industrial,Industrial UAV
+VTX-0037,HGLRC,Video Transmitter,FPV VTX,Walksnail,2.4GHz,1600,8,2-6S,MMCX,None,Whoop,RHCP,FPV,Racing FPV
+VTX-0038,AKK,Video Transmitter,FPV VTX,HDZero,5.8GHz,25,16,5V,MMCX,MSP,Whoop,LHCP,FPV,Long Range FPV
+VTX-0039,iFlight,Video Transmitter,FPV VTX,Analog,5.8GHz,800,32,7-26V,SMA,MSP,30x30,Linear,FPV,Cinematic FPV
+VTX-0040,iFlight,Video Transmitter,FPV VTX,Analog,2.4GHz,1600,32,3-6S,RP-SMA,Tramp,20x20,RHCP,FPV,Long Range FPV
+VTX-0041,RushFPV,Video Transmitter,FPV VTX,Walksnail,5.8GHz,800,32,2-6S,SMA,SmartAudio,25.5x25.5,Circular,FPV,Cinematic FPV
+VTX-0042,Foxeer,Video Transmitter,FPV VTX,Analog,1.3GHz,400,16,7-26V,SMA,Tramp,25.5x25.5,Circular,FPV,Freestyle FPV
+VTX-0043,TBS,Video Transmitter,FPV VTX,HD Digital,5.8GHz,100,24,7-26V,U.FL,None,Whoop,RHCP,FPV,Freestyle FPV
+VTX-0044,BetaFPV,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,800,24,5V,RP-SMA,Tramp,Whoop,Circular,FPV,Long Range FPV
+VTX-0045,HGLRC,Video Transmitter,FPV VTX,HD Digital,1.3GHz,1000,16,2-6S,SMA,None,25.5x25.5,Circular,FPV,Freestyle FPV
+VTX-0046,Caddx,Video Transmitter,FPV VTX,HDZero,2.4GHz,500,16,2-6S,SMA,Tramp,25.5x25.5,Circular,FPV,Racing FPV
+VTX-0047,RushFPV,Video Transmitter,FPV VTX,HDZero,1.3GHz,200,32,5V,U.FL,Tramp,25.5x25.5,Circular,FPV,Freestyle FPV
+VTX-0048,RushFPV,Video Transmitter,FPV VTX,HD Digital,5.8GHz,500,32,2-6S,RP-SMA,MSP,20x20,RHCP,Industrial,Industrial UAV
+VTX-0049,iFlight,Video Transmitter,FPV VTX,Walksnail,5.8GHz,400,8,3-6S,MMCX,None,30x30,LHCP,FPV,Long Range FPV
+VTX-0050,TBS,Video Transmitter,FPV VTX,Analog,1.3GHz,500,24,7-26V,RP-SMA,MSP,Whoop,RHCP,FPV,Freestyle FPV
+VTX-0051,iFlight,Video Transmitter,FPV VTX,HD Digital,5.8GHz,500,40,7-26V,RP-SMA,SmartAudio,25.5x25.5,LHCP,FPV,Racing FPV
+VTX-0052,RushFPV,Video Transmitter,FPV VTX,Analog,5.8GHz,100,24,7-26V,SMA,None,Whoop,Linear,FPV,Long Range FPV
+VTX-0053,Foxeer,Video Transmitter,FPV VTX,Walksnail,2.4GHz,25,8,7-26V,U.FL,None,20x20,RHCP,FPV,Racing FPV
+VTX-0054,iFlight,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,1000,16,5V,U.FL,SmartAudio,20x20,RHCP,FPV,Cinematic FPV
+VTX-0055,Walksnail,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,1600,24,2-6S,RP-SMA,Tramp,20x20,Linear,FPV,Racing FPV
+VTX-0056,Caddx,Video Transmitter,FPV VTX,HD Digital,2.4GHz,1000,24,7-26V,U.FL,None,20x20,RHCP,Industrial,Industrial UAV
+VTX-0057,RushFPV,Video Transmitter,FPV VTX,Analog,5.8GHz,25,8,2-6S,SMA,None,25.5x25.5,Circular,FPV,Long Range FPV
+VTX-0058,GEPRC,Video Transmitter,FPV VTX,HD Digital,5.8GHz,1600,40,7-26V,U.FL,Tramp,20x20,Linear,FPV,Freestyle FPV
+VTX-0059,Flywoo,Video Transmitter,FPV VTX,Analog,2.4GHz,400,32,5V,SMA,Tramp,30x30,Circular,FPV,Freestyle FPV
+VTX-0060,SpeedyBee,Video Transmitter,FPV VTX,Walksnail,1.3GHz,1000,24,3-6S,MMCX,None,25.5x25.5,LHCP,FPV,Racing FPV
+VTX-0061,GEPRC,Video Transmitter,FPV VTX,Walksnail,5.8GHz,1600,32,5V,SMA,MSP,30x30,Linear,FPV,Freestyle FPV
+VTX-0062,Foxeer,Video Transmitter,FPV VTX,HDZero,5.8GHz,500,32,2-6S,MMCX,Tramp,Whoop,Linear,FPV,Long Range FPV
+VTX-0063,Eachine,Video Transmitter,FPV VTX,HD Digital,5.8GHz,800,8,7-26V,SMA,MSP,30x30,Linear,Industrial,Industrial UAV
+VTX-0064,Diatone,Video Transmitter,FPV VTX,HD Digital,2.4GHz,100,32,7-26V,SMA,Tramp,30x30,Circular,FPV,Long Range FPV
+VTX-0065,Diatone,Video Transmitter,FPV VTX,HDZero,2.4GHz,1000,16,7-26V,U.FL,Tramp,25.5x25.5,Linear,Industrial,Industrial UAV
+VTX-0066,Foxeer,Video Transmitter,FPV VTX,HDZero,5.8GHz,400,8,3-6S,U.FL,SmartAudio,25.5x25.5,RHCP,Industrial,Industrial UAV
+VTX-0067,BetaFPV,Video Transmitter,FPV VTX,HD Digital,2.4GHz,800,40,7-26V,RP-SMA,SmartAudio,25.5x25.5,RHCP,Industrial,Industrial UAV
+VTX-0068,BetaFPV,Video Transmitter,FPV VTX,Walksnail,5.8GHz,25,32,7-26V,U.FL,Tramp,20x20,Linear,FPV,Racing FPV
+VTX-0069,Diatone,Video Transmitter,FPV VTX,HDZero,5.8GHz,400,24,5V,MMCX,SmartAudio,Whoop,Linear,FPV,Freestyle FPV
+VTX-0070,TBS,Video Transmitter,FPV VTX,Walksnail,5.8GHz,25,8,7-26V,MMCX,MSP,20x20,LHCP,Industrial,Industrial UAV
+VTX-0071,RushFPV,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,25,32,7-26V,MMCX,None,30x30,RHCP,FPV,Racing FPV
+VTX-0072,HGLRC,Video Transmitter,FPV VTX,HDZero,2.4GHz,25,40,3-6S,MMCX,Tramp,Whoop,RHCP,Industrial,Industrial UAV
+VTX-0073,Foxeer,Video Transmitter,FPV VTX,HD Digital,1.3GHz,800,32,7-26V,MMCX,Tramp,30x30,RHCP,Industrial,Industrial UAV
+VTX-0074,RushFPV,Video Transmitter,FPV VTX,HDZero,5.8GHz,1000,8,7-26V,U.FL,SmartAudio,25.5x25.5,Circular,FPV,Cinematic FPV
+VTX-0075,RushFPV,Video Transmitter,FPV VTX,HD Digital,2.4GHz,500,24,3-6S,U.FL,SmartAudio,20x20,Circular,FPV,Cinematic FPV
+VTX-0076,TBS,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,25,32,3-6S,SMA,Tramp,30x30,RHCP,FPV,Freestyle FPV
+VTX-0077,SpeedyBee,Video Transmitter,FPV VTX,Walksnail,5.8GHz,800,32,3-6S,RP-SMA,None,30x30,LHCP,FPV,Freestyle FPV
+VTX-0078,Walksnail,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,1000,8,5V,MMCX,SmartAudio,25.5x25.5,LHCP,FPV,Long Range FPV
+VTX-0079,BetaFPV,Video Transmitter,FPV VTX,Walksnail,2.4GHz,1600,32,3-6S,U.FL,MSP,20x20,Linear,FPV,Long Range FPV
+VTX-0080,TBS,Video Transmitter,FPV VTX,Analog,1.3GHz,1600,40,7-26V,RP-SMA,SmartAudio,25.5x25.5,RHCP,FPV,Freestyle FPV
+VTX-0081,TBS,Video Transmitter,FPV VTX,Analog,1.3GHz,800,24,2-6S,SMA,Tramp,20x20,LHCP,FPV,Cinematic FPV
+VTX-0082,SpeedyBee,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,800,24,5V,MMCX,SmartAudio,20x20,Linear,FPV,Cinematic FPV
+VTX-0083,AKK,Video Transmitter,FPV VTX,Walksnail,2.4GHz,100,32,5V,U.FL,None,25.5x25.5,LHCP,FPV,Cinematic FPV
+VTX-0084,TBS,Video Transmitter,FPV VTX,HDZero,1.3GHz,400,32,2-6S,MMCX,SmartAudio,25.5x25.5,Linear,Industrial,Industrial UAV
+VTX-0085,iFlight,Video Transmitter,FPV VTX,Walksnail,5.8GHz,500,40,2-6S,SMA,MSP,Whoop,LHCP,FPV,Racing FPV
+VTX-0086,iFlight,Video Transmitter,FPV VTX,HD Digital,2.4GHz,25,24,7-26V,SMA,Tramp,Whoop,Circular,FPV,Freestyle FPV
+VTX-0087,Eachine,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,200,24,5V,MMCX,SmartAudio,20x20,RHCP,FPV,Racing FPV
+VTX-0088,Walksnail,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,200,32,3-6S,SMA,None,Whoop,Linear,FPV,Cinematic FPV
+VTX-0089,AKK,Video Transmitter,FPV VTX,Walksnail,5.8GHz,800,40,5V,SMA,SmartAudio,30x30,Linear,FPV,Cinematic FPV
+VTX-0090,Caddx,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,500,8,3-6S,SMA,SmartAudio,20x20,RHCP,FPV,Cinematic FPV
+VTX-0091,SpeedyBee,Video Transmitter,FPV VTX,HD Digital,2.4GHz,200,16,2-6S,U.FL,MSP,20x20,LHCP,FPV,Racing FPV
+VTX-0092,Eachine,Video Transmitter,FPV VTX,HDZero,5.8GHz,25,24,5V,U.FL,MSP,30x30,LHCP,FPV,Freestyle FPV
+VTX-0093,GEPRC,Video Transmitter,FPV VTX,HDZero,1.3GHz,400,40,3-6S,MMCX,MSP,25.5x25.5,Linear,Industrial,Industrial UAV
+VTX-0094,Diatone,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,1600,16,7-26V,MMCX,None,Whoop,Linear,FPV,Long Range FPV
+VTX-0095,TBS,Video Transmitter,FPV VTX,HDZero,1.3GHz,400,40,3-6S,MMCX,SmartAudio,20x20,RHCP,FPV,Cinematic FPV
+VTX-0096,GEPRC,Video Transmitter,FPV VTX,Walksnail,2.4GHz,100,16,3-6S,SMA,SmartAudio,30x30,Circular,Industrial,Industrial UAV
+VTX-0097,TBS,Video Transmitter,FPV VTX,HDZero,1.3GHz,1000,16,7-26V,MMCX,None,25.5x25.5,RHCP,Industrial,Industrial UAV
+VTX-0098,GEPRC,Video Transmitter,FPV VTX,HD Digital,5.8GHz,400,40,5V,U.FL,SmartAudio,Whoop,RHCP,Industrial,Industrial UAV
+VTX-0099,Foxeer,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,25,16,7-26V,SMA,SmartAudio,25.5x25.5,Linear,Industrial,Industrial UAV
+VTX-0100,GEPRC,Video Transmitter,FPV VTX,HD Digital,2.4GHz,1600,8,3-6S,MMCX,None,20x20,Linear,FPV,Racing FPV
+VTX-0101,HGLRC,Video Transmitter,FPV VTX,Walksnail,1.3GHz,1600,32,2-6S,MMCX,SmartAudio,20x20,RHCP,FPV,Freestyle FPV
+VTX-0102,SpeedyBee,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,25,24,2-6S,SMA,MSP,20x20,Circular,FPV,Long Range FPV
+VTX-0103,BetaFPV,Video Transmitter,FPV VTX,HDZero,1.3GHz,800,32,5V,MMCX,None,25.5x25.5,LHCP,FPV,Freestyle FPV
+VTX-0104,GEPRC,Video Transmitter,FPV VTX,HD Digital,1.3GHz,400,40,2-6S,U.FL,SmartAudio,Whoop,LHCP,FPV,Racing FPV
+VTX-0105,iFlight,Video Transmitter,FPV VTX,Walksnail,2.4GHz,25,8,2-6S,U.FL,SmartAudio,Whoop,Linear,FPV,Cinematic FPV
+VTX-0106,Eachine,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,500,8,5V,U.FL,SmartAudio,20x20,Circular,Industrial,Industrial UAV
+VTX-0107,Caddx,Video Transmitter,FPV VTX,HDZero,1.3GHz,800,16,2-6S,RP-SMA,None,25.5x25.5,LHCP,FPV,Long Range FPV
+VTX-0108,TBS,Video Transmitter,FPV VTX,Walksnail,1.3GHz,100,32,2-6S,SMA,Tramp,20x20,Linear,FPV,Long Range FPV
+VTX-0109,RushFPV,Video Transmitter,FPV VTX,HDZero,2.4GHz,500,32,2-6S,SMA,Tramp,30x30,RHCP,FPV,Racing FPV
+VTX-0110,Walksnail,Video Transmitter,FPV VTX,HDZero,1.3GHz,200,40,3-6S,MMCX,None,25.5x25.5,RHCP,FPV,Freestyle FPV
+VTX-0111,GEPRC,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,1000,24,3-6S,U.FL,None,30x30,Linear,FPV,Long Range FPV
+VTX-0112,Caddx,Video Transmitter,FPV VTX,Walksnail,5.8GHz,1600,8,3-6S,SMA,MSP,20x20,Linear,FPV,Cinematic FPV
+VTX-0113,AKK,Video Transmitter,FPV VTX,HD Digital,1.3GHz,500,32,7-26V,SMA,None,25.5x25.5,LHCP,Industrial,Industrial UAV
+VTX-0114,Eachine,Video Transmitter,FPV VTX,Walksnail,5.8GHz,400,8,5V,MMCX,SmartAudio,30x30,LHCP,FPV,Racing FPV
+VTX-0115,TBS,Video Transmitter,FPV VTX,HDZero,2.4GHz,1600,16,3-6S,RP-SMA,SmartAudio,Whoop,RHCP,FPV,Freestyle FPV
+VTX-0116,SpeedyBee,Video Transmitter,FPV VTX,HD Digital,2.4GHz,1000,40,7-26V,MMCX,SmartAudio,Whoop,Linear,FPV,Freestyle FPV
+VTX-0117,HGLRC,Video Transmitter,FPV VTX,Analog,5.8GHz,100,40,7-26V,SMA,MSP,30x30,Linear,FPV,Cinematic FPV
+VTX-0118,AKK,Video Transmitter,FPV VTX,Analog,2.4GHz,400,40,5V,U.FL,SmartAudio,20x20,RHCP,FPV,Freestyle FPV
+VTX-0119,Caddx,Video Transmitter,FPV VTX,Analog,2.4GHz,1000,32,7-26V,SMA,SmartAudio,20x20,LHCP,FPV,Racing FPV
+VTX-0120,AKK,Video Transmitter,FPV VTX,HDZero,1.3GHz,200,32,7-26V,RP-SMA,MSP,25.5x25.5,Linear,FPV,Long Range FPV
+VTX-0121,BetaFPV,Video Transmitter,FPV VTX,HDZero,1.3GHz,200,8,7-26V,RP-SMA,MSP,20x20,Linear,FPV,Long Range FPV
+VTX-0122,GEPRC,Video Transmitter,FPV VTX,Analog,5.8GHz,1600,32,5V,RP-SMA,Tramp,Whoop,LHCP,FPV,Cinematic FPV
+VTX-0123,TBS,Video Transmitter,FPV VTX,HD Digital,2.4GHz,1000,32,3-6S,MMCX,Tramp,30x30,Circular,FPV,Long Range FPV
+VTX-0124,Foxeer,Video Transmitter,FPV VTX,HD Digital,1.3GHz,25,16,2-6S,RP-SMA,SmartAudio,20x20,Linear,Industrial,Industrial UAV
+VTX-0125,AKK,Video Transmitter,FPV VTX,Analog,1.3GHz,1000,16,3-6S,RP-SMA,Tramp,25.5x25.5,LHCP,FPV,Racing FPV
+VTX-0126,Eachine,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,25,16,5V,SMA,SmartAudio,Whoop,RHCP,FPV,Racing FPV
+VTX-0127,iFlight,Video Transmitter,FPV VTX,HD Digital,5.8GHz,25,8,3-6S,RP-SMA,None,Whoop,RHCP,FPV,Racing FPV
+VTX-0128,BetaFPV,Video Transmitter,FPV VTX,HD Digital,1.3GHz,200,16,7-26V,MMCX,Tramp,Whoop,Circular,FPV,Cinematic FPV
+VTX-0129,iFlight,Video Transmitter,FPV VTX,Analog,1.3GHz,200,40,2-6S,RP-SMA,Tramp,25.5x25.5,RHCP,FPV,Racing FPV
+VTX-0130,Diatone,Video Transmitter,FPV VTX,HD Digital,5.8GHz,1600,32,3-6S,MMCX,None,30x30,Circular,FPV,Racing FPV
+VTX-0131,TBS,Video Transmitter,FPV VTX,HD Digital,1.3GHz,400,24,2-6S,RP-SMA,SmartAudio,20x20,Linear,FPV,Freestyle FPV
+VTX-0132,Caddx,Video Transmitter,FPV VTX,Walksnail,5.8GHz,1000,32,7-26V,SMA,MSP,Whoop,RHCP,FPV,Freestyle FPV
+VTX-0133,Walksnail,Video Transmitter,FPV VTX,Walksnail,5.8GHz,1600,40,7-26V,RP-SMA,Tramp,25.5x25.5,Linear,FPV,Long Range FPV
+VTX-0134,Diatone,Video Transmitter,FPV VTX,HDZero,2.4GHz,1000,40,7-26V,SMA,Tramp,25.5x25.5,Linear,FPV,Freestyle FPV
+VTX-0135,GEPRC,Video Transmitter,FPV VTX,HD Digital,1.3GHz,800,16,5V,MMCX,SmartAudio,Whoop,Circular,FPV,Freestyle FPV
+VTX-0136,Caddx,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,100,40,3-6S,U.FL,Tramp,20x20,RHCP,FPV,Long Range FPV
+VTX-0137,HGLRC,Video Transmitter,FPV VTX,Walksnail,1.3GHz,200,24,5V,MMCX,Tramp,25.5x25.5,RHCP,Industrial,Industrial UAV
+VTX-0138,AKK,Video Transmitter,FPV VTX,HD Digital,2.4GHz,100,32,5V,MMCX,None,25.5x25.5,RHCP,FPV,Long Range FPV
+VTX-0139,Walksnail,Video Transmitter,FPV VTX,Walksnail,2.4GHz,500,16,7-26V,RP-SMA,Tramp,30x30,LHCP,FPV,Cinematic FPV
+VTX-0140,Diatone,Video Transmitter,FPV VTX,HDZero,2.4GHz,1000,32,5V,MMCX,None,Whoop,RHCP,Industrial,Industrial UAV
+VTX-0141,TBS,Video Transmitter,FPV VTX,HDZero,1.3GHz,200,16,2-6S,RP-SMA,SmartAudio,30x30,RHCP,FPV,Long Range FPV
+VTX-0142,BetaFPV,Video Transmitter,FPV VTX,HD Digital,5.8GHz,100,24,3-6S,MMCX,Tramp,Whoop,LHCP,FPV,Cinematic FPV
+VTX-0143,GEPRC,Video Transmitter,FPV VTX,HD Digital,5.8GHz,500,32,3-6S,SMA,MSP,Whoop,RHCP,FPV,Racing FPV
+VTX-0144,Diatone,Video Transmitter,FPV VTX,Walksnail,1.3GHz,25,16,5V,MMCX,Tramp,30x30,Linear,FPV,Cinematic FPV
+VTX-0145,RushFPV,Video Transmitter,FPV VTX,Walksnail,2.4GHz,100,40,2-6S,U.FL,MSP,Whoop,Circular,Industrial,Industrial UAV
+VTX-0146,Diatone,Video Transmitter,FPV VTX,HD Digital,5.8GHz,1000,16,7-26V,RP-SMA,MSP,30x30,Linear,Industrial,Industrial UAV
+VTX-0147,Diatone,Video Transmitter,FPV VTX,Analog,5.8GHz,500,32,3-6S,MMCX,SmartAudio,30x30,Circular,FPV,Racing FPV
+VTX-0148,Diatone,Video Transmitter,FPV VTX,HD Digital,5.8GHz,500,32,3-6S,SMA,SmartAudio,30x30,Linear,FPV,Long Range FPV
+VTX-0149,Diatone,Video Transmitter,FPV VTX,HD Digital,1.3GHz,1600,16,3-6S,U.FL,SmartAudio,25.5x25.5,Circular,Industrial,Industrial UAV
+VTX-0150,RushFPV,Video Transmitter,FPV VTX,HD Digital,5.8GHz,200,8,3-6S,SMA,None,30x30,RHCP,FPV,Freestyle FPV
+VTX-0151,TBS,Video Transmitter,FPV VTX,HDZero,1.3GHz,25,24,5V,U.FL,SmartAudio,20x20,Circular,FPV,Freestyle FPV
+VTX-0152,iFlight,Video Transmitter,FPV VTX,HDZero,2.4GHz,100,16,3-6S,MMCX,SmartAudio,30x30,Circular,FPV,Racing FPV
+VTX-0153,Foxeer,Video Transmitter,FPV VTX,HD Digital,2.4GHz,800,16,7-26V,SMA,None,20x20,RHCP,FPV,Racing FPV
+VTX-0154,SpeedyBee,Video Transmitter,FPV VTX,HDZero,5.8GHz,400,16,3-6S,RP-SMA,Tramp,25.5x25.5,LHCP,FPV,Cinematic FPV
+VTX-0155,HGLRC,Video Transmitter,FPV VTX,Walksnail,5.8GHz,800,40,2-6S,U.FL,Tramp,20x20,RHCP,FPV,Cinematic FPV
+VTX-0156,HGLRC,Video Transmitter,FPV VTX,Walksnail,2.4GHz,400,40,2-6S,RP-SMA,Tramp,30x30,RHCP,FPV,Freestyle FPV
+VTX-0157,BetaFPV,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,800,16,2-6S,MMCX,Tramp,20x20,Linear,FPV,Freestyle FPV
+VTX-0158,BetaFPV,Video Transmitter,FPV VTX,Analog,5.8GHz,1000,40,2-6S,SMA,MSP,20x20,LHCP,FPV,Long Range FPV
+VTX-0159,GEPRC,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,500,32,2-6S,SMA,None,20x20,RHCP,Industrial,Industrial UAV
+VTX-0160,Caddx,Video Transmitter,FPV VTX,HD Digital,1.3GHz,400,8,2-6S,RP-SMA,Tramp,25.5x25.5,Linear,Industrial,Industrial UAV
+VTX-0161,Walksnail,Video Transmitter,FPV VTX,HD Digital,5.8GHz,200,8,7-26V,U.FL,Tramp,25.5x25.5,RHCP,FPV,Long Range FPV
+VTX-0162,iFlight,Video Transmitter,FPV VTX,Analog,1.3GHz,200,24,7-26V,U.FL,Tramp,25.5x25.5,Linear,FPV,Cinematic FPV
+VTX-0163,Diatone,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,800,16,2-6S,U.FL,MSP,25.5x25.5,Linear,Industrial,Industrial UAV
+VTX-0164,TBS,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,500,24,3-6S,MMCX,None,20x20,RHCP,Industrial,Industrial UAV
+VTX-0165,Diatone,Video Transmitter,FPV VTX,Walksnail,5.8GHz,400,40,2-6S,U.FL,SmartAudio,25.5x25.5,LHCP,FPV,Cinematic FPV
+VTX-0166,Flywoo,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,400,24,3-6S,U.FL,SmartAudio,Whoop,Circular,FPV,Long Range FPV
+VTX-0167,AKK,Video Transmitter,FPV VTX,HD Digital,2.4GHz,1000,40,7-26V,SMA,None,20x20,Circular,Industrial,Industrial UAV
+VTX-0168,TBS,Video Transmitter,FPV VTX,HDZero,2.4GHz,1000,24,3-6S,U.FL,MSP,20x20,Linear,FPV,Freestyle FPV
+VTX-0169,Foxeer,Video Transmitter,FPV VTX,Analog,5.8GHz,1600,8,2-6S,MMCX,SmartAudio,25.5x25.5,Circular,FPV,Racing FPV
+VTX-0170,Flywoo,Video Transmitter,FPV VTX,HDZero,5.8GHz,25,32,7-26V,SMA,None,25.5x25.5,Linear,Industrial,Industrial UAV
+VTX-0171,RushFPV,Video Transmitter,FPV VTX,Analog,2.4GHz,800,16,3-6S,RP-SMA,None,30x30,Circular,FPV,Racing FPV
+VTX-0172,RushFPV,Video Transmitter,FPV VTX,HD Digital,5.8GHz,1000,8,7-26V,SMA,MSP,25.5x25.5,Linear,FPV,Long Range FPV
+VTX-0173,Diatone,Video Transmitter,FPV VTX,Analog,5.8GHz,1000,24,5V,SMA,None,30x30,RHCP,FPV,Racing FPV
+VTX-0174,RushFPV,Video Transmitter,FPV VTX,HD Digital,1.3GHz,400,16,7-26V,SMA,Tramp,25.5x25.5,Linear,FPV,Racing FPV
+VTX-0175,RushFPV,Video Transmitter,FPV VTX,HD Digital,2.4GHz,1000,16,2-6S,SMA,None,25.5x25.5,Circular,FPV,Cinematic FPV
+VTX-0176,Caddx,Video Transmitter,FPV VTX,HDZero,5.8GHz,800,24,3-6S,MMCX,MSP,30x30,Linear,FPV,Racing FPV
+VTX-0177,BetaFPV,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,400,40,2-6S,SMA,MSP,30x30,Circular,FPV,Freestyle FPV
+VTX-0178,iFlight,Video Transmitter,FPV VTX,HD Digital,5.8GHz,200,16,5V,RP-SMA,None,25.5x25.5,RHCP,FPV,Racing FPV
+VTX-0179,HGLRC,Video Transmitter,FPV VTX,Analog,1.3GHz,1600,16,2-6S,MMCX,MSP,30x30,LHCP,FPV,Racing FPV
+VTX-0180,HGLRC,Video Transmitter,FPV VTX,Analog,1.3GHz,800,16,2-6S,RP-SMA,None,20x20,LHCP,FPV,Freestyle FPV
+VTX-0181,Caddx,Video Transmitter,FPV VTX,HDZero,5.8GHz,25,40,2-6S,RP-SMA,SmartAudio,25.5x25.5,RHCP,FPV,Freestyle FPV
+VTX-0182,SpeedyBee,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,800,16,7-26V,RP-SMA,MSP,20x20,Circular,Industrial,Industrial UAV
+VTX-0183,TBS,Video Transmitter,FPV VTX,HD Digital,1.3GHz,400,8,3-6S,U.FL,Tramp,20x20,Linear,Industrial,Industrial UAV
+VTX-0184,Walksnail,Video Transmitter,FPV VTX,Analog,1.3GHz,800,16,5V,MMCX,Tramp,25.5x25.5,RHCP,FPV,Racing FPV
+VTX-0185,Walksnail,Video Transmitter,FPV VTX,HD Digital,1.3GHz,500,8,7-26V,RP-SMA,MSP,30x30,LHCP,FPV,Racing FPV
+VTX-0186,BetaFPV,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,400,16,2-6S,U.FL,SmartAudio,25.5x25.5,Circular,FPV,Freestyle FPV
+VTX-0187,Walksnail,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,500,32,2-6S,U.FL,SmartAudio,Whoop,RHCP,Industrial,Industrial UAV
+VTX-0188,Caddx,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,500,16,3-6S,SMA,None,20x20,RHCP,Industrial,Industrial UAV
+VTX-0189,RushFPV,Video Transmitter,FPV VTX,HD Digital,2.4GHz,200,40,2-6S,U.FL,MSP,20x20,Circular,FPV,Long Range FPV
+VTX-0190,Caddx,Video Transmitter,FPV VTX,Walksnail,1.3GHz,1000,24,7-26V,RP-SMA,SmartAudio,Whoop,Linear,FPV,Freestyle FPV
+VTX-0191,Eachine,Video Transmitter,FPV VTX,Analog,1.3GHz,25,16,5V,U.FL,MSP,Whoop,Circular,FPV,Racing FPV
+VTX-0192,TBS,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,1000,40,5V,U.FL,MSP,30x30,Circular,FPV,Long Range FPV
+VTX-0193,Eachine,Video Transmitter,FPV VTX,HD Digital,1.3GHz,100,16,2-6S,RP-SMA,SmartAudio,20x20,RHCP,FPV,Racing FPV
+VTX-0194,GEPRC,Video Transmitter,FPV VTX,HD Digital,1.3GHz,500,16,5V,RP-SMA,None,20x20,Linear,FPV,Long Range FPV
+VTX-0195,HGLRC,Video Transmitter,FPV VTX,Walksnail,2.4GHz,400,32,3-6S,RP-SMA,None,20x20,Linear,FPV,Freestyle FPV
+VTX-0196,BetaFPV,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,1000,32,5V,RP-SMA,SmartAudio,Whoop,RHCP,FPV,Freestyle FPV
+VTX-0197,RushFPV,Video Transmitter,FPV VTX,HD Digital,2.4GHz,25,40,7-26V,SMA,MSP,Whoop,Circular,FPV,Freestyle FPV
+VTX-0198,Flywoo,Video Transmitter,FPV VTX,HDZero,1.3GHz,200,24,7-26V,SMA,None,25.5x25.5,LHCP,FPV,Cinematic FPV
+VTX-0199,HGLRC,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,25,32,3-6S,U.FL,None,20x20,LHCP,FPV,Cinematic FPV
+VTX-0200,SpeedyBee,Video Transmitter,FPV VTX,HD Digital,5.8GHz,1600,40,5V,U.FL,SmartAudio,25.5x25.5,LHCP,FPV,Cinematic FPV
+VTX-0201,Eachine,Video Transmitter,FPV VTX,HDZero,1.3GHz,1600,8,7-26V,SMA,None,30x30,RHCP,FPV,Long Range FPV
+VTX-0202,Foxeer,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,800,24,2-6S,MMCX,Tramp,Whoop,RHCP,FPV,Racing FPV
+VTX-0203,Eachine,Video Transmitter,FPV VTX,Walksnail,2.4GHz,1600,16,3-6S,MMCX,MSP,20x20,LHCP,FPV,Freestyle FPV
+VTX-0204,BetaFPV,Video Transmitter,FPV VTX,HDZero,2.4GHz,1600,40,7-26V,SMA,SmartAudio,20x20,Linear,FPV,Cinematic FPV
+VTX-0205,RushFPV,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,100,8,5V,MMCX,MSP,25.5x25.5,Linear,FPV,Cinematic FPV
+VTX-0206,iFlight,Video Transmitter,FPV VTX,Analog,5.8GHz,800,40,5V,SMA,Tramp,25.5x25.5,LHCP,FPV,Cinematic FPV
+VTX-0207,GEPRC,Video Transmitter,FPV VTX,Analog,1.3GHz,1000,32,5V,RP-SMA,Tramp,20x20,LHCP,FPV,Freestyle FPV
+VTX-0208,AKK,Video Transmitter,FPV VTX,Analog,5.8GHz,1000,24,2-6S,U.FL,MSP,30x30,RHCP,Industrial,Industrial UAV
+VTX-0209,Foxeer,Video Transmitter,FPV VTX,Walksnail,1.3GHz,500,32,3-6S,RP-SMA,MSP,25.5x25.5,Circular,Industrial,Industrial UAV
+VTX-0210,BetaFPV,Video Transmitter,FPV VTX,HDZero,1.3GHz,25,16,5V,MMCX,SmartAudio,30x30,Linear,FPV,Racing FPV
+VTX-0211,Flywoo,Video Transmitter,FPV VTX,HDZero,2.4GHz,500,8,7-26V,U.FL,None,20x20,Circular,Industrial,Industrial UAV
+VTX-0212,Eachine,Video Transmitter,FPV VTX,Walksnail,2.4GHz,500,8,5V,SMA,None,20x20,RHCP,FPV,Racing FPV
+VTX-0213,AKK,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,500,16,7-26V,RP-SMA,SmartAudio,Whoop,Circular,FPV,Racing FPV
+VTX-0214,Foxeer,Video Transmitter,FPV VTX,HD Digital,5.8GHz,800,24,2-6S,SMA,MSP,20x20,LHCP,Industrial,Industrial UAV
+VTX-0215,Eachine,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,25,32,7-26V,MMCX,SmartAudio,20x20,LHCP,FPV,Cinematic FPV
+VTX-0216,BetaFPV,Video Transmitter,FPV VTX,HD Digital,5.8GHz,400,40,7-26V,U.FL,SmartAudio,20x20,Linear,FPV,Racing FPV
+VTX-0217,SpeedyBee,Video Transmitter,FPV VTX,HDZero,1.3GHz,100,8,2-6S,RP-SMA,MSP,25.5x25.5,Circular,FPV,Racing FPV
+VTX-0218,BetaFPV,Video Transmitter,FPV VTX,HD Digital,2.4GHz,1600,8,5V,U.FL,Tramp,20x20,Linear,FPV,Long Range FPV
+VTX-0219,Diatone,Video Transmitter,FPV VTX,Walksnail,2.4GHz,500,24,5V,U.FL,None,Whoop,Circular,FPV,Cinematic FPV
+VTX-0220,AKK,Video Transmitter,FPV VTX,Analog,2.4GHz,800,16,2-6S,MMCX,Tramp,25.5x25.5,RHCP,FPV,Long Range FPV
+VTX-0221,BetaFPV,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,500,40,7-26V,MMCX,Tramp,20x20,Circular,FPV,Racing FPV
+VTX-0222,GEPRC,Video Transmitter,FPV VTX,Walksnail,1.3GHz,25,40,7-26V,SMA,Tramp,20x20,LHCP,Industrial,Industrial UAV
+VTX-0223,Caddx,Video Transmitter,FPV VTX,Walksnail,5.8GHz,200,32,5V,SMA,MSP,20x20,Linear,FPV,Freestyle FPV
+VTX-0224,HGLRC,Video Transmitter,FPV VTX,HD Digital,2.4GHz,400,40,2-6S,RP-SMA,None,20x20,LHCP,FPV,Cinematic FPV
+VTX-0225,Eachine,Video Transmitter,FPV VTX,Analog,5.8GHz,800,8,2-6S,U.FL,Tramp,Whoop,RHCP,Industrial,Industrial UAV
+VTX-0226,Caddx,Video Transmitter,FPV VTX,Walksnail,5.8GHz,25,40,5V,SMA,None,20x20,Linear,FPV,Racing FPV
+VTX-0227,SpeedyBee,Video Transmitter,FPV VTX,Walksnail,1.3GHz,100,8,3-6S,SMA,MSP,20x20,RHCP,FPV,Long Range FPV
+VTX-0228,Caddx,Video Transmitter,FPV VTX,Walksnail,5.8GHz,200,32,2-6S,RP-SMA,SmartAudio,25.5x25.5,LHCP,Industrial,Industrial UAV
+VTX-0229,iFlight,Video Transmitter,FPV VTX,HDZero,5.8GHz,100,32,2-6S,RP-SMA,MSP,25.5x25.5,RHCP,FPV,Long Range FPV
+VTX-0230,AKK,Video Transmitter,FPV VTX,HD Digital,1.3GHz,25,8,7-26V,RP-SMA,MSP,Whoop,Circular,Industrial,Industrial UAV
+VTX-0231,AKK,Video Transmitter,FPV VTX,Walksnail,2.4GHz,1000,40,2-6S,RP-SMA,None,20x20,RHCP,FPV,Racing FPV
+VTX-0232,TBS,Video Transmitter,FPV VTX,HD Digital,5.8GHz,25,8,3-6S,RP-SMA,Tramp,25.5x25.5,Linear,FPV,Long Range FPV
+VTX-0233,iFlight,Video Transmitter,FPV VTX,Walksnail,5.8GHz,200,32,7-26V,U.FL,None,25.5x25.5,LHCP,FPV,Freestyle FPV
+VTX-0234,HGLRC,Video Transmitter,FPV VTX,Walksnail,1.3GHz,500,32,3-6S,RP-SMA,Tramp,Whoop,RHCP,FPV,Long Range FPV
+VTX-0235,Walksnail,Video Transmitter,FPV VTX,HD Digital,2.4GHz,800,40,7-26V,RP-SMA,MSP,30x30,LHCP,Industrial,Industrial UAV
+VTX-0236,Diatone,Video Transmitter,FPV VTX,HD Digital,2.4GHz,100,24,3-6S,U.FL,Tramp,Whoop,RHCP,FPV,Cinematic FPV
+VTX-0237,AKK,Video Transmitter,FPV VTX,HD Digital,2.4GHz,25,24,2-6S,U.FL,Tramp,Whoop,RHCP,FPV,Freestyle FPV
+VTX-0238,Diatone,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,1600,16,7-26V,RP-SMA,None,20x20,Linear,Industrial,Industrial UAV
+VTX-0239,Foxeer,Video Transmitter,FPV VTX,Analog,1.3GHz,500,24,5V,U.FL,MSP,Whoop,LHCP,Industrial,Industrial UAV
+VTX-0240,iFlight,Video Transmitter,FPV VTX,Analog,2.4GHz,100,40,3-6S,U.FL,None,Whoop,Circular,FPV,Long Range FPV
+VTX-0241,Caddx,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,25,24,2-6S,RP-SMA,Tramp,Whoop,LHCP,FPV,Cinematic FPV
+VTX-0242,SpeedyBee,Video Transmitter,FPV VTX,HD Digital,1.3GHz,200,40,3-6S,MMCX,Tramp,25.5x25.5,Linear,FPV,Long Range FPV
+VTX-0243,Eachine,Video Transmitter,FPV VTX,HD Digital,2.4GHz,1000,32,2-6S,U.FL,Tramp,20x20,RHCP,FPV,Long Range FPV
+VTX-0244,TBS,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,25,32,3-6S,U.FL,None,Whoop,Circular,Industrial,Industrial UAV
+VTX-0245,Walksnail,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,800,40,3-6S,SMA,MSP,25.5x25.5,RHCP,FPV,Freestyle FPV
+VTX-0246,iFlight,Video Transmitter,FPV VTX,HDZero,1.3GHz,800,40,3-6S,MMCX,SmartAudio,30x30,LHCP,FPV,Long Range FPV
+VTX-0247,HGLRC,Video Transmitter,FPV VTX,HD Digital,1.3GHz,400,24,3-6S,RP-SMA,Tramp,20x20,Circular,FPV,Long Range FPV
+VTX-0248,Diatone,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,1600,16,2-6S,MMCX,MSP,30x30,RHCP,FPV,Long Range FPV
+VTX-0249,SpeedyBee,Video Transmitter,FPV VTX,HDZero,5.8GHz,200,8,2-6S,SMA,None,20x20,LHCP,FPV,Cinematic FPV
+VTX-0250,Flywoo,Video Transmitter,FPV VTX,Walksnail,1.3GHz,1600,16,7-26V,U.FL,None,20x20,Linear,FPV,Racing FPV
+VTX-0251,RushFPV,Video Transmitter,FPV VTX,Analog,2.4GHz,100,32,5V,U.FL,None,25.5x25.5,Linear,FPV,Freestyle FPV
+VTX-0252,Diatone,Video Transmitter,FPV VTX,Walksnail,2.4GHz,1600,16,7-26V,MMCX,Tramp,20x20,RHCP,FPV,Cinematic FPV
+VTX-0253,BetaFPV,Video Transmitter,FPV VTX,HD Digital,1.3GHz,1000,24,2-6S,MMCX,SmartAudio,Whoop,LHCP,Industrial,Industrial UAV
+VTX-0254,GEPRC,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,800,8,7-26V,MMCX,None,20x20,LHCP,FPV,Long Range FPV
+VTX-0255,TBS,Video Transmitter,FPV VTX,HD Digital,2.4GHz,500,32,5V,RP-SMA,None,Whoop,Linear,FPV,Freestyle FPV
+VTX-0256,iFlight,Video Transmitter,FPV VTX,HDZero,2.4GHz,400,8,7-26V,RP-SMA,None,25.5x25.5,Circular,FPV,Racing FPV
+VTX-0257,Foxeer,Video Transmitter,FPV VTX,HD Digital,5.8GHz,200,8,2-6S,SMA,MSP,25.5x25.5,LHCP,Industrial,Industrial UAV
+VTX-0258,GEPRC,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,1600,16,2-6S,MMCX,Tramp,Whoop,LHCP,Industrial,Industrial UAV
+VTX-0259,TBS,Video Transmitter,FPV VTX,Walksnail,5.8GHz,1600,8,2-6S,SMA,SmartAudio,Whoop,Circular,FPV,Cinematic FPV
+VTX-0260,Flywoo,Video Transmitter,FPV VTX,HD Digital,5.8GHz,1000,40,2-6S,SMA,Tramp,20x20,Circular,FPV,Freestyle FPV
+VTX-0261,Eachine,Video Transmitter,FPV VTX,HD Digital,1.3GHz,25,32,5V,RP-SMA,None,30x30,RHCP,FPV,Racing FPV
+VTX-0262,iFlight,Video Transmitter,FPV VTX,Walksnail,2.4GHz,200,40,3-6S,U.FL,MSP,Whoop,Circular,Industrial,Industrial UAV
+VTX-0263,iFlight,Video Transmitter,FPV VTX,HDZero,1.3GHz,1000,32,5V,MMCX,SmartAudio,25.5x25.5,LHCP,Industrial,Industrial UAV
+VTX-0264,RushFPV,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,100,16,3-6S,SMA,None,20x20,Circular,FPV,Long Range FPV
+VTX-0265,RushFPV,Video Transmitter,FPV VTX,Walksnail,5.8GHz,800,32,7-26V,RP-SMA,Tramp,Whoop,Linear,FPV,Freestyle FPV
+VTX-0266,Flywoo,Video Transmitter,FPV VTX,HDZero,5.8GHz,1000,16,2-6S,U.FL,None,30x30,LHCP,FPV,Freestyle FPV
+VTX-0267,BetaFPV,Video Transmitter,FPV VTX,Analog,5.8GHz,800,32,2-6S,RP-SMA,Tramp,Whoop,RHCP,FPV,Cinematic FPV
+VTX-0268,Caddx,Video Transmitter,FPV VTX,Analog,2.4GHz,1600,40,3-6S,RP-SMA,SmartAudio,25.5x25.5,Linear,FPV,Freestyle FPV
+VTX-0269,Eachine,Video Transmitter,FPV VTX,Walksnail,5.8GHz,800,16,2-6S,MMCX,MSP,25.5x25.5,LHCP,Industrial,Industrial UAV
+VTX-0270,BetaFPV,Video Transmitter,FPV VTX,Walksnail,2.4GHz,500,8,3-6S,SMA,SmartAudio,30x30,RHCP,FPV,Racing FPV
+VTX-0271,BetaFPV,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,500,24,2-6S,U.FL,Tramp,Whoop,Linear,FPV,Racing FPV
+VTX-0272,Diatone,Video Transmitter,FPV VTX,HDZero,5.8GHz,500,8,3-6S,U.FL,MSP,Whoop,RHCP,FPV,Racing FPV
+VTX-0273,Foxeer,Video Transmitter,FPV VTX,Walksnail,2.4GHz,200,8,2-6S,SMA,SmartAudio,30x30,Circular,FPV,Cinematic FPV
+VTX-0274,GEPRC,Video Transmitter,FPV VTX,Walksnail,5.8GHz,25,24,7-26V,U.FL,SmartAudio,30x30,LHCP,FPV,Freestyle FPV
+VTX-0275,Diatone,Video Transmitter,FPV VTX,Walksnail,1.3GHz,400,32,7-26V,SMA,SmartAudio,30x30,Linear,Industrial,Industrial UAV
+VTX-0276,RushFPV,Video Transmitter,FPV VTX,Walksnail,2.4GHz,25,24,7-26V,SMA,MSP,25.5x25.5,Linear,Industrial,Industrial UAV
+VTX-0277,AKK,Video Transmitter,FPV VTX,HD Digital,5.8GHz,1600,16,7-26V,SMA,Tramp,20x20,Linear,FPV,Racing FPV
+VTX-0278,Eachine,Video Transmitter,FPV VTX,Walksnail,1.3GHz,200,24,2-6S,SMA,Tramp,20x20,LHCP,Industrial,Industrial UAV
+VTX-0279,iFlight,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,1000,32,7-26V,U.FL,Tramp,Whoop,Circular,FPV,Cinematic FPV
+VTX-0280,GEPRC,Video Transmitter,FPV VTX,Analog,5.8GHz,800,24,3-6S,SMA,None,20x20,Circular,FPV,Long Range FPV
+VTX-0281,Flywoo,Video Transmitter,FPV VTX,HD Digital,2.4GHz,1600,40,7-26V,U.FL,MSP,Whoop,RHCP,Industrial,Industrial UAV
+VTX-0282,TBS,Video Transmitter,FPV VTX,HD Digital,5.8GHz,100,24,7-26V,RP-SMA,None,30x30,LHCP,FPV,Freestyle FPV
+VTX-0283,Foxeer,Video Transmitter,FPV VTX,Walksnail,2.4GHz,100,24,7-26V,SMA,MSP,25.5x25.5,LHCP,FPV,Freestyle FPV
+VTX-0284,SpeedyBee,Video Transmitter,FPV VTX,Analog,1.3GHz,800,40,2-6S,MMCX,Tramp,20x20,Circular,FPV,Long Range FPV
+VTX-0285,Eachine,Video Transmitter,FPV VTX,Walksnail,5.8GHz,200,16,5V,MMCX,SmartAudio,30x30,Circular,FPV,Racing FPV
+VTX-0286,Walksnail,Video Transmitter,FPV VTX,Walksnail,2.4GHz,25,8,2-6S,RP-SMA,None,Whoop,Linear,FPV,Freestyle FPV
+VTX-0287,HGLRC,Video Transmitter,FPV VTX,HDZero,2.4GHz,1000,16,2-6S,SMA,MSP,30x30,LHCP,FPV,Freestyle FPV
+VTX-0288,Eachine,Video Transmitter,FPV VTX,Walksnail,1.3GHz,1000,16,2-6S,U.FL,None,25.5x25.5,RHCP,FPV,Long Range FPV
+VTX-0289,Eachine,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,200,24,7-26V,SMA,MSP,30x30,LHCP,FPV,Racing FPV
+VTX-0290,HGLRC,Video Transmitter,FPV VTX,HD Digital,5.8GHz,500,24,5V,SMA,MSP,25.5x25.5,Circular,FPV,Long Range FPV
+VTX-0291,Diatone,Video Transmitter,FPV VTX,Analog,1.3GHz,100,24,7-26V,RP-SMA,Tramp,20x20,Circular,FPV,Cinematic FPV
+VTX-0292,TBS,Video Transmitter,FPV VTX,HDZero,2.4GHz,200,8,7-26V,SMA,Tramp,25.5x25.5,LHCP,Industrial,Industrial UAV
+VTX-0293,RushFPV,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,800,16,7-26V,U.FL,Tramp,25.5x25.5,LHCP,FPV,Freestyle FPV
+VTX-0294,Flywoo,Video Transmitter,FPV VTX,Analog,1.3GHz,1000,40,2-6S,U.FL,MSP,30x30,RHCP,FPV,Long Range FPV
+VTX-0295,Walksnail,Video Transmitter,FPV VTX,Walksnail,1.3GHz,100,32,3-6S,U.FL,Tramp,30x30,RHCP,FPV,Cinematic FPV
+VTX-0296,TBS,Video Transmitter,FPV VTX,HD Digital,2.4GHz,1600,40,7-26V,MMCX,MSP,25.5x25.5,Linear,FPV,Freestyle FPV
+VTX-0297,SpeedyBee,Video Transmitter,FPV VTX,HDZero,5.8GHz,400,16,2-6S,SMA,None,25.5x25.5,RHCP,FPV,Racing FPV
+VTX-0298,RushFPV,Video Transmitter,FPV VTX,HDZero,2.4GHz,800,16,5V,MMCX,MSP,20x20,RHCP,FPV,Racing FPV
+VTX-0299,Walksnail,Video Transmitter,FPV VTX,Walksnail,5.8GHz,1600,16,3-6S,U.FL,Tramp,Whoop,Linear,Industrial,Industrial UAV
+VTX-0300,SpeedyBee,Video Transmitter,FPV VTX,HDZero,2.4GHz,1000,32,7-26V,U.FL,Tramp,25.5x25.5,Circular,FPV,Racing FPV
+VTX-0301,Flywoo,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,500,40,2-6S,U.FL,None,Whoop,RHCP,FPV,Freestyle FPV
+VTX-0302,Foxeer,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,800,32,7-26V,MMCX,MSP,25.5x25.5,RHCP,FPV,Freestyle FPV
+VTX-0303,Diatone,Video Transmitter,FPV VTX,Analog,5.8GHz,1600,32,5V,RP-SMA,None,30x30,RHCP,Industrial,Industrial UAV
+VTX-0304,RushFPV,Video Transmitter,FPV VTX,Analog,5.8GHz,1600,40,7-26V,U.FL,Tramp,25.5x25.5,RHCP,FPV,Freestyle FPV
+VTX-0305,RushFPV,Video Transmitter,FPV VTX,HD Digital,5.8GHz,500,8,3-6S,MMCX,MSP,20x20,LHCP,FPV,Freestyle FPV
+VTX-0306,RushFPV,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,100,16,2-6S,U.FL,None,30x30,RHCP,FPV,Cinematic FPV
+VTX-0307,Foxeer,Video Transmitter,FPV VTX,Analog,1.3GHz,25,32,5V,SMA,Tramp,Whoop,Linear,Industrial,Industrial UAV
+VTX-0308,BetaFPV,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,100,16,2-6S,RP-SMA,MSP,25.5x25.5,Circular,Industrial,Industrial UAV
+VTX-0309,Caddx,Video Transmitter,FPV VTX,HDZero,1.3GHz,500,8,5V,MMCX,SmartAudio,30x30,Circular,FPV,Long Range FPV
+VTX-0310,Walksnail,Video Transmitter,FPV VTX,HDZero,2.4GHz,100,24,5V,RP-SMA,SmartAudio,Whoop,Linear,FPV,Racing FPV
+VTX-0311,Diatone,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,100,40,3-6S,U.FL,Tramp,20x20,LHCP,FPV,Long Range FPV
+VTX-0312,Foxeer,Video Transmitter,FPV VTX,HDZero,2.4GHz,1600,16,5V,U.FL,MSP,25.5x25.5,Circular,FPV,Long Range FPV
+VTX-0313,HGLRC,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,400,8,3-6S,SMA,MSP,Whoop,LHCP,Industrial,Industrial UAV
+VTX-0314,Diatone,Video Transmitter,FPV VTX,Analog,1.3GHz,1600,8,3-6S,SMA,Tramp,25.5x25.5,Linear,FPV,Racing FPV
+VTX-0315,Walksnail,Video Transmitter,FPV VTX,HDZero,5.8GHz,400,24,7-26V,MMCX,SmartAudio,25.5x25.5,LHCP,FPV,Freestyle FPV
+VTX-0316,Foxeer,Video Transmitter,FPV VTX,Walksnail,2.4GHz,200,8,5V,U.FL,SmartAudio,30x30,Circular,FPV,Cinematic FPV
+VTX-0317,BetaFPV,Video Transmitter,FPV VTX,HDZero,2.4GHz,1000,8,2-6S,MMCX,Tramp,30x30,RHCP,FPV,Racing FPV
+VTX-0318,HGLRC,Video Transmitter,FPV VTX,Walksnail,1.3GHz,100,32,3-6S,MMCX,None,20x20,Circular,Industrial,Industrial UAV
+VTX-0319,Flywoo,Video Transmitter,FPV VTX,Analog,2.4GHz,200,8,3-6S,U.FL,MSP,25.5x25.5,Circular,Industrial,Industrial UAV
+VTX-0320,iFlight,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,400,16,7-26V,SMA,SmartAudio,25.5x25.5,Circular,FPV,Freestyle FPV
+VTX-0321,AKK,Video Transmitter,FPV VTX,HDZero,5.8GHz,100,40,5V,MMCX,SmartAudio,Whoop,Linear,FPV,Racing FPV
+VTX-0322,HGLRC,Video Transmitter,FPV VTX,Analog,2.4GHz,1000,16,2-6S,U.FL,None,20x20,RHCP,FPV,Cinematic FPV
+VTX-0323,Eachine,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,100,8,7-26V,MMCX,MSP,Whoop,Circular,FPV,Long Range FPV
+VTX-0324,Diatone,Video Transmitter,FPV VTX,HD Digital,2.4GHz,500,40,7-26V,MMCX,None,25.5x25.5,Linear,FPV,Cinematic FPV
+VTX-0325,Walksnail,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,500,8,5V,U.FL,MSP,30x30,LHCP,Industrial,Industrial UAV
+VTX-0326,AKK,Video Transmitter,FPV VTX,Analog,5.8GHz,1600,40,3-6S,RP-SMA,SmartAudio,20x20,Linear,FPV,Freestyle FPV
+VTX-0327,GEPRC,Video Transmitter,FPV VTX,Analog,5.8GHz,25,32,2-6S,MMCX,Tramp,25.5x25.5,RHCP,FPV,Long Range FPV
+VTX-0328,Eachine,Video Transmitter,FPV VTX,Walksnail,1.3GHz,1600,24,2-6S,MMCX,None,30x30,RHCP,Industrial,Industrial UAV
+VTX-0329,Foxeer,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,25,40,7-26V,SMA,None,Whoop,RHCP,FPV,Racing FPV
+VTX-0330,Caddx,Video Transmitter,FPV VTX,Walksnail,1.3GHz,400,40,2-6S,U.FL,SmartAudio,30x30,RHCP,FPV,Racing FPV
+VTX-0331,iFlight,Video Transmitter,FPV VTX,Analog,2.4GHz,800,40,5V,U.FL,SmartAudio,25.5x25.5,RHCP,Industrial,Industrial UAV
+VTX-0332,Flywoo,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,200,8,2-6S,SMA,SmartAudio,Whoop,LHCP,Industrial,Industrial UAV
+VTX-0333,AKK,Video Transmitter,FPV VTX,Walksnail,5.8GHz,200,16,2-6S,RP-SMA,SmartAudio,30x30,Linear,FPV,Long Range FPV
+VTX-0334,Foxeer,Video Transmitter,FPV VTX,Analog,2.4GHz,400,24,5V,RP-SMA,None,20x20,Linear,FPV,Cinematic FPV
+VTX-0335,SpeedyBee,Video Transmitter,FPV VTX,Walksnail,5.8GHz,100,40,2-6S,U.FL,MSP,30x30,Circular,FPV,Freestyle FPV
+VTX-0336,Flywoo,Video Transmitter,FPV VTX,HDZero,2.4GHz,1600,40,5V,RP-SMA,MSP,20x20,RHCP,FPV,Cinematic FPV
+VTX-0337,AKK,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,100,8,3-6S,U.FL,SmartAudio,Whoop,LHCP,FPV,Racing FPV
+VTX-0338,HGLRC,Video Transmitter,FPV VTX,HDZero,2.4GHz,200,24,3-6S,SMA,SmartAudio,30x30,Linear,FPV,Freestyle FPV
+VTX-0339,Eachine,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,400,8,5V,MMCX,SmartAudio,30x30,LHCP,FPV,Long Range FPV
+VTX-0340,Eachine,Video Transmitter,FPV VTX,Walksnail,2.4GHz,1000,32,5V,MMCX,None,30x30,RHCP,Industrial,Industrial UAV
+VTX-0341,GEPRC,Video Transmitter,FPV VTX,DJI O3 Compatible,1.3GHz,100,40,2-6S,RP-SMA,MSP,30x30,LHCP,FPV,Racing FPV
+VTX-0342,SpeedyBee,Video Transmitter,FPV VTX,HD Digital,2.4GHz,200,40,2-6S,U.FL,SmartAudio,30x30,RHCP,FPV,Racing FPV
+VTX-0343,GEPRC,Video Transmitter,FPV VTX,Walksnail,5.8GHz,500,24,7-26V,SMA,None,Whoop,Circular,Industrial,Industrial UAV
+VTX-0344,Foxeer,Video Transmitter,FPV VTX,Analog,5.8GHz,1000,40,2-6S,SMA,Tramp,20x20,Circular,FPV,Freestyle FPV
+VTX-0345,HGLRC,Video Transmitter,FPV VTX,HDZero,5.8GHz,25,8,2-6S,RP-SMA,SmartAudio,Whoop,Linear,Industrial,Industrial UAV
+VTX-0346,iFlight,Video Transmitter,FPV VTX,HDZero,1.3GHz,200,8,2-6S,RP-SMA,None,30x30,RHCP,FPV,Long Range FPV
+VTX-0347,iFlight,Video Transmitter,FPV VTX,DJI O3 Compatible,5.8GHz,800,16,5V,MMCX,MSP,30x30,LHCP,FPV,Long Range FPV
+VTX-0348,Walksnail,Video Transmitter,FPV VTX,Analog,1.3GHz,1600,32,5V,RP-SMA,MSP,Whoop,RHCP,FPV,Long Range FPV
+VTX-0349,Diatone,Video Transmitter,FPV VTX,HD Digital,2.4GHz,200,16,3-6S,SMA,SmartAudio,20x20,RHCP,FPV,Racing FPV
+VTX-0350,Walksnail,Video Transmitter,FPV VTX,DJI O3 Compatible,2.4GHz,25,8,5V,SMA,Tramp,30x30,LHCP,FPV,Cinematic FPV

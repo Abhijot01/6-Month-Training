@@ -1,0 +1,51 @@
+BatteryID,Brand,Category,SubCategory,BatteryChemistry,CellCount_S,Voltage_V,Capacity_mAh,DischargeRate_C,Energy_Wh,ConnectorType,IntendedUse,CompatibleDroneType
+BAT-0301,CNHL,Batteries,LiPo FPV Battery,LiPo,6,22.2,2050,90,45.51,XT60,Long Range FPV,FPV
+BAT-0302,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6,22.2,1350,140,29.97,XT60,Freestyle FPV,FPV
+BAT-0303,Gens Ace,Batteries,LiPo FPV Battery,LiPo,6,22.2,1700,130,37.74,XT60,Racing FPV,FPV
+BAT-0304,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6,22.2,1900,150,42.18,XT60,High Performance Racing,FPV
+BAT-0305,Gens Ace,Batteries,LiPo FPV Battery,LiPo,6,22.2,1650,130,36.63,XT60,Racing FPV,FPV
+BAT-0306,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6,22.2,1400,130,31.08,XT60,Freestyle FPV,FPV
+BAT-0307,Gens Ace,Batteries,LiPo FPV Battery,LiPo,6,22.2,1700,130,37.74,XT60,Racing FPV,FPV
+BAT-0308,Gens Ace,Batteries,LiPo FPV Battery,LiPo,6,22.2,1600,120,35.52,XT60,Racing FPV,FPV
+BAT-0309,Ovonic,Batteries,LiPo FPV Battery,LiPo,4,14.8,1600,100,23.68,XT60,Freestyle FPV,FPV
+BAT-0310,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,6,22.2,1600,140,35.52,XT60,Racing FPV,FPV
+BAT-0311,CNHL,Batteries,LiPo FPV Battery,LiPo,6,22.2,2100,90,46.62,XT60,Long Range FPV,FPV
+BAT-0312,Tattu,Batteries,LiPo FPV Battery,LiPo,4,14.8,900,140,13.32,XT30,Cinewhoop / Racing,FPV
+BAT-0313,CNHL,Batteries,LiPo FPV Battery,LiPo,4,14.8,1450,130,21.46,XT60,Freestyle FPV,FPV
+BAT-0314,Zeee,Batteries,LiPo FPV Battery,LiPo,4,14.8,1500,120,22.2,XT60,Freestyle FPV,FPV
+BAT-0315,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,4,14.8,1100,120,16.28,XT60,Freestyle FPV,FPV
+BAT-0316,Ovonic,Batteries,LiPo FPV Battery,LiPo,4,14.8,800,70,11.84,XT30,Cinewhoop,Cinewhoop
+BAT-0317,Ovonic,Batteries,LiPo FPV Battery,LiPo,6,22.2,1600,120,35.52,XT60,Racing FPV,FPV
+BAT-0318,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6,22.2,1500,140,33.3,XT60,Freestyle FPV,FPV
+BAT-0319,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6,22.2,1450,140,32.19,XT60,Freestyle FPV,FPV
+BAT-0320,Gens Ace,Batteries,LiPo FPV Battery,LiPo,6,22.2,1550,130,34.41,XT60,Racing FPV,FPV
+BAT-0321,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6,22.2,1500,120,33.3,XT60,Freestyle FPV,FPV
+BAT-0322,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,4,14.8,1150,110,17.02,XT60,Freestyle FPV,FPV
+BAT-0323,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,6,22.2,1550,130,34.41,XT60,Racing FPV,FPV
+BAT-0324,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6,22.2,1400,140,31.08,XT60,Freestyle FPV,FPV
+BAT-0325,CNHL,Batteries,LiPo FPV Battery,LiPo,4,14.8,1550,140,22.94,XT60,Freestyle FPV,FPV
+BAT-0326,CNHL,Batteries,LiPo FPV Battery,LiPo,6,22.2,2100,100,46.62,XT60,Long Range FPV,FPV
+BAT-0327,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6,22.2,1800,150,39.96,XT60,High Performance Racing,FPV
+BAT-0328,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6,22.2,1900,140,42.18,XT60,High Performance Racing,FPV
+BAT-0329,Ovonic,Batteries,LiPo FPV Battery,LiPo,4,14.8,900,90,13.32,XT30,Cinewhoop,Cinewhoop
+BAT-0330,Ovonic,Batteries,LiPo FPV Battery,LiPo,6,22.2,1600,130,35.52,XT60,Racing FPV,FPV
+BAT-0331,CNHL,Batteries,LiPo FPV Battery,LiPo,6,22.2,2050,100,45.51,XT60,Long Range FPV,FPV
+BAT-0332,Gens Ace,Batteries,LiPo FPV Battery,LiPo,4,14.8,1300,100,19.24,XT60,Freestyle FPV,FPV
+BAT-0333,Gens Ace,Batteries,LiPo FPV Battery,LiPo,6,22.2,1550,110,34.41,XT60,Racing FPV,FPV
+BAT-0334,CNHL,Batteries,LiPo FPV Battery,LiPo,4,14.8,1550,130,22.94,XT60,Freestyle FPV,FPV
+BAT-0335,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,4,14.8,1200,130,17.76,XT60,Freestyle FPV,FPV
+BAT-0336,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,6,22.2,1450,130,32.19,XT60,Racing FPV,FPV
+BAT-0337,Tattu,Batteries,LiPo FPV Battery,LiPo,6,22.2,2200,110,48.84,XT60,Long Range FPV,FPV
+BAT-0338,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,6,22.2,1550,140,34.41,XT60,Racing FPV,FPV
+BAT-0339,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6,22.2,1500,140,33.3,XT60,Freestyle FPV,FPV
+BAT-0340,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,4,14.8,1050,130,15.54,XT60,Freestyle FPV,FPV
+BAT-0341,Tattu,Batteries,LiPo FPV Battery,LiPo,4,14.8,900,160,13.32,XT30,Cinewhoop / Racing,FPV
+BAT-0342,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6,22.2,1850,160,41.07,XT60,High Performance Racing,FPV
+BAT-0343,Gens Ace,Batteries,LiPo FPV Battery,LiPo,6,22.2,1550,110,34.41,XT60,Racing FPV,FPV
+BAT-0344,Tattu,Batteries,LiPo FPV Battery,LiPo,4,14.8,950,150,14.06,XT30,Cinewhoop / Racing,FPV
+BAT-0345,DOGCOM,Batteries,LiPo FPV Battery,LiPo,6,22.2,1850,160,41.07,XT60,High Performance Racing,FPV
+BAT-0346,Tattu,Batteries,LiPo FPV Battery,LiPo,6,22.2,1500,140,33.3,XT60,Racing FPV,FPV
+BAT-0347,Tattu,Batteries,LiPo FPV Battery,LiPo,6,22.2,2200,120,48.84,XT60,Long Range FPV,FPV
+BAT-0348,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,6,22.2,1450,140,32.19,XT60,Racing FPV,FPV
+BAT-0349,Ovonic,Batteries,LiPo FPV Battery,LiPo,4,14.8,1650,90,24.42,XT60,Freestyle FPV,FPV
+BAT-0350,Gaoneng GNB,Batteries,LiPo FPV Battery,LiPo,4,14.8,1200,110,17.76,XT60,Freestyle FPV,FPV

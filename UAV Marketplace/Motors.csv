@@ -1,0 +1,501 @@
+MotorID,Brand,Category,SubCategory,MotorType,MotorSize,KV_Rating,MaxCurrent_A,MaxPower_W,ShaftDiameter_mm,MountPattern_mm,RecommendedPropSize,CompatibleDroneType,IntendedUse
+MTR-0001,EMAX,Motors,FPV Motors,Brushless Outrunner,2207,1700,38,900,5,M3-16x16,5-6 inch,FPV,Freestyle / Racing
+MTR-0002,EMAX,Motors,FPV Motors,Brushless Outrunner,2807,1300,45,1200,5,M3-19x19,7 inch,FPV,Long Range / Heavy Lift
+MTR-0003,IFLIGHT,Motors,FPV Motors,Brushless Outrunner,2207,1750,40,950,5,M3-16x16,5 inch,FPV,Freestyle
+MTR-0004,IFLIGHT,Motors,FPV Motors,Brushless Outrunner,2506,1500,42,1000,5,M3-19x19,6 inch,FPV,Freestyle / Cinematic
+MTR-0005,HGLRC,Motors,FPV Motors,Brushless Outrunner,2306.5,1750,38,880,5,M3-16x16,5 inch,FPV,Freestyle
+MTR-0006,HGLRC,Motors,FPV Motors,Brushless Outrunner,2806.5,1300,45,1150,5,M3-19x19,7 inch,FPV,Cinewhoop / Long Range
+MTR-0007,BROTHERHOBBY,Motors,FPV Motors,Brushless Outrunner,2812,1115,48,1300,5,M3-19x19,7-8 inch,FPV,Long Range / Heavy Lift
+MTR-0008,T-MOTOR,Motors,FPV Motors,Brushless Outrunner,2207,1750,40,950,5,M3-16x16,5 inch,FPV,Freestyle
+MTR-0009,T-MOTOR,Motors,FPV Motors,Brushless Outrunner,2806.5,1300,46,1200,5,M3-19x19,7 inch,FPV,Long Range
+MTR-0010,RCINPOWER,Motors,FPV Motors,Brushless Outrunner,2207,1800,42,1000,5,M3-16x16,5 inch,FPV,Racing
+MTR-0011,SunnySky,Motors,Multirotor Motors,Brushless Outrunner,2212,920,18,350,3.17,M3-16x16,8-10 inch,Multirotor,Camera Drone
+MTR-0012,SunnySky,Motors,Multirotor Motors,Brushless Outrunner,2814,900,35,800,4,M3-19x19,10-12 inch,Multirotor,Mapping / Survey
+MTR-0013,T-MOTOR,Motors,Industrial UAV Motors,Brushless Outrunner,3510,700,55,1800,6,M4-25x25,15-17 inch,Agricultural,Heavy Lift UAV
+MTR-0014,T-MOTOR,Motors,Industrial UAV Motors,Brushless Outrunner,4114,400,80,2500,6,M4-25x25,18-22 inch,Agricultural,Agriculture / Spraying
+MTR-0015,EMAX,Motors,Micro FPV Motors,Brushless Outrunner,1105,5000,8,150,1.5,M2-9x9,2-3 inch,FPV,Micro FPV / Toothpick
+MTR-0016,Happymodel,Motors,Micro FPV Motors,Brushless Outrunner,802,19000,4,50,1,M1.4-6x6,1.6-2 inch,FPV,Tinywhoop
+MTR-0017,Happymodel,Motors,Micro FPV Motors,Brushless Outrunner,1103,8000,6,120,1.5,M2-9x9,2-3 inch,FPV,Micro Freestyle
+MTR-0018,SunnySky,Motors,Fixed Wing Motors,Brushless Outrunner,2216,1250,22,480,3.17,Cross Mount,9-10 inch,Fixed Wing,RC Airplane
+MTR-0019,Turnigy,Motors,Fixed Wing Motors,Brushless Outrunner,3536,910,45,1000,5,Cross Mount,12-14 inch,Fixed Wing,RC Plane / UAV
+MTR-0020,T-MOTOR,Motors,Coaxial UAV Motors,Brushless Outrunner,6015,170,120,4000,8,Custom Mount,30+ inch,Agricultural,Heavy Lift UAV
+MTR-0021,EMAX,Motors,FPV Motors,Brushless Outrunner,2306,2400,38,900,5,M3-16x16,5 inch,FPV,Racing
+MTR-0022,EMAX,Motors,FPV Motors,Brushless Outrunner,2205,2300,32,720,5,M3-16x16,5 inch,FPV,Racing / Beginner
+MTR-0023,IFLIGHT,Motors,FPV Motors,Brushless Outrunner,2208,1700,45,1050,5,M3-16x16,5-6 inch,FPV,Freestyle
+MTR-0024,IFLIGHT,Motors,FPV Motors,Brushless Outrunner,2809,1200,48,1300,5,M3-19x19,7-8 inch,FPV,Long Range
+MTR-0025,HGLRC,Motors,FPV Motors,Brushless Outrunner,2205,2300,32,700,5,M3-16x16,5 inch,FPV,Beginner FPV
+MTR-0026,HGLRC,Motors,FPV Motors,Brushless Outrunner,2004,3000,18,300,5,M3-12x12,3 inch,FPV,Micro FPV
+MTR-0027,BROTHERHOBBY,Motors,FPV Motors,Brushless Outrunner,2207,1750,40,950,5,M3-16x16,5 inch,FPV,Freestyle
+MTR-0028,BROTHERHOBBY,Motors,FPV Motors,Brushless Outrunner,2507,1500,45,1100,5,M3-19x19,6-7 inch,FPV,Long Range
+MTR-0029,T-MOTOR,Motors,FPV Motors,Brushless Outrunner,2306,1950,40,980,5,M3-16x16,5 inch,FPV,Freestyle
+MTR-0030,T-MOTOR,Motors,FPV Motors,Brushless Outrunner,2205,2300,33,750,5,M3-16x16,5 inch,FPV,Racing
+MTR-0031,RCINPOWER,Motors,FPV Motors,Brushless Outrunner,2306,1900,42,1000,5,M3-16x16,5 inch,FPV,Freestyle
+MTR-0032,RCINPOWER,Motors,FPV Motors,Brushless Outrunner,2806.5,1300,45,1150,5,M3-19x19,7 inch,FPV,Long Range
+MTR-0033,Happymodel,Motors,Micro FPV Motors,Brushless Outrunner,1202.5,6400,6,120,1.5,M2-9x9,2 inch,FPV,Tinywhoop
+MTR-0034,Happymodel,Motors,Micro FPV Motors,Brushless Outrunner,1102,13500,5,90,1,M1.4-6x6,1.6 inch,FPV,Indoor FPV
+MTR-0035,T-MOTOR,Motors,Micro FPV Motors,Brushless Outrunner,1103,8000,7,140,1.5,M2-9x9,2-3 inch,FPV,Micro Freestyle
+MTR-0036,SunnySky,Motors,Multirotor Motors,Brushless Outrunner,2216,880,20,400,3.17,M3-16x16,9-10 inch,Multirotor,Camera Drone
+MTR-0037,SunnySky,Motors,Multirotor Motors,Brushless Outrunner,3510,630,40,900,5,M3-19x19,13-15 inch,Multirotor,Mapping / Survey
+MTR-0038,T-MOTOR,Motors,Industrial UAV Motors,Brushless Outrunner,4012,420,70,2200,6,M4-25x25,18-20 inch,Agricultural,Agriculture UAV
+MTR-0039,T-MOTOR,Motors,Industrial UAV Motors,Brushless Outrunner,5010,300,90,3000,8,M4-25x25,22-26 inch,Agricultural,Heavy Lift UAV
+MTR-0040,KDE Direct,Motors,Industrial UAV Motors,Brushless Outrunner,7215,135,120,4500,10,Custom Mount,28-30 inch,Industrial,Heavy Lift UAV
+MTR-0041,EMAX,Motors,FPV Motors,Brushless Outrunner,2408,1600,46,1150,5,M3-19x19,6-7 inch,FPV,Freestyle / Long Range
+MTR-0042,EMAX,Motors,FPV Motors,Brushless Outrunner,3110,900,55,1500,5,M3-19x19,8 inch,FPV,Long Range
+MTR-0043,IFLIGHT,Motors,FPV Motors,Brushless Outrunner,2207,1850,42,1000,5,M3-16x16,5 inch,FPV,Freestyle
+MTR-0044,IFLIGHT,Motors,FPV Motors,Brushless Outrunner,2508,1200,48,1200,5,M3-19x19,7 inch,FPV,Cinematic / Long Range
+MTR-0045,HGLRC,Motors,FPV Motors,Brushless Outrunner,2105.5,2650,35,780,5,M3-16x16,5 inch,FPV,Racing
+MTR-0046,HGLRC,Motors,FPV Motors,Brushless Outrunner,2407,1700,40,950,5,M3-16x16,5-6 inch,FPV,Freestyle
+MTR-0047,BROTHERHOBBY,Motors,FPV Motors,Brushless Outrunner,2006,2400,30,650,5,M3-16x16,5 inch,FPV,Racing
+MTR-0048,BROTHERHOBBY,Motors,FPV Motors,Brushless Outrunner,2408,1300,46,1150,5,M3-19x19,6-7 inch,FPV,Long Range
+MTR-0049,T-MOTOR,Motors,FPV Motors,Brushless Outrunner,2207,1950,43,1020,5,M3-16x16,5 inch,FPV,Freestyle
+MTR-0050,T-MOTOR,Motors,FPV Motors,Brushless Outrunner,2506,1350,44,1080,5,M3-19x19,6 inch,FPV,Cinematic FPV
+MTR-0051,RCINPOWER,Motors,FPV Motors,Brushless Outrunner,2206,1700,38,900,5,M3-16x16,5 inch,FPV,Freestyle
+MTR-0052,RCINPOWER,Motors,FPV Motors,Brushless Outrunner,2408,1200,48,1200,5,M3-19x19,7 inch,FPV,Long Range
+MTR-0053,Happymodel,Motors,Micro FPV Motors,Brushless Outrunner,1204,5000,7,140,1.5,M2-9x9,3 inch,FPV,Micro Freestyle
+MTR-0054,Happymodel,Motors,Micro FPV Motors,Brushless Outrunner,803,18000,4,55,1,M1.4-6x6,1.6-2 inch,FPV,Tinywhoop
+MTR-0055,T-MOTOR,Motors,Micro FPV Motors,Brushless Outrunner,1404,4600,10,220,2,M2-9x9,3-4 inch,FPV,Micro Long Range
+MTR-0056,SunnySky,Motors,Multirotor Motors,Brushless Outrunner,2814,850,38,850,4,M3-19x19,11-12 inch,Multirotor,Mapping UAV
+MTR-0057,SunnySky,Motors,Multirotor Motors,Brushless Outrunner,4112,400,60,2000,6,M4-25x25,17-19 inch,Multirotor,Survey / Mapping
+MTR-0058,T-MOTOR,Motors,Industrial UAV Motors,Brushless Outrunner,3520,520,65,2100,6,M4-25x25,16-18 inch,Agricultural,Agriculture UAV
+MTR-0059,T-MOTOR,Motors,Industrial UAV Motors,Brushless Outrunner,5015,280,95,3200,8,M4-25x25,24-28 inch,Agricultural,Heavy Lift UAV
+MTR-0060,KDE Direct,Motors,Industrial UAV Motors,Brushless Outrunner,5215,330,85,3000,8,Custom Mount,22-26 inch,Industrial,Heavy Lift UAV
+MTR-0061,EMAX,Motors,FPV Motors,Brushless Outrunner,2207,1960,42,1000,5,M3-16x16,5 inch,FPV,Freestyle
+MTR-0062,EMAX,Motors,FPV Motors,Brushless Outrunner,2306,1700,40,950,5,M3-16x16,5 inch,FPV,Freestyle
+MTR-0063,EMAX,Motors,FPV Motors,Brushless Outrunner,2806.5,1350,46,1180,5,M3-19x19,7 inch,FPV,Long Range
+MTR-0064,IFLIGHT,Motors,FPV Motors,Brushless Outrunner,2205,2450,34,760,5,M3-16x16,5 inch,FPV,Racing
+MTR-0065,IFLIGHT,Motors,FPV Motors,Brushless Outrunner,2306,1600,42,980,5,M3-16x16,5-6 inch,FPV,Freestyle
+MTR-0066,IFLIGHT,Motors,FPV Motors,Brushless Outrunner,2808,1250,48,1250,5,M3-19x19,7-8 inch,FPV,Long Range
+MTR-0067,HGLRC,Motors,FPV Motors,Brushless Outrunner,2207,1750,40,950,5,M3-16x16,5 inch,FPV,Freestyle
+MTR-0068,HGLRC,Motors,FPV Motors,Brushless Outrunner,2506,1350,44,1050,5,M3-19x19,6 inch,FPV,Cinematic
+MTR-0069,BROTHERHOBBY,Motors,FPV Motors,Brushless Outrunner,2306,1800,42,1000,5,M3-16x16,5 inch,FPV,Freestyle
+MTR-0070,BROTHERHOBBY,Motors,FPV Motors,Brushless Outrunner,2706,1400,45,1150,5,M3-19x19,6-7 inch,FPV,Long Range
+MTR-0071,T-MOTOR,Motors,FPV Motors,Brushless Outrunner,2207,1700,40,950,5,M3-16x16,5 inch,FPV,Freestyle
+MTR-0072,T-MOTOR,Motors,FPV Motors,Brushless Outrunner,2806.5,1300,46,1200,5,M3-19x19,7 inch,FPV,Long Range
+MTR-0073,RCINPOWER,Motors,FPV Motors,Brushless Outrunner,2205,2300,33,750,5,M3-16x16,5 inch,FPV,Racing
+MTR-0074,RCINPOWER,Motors,FPV Motors,Brushless Outrunner,2306,1650,41,970,5,M3-16x16,5 inch,FPV,Freestyle
+MTR-0075,Happymodel,Motors,Micro FPV Motors,Brushless Outrunner,1103,8000,6,120,1.5,M2-9x9,2-3 inch,FPV,Micro Freestyle
+MTR-0076,Happymodel,Motors,Micro FPV Motors,Brushless Outrunner,1202.5,6400,6,120,1.5,M2-9x9,2 inch,FPV,Tinywhoop
+MTR-0077,Happymodel,Motors,Micro FPV Motors,Brushless Outrunner,1404,4600,10,220,2,M2-9x9,3 inch,FPV,Micro Long Range
+MTR-0078,T-MOTOR,Motors,Micro FPV Motors,Brushless Outrunner,1507,2800,18,380,3,M3-12x12,4 inch,FPV,Micro Cinematic
+MTR-0079,SunnySky,Motors,Multirotor Motors,Brushless Outrunner,2212,920,18,350,3.17,M3-16x16,8-10 inch,Multirotor,Camera Drone
+MTR-0080,SunnySky,Motors,Multirotor Motors,Brushless Outrunner,2814,900,35,800,4,M3-19x19,10-12 inch,Multirotor,Mapping
+MTR-0081,SunnySky,Motors,Multirotor Motors,Brushless Outrunner,3510,630,40,900,5,M3-19x19,13-15 inch,Multirotor,Survey
+MTR-0082,T-MOTOR,Motors,Industrial UAV Motors,Brushless Outrunner,3515,700,55,1800,6,M4-25x25,15-17 inch,Agricultural,Agriculture UAV
+MTR-0083,T-MOTOR,Motors,Industrial UAV Motors,Brushless Outrunner,4012,420,70,2200,6,M4-25x25,18-20 inch,Agricultural,Agriculture UAV
+MTR-0084,T-MOTOR,Motors,Industrial UAV Motors,Brushless Outrunner,5010,300,90,3000,8,M4-25x25,22-26 inch,Agricultural,Heavy Lift
+MTR-0085,T-MOTOR,Motors,Industrial UAV Motors,Brushless Outrunner,6215,170,120,4000,8,Custom Mount,30+ inch,Industrial,Heavy Lift UAV
+MTR-0086,KDE Direct,Motors,Industrial UAV Motors,Brushless Outrunner,5215,330,85,3000,8,Custom Mount,22-26 inch,Industrial,Heavy Lift UAV
+MTR-0087,KDE Direct,Motors,Industrial UAV Motors,Brushless Outrunner,7215,135,120,4500,10,Custom Mount,28-30 inch,Industrial,Heavy Lift UAV
+MTR-0088,Turnigy,Motors,Fixed Wing Motors,Brushless Outrunner,2216,1250,22,480,3.17,Cross Mount,9-10 inch,Fixed Wing,RC Aircraft
+MTR-0089,Turnigy,Motors,Fixed Wing Motors,Brushless Outrunner,2826,1200,28,650,4,Cross Mount,10-11 inch,Fixed Wing,RC Plane
+MTR-0090,Turnigy,Motors,Fixed Wing Motors,Brushless Outrunner,3536,910,45,1000,5,Cross Mount,12-14 inch,Fixed Wing,UAV Plane
+MTR-0091,SunnySky,Motors,Fixed Wing Motors,Brushless Outrunner,4020,620,55,1200,6,Cross Mount,15-17 inch,Fixed Wing,Long Endurance
+MTR-0092,T-MOTOR,Motors,Coaxial UAV Motors,Brushless Outrunner,6015,170,120,4000,8,Custom Mount,30+ inch,Agricultural,Heavy Lift
+MTR-0093,T-MOTOR,Motors,Coaxial UAV Motors,Brushless Outrunner,8120,120,150,5200,10,Custom Mount,32+ inch,Industrial,Heavy Lift UAV
+MTR-0094,EMAX,Motors,Micro FPV Motors,Brushless Outrunner,802,19000,4,50,1,M1.4-6x6,1.6 inch,FPV,Tinywhoop
+MTR-0095,EMAX,Motors,Micro FPV Motors,Brushless Outrunner,1204,5000,7,140,1.5,M2-9x9,3 inch,FPV,Micro Freestyle
+MTR-0096,HGLRC,Motors,Micro FPV Motors,Brushless Outrunner,1404,4600,10,220,2,M2-9x9,3 inch,FPV,Micro Cinematic
+MTR-0097,BROTHERHOBBY,Motors,FPV Motors,Brushless Outrunner,2507,1350,45,1100,5,M3-19x19,6-7 inch,FPV,Long Range
+MTR-0098,IFLIGHT,Motors,FPV Motors,Brushless Outrunner,3115,900,60,1600,5,M3-19x19,8 inch,FPV,Long Range
+MTR-0099,T-MOTOR,Motors,FPV Motors,Brushless Outrunner,3008,1100,50,1350,5,M3-19x19,7 inch,FPV,Cinematic LR
+MTR-0100,KDE Direct,Motors,Industrial UAV Motors,Brushless Outrunner,8618,100,180,6500,12,Custom Mount,36+ inch,Industrial,Extreme Heavy Lift
+MTR-0101,Happymodel,Motors,Brushed Motors,Coreless Brushed,615,16000,2,15,0.8,Press Fit,31mm,FPV,Tinywhoop
+MTR-0102,Eachine,Motors,Brushed Motors,Coreless Brushed,716,15000,2.5,18,1,Press Fit,40mm,FPV,Indoor Trainer
+MTR-0103,Makerfire,Motors,Brushed Motors,Coreless Brushed,615,17500,2.2,16,0.8,Press Fit,31mm,FPV,Tinywhoop
+MTR-0104,EMAX,Motors,Micro FPV Motors,Brushless Outrunner,703,15000,4,50,1,Press Fit,1.6 inch,FPV,Tinywhoop
+MTR-0105,T-MOTOR,Motors,Micro FPV Motors,Brushless Outrunner,802,22000,5,60,1,Press Fit,1.6 inch,FPV,Indoor Racing
+MTR-0106,RCINPOWER,Motors,Micro FPV Motors,Brushless Outrunner,803,18000,5,55,1,Press Fit,1.6-2 inch,FPV,Tinywhoop
+MTR-0107,NewBeeDrone,Motors,Micro FPV Motors,Brushless Outrunner,1102,13500,5,65,1.5,M2-9x9,2 inch,FPV,Indoor Racing
+MTR-0108,T-MOTOR,Motors,Cinewhoop Motors,Brushless Outrunner,2004,3000,18,300,5,M3-12x12,3 inch,FPV,Cinewhoop
+MTR-0109,IFLIGHT,Motors,Cinewhoop Motors,Brushless Outrunner,2203.5,2800,22,380,5,M3-12x12,3 inch,FPV,Cinematic FPV
+MTR-0110,HGLRC,Motors,Cinewhoop Motors,Brushless Outrunner,2006,2400,25,450,5,M3-16x16,3-4 inch,FPV,Cinematic FPV
+MTR-0111,T-MOTOR,Motors,Ducted Fan Motors,Brushless Inrunner,EDF64,5000,40,1200,5,Custom EDF,64mm EDF,Industrial,Ducted UAV
+MTR-0112,Freewing,Motors,Ducted Fan Motors,Brushless Inrunner,EDF70,4500,45,1350,5,Custom EDF,70mm EDF,Industrial,Jet UAV
+MTR-0113,T-MOTOR,Motors,Coaxial UAV Motors,Brushless Outrunner,4014,380,70,2200,6,M4-25x25,18-20 inch,Agricultural,Coaxial UAV
+MTR-0114,KDE Direct,Motors,Coaxial UAV Motors,Brushless Outrunner,5215XC,320,85,3000,8,Custom Mount,22-26 inch,Industrial,Coaxial Heavy Lift
+MTR-0115,SunnySky,Motors,Legacy Multirotor Motors,Brushless Outrunner,2212,980,20,400,3.17,M3-16x16,8-10 inch,Multirotor,Trainer Drone
+MTR-0116,Turnigy,Motors,Legacy Multirotor Motors,Brushless Outrunner,2830,850,28,650,4,Cross Mount,10-11 inch,Multirotor,DIY Drone
+MTR-0117,EMAX,Motors,Legacy FPV Motors,Brushless Outrunner,2205,2300,32,720,5,M3-16x16,5 inch,FPV,Legacy Racing
+MTR-0118,IFLIGHT,Motors,Legacy FPV Motors,Brushless Outrunner,2206,1700,36,820,5,M3-16x16,5 inch,FPV,Legacy Freestyle
+MTR-0119,T-MOTOR,Motors,Specialty UAV Motors,Brushless Outrunner,Antigravity2207,1960,40,950,5,M3-16x16,5 inch,FPV,Ultra-Light Build
+MTR-0120,KDE Direct,Motors,Specialty UAV Motors,Brushless Outrunner,DirectDrive7015,150,160,5200,10,Custom Mount,32-36 inch,Industrial,Direct Drive UAV
+MTR-0121,Cobra,Motors,Brushless Motor,Brushless Outrunner,2205,1900,55,250,2,12x12,8 inch,Industrial,Heavy Lift
+MTR-0122,RCINPower,Motors,Brushless Motor,Brushless Outrunner,1404,2550,35,450,5,16x16,4 inch,FPV,Freestyle
+MTR-0123,Flywoo,Motors,Brushless Motor,Brushless Outrunner,2205,2650,18,250,5,12x12,6 inch,FPV,Long Range
+MTR-0124,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2205,2550,25,250,1.5,16x16,8 inch,Industrial,Heavy Lift
+MTR-0125,Cobra,Motors,Brushless Motor,Brushless Outrunner,1806,2100,45,250,1.5,16x16,3 inch,FPV,Cinematic FPV
+MTR-0126,T-Motor,Motors,Brushless Motor,Brushless Outrunner,2207,2650,30,450,1.5,12x12,7 inch,FPV,Long Range
+MTR-0127,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2306,1700,25,1200,3,12x12,6 inch,FPV,Long Range
+MTR-0128,SunnySky,Motors,Brushless Motor,Brushless Outrunner,1806,2550,25,600,5,12x12,8 inch,Industrial,Heavy Lift
+MTR-0129,iFlight,Motors,Brushless Motor,Brushless Outrunner,1806,2550,22,250,1.5,12x12,5 inch,FPV,Freestyle
+MTR-0130,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2507,2100,18,1200,5,9x9,5 inch,FPV,Freestyle
+MTR-0131,T-Motor,Motors,Brushless Motor,Brushless Outrunner,2407,2650,30,450,4,16x16,5 inch,FPV,Freestyle
+MTR-0132,T-Motor,Motors,Brushless Motor,Brushless Outrunner,1404,1900,22,600,5,16x16,6 inch,FPV,Long Range
+MTR-0133,Cobra,Motors,Brushless Motor,Brushless Outrunner,2407,2650,55,250,4,12x12,10 inch,Industrial,Industrial UAV
+MTR-0134,SunnySky,Motors,Brushless Motor,Brushless Outrunner,1204,1700,35,350,3,9x9,7 inch,FPV,Long Range
+MTR-0135,Cobra,Motors,Brushless Motor,Brushless Outrunner,1204,1900,30,600,4,19x19,2 inch,FPV,Indoor FPV
+MTR-0136,SunnySky,Motors,Brushless Motor,Brushless Outrunner,1806,2300,18,1200,3,9x9,4 inch,FPV,Freestyle
+MTR-0137,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2507,2550,45,1200,4,19x19,4 inch,FPV,Freestyle
+MTR-0138,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,1204,2100,35,350,3,9x9,7 inch,FPV,Long Range
+MTR-0139,Flywoo,Motors,Brushless Motor,Brushless Outrunner,2507,2450,25,800,3,16x16,7 inch,FPV,Long Range
+MTR-0140,Cobra,Motors,Brushless Motor,Brushless Outrunner,1103,2300,55,350,5,16x16,2 inch,FPV,Indoor FPV
+MTR-0141,T-Motor,Motors,Brushless Motor,Brushless Outrunner,1103,2450,18,450,1.5,12x12,10 inch,Industrial,Industrial UAV
+MTR-0142,HGLRC,Motors,Brushless Motor,Brushless Outrunner,1404,2450,22,350,5,12x12,6 inch,FPV,Long Range
+MTR-0143,GEPRC,Motors,Brushless Motor,Brushless Outrunner,1507,2300,45,600,2,19x19,5 inch,FPV,Freestyle
+MTR-0144,Emax,Motors,Brushless Motor,Brushless Outrunner,1806,1900,25,600,5,16x16,7 inch,FPV,Long Range
+MTR-0145,Flywoo,Motors,Brushless Motor,Brushless Outrunner,2205,2100,35,350,3,12x12,5 inch,FPV,Freestyle
+MTR-0146,XNova,Motors,Brushless Motor,Brushless Outrunner,1404,2300,35,600,1.5,12x12,3 inch,FPV,Cinematic FPV
+MTR-0147,Flywoo,Motors,Brushless Motor,Brushless Outrunner,1507,2450,25,250,3,12x12,2 inch,FPV,Indoor FPV
+MTR-0148,Lumenier,Motors,Brushless Motor,Brushless Outrunner,1507,1500,18,350,3,16x16,2 inch,FPV,Indoor FPV
+MTR-0149,Cobra,Motors,Brushless Motor,Brushless Outrunner,2407,2550,45,250,1.5,16x16,6 inch,FPV,Long Range
+MTR-0150,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2004,2100,25,800,2,12x12,3 inch,FPV,Cinematic FPV
+MTR-0151,Cobra,Motors,Brushless Motor,Brushless Outrunner,2507,2550,45,600,2,12x12,5 inch,FPV,Freestyle
+MTR-0152,RCINPower,Motors,Brushless Motor,Brushless Outrunner,2407,1700,35,450,2,16x16,4 inch,FPV,Freestyle
+MTR-0153,RCINPower,Motors,Brushless Motor,Brushless Outrunner,2407,2650,45,450,1.5,16x16,7 inch,FPV,Long Range
+MTR-0154,Foxeer,Motors,Brushless Motor,Brushless Outrunner,1103,2100,45,250,1.5,19x19,2 inch,FPV,Indoor FPV
+MTR-0155,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2004,2450,55,800,5,19x19,5 inch,FPV,Freestyle
+MTR-0156,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2507,1900,30,600,1.5,19x19,10 inch,Industrial,Industrial UAV
+MTR-0157,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,1806,2450,35,450,5,9x9,8 inch,Industrial,Heavy Lift
+MTR-0158,Foxeer,Motors,Brushless Motor,Brushless Outrunner,1103,1700,30,600,1.5,19x19,6 inch,FPV,Long Range
+MTR-0159,Foxeer,Motors,Brushless Motor,Brushless Outrunner,1507,1900,45,250,5,16x16,4 inch,FPV,Freestyle
+MTR-0160,RCINPower,Motors,Brushless Motor,Brushless Outrunner,2207,2550,18,800,3,19x19,7 inch,FPV,Long Range
+MTR-0161,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2407,1500,45,350,3,19x19,3 inch,FPV,Cinematic FPV
+MTR-0162,Lumenier,Motors,Brushless Motor,Brushless Outrunner,1507,1900,45,250,4,9x9,2 inch,FPV,Indoor FPV
+MTR-0163,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,1507,2100,30,350,3,9x9,3 inch,FPV,Cinematic FPV
+MTR-0164,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2507,2450,18,600,3,19x19,8 inch,Industrial,Heavy Lift
+MTR-0165,Emax,Motors,Brushless Motor,Brushless Outrunner,2205,2300,40,600,1.5,16x16,2 inch,FPV,Indoor FPV
+MTR-0166,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2207,2450,22,800,3,19x19,2 inch,FPV,Indoor FPV
+MTR-0167,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2507,2100,40,350,1.5,9x9,5 inch,FPV,Freestyle
+MTR-0168,T-Motor,Motors,Brushless Motor,Brushless Outrunner,2407,2650,18,600,1.5,9x9,2 inch,FPV,Indoor FPV
+MTR-0169,GEPRC,Motors,Brushless Motor,Brushless Outrunner,1404,1500,55,600,4,9x9,3 inch,FPV,Cinematic FPV
+MTR-0170,Flywoo,Motors,Brushless Motor,Brushless Outrunner,2806.5,2100,25,250,1.5,9x9,6 inch,FPV,Long Range
+MTR-0171,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2507,2450,55,600,3,9x9,7 inch,FPV,Long Range
+MTR-0172,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2205,2300,45,1200,2,12x12,5 inch,FPV,Freestyle
+MTR-0173,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2207,2650,25,350,2,9x9,5 inch,FPV,Freestyle
+MTR-0174,iFlight,Motors,Brushless Motor,Brushless Outrunner,2207,1700,25,600,3,12x12,7 inch,FPV,Long Range
+MTR-0175,Foxeer,Motors,Brushless Motor,Brushless Outrunner,1404,1900,40,250,2,12x12,6 inch,FPV,Long Range
+MTR-0176,SunnySky,Motors,Brushless Motor,Brushless Outrunner,1404,2300,45,600,3,16x16,3 inch,FPV,Cinematic FPV
+MTR-0177,Emax,Motors,Brushless Motor,Brushless Outrunner,1806,2450,55,1200,3,9x9,10 inch,Industrial,Industrial UAV
+MTR-0178,RCINPower,Motors,Brushless Motor,Brushless Outrunner,2806.5,1900,18,1200,4,12x12,4 inch,FPV,Freestyle
+MTR-0179,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2306,1700,18,250,3,19x19,10 inch,Industrial,Industrial UAV
+MTR-0180,Cobra,Motors,Brushless Motor,Brushless Outrunner,1507,2300,25,350,2,9x9,2 inch,FPV,Indoor FPV
+MTR-0181,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2306,1500,25,600,4,16x16,7 inch,FPV,Long Range
+MTR-0182,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,1103,2300,40,450,4,12x12,8 inch,Industrial,Heavy Lift
+MTR-0183,Lumenier,Motors,Brushless Motor,Brushless Outrunner,1103,1500,22,250,3,16x16,5 inch,FPV,Freestyle
+MTR-0184,XNova,Motors,Brushless Motor,Brushless Outrunner,2407,2450,30,350,1.5,19x19,10 inch,Industrial,Industrial UAV
+MTR-0185,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2806.5,1900,25,600,3,9x9,2 inch,FPV,Indoor FPV
+MTR-0186,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,1204,2550,30,600,5,9x9,10 inch,Industrial,Industrial UAV
+MTR-0187,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2207,2550,45,600,4,9x9,8 inch,Industrial,Heavy Lift
+MTR-0188,Emax,Motors,Brushless Motor,Brushless Outrunner,2205,2300,40,800,3,19x19,4 inch,FPV,Freestyle
+MTR-0189,Emax,Motors,Brushless Motor,Brushless Outrunner,2507,2550,45,600,1.5,16x16,2 inch,FPV,Indoor FPV
+MTR-0190,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2004,2100,40,250,4,9x9,10 inch,Industrial,Industrial UAV
+MTR-0191,Cobra,Motors,Brushless Motor,Brushless Outrunner,1404,1700,30,350,2,19x19,6 inch,FPV,Long Range
+MTR-0192,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,1507,2650,30,450,2,16x16,3 inch,FPV,Cinematic FPV
+MTR-0193,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2407,2650,45,350,1.5,19x19,6 inch,FPV,Long Range
+MTR-0194,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2004,2650,40,450,4,12x12,4 inch,FPV,Freestyle
+MTR-0195,iFlight,Motors,Brushless Motor,Brushless Outrunner,2207,1700,22,600,4,16x16,7 inch,FPV,Long Range
+MTR-0196,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2806.5,1700,55,350,3,19x19,2 inch,FPV,Indoor FPV
+MTR-0197,SunnySky,Motors,Brushless Motor,Brushless Outrunner,1204,2300,55,600,1.5,16x16,6 inch,FPV,Long Range
+MTR-0198,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2205,2550,40,450,4,12x12,2 inch,FPV,Indoor FPV
+MTR-0199,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,2306,1500,40,1200,5,12x12,4 inch,FPV,Freestyle
+MTR-0200,XNova,Motors,Brushless Motor,Brushless Outrunner,1507,1900,45,350,2,16x16,3 inch,FPV,Cinematic FPV
+MTR-0201,Cobra,Motors,Brushless Motor,Brushless Outrunner,2407,2550,45,350,4,19x19,4 inch,FPV,Freestyle
+MTR-0202,Emax,Motors,Brushless Motor,Brushless Outrunner,2205,2100,45,800,4,19x19,6 inch,FPV,Long Range
+MTR-0203,XNova,Motors,Brushless Motor,Brushless Outrunner,1204,2100,22,250,1.5,19x19,10 inch,Industrial,Industrial UAV
+MTR-0204,Cobra,Motors,Brushless Motor,Brushless Outrunner,2806.5,1500,30,800,5,16x16,5 inch,FPV,Freestyle
+MTR-0205,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2407,1700,18,250,1.5,16x16,8 inch,Industrial,Heavy Lift
+MTR-0206,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2806.5,2300,18,600,1.5,19x19,7 inch,FPV,Long Range
+MTR-0207,T-Motor,Motors,Brushless Motor,Brushless Outrunner,2207,1900,40,1200,1.5,9x9,10 inch,Industrial,Industrial UAV
+MTR-0208,GEPRC,Motors,Brushless Motor,Brushless Outrunner,1806,1700,22,350,4,12x12,3 inch,FPV,Cinematic FPV
+MTR-0209,Lumenier,Motors,Brushless Motor,Brushless Outrunner,1404,1700,25,1200,3,12x12,10 inch,Industrial,Industrial UAV
+MTR-0210,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2507,2550,18,800,2,19x19,10 inch,Industrial,Industrial UAV
+MTR-0211,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2205,2100,45,800,5,9x9,7 inch,FPV,Long Range
+MTR-0212,GEPRC,Motors,Brushless Motor,Brushless Outrunner,1507,1700,18,600,4,9x9,2 inch,FPV,Indoor FPV
+MTR-0213,Flywoo,Motors,Brushless Motor,Brushless Outrunner,2407,1700,22,450,5,16x16,5 inch,FPV,Freestyle
+MTR-0214,Emax,Motors,Brushless Motor,Brushless Outrunner,2207,2450,25,250,2,12x12,6 inch,FPV,Long Range
+MTR-0215,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2207,2550,18,250,1.5,16x16,7 inch,FPV,Long Range
+MTR-0216,iFlight,Motors,Brushless Motor,Brushless Outrunner,1103,2300,18,1200,4,19x19,5 inch,FPV,Freestyle
+MTR-0217,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,1507,1900,18,800,1.5,12x12,5 inch,FPV,Freestyle
+MTR-0218,Flywoo,Motors,Brushless Motor,Brushless Outrunner,1103,2300,22,800,4,16x16,4 inch,FPV,Freestyle
+MTR-0219,Emax,Motors,Brushless Motor,Brushless Outrunner,2806.5,2450,30,450,5,12x12,10 inch,Industrial,Industrial UAV
+MTR-0220,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,1204,1500,55,800,3,9x9,8 inch,Industrial,Heavy Lift
+MTR-0221,HGLRC,Motors,Brushless Motor,Brushless Outrunner,1103,2100,55,800,3,12x12,2 inch,FPV,Indoor FPV
+MTR-0222,Cobra,Motors,Brushless Motor,Brushless Outrunner,2004,1700,30,450,5,12x12,2 inch,FPV,Indoor FPV
+MTR-0223,Cobra,Motors,Brushless Motor,Brushless Outrunner,1507,2550,30,450,2,19x19,7 inch,FPV,Long Range
+MTR-0224,XNova,Motors,Brushless Motor,Brushless Outrunner,2806.5,2650,45,800,5,9x9,3 inch,FPV,Cinematic FPV
+MTR-0225,Flywoo,Motors,Brushless Motor,Brushless Outrunner,2207,2100,22,1200,2,12x12,3 inch,FPV,Cinematic FPV
+MTR-0226,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,1507,1500,35,250,5,19x19,8 inch,Industrial,Heavy Lift
+MTR-0227,Emax,Motors,Brushless Motor,Brushless Outrunner,1103,2650,55,600,4,12x12,7 inch,FPV,Long Range
+MTR-0228,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,2205,2100,35,350,1.5,9x9,8 inch,Industrial,Heavy Lift
+MTR-0229,Cobra,Motors,Brushless Motor,Brushless Outrunner,2507,2300,55,250,4,12x12,3 inch,FPV,Cinematic FPV
+MTR-0230,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2306,1500,55,600,3,9x9,3 inch,FPV,Cinematic FPV
+MTR-0231,Emax,Motors,Brushless Motor,Brushless Outrunner,1806,1500,55,350,3,12x12,2 inch,FPV,Indoor FPV
+MTR-0232,T-Motor,Motors,Brushless Motor,Brushless Outrunner,2004,1900,40,350,2,19x19,10 inch,Industrial,Industrial UAV
+MTR-0233,Foxeer,Motors,Brushless Motor,Brushless Outrunner,1103,2450,18,1200,3,12x12,5 inch,FPV,Freestyle
+MTR-0234,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2806.5,1700,55,600,4,9x9,2 inch,FPV,Indoor FPV
+MTR-0235,Flywoo,Motors,Brushless Motor,Brushless Outrunner,1507,2100,30,600,5,16x16,2 inch,FPV,Indoor FPV
+MTR-0236,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2507,1500,30,250,5,19x19,6 inch,FPV,Long Range
+MTR-0237,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2205,1700,22,450,5,12x12,10 inch,Industrial,Industrial UAV
+MTR-0238,Cobra,Motors,Brushless Motor,Brushless Outrunner,2306,2650,22,450,2,9x9,8 inch,Industrial,Heavy Lift
+MTR-0239,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2306,2550,22,1200,1.5,19x19,10 inch,Industrial,Industrial UAV
+MTR-0240,T-Motor,Motors,Brushless Motor,Brushless Outrunner,1404,2550,35,600,2,19x19,4 inch,FPV,Freestyle
+MTR-0241,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2207,2100,22,800,3,16x16,4 inch,FPV,Freestyle
+MTR-0242,Cobra,Motors,Brushless Motor,Brushless Outrunner,2205,2100,35,350,5,16x16,5 inch,FPV,Freestyle
+MTR-0243,Foxeer,Motors,Brushless Motor,Brushless Outrunner,1103,2650,25,800,4,16x16,8 inch,Industrial,Heavy Lift
+MTR-0244,RCINPower,Motors,Brushless Motor,Brushless Outrunner,2205,1900,25,350,4,12x12,3 inch,FPV,Cinematic FPV
+MTR-0245,HGLRC,Motors,Brushless Motor,Brushless Outrunner,1103,2650,55,800,5,16x16,10 inch,Industrial,Industrial UAV
+MTR-0246,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2407,1700,55,1200,4,19x19,10 inch,Industrial,Industrial UAV
+MTR-0247,Emax,Motors,Brushless Motor,Brushless Outrunner,1404,2300,30,250,1.5,16x16,8 inch,Industrial,Heavy Lift
+MTR-0248,HGLRC,Motors,Brushless Motor,Brushless Outrunner,1103,2550,30,350,5,16x16,8 inch,Industrial,Heavy Lift
+MTR-0249,iFlight,Motors,Brushless Motor,Brushless Outrunner,1204,1500,22,1200,3,16x16,4 inch,FPV,Freestyle
+MTR-0250,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2207,1900,55,800,1.5,9x9,10 inch,Industrial,Industrial UAV
+MTR-0251,Flywoo,Motors,Brushless Motor,Brushless Outrunner,2207,2300,18,350,2,19x19,3 inch,FPV,Cinematic FPV
+MTR-0252,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2407,2300,55,250,2,19x19,8 inch,Industrial,Heavy Lift
+MTR-0253,Flywoo,Motors,Brushless Motor,Brushless Outrunner,1806,1900,40,250,2,12x12,7 inch,FPV,Long Range
+MTR-0254,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2205,2300,40,600,3,9x9,8 inch,Industrial,Heavy Lift
+MTR-0255,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2806.5,2300,25,600,3,19x19,5 inch,FPV,Freestyle
+MTR-0256,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,1806,2550,35,250,4,9x9,3 inch,FPV,Cinematic FPV
+MTR-0257,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2806.5,1700,55,250,5,16x16,10 inch,Industrial,Industrial UAV
+MTR-0258,HGLRC,Motors,Brushless Motor,Brushless Outrunner,1806,1700,18,250,1.5,16x16,6 inch,FPV,Long Range
+MTR-0259,RCINPower,Motors,Brushless Motor,Brushless Outrunner,1404,2450,40,350,5,19x19,4 inch,FPV,Freestyle
+MTR-0260,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,1507,2100,30,350,5,12x12,2 inch,FPV,Indoor FPV
+MTR-0261,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2306,1900,22,450,2,19x19,5 inch,FPV,Freestyle
+MTR-0262,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2407,2100,25,600,3,19x19,5 inch,FPV,Freestyle
+MTR-0263,T-Motor,Motors,Brushless Motor,Brushless Outrunner,2407,2300,40,450,4,12x12,5 inch,FPV,Freestyle
+MTR-0264,Emax,Motors,Brushless Motor,Brushless Outrunner,2507,2550,35,1200,5,16x16,6 inch,FPV,Long Range
+MTR-0265,XNova,Motors,Brushless Motor,Brushless Outrunner,2205,2100,45,250,5,19x19,5 inch,FPV,Freestyle
+MTR-0266,Emax,Motors,Brushless Motor,Brushless Outrunner,2806.5,1900,30,1200,4,19x19,3 inch,FPV,Cinematic FPV
+MTR-0267,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2806.5,2100,40,450,4,16x16,4 inch,FPV,Freestyle
+MTR-0268,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,1404,2100,55,1200,3,16x16,4 inch,FPV,Freestyle
+MTR-0269,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,2407,1700,45,350,5,9x9,4 inch,FPV,Freestyle
+MTR-0270,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2004,1500,25,250,4,12x12,4 inch,FPV,Freestyle
+MTR-0271,T-Motor,Motors,Brushless Motor,Brushless Outrunner,2004,2450,22,1200,3,9x9,2 inch,FPV,Indoor FPV
+MTR-0272,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2004,2650,35,1200,3,19x19,6 inch,FPV,Long Range
+MTR-0273,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2806.5,1700,18,600,5,9x9,4 inch,FPV,Freestyle
+MTR-0274,Cobra,Motors,Brushless Motor,Brushless Outrunner,1507,1900,55,600,1.5,19x19,5 inch,FPV,Freestyle
+MTR-0275,iFlight,Motors,Brushless Motor,Brushless Outrunner,1404,1900,55,250,5,16x16,8 inch,Industrial,Heavy Lift
+MTR-0276,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2205,2450,25,350,5,12x12,6 inch,FPV,Long Range
+MTR-0277,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2806.5,2450,45,600,5,16x16,3 inch,FPV,Cinematic FPV
+MTR-0278,GEPRC,Motors,Brushless Motor,Brushless Outrunner,1103,2100,55,800,2,12x12,4 inch,FPV,Freestyle
+MTR-0279,T-Motor,Motors,Brushless Motor,Brushless Outrunner,2207,2300,18,450,1.5,19x19,2 inch,FPV,Indoor FPV
+MTR-0280,iFlight,Motors,Brushless Motor,Brushless Outrunner,2507,2100,45,250,3,12x12,7 inch,FPV,Long Range
+MTR-0281,Cobra,Motors,Brushless Motor,Brushless Outrunner,2205,1500,22,800,4,9x9,7 inch,FPV,Long Range
+MTR-0282,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,1404,2550,18,800,1.5,12x12,3 inch,FPV,Cinematic FPV
+MTR-0283,Lumenier,Motors,Brushless Motor,Brushless Outrunner,1103,1500,30,800,1.5,9x9,6 inch,FPV,Long Range
+MTR-0284,T-Motor,Motors,Brushless Motor,Brushless Outrunner,2407,2300,35,800,1.5,9x9,6 inch,FPV,Long Range
+MTR-0285,Cobra,Motors,Brushless Motor,Brushless Outrunner,2806.5,1900,40,450,1.5,12x12,5 inch,FPV,Freestyle
+MTR-0286,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2207,2450,30,1200,2,19x19,6 inch,FPV,Long Range
+MTR-0287,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2507,2550,25,250,4,12x12,5 inch,FPV,Freestyle
+MTR-0288,Flywoo,Motors,Brushless Motor,Brushless Outrunner,1806,2650,22,1200,5,9x9,7 inch,FPV,Long Range
+MTR-0289,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2407,1900,40,1200,3,16x16,10 inch,Industrial,Industrial UAV
+MTR-0290,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2407,1900,45,450,2,12x12,6 inch,FPV,Long Range
+MTR-0291,iFlight,Motors,Brushless Motor,Brushless Outrunner,2207,1900,22,1200,1.5,12x12,7 inch,FPV,Long Range
+MTR-0292,T-Motor,Motors,Brushless Motor,Brushless Outrunner,1103,2100,55,350,1.5,16x16,8 inch,Industrial,Heavy Lift
+MTR-0293,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,1103,2100,35,450,4,16x16,6 inch,FPV,Long Range
+MTR-0294,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2507,2100,55,250,1.5,12x12,2 inch,FPV,Indoor FPV
+MTR-0295,iFlight,Motors,Brushless Motor,Brushless Outrunner,1103,2650,40,250,1.5,19x19,5 inch,FPV,Freestyle
+MTR-0296,HGLRC,Motors,Brushless Motor,Brushless Outrunner,1507,2550,18,1200,1.5,19x19,8 inch,Industrial,Heavy Lift
+MTR-0297,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2306,2650,22,250,4,12x12,4 inch,FPV,Freestyle
+MTR-0298,Cobra,Motors,Brushless Motor,Brushless Outrunner,2306,2300,25,600,4,12x12,6 inch,FPV,Long Range
+MTR-0299,Lumenier,Motors,Brushless Motor,Brushless Outrunner,1806,1500,25,350,3,9x9,6 inch,FPV,Long Range
+MTR-0300,T-Motor,Motors,Brushless Motor,Brushless Outrunner,2507,2650,30,250,3,19x19,2 inch,FPV,Indoor FPV
+MTR-0301,Foxeer,Motors,Brushless Motor,Brushless Outrunner,1103,2450,40,650,3,16x16,5 inch,FPV,Freestyle FPV
+MTR-0302,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2205,1700,20,500,5,16x16,2 inch,FPV,Indoor FPV
+MTR-0303,Flywoo,Motors,Brushless Motor,Brushless Outrunner,1507,2100,60,1200,1.5,9x9,8 inch,Industrial,Heavy Lift UAV
+MTR-0304,Emax,Motors,Brushless Motor,Brushless Outrunner,1507,1700,40,1200,4,16x16,10 inch,Industrial,Industrial UAV
+MTR-0305,HGLRC,Motors,Brushless Motor,Brushless Outrunner,1806,2100,45,300,5,16x16,5 inch,FPV,Freestyle FPV
+MTR-0306,Cobra,Motors,Brushless Motor,Brushless Outrunner,2407,1700,45,500,2,12x12,6 inch,FPV,Long Range FPV
+MTR-0307,Flywoo,Motors,Brushless Motor,Brushless Outrunner,2806.5,1900,30,1000,1.5,16x16,5 inch,FPV,Freestyle FPV
+MTR-0308,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2207,1700,45,800,3,12x12,10 inch,Industrial,Industrial UAV
+MTR-0309,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2004,1900,45,650,1.5,19x19,5 inch,FPV,Freestyle FPV
+MTR-0310,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,2004,2300,25,500,3,16x16,4 inch,FPV,Freestyle FPV
+MTR-0311,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2205,2550,40,650,3,19x19,5 inch,FPV,Freestyle FPV
+MTR-0312,Flywoo,Motors,Brushless Motor,Brushless Outrunner,1103,2300,20,400,2,16x16,4 inch,FPV,Freestyle FPV
+MTR-0313,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2306,1500,30,500,1.5,9x9,4 inch,FPV,Freestyle FPV
+MTR-0314,RCINPower,Motors,Brushless Motor,Brushless Outrunner,2306,2550,45,800,3,16x16,2 inch,FPV,Indoor FPV
+MTR-0315,Foxeer,Motors,Brushless Motor,Brushless Outrunner,1507,1700,20,300,1.5,9x9,8 inch,Industrial,Heavy Lift UAV
+MTR-0316,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2806.5,2450,30,1200,1.5,9x9,3 inch,FPV,Cinematic FPV
+MTR-0317,Emax,Motors,Brushless Motor,Brushless Outrunner,2407,1900,60,650,1.5,16x16,2 inch,FPV,Indoor FPV
+MTR-0318,iFlight,Motors,Brushless Motor,Brushless Outrunner,2205,1500,30,1000,1.5,16x16,7 inch,FPV,Long Range FPV
+MTR-0319,Lumenier,Motors,Brushless Motor,Brushless Outrunner,1204,1700,20,500,5,12x12,6 inch,FPV,Long Range FPV
+MTR-0320,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,2207,2550,30,1200,1.5,19x19,4 inch,FPV,Freestyle FPV
+MTR-0321,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2205,2300,60,1200,1.5,16x16,7 inch,FPV,Long Range FPV
+MTR-0322,XNova,Motors,Brushless Motor,Brushless Outrunner,1507,2100,25,650,4,9x9,6 inch,FPV,Long Range FPV
+MTR-0323,Cobra,Motors,Brushless Motor,Brushless Outrunner,2004,2550,50,300,1.5,16x16,6 inch,FPV,Long Range FPV
+MTR-0324,iFlight,Motors,Brushless Motor,Brushless Outrunner,1103,2550,35,1200,1.5,12x12,7 inch,FPV,Long Range FPV
+MTR-0325,Cobra,Motors,Brushless Motor,Brushless Outrunner,2306,2650,60,1000,1.5,16x16,5 inch,FPV,Freestyle FPV
+MTR-0326,iFlight,Motors,Brushless Motor,Brushless Outrunner,1103,2300,30,300,2,19x19,2 inch,FPV,Indoor FPV
+MTR-0327,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2207,2300,45,800,2,12x12,4 inch,FPV,Freestyle FPV
+MTR-0328,XNova,Motors,Brushless Motor,Brushless Outrunner,2407,1900,45,1000,3,16x16,3 inch,FPV,Cinematic FPV
+MTR-0329,Foxeer,Motors,Brushless Motor,Brushless Outrunner,1204,1700,20,1200,3,9x9,10 inch,Industrial,Industrial UAV
+MTR-0330,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2207,2100,50,650,5,9x9,2 inch,FPV,Indoor FPV
+MTR-0331,Flywoo,Motors,Brushless Motor,Brushless Outrunner,2407,2650,45,650,1.5,19x19,6 inch,FPV,Long Range FPV
+MTR-0332,Flywoo,Motors,Brushless Motor,Brushless Outrunner,1103,2100,60,800,4,16x16,10 inch,Industrial,Industrial UAV
+MTR-0333,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2407,2650,40,800,2,16x16,7 inch,FPV,Long Range FPV
+MTR-0334,Flywoo,Motors,Brushless Motor,Brushless Outrunner,1806,2550,60,650,2,19x19,4 inch,FPV,Freestyle FPV
+MTR-0335,Emax,Motors,Brushless Motor,Brushless Outrunner,1204,1900,35,650,2,16x16,6 inch,FPV,Long Range FPV
+MTR-0336,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2407,2100,50,1200,3,9x9,2 inch,FPV,Indoor FPV
+MTR-0337,Cobra,Motors,Brushless Motor,Brushless Outrunner,2004,1700,20,300,4,9x9,4 inch,FPV,Freestyle FPV
+MTR-0338,Emax,Motors,Brushless Motor,Brushless Outrunner,2306,1700,20,400,4,19x19,5 inch,FPV,Freestyle FPV
+MTR-0339,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2207,1500,20,300,4,19x19,6 inch,FPV,Long Range FPV
+MTR-0340,T-Motor,Motors,Brushless Motor,Brushless Outrunner,2207,2550,20,400,2,19x19,10 inch,Industrial,Industrial UAV
+MTR-0341,XNova,Motors,Brushless Motor,Brushless Outrunner,2207,1500,25,400,5,12x12,10 inch,Industrial,Industrial UAV
+MTR-0342,Flywoo,Motors,Brushless Motor,Brushless Outrunner,1204,2450,50,300,1.5,19x19,7 inch,FPV,Long Range FPV
+MTR-0343,Emax,Motors,Brushless Motor,Brushless Outrunner,1507,2300,25,400,4,16x16,6 inch,FPV,Long Range FPV
+MTR-0344,Emax,Motors,Brushless Motor,Brushless Outrunner,2806.5,1900,40,1200,2,12x12,4 inch,FPV,Freestyle FPV
+MTR-0345,Flywoo,Motors,Brushless Motor,Brushless Outrunner,1806,2300,35,300,1.5,19x19,5 inch,FPV,Freestyle FPV
+MTR-0346,XNova,Motors,Brushless Motor,Brushless Outrunner,1507,2100,35,1200,3,9x9,4 inch,FPV,Freestyle FPV
+MTR-0347,RCINPower,Motors,Brushless Motor,Brushless Outrunner,2806.5,2450,20,1000,2,16x16,2 inch,FPV,Indoor FPV
+MTR-0348,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2205,1700,60,300,1.5,12x12,3 inch,FPV,Cinematic FPV
+MTR-0349,GEPRC,Motors,Brushless Motor,Brushless Outrunner,1507,1900,60,500,5,9x9,7 inch,FPV,Long Range FPV
+MTR-0350,XNova,Motors,Brushless Motor,Brushless Outrunner,2407,1900,35,800,4,12x12,4 inch,FPV,Freestyle FPV
+MTR-0351,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2004,2300,35,500,4,19x19,4 inch,FPV,Freestyle FPV
+MTR-0352,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2205,1900,45,500,2,9x9,2 inch,FPV,Indoor FPV
+MTR-0353,Cobra,Motors,Brushless Motor,Brushless Outrunner,2306,1700,60,500,3,12x12,2 inch,FPV,Indoor FPV
+MTR-0354,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2507,1900,50,500,5,12x12,8 inch,Industrial,Heavy Lift UAV
+MTR-0355,Emax,Motors,Brushless Motor,Brushless Outrunner,2205,2550,45,650,5,16x16,7 inch,FPV,Long Range FPV
+MTR-0356,Emax,Motors,Brushless Motor,Brushless Outrunner,2306,2100,50,800,1.5,19x19,5 inch,FPV,Freestyle FPV
+MTR-0357,Flywoo,Motors,Brushless Motor,Brushless Outrunner,2407,2650,35,650,2,9x9,7 inch,FPV,Long Range FPV
+MTR-0358,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,1507,2550,40,1200,4,16x16,4 inch,FPV,Freestyle FPV
+MTR-0359,Cobra,Motors,Brushless Motor,Brushless Outrunner,2004,2450,45,1200,4,16x16,6 inch,FPV,Long Range FPV
+MTR-0360,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2306,1900,25,1000,3,16x16,7 inch,FPV,Long Range FPV
+MTR-0361,iFlight,Motors,Brushless Motor,Brushless Outrunner,2306,1700,20,400,1.5,19x19,7 inch,FPV,Long Range FPV
+MTR-0362,GEPRC,Motors,Brushless Motor,Brushless Outrunner,1103,1500,20,400,4,12x12,8 inch,Industrial,Heavy Lift UAV
+MTR-0363,iFlight,Motors,Brushless Motor,Brushless Outrunner,1404,1500,20,300,3,9x9,2 inch,FPV,Indoor FPV
+MTR-0364,iFlight,Motors,Brushless Motor,Brushless Outrunner,1806,1900,20,500,4,9x9,8 inch,Industrial,Heavy Lift UAV
+MTR-0365,XNova,Motors,Brushless Motor,Brushless Outrunner,2207,2300,30,1200,1.5,19x19,10 inch,Industrial,Industrial UAV
+MTR-0366,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2507,2100,50,400,2,16x16,7 inch,FPV,Long Range FPV
+MTR-0367,iFlight,Motors,Brushless Motor,Brushless Outrunner,1507,2450,40,400,1.5,9x9,2 inch,FPV,Indoor FPV
+MTR-0368,Emax,Motors,Brushless Motor,Brushless Outrunner,1507,2650,30,800,4,19x19,5 inch,FPV,Freestyle FPV
+MTR-0369,iFlight,Motors,Brushless Motor,Brushless Outrunner,1507,1500,25,650,5,9x9,2 inch,FPV,Indoor FPV
+MTR-0370,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,2205,1500,30,300,5,12x12,5 inch,FPV,Freestyle FPV
+MTR-0371,Cobra,Motors,Brushless Motor,Brushless Outrunner,1507,1900,35,1200,1.5,16x16,2 inch,FPV,Indoor FPV
+MTR-0372,HGLRC,Motors,Brushless Motor,Brushless Outrunner,1404,2300,45,300,1.5,19x19,2 inch,FPV,Indoor FPV
+MTR-0373,GEPRC,Motors,Brushless Motor,Brushless Outrunner,1507,2450,40,650,3,16x16,2 inch,FPV,Indoor FPV
+MTR-0374,iFlight,Motors,Brushless Motor,Brushless Outrunner,2306,2100,40,300,4,9x9,3 inch,FPV,Cinematic FPV
+MTR-0375,iFlight,Motors,Brushless Motor,Brushless Outrunner,2507,2300,40,1200,2,9x9,5 inch,FPV,Freestyle FPV
+MTR-0376,Emax,Motors,Brushless Motor,Brushless Outrunner,2507,2300,30,800,5,12x12,10 inch,Industrial,Industrial UAV
+MTR-0377,Emax,Motors,Brushless Motor,Brushless Outrunner,2407,1500,30,800,2,9x9,2 inch,FPV,Indoor FPV
+MTR-0378,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2004,1900,35,800,4,19x19,2 inch,FPV,Indoor FPV
+MTR-0379,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2306,2450,50,1200,5,16x16,3 inch,FPV,Cinematic FPV
+MTR-0380,Emax,Motors,Brushless Motor,Brushless Outrunner,2207,2450,20,400,5,9x9,7 inch,FPV,Long Range FPV
+MTR-0381,Lumenier,Motors,Brushless Motor,Brushless Outrunner,1806,2100,40,300,1.5,16x16,3 inch,FPV,Cinematic FPV
+MTR-0382,XNova,Motors,Brushless Motor,Brushless Outrunner,1204,2300,45,400,5,9x9,6 inch,FPV,Long Range FPV
+MTR-0383,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2507,2300,30,400,1.5,16x16,5 inch,FPV,Freestyle FPV
+MTR-0384,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2507,1900,60,300,5,19x19,5 inch,FPV,Freestyle FPV
+MTR-0385,XNova,Motors,Brushless Motor,Brushless Outrunner,2407,1700,40,400,3,16x16,10 inch,Industrial,Industrial UAV
+MTR-0386,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2306,2450,20,800,1.5,9x9,2 inch,FPV,Indoor FPV
+MTR-0387,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2306,2550,20,1000,3,19x19,10 inch,Industrial,Industrial UAV
+MTR-0388,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2306,2450,60,400,5,12x12,8 inch,Industrial,Heavy Lift UAV
+MTR-0389,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2806.5,2550,45,650,2,19x19,8 inch,Industrial,Heavy Lift UAV
+MTR-0390,GEPRC,Motors,Brushless Motor,Brushless Outrunner,1204,2650,35,650,4,16x16,3 inch,FPV,Cinematic FPV
+MTR-0391,Cobra,Motors,Brushless Motor,Brushless Outrunner,1204,2300,40,1200,4,16x16,6 inch,FPV,Long Range FPV
+MTR-0392,Emax,Motors,Brushless Motor,Brushless Outrunner,2205,1700,20,500,5,16x16,5 inch,FPV,Freestyle FPV
+MTR-0393,T-Motor,Motors,Brushless Motor,Brushless Outrunner,1507,1500,50,1200,4,12x12,2 inch,FPV,Indoor FPV
+MTR-0394,Cobra,Motors,Brushless Motor,Brushless Outrunner,2507,2300,35,400,2,12x12,6 inch,FPV,Long Range FPV
+MTR-0395,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,2507,1500,35,1000,1.5,12x12,4 inch,FPV,Freestyle FPV
+MTR-0396,Lumenier,Motors,Brushless Motor,Brushless Outrunner,1404,2300,25,1200,5,9x9,2 inch,FPV,Indoor FPV
+MTR-0397,iFlight,Motors,Brushless Motor,Brushless Outrunner,2004,1500,35,500,1.5,19x19,2 inch,FPV,Indoor FPV
+MTR-0398,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2407,2100,60,400,5,16x16,3 inch,FPV,Cinematic FPV
+MTR-0399,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2205,2300,45,500,1.5,19x19,6 inch,FPV,Long Range FPV
+MTR-0400,HGLRC,Motors,Brushless Motor,Brushless Outrunner,1204,2300,50,650,1.5,19x19,4 inch,FPV,Freestyle FPV
+MTR-0401,GEPRC,Motors,Brushless Motor,Brushless Outrunner,1806,2450,30,400,4,12x12,2 inch,FPV,Indoor FPV
+MTR-0402,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2205,2550,45,400,1.5,9x9,8 inch,Industrial,Heavy Lift UAV
+MTR-0403,Cobra,Motors,Brushless Motor,Brushless Outrunner,1404,1900,35,650,5,19x19,5 inch,FPV,Freestyle FPV
+MTR-0404,T-Motor,Motors,Brushless Motor,Brushless Outrunner,1404,2550,45,300,3,12x12,6 inch,FPV,Long Range FPV
+MTR-0405,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2205,1700,35,300,3,16x16,2 inch,FPV,Indoor FPV
+MTR-0406,XNova,Motors,Brushless Motor,Brushless Outrunner,2207,2300,40,500,3,9x9,7 inch,FPV,Long Range FPV
+MTR-0407,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,1507,1900,30,300,3,19x19,6 inch,FPV,Long Range FPV
+MTR-0408,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2205,2300,35,400,1.5,16x16,7 inch,FPV,Long Range FPV
+MTR-0409,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2205,1700,50,1000,3,19x19,7 inch,FPV,Long Range FPV
+MTR-0410,XNova,Motors,Brushless Motor,Brushless Outrunner,2205,2650,20,1200,4,16x16,4 inch,FPV,Freestyle FPV
+MTR-0411,iFlight,Motors,Brushless Motor,Brushless Outrunner,2207,1500,20,800,4,12x12,5 inch,FPV,Freestyle FPV
+MTR-0412,XNova,Motors,Brushless Motor,Brushless Outrunner,1204,2650,40,1200,3,19x19,4 inch,FPV,Freestyle FPV
+MTR-0413,XNova,Motors,Brushless Motor,Brushless Outrunner,2004,2300,50,1000,1.5,9x9,4 inch,FPV,Freestyle FPV
+MTR-0414,RCINPower,Motors,Brushless Motor,Brushless Outrunner,2507,1700,45,300,5,16x16,3 inch,FPV,Cinematic FPV
+MTR-0415,XNova,Motors,Brushless Motor,Brushless Outrunner,2806.5,2450,20,1000,3,12x12,3 inch,FPV,Cinematic FPV
+MTR-0416,SunnySky,Motors,Brushless Motor,Brushless Outrunner,1507,1700,30,500,5,12x12,3 inch,FPV,Cinematic FPV
+MTR-0417,Lumenier,Motors,Brushless Motor,Brushless Outrunner,1204,2300,35,650,4,19x19,3 inch,FPV,Cinematic FPV
+MTR-0418,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,2306,1900,20,400,2,12x12,3 inch,FPV,Cinematic FPV
+MTR-0419,T-Motor,Motors,Brushless Motor,Brushless Outrunner,2004,1500,30,1200,4,12x12,10 inch,Industrial,Industrial UAV
+MTR-0420,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2507,1700,40,650,2,9x9,6 inch,FPV,Long Range FPV
+MTR-0421,Emax,Motors,Brushless Motor,Brushless Outrunner,2407,1500,20,300,5,19x19,7 inch,FPV,Long Range FPV
+MTR-0422,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2306,2300,50,400,3,16x16,10 inch,Industrial,Industrial UAV
+MTR-0423,SunnySky,Motors,Brushless Motor,Brushless Outrunner,1103,1900,45,650,2,19x19,8 inch,Industrial,Heavy Lift UAV
+MTR-0424,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2507,2300,40,300,5,9x9,8 inch,Industrial,Heavy Lift UAV
+MTR-0425,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2207,2300,40,650,3,9x9,8 inch,Industrial,Heavy Lift UAV
+MTR-0426,iFlight,Motors,Brushless Motor,Brushless Outrunner,2004,1500,35,500,3,9x9,3 inch,FPV,Cinematic FPV
+MTR-0427,iFlight,Motors,Brushless Motor,Brushless Outrunner,1103,2650,25,300,1.5,19x19,2 inch,FPV,Indoor FPV
+MTR-0428,RCINPower,Motors,Brushless Motor,Brushless Outrunner,2207,2650,35,400,5,9x9,6 inch,FPV,Long Range FPV
+MTR-0429,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2407,2100,20,650,2,12x12,3 inch,FPV,Cinematic FPV
+MTR-0430,iFlight,Motors,Brushless Motor,Brushless Outrunner,2507,2100,40,400,4,12x12,7 inch,FPV,Long Range FPV
+MTR-0431,SunnySky,Motors,Brushless Motor,Brushless Outrunner,1103,2650,40,300,3,12x12,7 inch,FPV,Long Range FPV
+MTR-0432,XNova,Motors,Brushless Motor,Brushless Outrunner,2306,2650,45,650,1.5,9x9,5 inch,FPV,Freestyle FPV
+MTR-0433,SunnySky,Motors,Brushless Motor,Brushless Outrunner,1806,2450,60,1000,1.5,16x16,10 inch,Industrial,Industrial UAV
+MTR-0434,XNova,Motors,Brushless Motor,Brushless Outrunner,2806.5,2100,40,800,1.5,19x19,10 inch,Industrial,Industrial UAV
+MTR-0435,Flywoo,Motors,Brushless Motor,Brushless Outrunner,2507,1500,30,300,1.5,12x12,6 inch,FPV,Long Range FPV
+MTR-0436,Flywoo,Motors,Brushless Motor,Brushless Outrunner,1204,2100,40,1000,2,16x16,3 inch,FPV,Cinematic FPV
+MTR-0437,RCINPower,Motors,Brushless Motor,Brushless Outrunner,2205,2450,30,650,2,12x12,7 inch,FPV,Long Range FPV
+MTR-0438,GEPRC,Motors,Brushless Motor,Brushless Outrunner,1806,1500,40,800,2,12x12,6 inch,FPV,Long Range FPV
+MTR-0439,SunnySky,Motors,Brushless Motor,Brushless Outrunner,1507,1900,20,400,1.5,16x16,4 inch,FPV,Freestyle FPV
+MTR-0440,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,1204,1700,25,300,5,19x19,5 inch,FPV,Freestyle FPV
+MTR-0441,RCINPower,Motors,Brushless Motor,Brushless Outrunner,2806.5,1700,20,800,1.5,12x12,8 inch,Industrial,Heavy Lift UAV
+MTR-0442,Cobra,Motors,Brushless Motor,Brushless Outrunner,1806,1500,50,300,3,12x12,6 inch,FPV,Long Range FPV
+MTR-0443,iFlight,Motors,Brushless Motor,Brushless Outrunner,1806,2450,40,300,5,19x19,2 inch,FPV,Indoor FPV
+MTR-0444,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2806.5,2300,40,1000,2,19x19,2 inch,FPV,Indoor FPV
+MTR-0445,XNova,Motors,Brushless Motor,Brushless Outrunner,2207,2100,35,800,1.5,12x12,2 inch,FPV,Indoor FPV
+MTR-0446,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2507,2650,25,500,2,16x16,7 inch,FPV,Long Range FPV
+MTR-0447,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2806.5,2650,50,1000,4,16x16,8 inch,Industrial,Heavy Lift UAV
+MTR-0448,XNova,Motors,Brushless Motor,Brushless Outrunner,1204,2450,60,650,1.5,19x19,10 inch,Industrial,Industrial UAV
+MTR-0449,XNova,Motors,Brushless Motor,Brushless Outrunner,2004,2550,40,400,2,19x19,4 inch,FPV,Freestyle FPV
+MTR-0450,GEPRC,Motors,Brushless Motor,Brushless Outrunner,2004,1900,50,400,4,12x12,7 inch,FPV,Long Range FPV
+MTR-0451,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,2507,2300,30,1200,3,9x9,5 inch,FPV,Freestyle FPV
+MTR-0452,Emax,Motors,Brushless Motor,Brushless Outrunner,2306,1900,20,300,1.5,19x19,6 inch,FPV,Long Range FPV
+MTR-0453,Emax,Motors,Brushless Motor,Brushless Outrunner,2407,2550,20,1000,3,9x9,7 inch,FPV,Long Range FPV
+MTR-0454,iFlight,Motors,Brushless Motor,Brushless Outrunner,2806.5,2450,25,400,3,9x9,2 inch,FPV,Indoor FPV
+MTR-0455,Lumenier,Motors,Brushless Motor,Brushless Outrunner,2004,2650,45,300,5,16x16,7 inch,FPV,Long Range FPV
+MTR-0456,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,1806,1900,60,500,4,9x9,7 inch,FPV,Long Range FPV
+MTR-0457,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,2806.5,1500,50,1000,3,16x16,6 inch,FPV,Long Range FPV
+MTR-0458,Foxeer,Motors,Brushless Motor,Brushless Outrunner,1204,1700,50,800,3,16x16,5 inch,FPV,Freestyle FPV
+MTR-0459,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2207,2100,25,400,3,9x9,6 inch,FPV,Long Range FPV
+MTR-0460,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2205,2300,25,1000,5,12x12,6 inch,FPV,Long Range FPV
+MTR-0461,Cobra,Motors,Brushless Motor,Brushless Outrunner,1103,1700,30,650,1.5,19x19,8 inch,Industrial,Heavy Lift UAV
+MTR-0462,GEPRC,Motors,Brushless Motor,Brushless Outrunner,1204,1900,45,800,4,19x19,6 inch,FPV,Long Range FPV
+MTR-0463,SunnySky,Motors,Brushless Motor,Brushless Outrunner,1204,2100,35,400,3,19x19,5 inch,FPV,Freestyle FPV
+MTR-0464,T-Motor,Motors,Brushless Motor,Brushless Outrunner,2004,2650,20,300,3,9x9,6 inch,FPV,Long Range FPV
+MTR-0465,T-Motor,Motors,Brushless Motor,Brushless Outrunner,2004,1500,30,300,1.5,16x16,2 inch,FPV,Indoor FPV
+MTR-0466,Emax,Motors,Brushless Motor,Brushless Outrunner,2306,1500,40,300,1.5,9x9,3 inch,FPV,Cinematic FPV
+MTR-0467,iFlight,Motors,Brushless Motor,Brushless Outrunner,1404,2450,40,1000,5,16x16,8 inch,Industrial,Heavy Lift UAV
+MTR-0468,Cobra,Motors,Brushless Motor,Brushless Outrunner,2205,1900,20,400,3,19x19,8 inch,Industrial,Heavy Lift UAV
+MTR-0469,T-Motor,Motors,Brushless Motor,Brushless Outrunner,2507,1500,30,1200,1.5,9x9,4 inch,FPV,Freestyle FPV
+MTR-0470,Flywoo,Motors,Brushless Motor,Brushless Outrunner,2806.5,1500,40,500,1.5,19x19,8 inch,Industrial,Heavy Lift UAV
+MTR-0471,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2806.5,2650,20,1000,4,9x9,10 inch,Industrial,Industrial UAV
+MTR-0472,Emax,Motors,Brushless Motor,Brushless Outrunner,2306,2100,25,400,3,12x12,7 inch,FPV,Long Range FPV
+MTR-0473,Flywoo,Motors,Brushless Motor,Brushless Outrunner,2407,2300,25,650,2,12x12,5 inch,FPV,Freestyle FPV
+MTR-0474,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,1806,2650,20,1200,2,16x16,3 inch,FPV,Cinematic FPV
+MTR-0475,iFlight,Motors,Brushless Motor,Brushless Outrunner,1103,2550,60,500,1.5,19x19,2 inch,FPV,Indoor FPV
+MTR-0476,RCINPower,Motors,Brushless Motor,Brushless Outrunner,1806,2300,20,500,3,16x16,8 inch,Industrial,Heavy Lift UAV
+MTR-0477,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2507,2100,25,800,3,12x12,8 inch,Industrial,Heavy Lift UAV
+MTR-0478,RCINPower,Motors,Brushless Motor,Brushless Outrunner,2306,2100,50,800,3,9x9,10 inch,Industrial,Industrial UAV
+MTR-0479,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2306,2100,40,650,5,12x12,8 inch,Industrial,Heavy Lift UAV
+MTR-0480,iFlight,Motors,Brushless Motor,Brushless Outrunner,2507,2650,20,1200,1.5,9x9,3 inch,FPV,Cinematic FPV
+MTR-0481,XNova,Motors,Brushless Motor,Brushless Outrunner,2407,2300,30,800,1.5,12x12,10 inch,Industrial,Industrial UAV
+MTR-0482,RCINPower,Motors,Brushless Motor,Brushless Outrunner,2407,2300,25,650,2,19x19,5 inch,FPV,Freestyle FPV
+MTR-0483,RCINPower,Motors,Brushless Motor,Brushless Outrunner,2306,1700,25,800,2,9x9,2 inch,FPV,Indoor FPV
+MTR-0484,Cobra,Motors,Brushless Motor,Brushless Outrunner,2207,1500,40,300,3,19x19,5 inch,FPV,Freestyle FPV
+MTR-0485,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2306,1500,35,300,2,12x12,4 inch,FPV,Freestyle FPV
+MTR-0486,AxisFlying,Motors,Brushless Motor,Brushless Outrunner,2507,2650,50,300,4,12x12,5 inch,FPV,Freestyle FPV
+MTR-0487,GEPRC,Motors,Brushless Motor,Brushless Outrunner,1103,2100,25,300,2,9x9,3 inch,FPV,Cinematic FPV
+MTR-0488,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,1507,1700,45,300,1.5,9x9,5 inch,FPV,Freestyle FPV
+MTR-0489,BrotherHobby,Motors,Brushless Motor,Brushless Outrunner,1103,2650,35,300,4,12x12,8 inch,Industrial,Heavy Lift UAV
+MTR-0490,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2205,2100,45,500,2,12x12,10 inch,Industrial,Industrial UAV
+MTR-0491,RCINPower,Motors,Brushless Motor,Brushless Outrunner,2205,1900,30,1200,2,19x19,5 inch,FPV,Freestyle FPV
+MTR-0492,iFlight,Motors,Brushless Motor,Brushless Outrunner,2004,2550,45,1200,2,12x12,2 inch,FPV,Indoor FPV
+MTR-0493,Emax,Motors,Brushless Motor,Brushless Outrunner,2507,2650,40,800,5,9x9,7 inch,FPV,Long Range FPV
+MTR-0494,Cobra,Motors,Brushless Motor,Brushless Outrunner,1806,1700,25,400,2,16x16,6 inch,FPV,Long Range FPV
+MTR-0495,Foxeer,Motors,Brushless Motor,Brushless Outrunner,2507,1500,50,800,1.5,16x16,5 inch,FPV,Freestyle FPV
+MTR-0496,SunnySky,Motors,Brushless Motor,Brushless Outrunner,2507,2650,50,1000,1.5,19x19,8 inch,Industrial,Heavy Lift UAV
+MTR-0497,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2407,2650,40,800,5,12x12,3 inch,FPV,Cinematic FPV
+MTR-0498,iFlight,Motors,Brushless Motor,Brushless Outrunner,2004,2300,35,300,5,19x19,4 inch,FPV,Freestyle FPV
+MTR-0499,XNova,Motors,Brushless Motor,Brushless Outrunner,2806.5,1500,35,1000,3,16x16,5 inch,FPV,Freestyle FPV
+MTR-0500,HGLRC,Motors,Brushless Motor,Brushless Outrunner,2207,2650,30,1200,2,16x16,4 inch,FPV,Freestyle FPV

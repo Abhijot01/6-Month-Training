@@ -1,0 +1,1501 @@
+﻿ESCID,MotorID,CompatibilityLevel,RecommendedUse
+ESC-0147,MTR-0235,Safe,Cinematic FPV
+ESC-0130,MTR-0012,Recommended,Industrial UAV
+ESC-0247,MTR-0500,Safe,Long Range FPV
+ESC-0031,MTR-0109,Recommended,Racing FPV
+ESC-0240,MTR-0001,Safe,Racing FPV
+ESC-0236,MTR-0100,Safe,Freestyle FPV
+ESC-0004,MTR-0440,Safe,Cinematic FPV
+ESC-0172,MTR-0102,HighPerformance,Racing FPV
+ESC-0040,MTR-0229,Recommended,Cinematic FPV
+ESC-0044,MTR-0194,HighPerformance,Racing FPV
+ESC-0054,MTR-0407,Safe,Freestyle FPV
+ESC-0237,MTR-0027,HighPerformance,Freestyle FPV
+ESC-0022,MTR-0277,Recommended,Freestyle FPV
+ESC-0113,MTR-0148,HighPerformance,Industrial UAV
+ESC-0270,MTR-0048,Safe,Industrial UAV
+ESC-0155,MTR-0043,Recommended,Cinematic FPV
+ESC-0083,MTR-0242,HighPerformance,Long Range FPV
+ESC-0195,MTR-0304,HighPerformance,Freestyle FPV
+ESC-0270,MTR-0214,Safe,Cinematic FPV
+ESC-0042,MTR-0470,HighPerformance,Industrial UAV
+ESC-0079,MTR-0380,HighPerformance,Industrial UAV
+ESC-0236,MTR-0354,Recommended,Cinematic FPV
+ESC-0042,MTR-0170,HighPerformance,Industrial UAV
+ESC-0068,MTR-0372,HighPerformance,Industrial UAV
+ESC-0068,MTR-0146,Safe,Long Range FPV
+ESC-0107,MTR-0429,Recommended,Long Range FPV
+ESC-0299,MTR-0157,Recommended,Long Range FPV
+ESC-0226,MTR-0218,Safe,Long Range FPV
+ESC-0202,MTR-0253,HighPerformance,Cinematic FPV
+ESC-0016,MTR-0425,Recommended,Long Range FPV
+ESC-0024,MTR-0456,HighPerformance,Industrial UAV
+ESC-0172,MTR-0105,HighPerformance,Cinematic FPV
+ESC-0279,MTR-0094,HighPerformance,Freestyle FPV
+ESC-0103,MTR-0003,Safe,Long Range FPV
+ESC-0117,MTR-0180,Safe,Industrial UAV
+ESC-0232,MTR-0302,HighPerformance,Racing FPV
+ESC-0117,MTR-0366,Recommended,Racing FPV
+ESC-0265,MTR-0186,HighPerformance,Racing FPV
+ESC-0141,MTR-0359,Recommended,Cinematic FPV
+ESC-0090,MTR-0212,Recommended,Cinematic FPV
+ESC-0041,MTR-0350,Safe,Cinematic FPV
+ESC-0123,MTR-0243,Recommended,Cinematic FPV
+ESC-0286,MTR-0024,Safe,Industrial UAV
+ESC-0280,MTR-0489,Recommended,Freestyle FPV
+ESC-0002,MTR-0287,Recommended,Freestyle FPV
+ESC-0216,MTR-0253,HighPerformance,Racing FPV
+ESC-0144,MTR-0007,Safe,Long Range FPV
+ESC-0299,MTR-0012,Safe,Racing FPV
+ESC-0157,MTR-0167,Safe,Long Range FPV
+ESC-0256,MTR-0264,HighPerformance,Industrial UAV
+ESC-0185,MTR-0145,Recommended,Long Range FPV
+ESC-0271,MTR-0064,Safe,Freestyle FPV
+ESC-0052,MTR-0440,HighPerformance,Freestyle FPV
+ESC-0094,MTR-0101,Safe,Industrial UAV
+ESC-0194,MTR-0332,Safe,Long Range FPV
+ESC-0195,MTR-0237,Safe,Industrial UAV
+ESC-0108,MTR-0104,HighPerformance,Freestyle FPV
+ESC-0047,MTR-0346,Recommended,Industrial UAV
+ESC-0179,MTR-0122,Safe,Racing FPV
+ESC-0161,MTR-0248,HighPerformance,Cinematic FPV
+ESC-0165,MTR-0226,Safe,Long Range FPV
+ESC-0295,MTR-0278,Recommended,Long Range FPV
+ESC-0102,MTR-0493,Safe,Industrial UAV
+ESC-0025,MTR-0280,Recommended,Freestyle FPV
+ESC-0131,MTR-0159,HighPerformance,Racing FPV
+ESC-0273,MTR-0214,HighPerformance,Long Range FPV
+ESC-0115,MTR-0347,Safe,Racing FPV
+ESC-0055,MTR-0249,HighPerformance,Cinematic FPV
+ESC-0006,MTR-0498,Safe,Cinematic FPV
+ESC-0271,MTR-0429,Safe,Long Range FPV
+ESC-0173,MTR-0313,Safe,Freestyle FPV
+ESC-0149,MTR-0227,HighPerformance,Industrial UAV
+ESC-0231,MTR-0499,HighPerformance,Cinematic FPV
+ESC-0052,MTR-0330,HighPerformance,Industrial UAV
+ESC-0035,MTR-0471,HighPerformance,Racing FPV
+ESC-0052,MTR-0453,Safe,Cinematic FPV
+ESC-0247,MTR-0269,HighPerformance,Long Range FPV
+ESC-0204,MTR-0199,Safe,Long Range FPV
+ESC-0115,MTR-0478,Recommended,Long Range FPV
+ESC-0076,MTR-0301,HighPerformance,Long Range FPV
+ESC-0266,MTR-0095,HighPerformance,Racing FPV
+ESC-0120,MTR-0235,HighPerformance,Racing FPV
+ESC-0153,MTR-0284,HighPerformance,Long Range FPV
+ESC-0199,MTR-0202,HighPerformance,Long Range FPV
+ESC-0165,MTR-0381,Safe,Long Range FPV
+ESC-0276,MTR-0357,HighPerformance,Freestyle FPV
+ESC-0198,MTR-0165,HighPerformance,Industrial UAV
+ESC-0288,MTR-0116,Safe,Cinematic FPV
+ESC-0109,MTR-0203,Safe,Freestyle FPV
+ESC-0135,MTR-0044,Safe,Industrial UAV
+ESC-0036,MTR-0303,HighPerformance,Freestyle FPV
+ESC-0008,MTR-0496,Recommended,Long Range FPV
+ESC-0178,MTR-0257,Recommended,Racing FPV
+ESC-0006,MTR-0043,Safe,Cinematic FPV
+ESC-0114,MTR-0445,HighPerformance,Long Range FPV
+ESC-0106,MTR-0361,HighPerformance,Industrial UAV
+ESC-0126,MTR-0383,Safe,Racing FPV
+ESC-0069,MTR-0145,Recommended,Industrial UAV
+ESC-0053,MTR-0121,Safe,Cinematic FPV
+ESC-0253,MTR-0225,HighPerformance,Freestyle FPV
+ESC-0242,MTR-0312,Safe,Long Range FPV
+ESC-0220,MTR-0090,Recommended,Racing FPV
+ESC-0283,MTR-0459,HighPerformance,Racing FPV
+ESC-0024,MTR-0368,Recommended,Cinematic FPV
+ESC-0140,MTR-0438,Safe,Long Range FPV
+ESC-0012,MTR-0324,Safe,Racing FPV
+ESC-0096,MTR-0072,Safe,Cinematic FPV
+ESC-0002,MTR-0306,Safe,Freestyle FPV
+ESC-0204,MTR-0237,Recommended,Long Range FPV
+ESC-0265,MTR-0352,HighPerformance,Racing FPV
+ESC-0099,MTR-0460,HighPerformance,Cinematic FPV
+ESC-0217,MTR-0192,Recommended,Racing FPV
+ESC-0283,MTR-0054,Safe,Cinematic FPV
+ESC-0057,MTR-0411,Recommended,Racing FPV
+ESC-0274,MTR-0436,Recommended,Racing FPV
+ESC-0233,MTR-0133,Safe,Long Range FPV
+ESC-0237,MTR-0438,Recommended,Cinematic FPV
+ESC-0254,MTR-0113,HighPerformance,Industrial UAV
+ESC-0212,MTR-0160,HighPerformance,Cinematic FPV
+ESC-0042,MTR-0080,Safe,Cinematic FPV
+ESC-0144,MTR-0386,HighPerformance,Cinematic FPV
+ESC-0070,MTR-0437,HighPerformance,Freestyle FPV
+ESC-0266,MTR-0358,Recommended,Freestyle FPV
+ESC-0262,MTR-0358,Recommended,Long Range FPV
+ESC-0106,MTR-0449,HighPerformance,Freestyle FPV
+ESC-0029,MTR-0334,Safe,Cinematic FPV
+ESC-0243,MTR-0391,Safe,Cinematic FPV
+ESC-0251,MTR-0465,HighPerformance,Freestyle FPV
+ESC-0093,MTR-0315,HighPerformance,Racing FPV
+ESC-0241,MTR-0127,Safe,Industrial UAV
+ESC-0025,MTR-0459,HighPerformance,Freestyle FPV
+ESC-0224,MTR-0425,Safe,Racing FPV
+ESC-0255,MTR-0315,Safe,Freestyle FPV
+ESC-0097,MTR-0030,Recommended,Long Range FPV
+ESC-0078,MTR-0250,Safe,Industrial UAV
+ESC-0284,MTR-0221,Recommended,Long Range FPV
+ESC-0218,MTR-0370,Recommended,Long Range FPV
+ESC-0125,MTR-0321,HighPerformance,Freestyle FPV
+ESC-0112,MTR-0087,Recommended,Long Range FPV
+ESC-0222,MTR-0255,HighPerformance,Freestyle FPV
+ESC-0029,MTR-0258,Safe,Racing FPV
+ESC-0189,MTR-0213,HighPerformance,Cinematic FPV
+ESC-0075,MTR-0406,Recommended,Racing FPV
+ESC-0163,MTR-0196,Safe,Long Range FPV
+ESC-0074,MTR-0015,HighPerformance,Freestyle FPV
+ESC-0154,MTR-0308,HighPerformance,Cinematic FPV
+ESC-0188,MTR-0353,Safe,Racing FPV
+ESC-0252,MTR-0458,Recommended,Long Range FPV
+ESC-0249,MTR-0373,HighPerformance,Cinematic FPV
+ESC-0213,MTR-0382,HighPerformance,Freestyle FPV
+ESC-0031,MTR-0272,Recommended,Racing FPV
+ESC-0250,MTR-0075,Recommended,Cinematic FPV
+ESC-0231,MTR-0018,Safe,Long Range FPV
+ESC-0267,MTR-0163,HighPerformance,Cinematic FPV
+ESC-0289,MTR-0217,Safe,Cinematic FPV
+ESC-0092,MTR-0459,HighPerformance,Industrial UAV
+ESC-0167,MTR-0086,HighPerformance,Long Range FPV
+ESC-0085,MTR-0121,Safe,Cinematic FPV
+ESC-0062,MTR-0407,HighPerformance,Cinematic FPV
+ESC-0046,MTR-0425,Safe,Long Range FPV
+ESC-0074,MTR-0207,Recommended,Racing FPV
+ESC-0068,MTR-0319,Recommended,Cinematic FPV
+ESC-0029,MTR-0357,Safe,Industrial UAV
+ESC-0120,MTR-0014,HighPerformance,Racing FPV
+ESC-0160,MTR-0102,Safe,Industrial UAV
+ESC-0178,MTR-0310,Recommended,Freestyle FPV
+ESC-0134,MTR-0443,HighPerformance,Long Range FPV
+ESC-0173,MTR-0072,HighPerformance,Racing FPV
+ESC-0049,MTR-0319,HighPerformance,Industrial UAV
+ESC-0063,MTR-0173,Safe,Industrial UAV
+ESC-0103,MTR-0029,Recommended,Long Range FPV
+ESC-0278,MTR-0277,HighPerformance,Industrial UAV
+ESC-0095,MTR-0202,Recommended,Industrial UAV
+ESC-0272,MTR-0059,Safe,Industrial UAV
+ESC-0148,MTR-0316,Recommended,Industrial UAV
+ESC-0135,MTR-0042,Recommended,Freestyle FPV
+ESC-0153,MTR-0469,Safe,Cinematic FPV
+ESC-0290,MTR-0245,Safe,Industrial UAV
+ESC-0280,MTR-0181,Safe,Racing FPV
+ESC-0261,MTR-0249,Recommended,Cinematic FPV
+ESC-0300,MTR-0307,HighPerformance,Long Range FPV
+ESC-0130,MTR-0214,Recommended,Long Range FPV
+ESC-0139,MTR-0412,Recommended,Freestyle FPV
+ESC-0292,MTR-0442,Recommended,Racing FPV
+ESC-0045,MTR-0478,Safe,Freestyle FPV
+ESC-0255,MTR-0346,Safe,Long Range FPV
+ESC-0149,MTR-0121,Recommended,Racing FPV
+ESC-0162,MTR-0316,Recommended,Industrial UAV
+ESC-0005,MTR-0484,Recommended,Long Range FPV
+ESC-0179,MTR-0011,Safe,Industrial UAV
+ESC-0294,MTR-0169,Safe,Cinematic FPV
+ESC-0168,MTR-0201,Recommended,Freestyle FPV
+ESC-0195,MTR-0421,HighPerformance,Industrial UAV
+ESC-0247,MTR-0300,HighPerformance,Industrial UAV
+ESC-0261,MTR-0271,HighPerformance,Racing FPV
+ESC-0292,MTR-0150,HighPerformance,Freestyle FPV
+ESC-0058,MTR-0477,Safe,Industrial UAV
+ESC-0159,MTR-0466,Recommended,Long Range FPV
+ESC-0205,MTR-0195,Recommended,Long Range FPV
+ESC-0119,MTR-0175,Safe,Industrial UAV
+ESC-0114,MTR-0154,HighPerformance,Freestyle FPV
+ESC-0264,MTR-0269,HighPerformance,Freestyle FPV
+ESC-0131,MTR-0474,Safe,Long Range FPV
+ESC-0097,MTR-0024,HighPerformance,Industrial UAV
+ESC-0262,MTR-0242,Recommended,Cinematic FPV
+ESC-0095,MTR-0381,Safe,Freestyle FPV
+ESC-0261,MTR-0161,Safe,Industrial UAV
+ESC-0108,MTR-0096,HighPerformance,Cinematic FPV
+ESC-0006,MTR-0260,Safe,Industrial UAV
+ESC-0208,MTR-0050,Recommended,Industrial UAV
+ESC-0020,MTR-0205,HighPerformance,Industrial UAV
+ESC-0030,MTR-0186,HighPerformance,Long Range FPV
+ESC-0231,MTR-0248,HighPerformance,Racing FPV
+ESC-0032,MTR-0204,Safe,Long Range FPV
+ESC-0235,MTR-0387,Safe,Long Range FPV
+ESC-0047,MTR-0336,HighPerformance,Freestyle FPV
+ESC-0089,MTR-0062,HighPerformance,Racing FPV
+ESC-0092,MTR-0183,HighPerformance,Racing FPV
+ESC-0100,MTR-0143,Safe,Racing FPV
+ESC-0028,MTR-0186,HighPerformance,Cinematic FPV
+ESC-0137,MTR-0236,Recommended,Racing FPV
+ESC-0152,MTR-0186,Safe,Cinematic FPV
+ESC-0244,MTR-0443,Recommended,Freestyle FPV
+ESC-0163,MTR-0114,Safe,Freestyle FPV
+ESC-0192,MTR-0066,Recommended,Racing FPV
+ESC-0263,MTR-0068,Recommended,Freestyle FPV
+ESC-0196,MTR-0294,Safe,Industrial UAV
+ESC-0067,MTR-0437,Recommended,Cinematic FPV
+ESC-0064,MTR-0192,Recommended,Freestyle FPV
+ESC-0196,MTR-0044,Recommended,Industrial UAV
+ESC-0242,MTR-0466,HighPerformance,Long Range FPV
+ESC-0191,MTR-0074,Recommended,Cinematic FPV
+ESC-0032,MTR-0339,Recommended,Industrial UAV
+ESC-0288,MTR-0163,Safe,Cinematic FPV
+ESC-0267,MTR-0395,Recommended,Cinematic FPV
+ESC-0189,MTR-0332,Recommended,Long Range FPV
+ESC-0150,MTR-0091,Safe,Racing FPV
+ESC-0263,MTR-0166,Recommended,Long Range FPV
+ESC-0129,MTR-0175,Safe,Cinematic FPV
+ESC-0018,MTR-0088,HighPerformance,Freestyle FPV
+ESC-0095,MTR-0099,Recommended,Cinematic FPV
+ESC-0142,MTR-0249,Recommended,Freestyle FPV
+ESC-0013,MTR-0175,Safe,Racing FPV
+ESC-0246,MTR-0474,HighPerformance,Industrial UAV
+ESC-0276,MTR-0125,Safe,Racing FPV
+ESC-0249,MTR-0464,Safe,Industrial UAV
+ESC-0045,MTR-0230,Safe,Industrial UAV
+ESC-0146,MTR-0197,Recommended,Cinematic FPV
+ESC-0132,MTR-0370,HighPerformance,Cinematic FPV
+ESC-0222,MTR-0317,HighPerformance,Cinematic FPV
+ESC-0013,MTR-0346,Recommended,Cinematic FPV
+ESC-0155,MTR-0388,HighPerformance,Cinematic FPV
+ESC-0185,MTR-0294,HighPerformance,Long Range FPV
+ESC-0202,MTR-0357,HighPerformance,Racing FPV
+ESC-0263,MTR-0218,HighPerformance,Racing FPV
+ESC-0017,MTR-0269,Recommended,Cinematic FPV
+ESC-0044,MTR-0390,HighPerformance,Cinematic FPV
+ESC-0024,MTR-0380,HighPerformance,Industrial UAV
+ESC-0185,MTR-0395,Safe,Cinematic FPV
+ESC-0028,MTR-0167,HighPerformance,Freestyle FPV
+ESC-0014,MTR-0277,Safe,Freestyle FPV
+ESC-0159,MTR-0042,Recommended,Industrial UAV
+ESC-0053,MTR-0224,Safe,Industrial UAV
+ESC-0258,MTR-0193,Recommended,Cinematic FPV
+ESC-0090,MTR-0113,HighPerformance,Long Range FPV
+ESC-0278,MTR-0082,HighPerformance,Industrial UAV
+ESC-0090,MTR-0044,Recommended,Racing FPV
+ESC-0021,MTR-0025,Safe,Freestyle FPV
+ESC-0194,MTR-0292,Safe,Freestyle FPV
+ESC-0251,MTR-0113,Safe,Industrial UAV
+ESC-0161,MTR-0452,HighPerformance,Long Range FPV
+ESC-0018,MTR-0209,HighPerformance,Industrial UAV
+ESC-0213,MTR-0297,Safe,Cinematic FPV
+ESC-0114,MTR-0032,Safe,Cinematic FPV
+ESC-0163,MTR-0382,HighPerformance,Freestyle FPV
+ESC-0252,MTR-0128,Recommended,Long Range FPV
+ESC-0179,MTR-0388,Recommended,Freestyle FPV
+ESC-0270,MTR-0156,HighPerformance,Freestyle FPV
+ESC-0273,MTR-0413,Safe,Long Range FPV
+ESC-0178,MTR-0309,Recommended,Freestyle FPV
+ESC-0130,MTR-0196,Safe,Cinematic FPV
+ESC-0286,MTR-0242,Safe,Freestyle FPV
+ESC-0242,MTR-0277,Recommended,Industrial UAV
+ESC-0034,MTR-0336,Safe,Cinematic FPV
+ESC-0088,MTR-0042,Recommended,Racing FPV
+ESC-0254,MTR-0248,HighPerformance,Freestyle FPV
+ESC-0217,MTR-0192,Safe,Industrial UAV
+ESC-0013,MTR-0281,Recommended,Industrial UAV
+ESC-0270,MTR-0383,Recommended,Long Range FPV
+ESC-0166,MTR-0154,HighPerformance,Cinematic FPV
+ESC-0278,MTR-0423,Safe,Freestyle FPV
+ESC-0183,MTR-0028,Recommended,Cinematic FPV
+ESC-0272,MTR-0495,Safe,Freestyle FPV
+ESC-0268,MTR-0320,HighPerformance,Freestyle FPV
+ESC-0299,MTR-0104,HighPerformance,Freestyle FPV
+ESC-0154,MTR-0188,HighPerformance,Industrial UAV
+ESC-0041,MTR-0322,HighPerformance,Industrial UAV
+ESC-0061,MTR-0215,HighPerformance,Long Range FPV
+ESC-0047,MTR-0306,HighPerformance,Cinematic FPV
+ESC-0158,MTR-0085,HighPerformance,Racing FPV
+ESC-0161,MTR-0079,HighPerformance,Freestyle FPV
+ESC-0091,MTR-0500,Safe,Long Range FPV
+ESC-0277,MTR-0433,Safe,Industrial UAV
+ESC-0102,MTR-0320,HighPerformance,Racing FPV
+ESC-0227,MTR-0020,Recommended,Cinematic FPV
+ESC-0160,MTR-0124,Recommended,Cinematic FPV
+ESC-0228,MTR-0390,Safe,Freestyle FPV
+ESC-0048,MTR-0444,Safe,Freestyle FPV
+ESC-0046,MTR-0212,Recommended,Long Range FPV
+ESC-0152,MTR-0173,HighPerformance,Freestyle FPV
+ESC-0277,MTR-0010,Recommended,Industrial UAV
+ESC-0206,MTR-0224,HighPerformance,Cinematic FPV
+ESC-0129,MTR-0408,Recommended,Industrial UAV
+ESC-0173,MTR-0038,Recommended,Industrial UAV
+ESC-0138,MTR-0199,HighPerformance,Long Range FPV
+ESC-0154,MTR-0185,HighPerformance,Industrial UAV
+ESC-0029,MTR-0475,HighPerformance,Industrial UAV
+ESC-0090,MTR-0258,Recommended,Racing FPV
+ESC-0262,MTR-0499,HighPerformance,Industrial UAV
+ESC-0267,MTR-0295,Safe,Racing FPV
+ESC-0083,MTR-0369,HighPerformance,Freestyle FPV
+ESC-0239,MTR-0045,Recommended,Cinematic FPV
+ESC-0230,MTR-0275,Recommended,Freestyle FPV
+ESC-0256,MTR-0180,HighPerformance,Freestyle FPV
+ESC-0099,MTR-0182,Recommended,Long Range FPV
+ESC-0081,MTR-0357,HighPerformance,Freestyle FPV
+ESC-0239,MTR-0171,HighPerformance,Cinematic FPV
+ESC-0003,MTR-0301,Safe,Freestyle FPV
+ESC-0255,MTR-0294,Recommended,Long Range FPV
+ESC-0141,MTR-0048,Recommended,Cinematic FPV
+ESC-0117,MTR-0038,Recommended,Cinematic FPV
+ESC-0244,MTR-0078,Recommended,Cinematic FPV
+ESC-0293,MTR-0179,HighPerformance,Racing FPV
+ESC-0213,MTR-0264,HighPerformance,Industrial UAV
+ESC-0293,MTR-0300,Recommended,Cinematic FPV
+ESC-0111,MTR-0484,Safe,Cinematic FPV
+ESC-0093,MTR-0155,HighPerformance,Cinematic FPV
+ESC-0106,MTR-0475,Recommended,Cinematic FPV
+ESC-0120,MTR-0382,HighPerformance,Industrial UAV
+ESC-0206,MTR-0017,Safe,Long Range FPV
+ESC-0205,MTR-0071,Safe,Racing FPV
+ESC-0081,MTR-0115,HighPerformance,Racing FPV
+ESC-0257,MTR-0256,Safe,Freestyle FPV
+ESC-0268,MTR-0355,HighPerformance,Industrial UAV
+ESC-0265,MTR-0118,HighPerformance,Racing FPV
+ESC-0107,MTR-0058,Recommended,Freestyle FPV
+ESC-0147,MTR-0353,Recommended,Freestyle FPV
+ESC-0158,MTR-0147,HighPerformance,Cinematic FPV
+ESC-0182,MTR-0444,HighPerformance,Industrial UAV
+ESC-0284,MTR-0252,Recommended,Industrial UAV
+ESC-0070,MTR-0395,Safe,Cinematic FPV
+ESC-0198,MTR-0089,Safe,Long Range FPV
+ESC-0174,MTR-0496,HighPerformance,Industrial UAV
+ESC-0150,MTR-0231,Recommended,Cinematic FPV
+ESC-0025,MTR-0471,HighPerformance,Freestyle FPV
+ESC-0270,MTR-0150,Safe,Long Range FPV
+ESC-0043,MTR-0183,Safe,Industrial UAV
+ESC-0231,MTR-0448,HighPerformance,Racing FPV
+ESC-0118,MTR-0365,HighPerformance,Racing FPV
+ESC-0161,MTR-0366,Safe,Cinematic FPV
+ESC-0123,MTR-0381,HighPerformance,Industrial UAV
+ESC-0272,MTR-0491,Recommended,Long Range FPV
+ESC-0045,MTR-0400,HighPerformance,Freestyle FPV
+ESC-0043,MTR-0397,Recommended,Cinematic FPV
+ESC-0221,MTR-0043,Safe,Industrial UAV
+ESC-0121,MTR-0240,HighPerformance,Industrial UAV
+ESC-0189,MTR-0253,HighPerformance,Freestyle FPV
+ESC-0035,MTR-0196,Recommended,Industrial UAV
+ESC-0208,MTR-0310,Recommended,Cinematic FPV
+ESC-0135,MTR-0135,Recommended,Industrial UAV
+ESC-0073,MTR-0071,Safe,Long Range FPV
+ESC-0226,MTR-0175,Recommended,Cinematic FPV
+ESC-0213,MTR-0081,Recommended,Cinematic FPV
+ESC-0037,MTR-0301,HighPerformance,Industrial UAV
+ESC-0114,MTR-0406,Recommended,Racing FPV
+ESC-0195,MTR-0044,HighPerformance,Freestyle FPV
+ESC-0085,MTR-0203,Recommended,Freestyle FPV
+ESC-0254,MTR-0289,HighPerformance,Racing FPV
+ESC-0026,MTR-0369,HighPerformance,Cinematic FPV
+ESC-0034,MTR-0171,Safe,Long Range FPV
+ESC-0256,MTR-0204,HighPerformance,Industrial UAV
+ESC-0101,MTR-0040,Recommended,Freestyle FPV
+ESC-0257,MTR-0236,Recommended,Industrial UAV
+ESC-0199,MTR-0040,Recommended,Cinematic FPV
+ESC-0142,MTR-0263,Safe,Industrial UAV
+ESC-0212,MTR-0406,HighPerformance,Industrial UAV
+ESC-0164,MTR-0119,HighPerformance,Cinematic FPV
+ESC-0158,MTR-0486,Safe,Freestyle FPV
+ESC-0225,MTR-0127,Safe,Industrial UAV
+ESC-0211,MTR-0105,HighPerformance,Freestyle FPV
+ESC-0017,MTR-0171,HighPerformance,Racing FPV
+ESC-0126,MTR-0479,HighPerformance,Industrial UAV
+ESC-0110,MTR-0254,Safe,Industrial UAV
+ESC-0050,MTR-0294,Recommended,Racing FPV
+ESC-0082,MTR-0233,Safe,Industrial UAV
+ESC-0099,MTR-0124,Safe,Racing FPV
+ESC-0109,MTR-0338,Safe,Long Range FPV
+ESC-0108,MTR-0176,Recommended,Cinematic FPV
+ESC-0287,MTR-0398,Recommended,Racing FPV
+ESC-0106,MTR-0453,HighPerformance,Industrial UAV
+ESC-0170,MTR-0467,Safe,Industrial UAV
+ESC-0188,MTR-0282,Safe,Cinematic FPV
+ESC-0164,MTR-0346,Safe,Cinematic FPV
+ESC-0210,MTR-0333,HighPerformance,Freestyle FPV
+ESC-0226,MTR-0376,HighPerformance,Cinematic FPV
+ESC-0216,MTR-0379,HighPerformance,Racing FPV
+ESC-0178,MTR-0034,Safe,Long Range FPV
+ESC-0001,MTR-0219,Recommended,Cinematic FPV
+ESC-0209,MTR-0403,Recommended,Cinematic FPV
+ESC-0036,MTR-0267,Recommended,Racing FPV
+ESC-0199,MTR-0057,HighPerformance,Industrial UAV
+ESC-0088,MTR-0343,Safe,Cinematic FPV
+ESC-0258,MTR-0461,Recommended,Cinematic FPV
+ESC-0298,MTR-0252,HighPerformance,Freestyle FPV
+ESC-0070,MTR-0143,Safe,Industrial UAV
+ESC-0115,MTR-0434,Recommended,Freestyle FPV
+ESC-0282,MTR-0475,Safe,Industrial UAV
+ESC-0182,MTR-0206,HighPerformance,Racing FPV
+ESC-0295,MTR-0114,Safe,Long Range FPV
+ESC-0036,MTR-0188,HighPerformance,Cinematic FPV
+ESC-0245,MTR-0268,HighPerformance,Racing FPV
+ESC-0082,MTR-0028,Recommended,Racing FPV
+ESC-0299,MTR-0268,Safe,Racing FPV
+ESC-0155,MTR-0222,HighPerformance,Freestyle FPV
+ESC-0113,MTR-0177,Safe,Cinematic FPV
+ESC-0118,MTR-0350,Recommended,Racing FPV
+ESC-0088,MTR-0226,Safe,Industrial UAV
+ESC-0020,MTR-0033,Recommended,Freestyle FPV
+ESC-0177,MTR-0092,HighPerformance,Cinematic FPV
+ESC-0066,MTR-0256,Recommended,Racing FPV
+ESC-0096,MTR-0009,Safe,Industrial UAV
+ESC-0197,MTR-0052,Safe,Industrial UAV
+ESC-0076,MTR-0441,HighPerformance,Industrial UAV
+ESC-0163,MTR-0212,Recommended,Cinematic FPV
+ESC-0190,MTR-0363,Safe,Cinematic FPV
+ESC-0042,MTR-0239,Recommended,Freestyle FPV
+ESC-0065,MTR-0482,Recommended,Industrial UAV
+ESC-0256,MTR-0270,HighPerformance,Cinematic FPV
+ESC-0007,MTR-0385,HighPerformance,Industrial UAV
+ESC-0190,MTR-0141,HighPerformance,Freestyle FPV
+ESC-0024,MTR-0252,HighPerformance,Cinematic FPV
+ESC-0190,MTR-0411,HighPerformance,Cinematic FPV
+ESC-0212,MTR-0386,Recommended,Freestyle FPV
+ESC-0115,MTR-0283,Recommended,Freestyle FPV
+ESC-0225,MTR-0020,Safe,Industrial UAV
+ESC-0003,MTR-0418,Recommended,Long Range FPV
+ESC-0068,MTR-0332,Safe,Freestyle FPV
+ESC-0225,MTR-0377,HighPerformance,Racing FPV
+ESC-0043,MTR-0057,HighPerformance,Racing FPV
+ESC-0246,MTR-0468,HighPerformance,Freestyle FPV
+ESC-0148,MTR-0133,Recommended,Long Range FPV
+ESC-0088,MTR-0153,HighPerformance,Industrial UAV
+ESC-0014,MTR-0233,Safe,Racing FPV
+ESC-0097,MTR-0319,Safe,Freestyle FPV
+ESC-0293,MTR-0427,Safe,Industrial UAV
+ESC-0143,MTR-0447,HighPerformance,Cinematic FPV
+ESC-0084,MTR-0373,Recommended,Cinematic FPV
+ESC-0299,MTR-0008,HighPerformance,Racing FPV
+ESC-0190,MTR-0154,Safe,Racing FPV
+ESC-0129,MTR-0274,HighPerformance,Freestyle FPV
+ESC-0250,MTR-0241,HighPerformance,Industrial UAV
+ESC-0208,MTR-0392,Recommended,Freestyle FPV
+ESC-0196,MTR-0420,Safe,Long Range FPV
+ESC-0010,MTR-0136,Recommended,Long Range FPV
+ESC-0002,MTR-0026,Recommended,Long Range FPV
+ESC-0170,MTR-0372,Safe,Industrial UAV
+ESC-0070,MTR-0408,Recommended,Long Range FPV
+ESC-0246,MTR-0470,Safe,Racing FPV
+ESC-0124,MTR-0169,Recommended,Industrial UAV
+ESC-0108,MTR-0185,HighPerformance,Industrial UAV
+ESC-0115,MTR-0112,Safe,Freestyle FPV
+ESC-0229,MTR-0316,Recommended,Industrial UAV
+ESC-0230,MTR-0440,Recommended,Freestyle FPV
+ESC-0017,MTR-0247,HighPerformance,Long Range FPV
+ESC-0226,MTR-0348,Recommended,Industrial UAV
+ESC-0135,MTR-0332,Recommended,Cinematic FPV
+ESC-0114,MTR-0270,Safe,Racing FPV
+ESC-0070,MTR-0478,Recommended,Long Range FPV
+ESC-0251,MTR-0263,Recommended,Cinematic FPV
+ESC-0033,MTR-0148,Recommended,Industrial UAV
+ESC-0281,MTR-0375,HighPerformance,Racing FPV
+ESC-0213,MTR-0179,Recommended,Long Range FPV
+ESC-0073,MTR-0302,Recommended,Industrial UAV
+ESC-0024,MTR-0404,HighPerformance,Long Range FPV
+ESC-0284,MTR-0468,Safe,Freestyle FPV
+ESC-0086,MTR-0263,Recommended,Racing FPV
+ESC-0070,MTR-0058,Recommended,Freestyle FPV
+ESC-0135,MTR-0471,Recommended,Long Range FPV
+ESC-0014,MTR-0243,Safe,Industrial UAV
+ESC-0056,MTR-0471,Safe,Industrial UAV
+ESC-0109,MTR-0382,Safe,Freestyle FPV
+ESC-0112,MTR-0120,Safe,Cinematic FPV
+ESC-0122,MTR-0395,Safe,Freestyle FPV
+ESC-0274,MTR-0122,Recommended,Racing FPV
+ESC-0150,MTR-0110,Recommended,Industrial UAV
+ESC-0234,MTR-0061,Safe,Long Range FPV
+ESC-0136,MTR-0251,HighPerformance,Industrial UAV
+ESC-0227,MTR-0244,HighPerformance,Cinematic FPV
+ESC-0226,MTR-0158,Safe,Freestyle FPV
+ESC-0047,MTR-0153,HighPerformance,Freestyle FPV
+ESC-0076,MTR-0469,Recommended,Racing FPV
+ESC-0132,MTR-0459,HighPerformance,Freestyle FPV
+ESC-0272,MTR-0013,Safe,Freestyle FPV
+ESC-0273,MTR-0176,Recommended,Racing FPV
+ESC-0063,MTR-0218,Safe,Freestyle FPV
+ESC-0144,MTR-0345,Safe,Industrial UAV
+ESC-0290,MTR-0151,HighPerformance,Racing FPV
+ESC-0174,MTR-0425,Recommended,Freestyle FPV
+ESC-0105,MTR-0442,Recommended,Freestyle FPV
+ESC-0004,MTR-0167,Recommended,Cinematic FPV
+ESC-0233,MTR-0317,HighPerformance,Cinematic FPV
+ESC-0208,MTR-0222,HighPerformance,Freestyle FPV
+ESC-0158,MTR-0178,Safe,Racing FPV
+ESC-0194,MTR-0190,Safe,Cinematic FPV
+ESC-0289,MTR-0160,Recommended,Racing FPV
+ESC-0147,MTR-0045,Safe,Long Range FPV
+ESC-0295,MTR-0394,Safe,Long Range FPV
+ESC-0108,MTR-0431,HighPerformance,Industrial UAV
+ESC-0104,MTR-0290,HighPerformance,Long Range FPV
+ESC-0084,MTR-0080,HighPerformance,Long Range FPV
+ESC-0282,MTR-0057,Safe,Industrial UAV
+ESC-0058,MTR-0328,Recommended,Racing FPV
+ESC-0063,MTR-0019,Recommended,Cinematic FPV
+ESC-0100,MTR-0106,HighPerformance,Racing FPV
+ESC-0068,MTR-0031,HighPerformance,Racing FPV
+ESC-0117,MTR-0007,Safe,Industrial UAV
+ESC-0011,MTR-0146,Recommended,Long Range FPV
+ESC-0174,MTR-0070,Recommended,Industrial UAV
+ESC-0030,MTR-0275,HighPerformance,Racing FPV
+ESC-0152,MTR-0182,Recommended,Racing FPV
+ESC-0248,MTR-0219,Safe,Cinematic FPV
+ESC-0166,MTR-0248,Safe,Freestyle FPV
+ESC-0195,MTR-0093,Recommended,Long Range FPV
+ESC-0291,MTR-0305,Safe,Racing FPV
+ESC-0218,MTR-0130,Recommended,Long Range FPV
+ESC-0127,MTR-0470,Safe,Industrial UAV
+ESC-0106,MTR-0326,Recommended,Cinematic FPV
+ESC-0205,MTR-0343,Safe,Cinematic FPV
+ESC-0215,MTR-0414,Recommended,Racing FPV
+ESC-0143,MTR-0194,Recommended,Freestyle FPV
+ESC-0134,MTR-0376,Safe,Freestyle FPV
+ESC-0242,MTR-0241,Recommended,Freestyle FPV
+ESC-0146,MTR-0043,Recommended,Cinematic FPV
+ESC-0276,MTR-0095,Safe,Industrial UAV
+ESC-0278,MTR-0376,Recommended,Cinematic FPV
+ESC-0150,MTR-0166,HighPerformance,Long Range FPV
+ESC-0047,MTR-0165,Recommended,Racing FPV
+ESC-0257,MTR-0165,HighPerformance,Industrial UAV
+ESC-0142,MTR-0218,Safe,Long Range FPV
+ESC-0059,MTR-0335,Recommended,Cinematic FPV
+ESC-0214,MTR-0317,Recommended,Racing FPV
+ESC-0254,MTR-0289,HighPerformance,Freestyle FPV
+ESC-0272,MTR-0444,HighPerformance,Racing FPV
+ESC-0008,MTR-0173,Safe,Cinematic FPV
+ESC-0030,MTR-0363,Recommended,Racing FPV
+ESC-0118,MTR-0132,Recommended,Industrial UAV
+ESC-0003,MTR-0489,HighPerformance,Cinematic FPV
+ESC-0241,MTR-0167,HighPerformance,Freestyle FPV
+ESC-0167,MTR-0069,Recommended,Industrial UAV
+ESC-0092,MTR-0081,Recommended,Racing FPV
+ESC-0132,MTR-0374,HighPerformance,Industrial UAV
+ESC-0175,MTR-0214,HighPerformance,Racing FPV
+ESC-0283,MTR-0395,HighPerformance,Long Range FPV
+ESC-0077,MTR-0229,Recommended,Cinematic FPV
+ESC-0203,MTR-0472,HighPerformance,Long Range FPV
+ESC-0218,MTR-0138,HighPerformance,Racing FPV
+ESC-0098,MTR-0241,HighPerformance,Freestyle FPV
+ESC-0011,MTR-0089,Recommended,Long Range FPV
+ESC-0180,MTR-0335,Safe,Long Range FPV
+ESC-0175,MTR-0362,Recommended,Freestyle FPV
+ESC-0266,MTR-0313,Recommended,Freestyle FPV
+ESC-0032,MTR-0415,Safe,Cinematic FPV
+ESC-0093,MTR-0411,HighPerformance,Long Range FPV
+ESC-0294,MTR-0489,Safe,Racing FPV
+ESC-0031,MTR-0408,Safe,Cinematic FPV
+ESC-0020,MTR-0483,Safe,Cinematic FPV
+ESC-0089,MTR-0124,HighPerformance,Freestyle FPV
+ESC-0123,MTR-0224,HighPerformance,Cinematic FPV
+ESC-0067,MTR-0090,Safe,Freestyle FPV
+ESC-0026,MTR-0216,Safe,Racing FPV
+ESC-0248,MTR-0085,Safe,Long Range FPV
+ESC-0289,MTR-0172,Safe,Cinematic FPV
+ESC-0056,MTR-0112,HighPerformance,Freestyle FPV
+ESC-0094,MTR-0495,Recommended,Long Range FPV
+ESC-0139,MTR-0422,Recommended,Industrial UAV
+ESC-0190,MTR-0434,Safe,Cinematic FPV
+ESC-0074,MTR-0177,Safe,Racing FPV
+ESC-0294,MTR-0488,HighPerformance,Freestyle FPV
+ESC-0054,MTR-0154,HighPerformance,Industrial UAV
+ESC-0278,MTR-0072,Recommended,Racing FPV
+ESC-0130,MTR-0239,Safe,Cinematic FPV
+ESC-0242,MTR-0233,HighPerformance,Freestyle FPV
+ESC-0212,MTR-0370,HighPerformance,Freestyle FPV
+ESC-0269,MTR-0147,Safe,Industrial UAV
+ESC-0002,MTR-0064,Safe,Long Range FPV
+ESC-0109,MTR-0339,Recommended,Industrial UAV
+ESC-0023,MTR-0357,Recommended,Industrial UAV
+ESC-0238,MTR-0179,HighPerformance,Cinematic FPV
+ESC-0119,MTR-0209,Recommended,Racing FPV
+ESC-0011,MTR-0050,HighPerformance,Cinematic FPV
+ESC-0173,MTR-0006,Recommended,Cinematic FPV
+ESC-0260,MTR-0450,HighPerformance,Industrial UAV
+ESC-0027,MTR-0123,Recommended,Industrial UAV
+ESC-0028,MTR-0031,Safe,Racing FPV
+ESC-0210,MTR-0388,Safe,Industrial UAV
+ESC-0094,MTR-0164,HighPerformance,Racing FPV
+ESC-0236,MTR-0093,Safe,Freestyle FPV
+ESC-0090,MTR-0300,HighPerformance,Long Range FPV
+ESC-0290,MTR-0479,Recommended,Long Range FPV
+ESC-0196,MTR-0164,HighPerformance,Freestyle FPV
+ESC-0126,MTR-0199,Safe,Long Range FPV
+ESC-0144,MTR-0135,HighPerformance,Industrial UAV
+ESC-0201,MTR-0310,HighPerformance,Cinematic FPV
+ESC-0115,MTR-0105,Recommended,Industrial UAV
+ESC-0027,MTR-0007,Safe,Freestyle FPV
+ESC-0066,MTR-0429,HighPerformance,Industrial UAV
+ESC-0234,MTR-0154,Recommended,Long Range FPV
+ESC-0114,MTR-0263,Recommended,Freestyle FPV
+ESC-0222,MTR-0120,Safe,Freestyle FPV
+ESC-0084,MTR-0390,Recommended,Racing FPV
+ESC-0223,MTR-0180,HighPerformance,Freestyle FPV
+ESC-0183,MTR-0137,HighPerformance,Long Range FPV
+ESC-0093,MTR-0453,HighPerformance,Racing FPV
+ESC-0268,MTR-0359,Recommended,Racing FPV
+ESC-0178,MTR-0024,Recommended,Industrial UAV
+ESC-0188,MTR-0121,Recommended,Cinematic FPV
+ESC-0204,MTR-0493,HighPerformance,Racing FPV
+ESC-0131,MTR-0268,Recommended,Racing FPV
+ESC-0156,MTR-0362,HighPerformance,Freestyle FPV
+ESC-0108,MTR-0404,Safe,Industrial UAV
+ESC-0022,MTR-0347,Recommended,Cinematic FPV
+ESC-0033,MTR-0417,Safe,Racing FPV
+ESC-0103,MTR-0272,HighPerformance,Freestyle FPV
+ESC-0023,MTR-0070,Safe,Cinematic FPV
+ESC-0220,MTR-0483,HighPerformance,Industrial UAV
+ESC-0077,MTR-0260,Recommended,Industrial UAV
+ESC-0241,MTR-0215,Safe,Freestyle FPV
+ESC-0249,MTR-0028,HighPerformance,Long Range FPV
+ESC-0219,MTR-0076,Recommended,Industrial UAV
+ESC-0263,MTR-0171,Safe,Industrial UAV
+ESC-0120,MTR-0099,Recommended,Cinematic FPV
+ESC-0222,MTR-0449,Recommended,Racing FPV
+ESC-0300,MTR-0435,Safe,Long Range FPV
+ESC-0098,MTR-0308,HighPerformance,Cinematic FPV
+ESC-0174,MTR-0381,Recommended,Long Range FPV
+ESC-0116,MTR-0409,HighPerformance,Racing FPV
+ESC-0124,MTR-0429,HighPerformance,Freestyle FPV
+ESC-0116,MTR-0019,Safe,Cinematic FPV
+ESC-0102,MTR-0165,Recommended,Cinematic FPV
+ESC-0251,MTR-0263,Safe,Cinematic FPV
+ESC-0236,MTR-0376,HighPerformance,Racing FPV
+ESC-0291,MTR-0209,Safe,Freestyle FPV
+ESC-0229,MTR-0266,Recommended,Freestyle FPV
+ESC-0280,MTR-0417,Safe,Freestyle FPV
+ESC-0056,MTR-0298,Safe,Industrial UAV
+ESC-0025,MTR-0097,Recommended,Cinematic FPV
+ESC-0089,MTR-0185,HighPerformance,Cinematic FPV
+ESC-0206,MTR-0181,Recommended,Long Range FPV
+ESC-0009,MTR-0245,Safe,Long Range FPV
+ESC-0202,MTR-0210,Safe,Freestyle FPV
+ESC-0168,MTR-0095,Safe,Long Range FPV
+ESC-0191,MTR-0192,Recommended,Industrial UAV
+ESC-0227,MTR-0385,Safe,Freestyle FPV
+ESC-0254,MTR-0085,Safe,Industrial UAV
+ESC-0155,MTR-0034,Recommended,Cinematic FPV
+ESC-0033,MTR-0486,Safe,Long Range FPV
+ESC-0266,MTR-0281,HighPerformance,Cinematic FPV
+ESC-0277,MTR-0172,Recommended,Freestyle FPV
+ESC-0148,MTR-0451,Recommended,Long Range FPV
+ESC-0248,MTR-0203,Recommended,Long Range FPV
+ESC-0250,MTR-0275,Recommended,Cinematic FPV
+ESC-0239,MTR-0027,HighPerformance,Industrial UAV
+ESC-0120,MTR-0104,Recommended,Industrial UAV
+ESC-0099,MTR-0232,Safe,Racing FPV
+ESC-0203,MTR-0111,Recommended,Racing FPV
+ESC-0023,MTR-0443,HighPerformance,Industrial UAV
+ESC-0283,MTR-0457,Recommended,Freestyle FPV
+ESC-0195,MTR-0286,Recommended,Racing FPV
+ESC-0219,MTR-0005,Safe,Racing FPV
+ESC-0079,MTR-0458,HighPerformance,Racing FPV
+ESC-0083,MTR-0384,HighPerformance,Racing FPV
+ESC-0029,MTR-0194,Recommended,Long Range FPV
+ESC-0257,MTR-0160,Recommended,Racing FPV
+ESC-0258,MTR-0309,HighPerformance,Freestyle FPV
+ESC-0036,MTR-0147,Recommended,Cinematic FPV
+ESC-0283,MTR-0085,Recommended,Freestyle FPV
+ESC-0292,MTR-0061,Recommended,Industrial UAV
+ESC-0290,MTR-0012,HighPerformance,Racing FPV
+ESC-0236,MTR-0289,Safe,Racing FPV
+ESC-0149,MTR-0038,Recommended,Freestyle FPV
+ESC-0182,MTR-0386,HighPerformance,Cinematic FPV
+ESC-0111,MTR-0410,HighPerformance,Cinematic FPV
+ESC-0226,MTR-0221,Safe,Long Range FPV
+ESC-0006,MTR-0350,HighPerformance,Freestyle FPV
+ESC-0094,MTR-0184,Safe,Cinematic FPV
+ESC-0283,MTR-0338,HighPerformance,Racing FPV
+ESC-0121,MTR-0285,HighPerformance,Long Range FPV
+ESC-0045,MTR-0071,Recommended,Racing FPV
+ESC-0165,MTR-0216,Recommended,Freestyle FPV
+ESC-0127,MTR-0011,HighPerformance,Freestyle FPV
+ESC-0114,MTR-0023,Safe,Cinematic FPV
+ESC-0173,MTR-0205,HighPerformance,Industrial UAV
+ESC-0052,MTR-0207,Safe,Long Range FPV
+ESC-0047,MTR-0412,HighPerformance,Freestyle FPV
+ESC-0124,MTR-0152,Recommended,Cinematic FPV
+ESC-0142,MTR-0147,HighPerformance,Industrial UAV
+ESC-0225,MTR-0256,HighPerformance,Industrial UAV
+ESC-0284,MTR-0471,Recommended,Industrial UAV
+ESC-0038,MTR-0280,Safe,Industrial UAV
+ESC-0122,MTR-0063,HighPerformance,Freestyle FPV
+ESC-0169,MTR-0278,Safe,Cinematic FPV
+ESC-0126,MTR-0285,Recommended,Cinematic FPV
+ESC-0089,MTR-0263,Recommended,Cinematic FPV
+ESC-0055,MTR-0062,HighPerformance,Cinematic FPV
+ESC-0040,MTR-0452,Safe,Freestyle FPV
+ESC-0248,MTR-0045,Recommended,Cinematic FPV
+ESC-0177,MTR-0217,Recommended,Racing FPV
+ESC-0179,MTR-0163,Safe,Freestyle FPV
+ESC-0161,MTR-0354,Safe,Industrial UAV
+ESC-0087,MTR-0273,Recommended,Industrial UAV
+ESC-0010,MTR-0411,HighPerformance,Long Range FPV
+ESC-0088,MTR-0010,Recommended,Long Range FPV
+ESC-0026,MTR-0161,Safe,Racing FPV
+ESC-0016,MTR-0085,HighPerformance,Industrial UAV
+ESC-0270,MTR-0112,Recommended,Long Range FPV
+ESC-0005,MTR-0001,HighPerformance,Racing FPV
+ESC-0175,MTR-0332,Safe,Racing FPV
+ESC-0070,MTR-0483,HighPerformance,Cinematic FPV
+ESC-0036,MTR-0109,Safe,Long Range FPV
+ESC-0245,MTR-0206,Recommended,Long Range FPV
+ESC-0019,MTR-0080,HighPerformance,Industrial UAV
+ESC-0165,MTR-0030,Recommended,Racing FPV
+ESC-0185,MTR-0209,HighPerformance,Industrial UAV
+ESC-0105,MTR-0493,Recommended,Racing FPV
+ESC-0222,MTR-0135,HighPerformance,Cinematic FPV
+ESC-0167,MTR-0011,HighPerformance,Freestyle FPV
+ESC-0279,MTR-0439,Recommended,Racing FPV
+ESC-0247,MTR-0335,Safe,Industrial UAV
+ESC-0123,MTR-0320,Safe,Cinematic FPV
+ESC-0051,MTR-0202,Safe,Racing FPV
+ESC-0061,MTR-0198,Safe,Industrial UAV
+ESC-0288,MTR-0068,HighPerformance,Industrial UAV
+ESC-0195,MTR-0392,Recommended,Long Range FPV
+ESC-0081,MTR-0390,HighPerformance,Freestyle FPV
+ESC-0083,MTR-0233,Safe,Racing FPV
+ESC-0155,MTR-0465,Safe,Freestyle FPV
+ESC-0198,MTR-0452,HighPerformance,Racing FPV
+ESC-0161,MTR-0353,Safe,Industrial UAV
+ESC-0155,MTR-0136,Safe,Cinematic FPV
+ESC-0149,MTR-0097,HighPerformance,Industrial UAV
+ESC-0203,MTR-0348,Safe,Freestyle FPV
+ESC-0033,MTR-0246,Safe,Long Range FPV
+ESC-0240,MTR-0178,HighPerformance,Cinematic FPV
+ESC-0218,MTR-0208,Safe,Industrial UAV
+ESC-0159,MTR-0284,Recommended,Industrial UAV
+ESC-0122,MTR-0468,HighPerformance,Cinematic FPV
+ESC-0056,MTR-0163,Recommended,Long Range FPV
+ESC-0010,MTR-0149,Recommended,Racing FPV
+ESC-0019,MTR-0156,HighPerformance,Long Range FPV
+ESC-0240,MTR-0359,HighPerformance,Racing FPV
+ESC-0026,MTR-0289,HighPerformance,Cinematic FPV
+ESC-0030,MTR-0364,HighPerformance,Industrial UAV
+ESC-0289,MTR-0129,Safe,Freestyle FPV
+ESC-0061,MTR-0335,Safe,Racing FPV
+ESC-0130,MTR-0313,HighPerformance,Industrial UAV
+ESC-0198,MTR-0131,HighPerformance,Freestyle FPV
+ESC-0127,MTR-0476,Safe,Racing FPV
+ESC-0166,MTR-0125,Safe,Racing FPV
+ESC-0294,MTR-0064,HighPerformance,Cinematic FPV
+ESC-0255,MTR-0268,Safe,Industrial UAV
+ESC-0122,MTR-0298,Recommended,Freestyle FPV
+ESC-0249,MTR-0146,Recommended,Freestyle FPV
+ESC-0105,MTR-0392,HighPerformance,Racing FPV
+ESC-0186,MTR-0204,Safe,Freestyle FPV
+ESC-0064,MTR-0401,HighPerformance,Cinematic FPV
+ESC-0272,MTR-0111,HighPerformance,Industrial UAV
+ESC-0174,MTR-0062,HighPerformance,Racing FPV
+ESC-0147,MTR-0207,Recommended,Long Range FPV
+ESC-0139,MTR-0481,Recommended,Long Range FPV
+ESC-0113,MTR-0016,Safe,Racing FPV
+ESC-0275,MTR-0037,HighPerformance,Freestyle FPV
+ESC-0154,MTR-0487,Recommended,Industrial UAV
+ESC-0251,MTR-0300,Safe,Freestyle FPV
+ESC-0211,MTR-0058,HighPerformance,Long Range FPV
+ESC-0056,MTR-0443,HighPerformance,Long Range FPV
+ESC-0132,MTR-0322,Recommended,Racing FPV
+ESC-0036,MTR-0295,Safe,Industrial UAV
+ESC-0092,MTR-0226,Safe,Industrial UAV
+ESC-0028,MTR-0330,HighPerformance,Freestyle FPV
+ESC-0207,MTR-0497,Safe,Long Range FPV
+ESC-0275,MTR-0073,HighPerformance,Industrial UAV
+ESC-0243,MTR-0079,HighPerformance,Cinematic FPV
+ESC-0255,MTR-0220,HighPerformance,Cinematic FPV
+ESC-0204,MTR-0388,Safe,Cinematic FPV
+ESC-0220,MTR-0034,Recommended,Industrial UAV
+ESC-0247,MTR-0131,Recommended,Racing FPV
+ESC-0119,MTR-0128,Recommended,Long Range FPV
+ESC-0025,MTR-0051,HighPerformance,Industrial UAV
+ESC-0268,MTR-0440,Recommended,Cinematic FPV
+ESC-0088,MTR-0019,HighPerformance,Racing FPV
+ESC-0112,MTR-0138,Safe,Cinematic FPV
+ESC-0241,MTR-0244,HighPerformance,Freestyle FPV
+ESC-0186,MTR-0175,Safe,Freestyle FPV
+ESC-0067,MTR-0380,Recommended,Cinematic FPV
+ESC-0260,MTR-0399,HighPerformance,Long Range FPV
+ESC-0239,MTR-0021,Recommended,Cinematic FPV
+ESC-0178,MTR-0006,HighPerformance,Industrial UAV
+ESC-0190,MTR-0117,Safe,Cinematic FPV
+ESC-0012,MTR-0391,Safe,Cinematic FPV
+ESC-0163,MTR-0173,Recommended,Long Range FPV
+ESC-0148,MTR-0353,Recommended,Cinematic FPV
+ESC-0276,MTR-0435,HighPerformance,Industrial UAV
+ESC-0177,MTR-0008,HighPerformance,Freestyle FPV
+ESC-0164,MTR-0331,Safe,Racing FPV
+ESC-0035,MTR-0496,Recommended,Cinematic FPV
+ESC-0268,MTR-0153,Safe,Cinematic FPV
+ESC-0277,MTR-0136,Safe,Long Range FPV
+ESC-0234,MTR-0402,HighPerformance,Racing FPV
+ESC-0086,MTR-0277,HighPerformance,Industrial UAV
+ESC-0098,MTR-0459,Recommended,Racing FPV
+ESC-0253,MTR-0403,HighPerformance,Cinematic FPV
+ESC-0299,MTR-0328,Safe,Industrial UAV
+ESC-0098,MTR-0347,HighPerformance,Cinematic FPV
+ESC-0102,MTR-0158,Safe,Industrial UAV
+ESC-0247,MTR-0090,HighPerformance,Cinematic FPV
+ESC-0110,MTR-0228,Recommended,Freestyle FPV
+ESC-0192,MTR-0437,Recommended,Freestyle FPV
+ESC-0083,MTR-0428,Safe,Long Range FPV
+ESC-0300,MTR-0175,Safe,Industrial UAV
+ESC-0178,MTR-0183,Recommended,Industrial UAV
+ESC-0059,MTR-0468,HighPerformance,Racing FPV
+ESC-0174,MTR-0166,Safe,Cinematic FPV
+ESC-0229,MTR-0479,Safe,Long Range FPV
+ESC-0048,MTR-0016,Recommended,Racing FPV
+ESC-0177,MTR-0032,Recommended,Industrial UAV
+ESC-0267,MTR-0372,Safe,Industrial UAV
+ESC-0144,MTR-0371,Safe,Cinematic FPV
+ESC-0151,MTR-0183,HighPerformance,Racing FPV
+ESC-0148,MTR-0194,Recommended,Freestyle FPV
+ESC-0213,MTR-0421,HighPerformance,Long Range FPV
+ESC-0149,MTR-0276,Recommended,Freestyle FPV
+ESC-0197,MTR-0283,Safe,Industrial UAV
+ESC-0035,MTR-0326,HighPerformance,Racing FPV
+ESC-0084,MTR-0067,HighPerformance,Racing FPV
+ESC-0015,MTR-0429,HighPerformance,Freestyle FPV
+ESC-0294,MTR-0048,HighPerformance,Long Range FPV
+ESC-0135,MTR-0140,Safe,Industrial UAV
+ESC-0158,MTR-0100,HighPerformance,Long Range FPV
+ESC-0078,MTR-0420,Recommended,Industrial UAV
+ESC-0111,MTR-0278,Recommended,Racing FPV
+ESC-0242,MTR-0460,Recommended,Freestyle FPV
+ESC-0229,MTR-0344,Recommended,Freestyle FPV
+ESC-0137,MTR-0217,Safe,Freestyle FPV
+ESC-0189,MTR-0012,HighPerformance,Cinematic FPV
+ESC-0229,MTR-0297,Recommended,Long Range FPV
+ESC-0121,MTR-0341,HighPerformance,Long Range FPV
+ESC-0097,MTR-0158,Recommended,Industrial UAV
+ESC-0094,MTR-0187,Safe,Freestyle FPV
+ESC-0040,MTR-0386,Safe,Cinematic FPV
+ESC-0156,MTR-0395,Recommended,Industrial UAV
+ESC-0293,MTR-0347,HighPerformance,Cinematic FPV
+ESC-0110,MTR-0347,HighPerformance,Long Range FPV
+ESC-0254,MTR-0235,Safe,Long Range FPV
+ESC-0102,MTR-0126,Safe,Freestyle FPV
+ESC-0102,MTR-0154,HighPerformance,Industrial UAV
+ESC-0106,MTR-0102,Safe,Long Range FPV
+ESC-0107,MTR-0325,HighPerformance,Freestyle FPV
+ESC-0128,MTR-0448,Safe,Industrial UAV
+ESC-0233,MTR-0171,HighPerformance,Racing FPV
+ESC-0142,MTR-0130,Recommended,Long Range FPV
+ESC-0164,MTR-0422,Safe,Freestyle FPV
+ESC-0256,MTR-0294,Recommended,Freestyle FPV
+ESC-0239,MTR-0447,HighPerformance,Freestyle FPV
+ESC-0257,MTR-0391,HighPerformance,Industrial UAV
+ESC-0215,MTR-0234,Safe,Long Range FPV
+ESC-0003,MTR-0085,Safe,Freestyle FPV
+ESC-0260,MTR-0353,HighPerformance,Freestyle FPV
+ESC-0259,MTR-0131,Recommended,Long Range FPV
+ESC-0251,MTR-0081,Safe,Long Range FPV
+ESC-0170,MTR-0365,Recommended,Racing FPV
+ESC-0214,MTR-0460,Safe,Racing FPV
+ESC-0129,MTR-0041,Safe,Cinematic FPV
+ESC-0044,MTR-0124,Recommended,Freestyle FPV
+ESC-0299,MTR-0491,HighPerformance,Long Range FPV
+ESC-0043,MTR-0439,HighPerformance,Cinematic FPV
+ESC-0262,MTR-0103,HighPerformance,Racing FPV
+ESC-0255,MTR-0081,Safe,Long Range FPV
+ESC-0295,MTR-0377,HighPerformance,Long Range FPV
+ESC-0091,MTR-0357,Safe,Cinematic FPV
+ESC-0258,MTR-0482,Safe,Industrial UAV
+ESC-0068,MTR-0012,HighPerformance,Cinematic FPV
+ESC-0194,MTR-0363,HighPerformance,Racing FPV
+ESC-0245,MTR-0336,HighPerformance,Industrial UAV
+ESC-0276,MTR-0221,Safe,Cinematic FPV
+ESC-0143,MTR-0001,Recommended,Cinematic FPV
+ESC-0145,MTR-0132,Recommended,Racing FPV
+ESC-0145,MTR-0157,Safe,Racing FPV
+ESC-0105,MTR-0344,HighPerformance,Racing FPV
+ESC-0191,MTR-0467,HighPerformance,Cinematic FPV
+ESC-0287,MTR-0251,Recommended,Freestyle FPV
+ESC-0259,MTR-0347,HighPerformance,Industrial UAV
+ESC-0158,MTR-0168,HighPerformance,Industrial UAV
+ESC-0207,MTR-0196,Safe,Racing FPV
+ESC-0257,MTR-0416,Recommended,Racing FPV
+ESC-0283,MTR-0443,Safe,Industrial UAV
+ESC-0006,MTR-0422,Safe,Long Range FPV
+ESC-0218,MTR-0366,HighPerformance,Freestyle FPV
+ESC-0124,MTR-0087,Recommended,Racing FPV
+ESC-0280,MTR-0314,Safe,Cinematic FPV
+ESC-0300,MTR-0006,HighPerformance,Industrial UAV
+ESC-0161,MTR-0210,Recommended,Freestyle FPV
+ESC-0228,MTR-0183,HighPerformance,Freestyle FPV
+ESC-0141,MTR-0007,HighPerformance,Freestyle FPV
+ESC-0009,MTR-0204,HighPerformance,Freestyle FPV
+ESC-0003,MTR-0384,Recommended,Industrial UAV
+ESC-0195,MTR-0448,Recommended,Freestyle FPV
+ESC-0142,MTR-0156,Safe,Racing FPV
+ESC-0179,MTR-0184,Safe,Industrial UAV
+ESC-0099,MTR-0394,HighPerformance,Racing FPV
+ESC-0113,MTR-0381,Recommended,Freestyle FPV
+ESC-0270,MTR-0136,Safe,Freestyle FPV
+ESC-0196,MTR-0444,Safe,Cinematic FPV
+ESC-0157,MTR-0493,HighPerformance,Cinematic FPV
+ESC-0188,MTR-0169,HighPerformance,Long Range FPV
+ESC-0238,MTR-0059,Safe,Cinematic FPV
+ESC-0086,MTR-0236,Safe,Cinematic FPV
+ESC-0242,MTR-0307,Recommended,Freestyle FPV
+ESC-0011,MTR-0234,Recommended,Industrial UAV
+ESC-0236,MTR-0364,HighPerformance,Freestyle FPV
+ESC-0271,MTR-0438,Recommended,Racing FPV
+ESC-0158,MTR-0324,Safe,Racing FPV
+ESC-0017,MTR-0337,Recommended,Industrial UAV
+ESC-0045,MTR-0393,HighPerformance,Cinematic FPV
+ESC-0233,MTR-0234,Recommended,Freestyle FPV
+ESC-0155,MTR-0094,HighPerformance,Racing FPV
+ESC-0240,MTR-0485,HighPerformance,Industrial UAV
+ESC-0254,MTR-0094,Recommended,Cinematic FPV
+ESC-0227,MTR-0371,Recommended,Industrial UAV
+ESC-0298,MTR-0428,HighPerformance,Freestyle FPV
+ESC-0299,MTR-0400,Recommended,Freestyle FPV
+ESC-0196,MTR-0343,Safe,Racing FPV
+ESC-0042,MTR-0083,Recommended,Freestyle FPV
+ESC-0115,MTR-0413,HighPerformance,Racing FPV
+ESC-0154,MTR-0357,Safe,Racing FPV
+ESC-0069,MTR-0138,Safe,Long Range FPV
+ESC-0277,MTR-0466,HighPerformance,Cinematic FPV
+ESC-0233,MTR-0288,Recommended,Long Range FPV
+ESC-0224,MTR-0417,Safe,Long Range FPV
+ESC-0091,MTR-0239,HighPerformance,Long Range FPV
+ESC-0126,MTR-0374,HighPerformance,Freestyle FPV
+ESC-0122,MTR-0450,Recommended,Freestyle FPV
+ESC-0264,MTR-0449,HighPerformance,Cinematic FPV
+ESC-0068,MTR-0219,HighPerformance,Racing FPV
+ESC-0273,MTR-0150,Recommended,Freestyle FPV
+ESC-0229,MTR-0004,Recommended,Freestyle FPV
+ESC-0241,MTR-0065,Safe,Cinematic FPV
+ESC-0042,MTR-0014,Safe,Industrial UAV
+ESC-0069,MTR-0253,HighPerformance,Freestyle FPV
+ESC-0148,MTR-0459,Recommended,Racing FPV
+ESC-0274,MTR-0193,Recommended,Long Range FPV
+ESC-0223,MTR-0359,HighPerformance,Long Range FPV
+ESC-0067,MTR-0083,HighPerformance,Racing FPV
+ESC-0061,MTR-0392,HighPerformance,Racing FPV
+ESC-0295,MTR-0200,HighPerformance,Cinematic FPV
+ESC-0205,MTR-0288,Recommended,Long Range FPV
+ESC-0154,MTR-0386,Recommended,Freestyle FPV
+ESC-0060,MTR-0293,HighPerformance,Industrial UAV
+ESC-0082,MTR-0248,Safe,Long Range FPV
+ESC-0183,MTR-0218,Safe,Freestyle FPV
+ESC-0122,MTR-0440,Recommended,Cinematic FPV
+ESC-0236,MTR-0466,Recommended,Industrial UAV
+ESC-0133,MTR-0010,HighPerformance,Racing FPV
+ESC-0137,MTR-0209,Recommended,Long Range FPV
+ESC-0276,MTR-0325,HighPerformance,Freestyle FPV
+ESC-0245,MTR-0034,Safe,Freestyle FPV
+ESC-0295,MTR-0449,Safe,Racing FPV
+ESC-0185,MTR-0220,Recommended,Freestyle FPV
+ESC-0281,MTR-0394,HighPerformance,Cinematic FPV
+ESC-0292,MTR-0271,HighPerformance,Industrial UAV
+ESC-0273,MTR-0033,HighPerformance,Cinematic FPV
+ESC-0041,MTR-0354,HighPerformance,Industrial UAV
+ESC-0193,MTR-0064,HighPerformance,Cinematic FPV
+ESC-0288,MTR-0040,Recommended,Long Range FPV
+ESC-0294,MTR-0050,Recommended,Racing FPV
+ESC-0177,MTR-0336,Recommended,Racing FPV
+ESC-0189,MTR-0229,Safe,Long Range FPV
+ESC-0071,MTR-0294,HighPerformance,Long Range FPV
+ESC-0183,MTR-0323,Safe,Freestyle FPV
+ESC-0072,MTR-0238,HighPerformance,Freestyle FPV
+ESC-0030,MTR-0028,Recommended,Long Range FPV
+ESC-0274,MTR-0319,Safe,Cinematic FPV
+ESC-0064,MTR-0132,Safe,Freestyle FPV
+ESC-0047,MTR-0188,HighPerformance,Freestyle FPV
+ESC-0277,MTR-0442,Recommended,Long Range FPV
+ESC-0169,MTR-0187,Recommended,Racing FPV
+ESC-0255,MTR-0093,Recommended,Industrial UAV
+ESC-0262,MTR-0049,HighPerformance,Industrial UAV
+ESC-0082,MTR-0144,Recommended,Cinematic FPV
+ESC-0112,MTR-0453,Safe,Freestyle FPV
+ESC-0195,MTR-0240,Safe,Cinematic FPV
+ESC-0265,MTR-0020,Safe,Industrial UAV
+ESC-0046,MTR-0072,Recommended,Long Range FPV
+ESC-0108,MTR-0072,Recommended,Freestyle FPV
+ESC-0260,MTR-0090,HighPerformance,Long Range FPV
+ESC-0169,MTR-0356,Safe,Cinematic FPV
+ESC-0268,MTR-0023,HighPerformance,Racing FPV
+ESC-0072,MTR-0491,Safe,Industrial UAV
+ESC-0118,MTR-0216,Safe,Long Range FPV
+ESC-0024,MTR-0360,Safe,Industrial UAV
+ESC-0276,MTR-0268,Safe,Freestyle FPV
+ESC-0145,MTR-0444,Recommended,Racing FPV
+ESC-0036,MTR-0480,Safe,Cinematic FPV
+ESC-0009,MTR-0398,Safe,Racing FPV
+ESC-0086,MTR-0004,Recommended,Industrial UAV
+ESC-0060,MTR-0217,HighPerformance,Freestyle FPV
+ESC-0276,MTR-0367,HighPerformance,Cinematic FPV
+ESC-0223,MTR-0382,Recommended,Freestyle FPV
+ESC-0300,MTR-0382,Safe,Freestyle FPV
+ESC-0285,MTR-0385,Safe,Cinematic FPV
+ESC-0218,MTR-0074,Safe,Industrial UAV
+ESC-0090,MTR-0409,Recommended,Long Range FPV
+ESC-0230,MTR-0182,Recommended,Industrial UAV
+ESC-0063,MTR-0332,Recommended,Industrial UAV
+ESC-0055,MTR-0066,Recommended,Cinematic FPV
+ESC-0300,MTR-0250,HighPerformance,Freestyle FPV
+ESC-0054,MTR-0391,Recommended,Racing FPV
+ESC-0046,MTR-0249,Safe,Freestyle FPV
+ESC-0070,MTR-0343,Recommended,Freestyle FPV
+ESC-0147,MTR-0433,Recommended,Racing FPV
+ESC-0105,MTR-0163,Safe,Racing FPV
+ESC-0034,MTR-0436,Recommended,Long Range FPV
+ESC-0260,MTR-0371,Safe,Freestyle FPV
+ESC-0141,MTR-0498,Safe,Cinematic FPV
+ESC-0121,MTR-0304,Recommended,Industrial UAV
+ESC-0059,MTR-0177,Safe,Racing FPV
+ESC-0136,MTR-0157,Recommended,Freestyle FPV
+ESC-0017,MTR-0178,Recommended,Long Range FPV
+ESC-0104,MTR-0135,Safe,Racing FPV
+ESC-0042,MTR-0329,HighPerformance,Long Range FPV
+ESC-0289,MTR-0467,HighPerformance,Racing FPV
+ESC-0022,MTR-0443,HighPerformance,Long Range FPV
+ESC-0060,MTR-0261,Safe,Industrial UAV
+ESC-0012,MTR-0255,Safe,Long Range FPV
+ESC-0250,MTR-0122,Recommended,Industrial UAV
+ESC-0226,MTR-0082,Safe,Industrial UAV
+ESC-0265,MTR-0205,Recommended,Cinematic FPV
+ESC-0288,MTR-0247,Recommended,Cinematic FPV
+ESC-0214,MTR-0493,HighPerformance,Freestyle FPV
+ESC-0228,MTR-0051,HighPerformance,Racing FPV
+ESC-0274,MTR-0462,Safe,Long Range FPV
+ESC-0202,MTR-0209,Recommended,Industrial UAV
+ESC-0188,MTR-0100,HighPerformance,Long Range FPV
+ESC-0036,MTR-0118,Safe,Cinematic FPV
+ESC-0195,MTR-0012,Recommended,Freestyle FPV
+ESC-0243,MTR-0200,HighPerformance,Long Range FPV
+ESC-0151,MTR-0161,HighPerformance,Industrial UAV
+ESC-0281,MTR-0198,Recommended,Long Range FPV
+ESC-0266,MTR-0489,Recommended,Long Range FPV
+ESC-0100,MTR-0064,Recommended,Long Range FPV
+ESC-0155,MTR-0424,HighPerformance,Industrial UAV
+ESC-0218,MTR-0491,Safe,Long Range FPV
+ESC-0154,MTR-0035,Safe,Industrial UAV
+ESC-0024,MTR-0390,HighPerformance,Freestyle FPV
+ESC-0110,MTR-0480,Safe,Long Range FPV
+ESC-0102,MTR-0461,Recommended,Racing FPV
+ESC-0210,MTR-0134,HighPerformance,Industrial UAV
+ESC-0175,MTR-0360,HighPerformance,Freestyle FPV
+ESC-0053,MTR-0241,Recommended,Cinematic FPV
+ESC-0113,MTR-0245,Safe,Long Range FPV
+ESC-0113,MTR-0330,Safe,Cinematic FPV
+ESC-0108,MTR-0461,HighPerformance,Industrial UAV
+ESC-0215,MTR-0051,Recommended,Industrial UAV
+ESC-0189,MTR-0370,HighPerformance,Cinematic FPV
+ESC-0058,MTR-0025,Recommended,Freestyle FPV
+ESC-0156,MTR-0001,Safe,Freestyle FPV
+ESC-0203,MTR-0021,Safe,Cinematic FPV
+ESC-0245,MTR-0289,Safe,Racing FPV
+ESC-0237,MTR-0146,Safe,Long Range FPV
+ESC-0210,MTR-0103,Recommended,Cinematic FPV
+ESC-0017,MTR-0142,Safe,Industrial UAV
+ESC-0134,MTR-0291,Recommended,Cinematic FPV
+ESC-0035,MTR-0442,Safe,Long Range FPV
+ESC-0199,MTR-0200,HighPerformance,Freestyle FPV
+ESC-0273,MTR-0447,Recommended,Long Range FPV
+ESC-0190,MTR-0410,Safe,Long Range FPV
+ESC-0172,MTR-0460,Recommended,Long Range FPV
+ESC-0049,MTR-0486,Safe,Racing FPV
+ESC-0244,MTR-0476,Recommended,Industrial UAV
+ESC-0247,MTR-0382,HighPerformance,Industrial UAV
+ESC-0162,MTR-0297,HighPerformance,Racing FPV
+ESC-0121,MTR-0039,HighPerformance,Industrial UAV
+ESC-0202,MTR-0044,Safe,Industrial UAV
+ESC-0249,MTR-0097,HighPerformance,Industrial UAV
+ESC-0298,MTR-0028,Recommended,Racing FPV
+ESC-0219,MTR-0082,Safe,Cinematic FPV
+ESC-0133,MTR-0246,Safe,Long Range FPV
+ESC-0181,MTR-0093,HighPerformance,Freestyle FPV
+ESC-0049,MTR-0424,Recommended,Industrial UAV
+ESC-0042,MTR-0343,Safe,Industrial UAV
+ESC-0156,MTR-0473,Safe,Industrial UAV
+ESC-0096,MTR-0130,HighPerformance,Long Range FPV
+ESC-0048,MTR-0015,Safe,Freestyle FPV
+ESC-0295,MTR-0311,HighPerformance,Cinematic FPV
+ESC-0022,MTR-0287,Recommended,Long Range FPV
+ESC-0005,MTR-0236,Recommended,Racing FPV
+ESC-0049,MTR-0305,Recommended,Racing FPV
+ESC-0291,MTR-0084,Safe,Racing FPV
+ESC-0007,MTR-0045,HighPerformance,Long Range FPV
+ESC-0243,MTR-0348,HighPerformance,Racing FPV
+ESC-0196,MTR-0014,Recommended,Industrial UAV
+ESC-0079,MTR-0221,HighPerformance,Freestyle FPV
+ESC-0289,MTR-0280,Recommended,Cinematic FPV
+ESC-0015,MTR-0118,HighPerformance,Long Range FPV
+ESC-0172,MTR-0455,Safe,Freestyle FPV
+ESC-0281,MTR-0198,Recommended,Racing FPV
+ESC-0132,MTR-0436,Safe,Long Range FPV
+ESC-0121,MTR-0316,Safe,Industrial UAV
+ESC-0270,MTR-0453,Recommended,Cinematic FPV
+ESC-0233,MTR-0003,HighPerformance,Freestyle FPV
+ESC-0044,MTR-0346,HighPerformance,Freestyle FPV
+ESC-0138,MTR-0328,HighPerformance,Industrial UAV
+ESC-0193,MTR-0118,HighPerformance,Freestyle FPV
+ESC-0289,MTR-0214,Recommended,Long Range FPV
+ESC-0012,MTR-0176,Safe,Cinematic FPV
+ESC-0008,MTR-0417,HighPerformance,Long Range FPV
+ESC-0171,MTR-0173,Safe,Freestyle FPV
+ESC-0004,MTR-0342,HighPerformance,Racing FPV
+ESC-0123,MTR-0097,HighPerformance,Cinematic FPV
+ESC-0226,MTR-0378,HighPerformance,Cinematic FPV
+ESC-0202,MTR-0111,HighPerformance,Long Range FPV
+ESC-0116,MTR-0135,HighPerformance,Long Range FPV
+ESC-0212,MTR-0013,Recommended,Cinematic FPV
+ESC-0205,MTR-0236,Recommended,Freestyle FPV
+ESC-0168,MTR-0110,HighPerformance,Cinematic FPV
+ESC-0026,MTR-0021,Recommended,Freestyle FPV
+ESC-0275,MTR-0330,Recommended,Cinematic FPV
+ESC-0118,MTR-0377,Recommended,Racing FPV
+ESC-0222,MTR-0467,Safe,Cinematic FPV
+ESC-0095,MTR-0003,HighPerformance,Freestyle FPV
+ESC-0226,MTR-0157,Recommended,Freestyle FPV
+ESC-0105,MTR-0455,Safe,Cinematic FPV
+ESC-0055,MTR-0483,Safe,Freestyle FPV
+ESC-0114,MTR-0025,Safe,Freestyle FPV
+ESC-0007,MTR-0163,Recommended,Racing FPV
+ESC-0024,MTR-0116,Recommended,Industrial UAV
+ESC-0185,MTR-0357,HighPerformance,Long Range FPV
+ESC-0044,MTR-0443,HighPerformance,Freestyle FPV
+ESC-0165,MTR-0297,Recommended,Cinematic FPV
+ESC-0094,MTR-0387,Safe,Industrial UAV
+ESC-0016,MTR-0130,Recommended,Racing FPV
+ESC-0076,MTR-0458,Safe,Industrial UAV
+ESC-0274,MTR-0407,HighPerformance,Long Range FPV
+ESC-0102,MTR-0465,HighPerformance,Racing FPV
+ESC-0014,MTR-0472,Safe,Freestyle FPV
+ESC-0198,MTR-0296,Safe,Long Range FPV
+ESC-0278,MTR-0399,Safe,Racing FPV
+ESC-0012,MTR-0033,Safe,Long Range FPV
+ESC-0256,MTR-0267,Recommended,Racing FPV
+ESC-0009,MTR-0059,HighPerformance,Freestyle FPV
+ESC-0014,MTR-0302,Safe,Industrial UAV
+ESC-0167,MTR-0385,Recommended,Long Range FPV
+ESC-0111,MTR-0367,Recommended,Cinematic FPV
+ESC-0131,MTR-0409,HighPerformance,Cinematic FPV
+ESC-0225,MTR-0357,Safe,Long Range FPV
+ESC-0039,MTR-0044,Recommended,Cinematic FPV
+ESC-0056,MTR-0198,Recommended,Freestyle FPV
+ESC-0199,MTR-0074,Safe,Freestyle FPV
+ESC-0020,MTR-0032,HighPerformance,Freestyle FPV
+ESC-0037,MTR-0321,Safe,Racing FPV
+ESC-0045,MTR-0177,HighPerformance,Industrial UAV
+ESC-0047,MTR-0164,Recommended,Industrial UAV
+ESC-0071,MTR-0487,Safe,Racing FPV
+ESC-0116,MTR-0244,HighPerformance,Cinematic FPV
+ESC-0109,MTR-0195,HighPerformance,Cinematic FPV
+ESC-0243,MTR-0392,Recommended,Industrial UAV
+ESC-0048,MTR-0425,Safe,Industrial UAV
+ESC-0004,MTR-0070,HighPerformance,Industrial UAV
+ESC-0190,MTR-0293,Recommended,Cinematic FPV
+ESC-0086,MTR-0340,Safe,Freestyle FPV
+ESC-0064,MTR-0435,Safe,Long Range FPV
+ESC-0062,MTR-0218,Recommended,Cinematic FPV
+ESC-0255,MTR-0022,Safe,Industrial UAV
+ESC-0088,MTR-0370,Safe,Racing FPV
+ESC-0258,MTR-0190,HighPerformance,Long Range FPV
+ESC-0236,MTR-0046,HighPerformance,Long Range FPV
+ESC-0195,MTR-0159,HighPerformance,Cinematic FPV
+ESC-0165,MTR-0452,HighPerformance,Cinematic FPV
+ESC-0289,MTR-0377,Recommended,Cinematic FPV
+ESC-0127,MTR-0344,Safe,Racing FPV
+ESC-0224,MTR-0368,HighPerformance,Industrial UAV
+ESC-0030,MTR-0209,HighPerformance,Cinematic FPV
+ESC-0099,MTR-0246,HighPerformance,Industrial UAV
+ESC-0078,MTR-0195,Recommended,Cinematic FPV
+ESC-0286,MTR-0438,Safe,Racing FPV
+ESC-0261,MTR-0332,HighPerformance,Long Range FPV
+ESC-0042,MTR-0039,Safe,Racing FPV
+ESC-0123,MTR-0230,HighPerformance,Freestyle FPV
+ESC-0051,MTR-0350,HighPerformance,Freestyle FPV
+ESC-0113,MTR-0321,HighPerformance,Cinematic FPV
+ESC-0119,MTR-0068,Safe,Cinematic FPV
+ESC-0275,MTR-0416,HighPerformance,Industrial UAV
+ESC-0208,MTR-0214,Safe,Racing FPV
+ESC-0296,MTR-0165,HighPerformance,Cinematic FPV
+ESC-0169,MTR-0176,Safe,Cinematic FPV
+ESC-0260,MTR-0347,Recommended,Industrial UAV
+ESC-0262,MTR-0431,Recommended,Long Range FPV
+ESC-0016,MTR-0284,Safe,Cinematic FPV
+ESC-0021,MTR-0220,Safe,Long Range FPV
+ESC-0205,MTR-0103,Recommended,Long Range FPV
+ESC-0092,MTR-0044,Recommended,Industrial UAV
+ESC-0084,MTR-0042,Recommended,Cinematic FPV
+ESC-0164,MTR-0118,Safe,Freestyle FPV
+ESC-0049,MTR-0475,Recommended,Racing FPV
+ESC-0194,MTR-0456,Recommended,Racing FPV
+ESC-0201,MTR-0368,Safe,Cinematic FPV
+ESC-0134,MTR-0032,Recommended,Cinematic FPV
+ESC-0027,MTR-0161,Recommended,Cinematic FPV
+ESC-0291,MTR-0158,Recommended,Cinematic FPV
+ESC-0293,MTR-0288,HighPerformance,Racing FPV
+ESC-0079,MTR-0116,Safe,Freestyle FPV
+ESC-0062,MTR-0497,Recommended,Cinematic FPV
+ESC-0081,MTR-0027,Safe,Industrial UAV
+ESC-0003,MTR-0482,HighPerformance,Long Range FPV
+ESC-0218,MTR-0207,Recommended,Industrial UAV
+ESC-0109,MTR-0341,HighPerformance,Industrial UAV
+ESC-0164,MTR-0383,HighPerformance,Long Range FPV
+ESC-0144,MTR-0156,Safe,Cinematic FPV
+ESC-0061,MTR-0101,Safe,Cinematic FPV
+ESC-0149,MTR-0119,Safe,Freestyle FPV
+ESC-0217,MTR-0216,Safe,Cinematic FPV
+ESC-0140,MTR-0249,HighPerformance,Freestyle FPV
+ESC-0249,MTR-0474,Safe,Long Range FPV
+ESC-0183,MTR-0019,HighPerformance,Industrial UAV
+ESC-0210,MTR-0494,Recommended,Freestyle FPV
+ESC-0023,MTR-0333,HighPerformance,Long Range FPV
+ESC-0148,MTR-0167,HighPerformance,Long Range FPV
+ESC-0292,MTR-0449,HighPerformance,Cinematic FPV
+ESC-0090,MTR-0023,HighPerformance,Cinematic FPV
+ESC-0197,MTR-0479,HighPerformance,Racing FPV
+ESC-0188,MTR-0189,Recommended,Industrial UAV
+ESC-0281,MTR-0016,HighPerformance,Cinematic FPV
+ESC-0031,MTR-0018,Recommended,Cinematic FPV
+ESC-0131,MTR-0018,HighPerformance,Freestyle FPV
+ESC-0137,MTR-0283,HighPerformance,Freestyle FPV
+ESC-0058,MTR-0323,Safe,Industrial UAV
+ESC-0173,MTR-0258,Safe,Long Range FPV
+ESC-0007,MTR-0430,Safe,Industrial UAV
+ESC-0079,MTR-0075,Recommended,Cinematic FPV
+ESC-0221,MTR-0499,Recommended,Long Range FPV
+ESC-0291,MTR-0255,HighPerformance,Freestyle FPV
+ESC-0275,MTR-0227,Recommended,Freestyle FPV
+ESC-0272,MTR-0400,Safe,Long Range FPV
+ESC-0131,MTR-0254,HighPerformance,Freestyle FPV
+ESC-0171,MTR-0135,HighPerformance,Industrial UAV
+ESC-0032,MTR-0337,HighPerformance,Industrial UAV
+ESC-0028,MTR-0454,Safe,Racing FPV
+ESC-0010,MTR-0451,Safe,Cinematic FPV
+ESC-0270,MTR-0400,Safe,Long Range FPV
+ESC-0226,MTR-0227,Safe,Industrial UAV
+ESC-0196,MTR-0199,HighPerformance,Long Range FPV
+ESC-0111,MTR-0493,HighPerformance,Freestyle FPV
+ESC-0130,MTR-0049,Safe,Cinematic FPV
+ESC-0066,MTR-0101,Safe,Cinematic FPV
+ESC-0227,MTR-0043,HighPerformance,Long Range FPV
+ESC-0166,MTR-0255,HighPerformance,Freestyle FPV
+ESC-0087,MTR-0242,Recommended,Freestyle FPV
+ESC-0156,MTR-0277,HighPerformance,Freestyle FPV
+ESC-0104,MTR-0136,Safe,Long Range FPV
+ESC-0034,MTR-0436,Safe,Industrial UAV
+ESC-0097,MTR-0099,HighPerformance,Long Range FPV
+ESC-0215,MTR-0043,Recommended,Long Range FPV
+ESC-0250,MTR-0369,HighPerformance,Racing FPV
+ESC-0070,MTR-0265,Safe,Freestyle FPV
+ESC-0265,MTR-0162,Safe,Freestyle FPV
+ESC-0151,MTR-0218,HighPerformance,Industrial UAV
+ESC-0285,MTR-0329,Safe,Long Range FPV
+ESC-0139,MTR-0412,Safe,Freestyle FPV
+ESC-0099,MTR-0279,Safe,Industrial UAV
+ESC-0052,MTR-0138,Recommended,Freestyle FPV
+ESC-0044,MTR-0278,Recommended,Cinematic FPV
+ESC-0055,MTR-0472,HighPerformance,Racing FPV
+ESC-0120,MTR-0140,HighPerformance,Long Range FPV
+ESC-0113,MTR-0175,Recommended,Freestyle FPV
+ESC-0022,MTR-0206,HighPerformance,Cinematic FPV
+ESC-0228,MTR-0291,HighPerformance,Long Range FPV
+ESC-0165,MTR-0338,HighPerformance,Cinematic FPV
+ESC-0101,MTR-0467,HighPerformance,Freestyle FPV
+ESC-0210,MTR-0249,Recommended,Industrial UAV
+ESC-0123,MTR-0054,Safe,Long Range FPV
+ESC-0174,MTR-0436,HighPerformance,Industrial UAV
+ESC-0167,MTR-0419,Recommended,Industrial UAV
+ESC-0273,MTR-0419,Safe,Freestyle FPV
+ESC-0117,MTR-0467,Recommended,Racing FPV
+ESC-0286,MTR-0180,Recommended,Racing FPV
+ESC-0102,MTR-0039,HighPerformance,Cinematic FPV
+ESC-0112,MTR-0237,Recommended,Freestyle FPV
+ESC-0020,MTR-0199,HighPerformance,Long Range FPV
+ESC-0232,MTR-0194,HighPerformance,Industrial UAV
+ESC-0247,MTR-0300,Recommended,Freestyle FPV
+ESC-0208,MTR-0407,Safe,Long Range FPV
+ESC-0154,MTR-0379,Safe,Industrial UAV
+ESC-0022,MTR-0193,HighPerformance,Freestyle FPV
+ESC-0001,MTR-0125,Recommended,Racing FPV
+ESC-0261,MTR-0213,Safe,Industrial UAV
+ESC-0247,MTR-0020,HighPerformance,Long Range FPV
+ESC-0246,MTR-0347,HighPerformance,Cinematic FPV
+ESC-0246,MTR-0059,HighPerformance,Freestyle FPV
+ESC-0267,MTR-0476,Recommended,Cinematic FPV
+ESC-0297,MTR-0332,HighPerformance,Cinematic FPV
+ESC-0157,MTR-0390,Safe,Cinematic FPV
+ESC-0281,MTR-0392,Safe,Racing FPV
+ESC-0158,MTR-0425,Safe,Freestyle FPV
+ESC-0181,MTR-0440,HighPerformance,Cinematic FPV
+ESC-0275,MTR-0252,Safe,Cinematic FPV
+ESC-0209,MTR-0305,Safe,Freestyle FPV
+ESC-0161,MTR-0289,Safe,Cinematic FPV
+ESC-0227,MTR-0238,Safe,Freestyle FPV
+ESC-0234,MTR-0306,HighPerformance,Freestyle FPV
+ESC-0238,MTR-0018,Safe,Cinematic FPV
+ESC-0104,MTR-0296,Recommended,Long Range FPV
+ESC-0272,MTR-0399,Safe,Freestyle FPV
+ESC-0044,MTR-0183,Recommended,Long Range FPV
+ESC-0099,MTR-0362,Recommended,Long Range FPV
+ESC-0019,MTR-0278,HighPerformance,Freestyle FPV
+ESC-0030,MTR-0058,Recommended,Long Range FPV
+ESC-0057,MTR-0072,HighPerformance,Industrial UAV
+ESC-0258,MTR-0060,Safe,Long Range FPV
+ESC-0278,MTR-0078,HighPerformance,Long Range FPV
+ESC-0113,MTR-0074,Safe,Racing FPV
+ESC-0134,MTR-0044,Safe,Long Range FPV
+ESC-0084,MTR-0425,Recommended,Industrial UAV
+ESC-0001,MTR-0076,Safe,Freestyle FPV
+ESC-0216,MTR-0484,Recommended,Cinematic FPV
+ESC-0219,MTR-0429,Recommended,Cinematic FPV
+ESC-0194,MTR-0054,HighPerformance,Freestyle FPV
+ESC-0160,MTR-0099,Recommended,Racing FPV
+ESC-0144,MTR-0204,HighPerformance,Long Range FPV
+ESC-0202,MTR-0354,Safe,Long Range FPV
+ESC-0268,MTR-0095,Recommended,Industrial UAV
+ESC-0094,MTR-0409,Recommended,Racing FPV
+ESC-0106,MTR-0328,Safe,Racing FPV
+ESC-0240,MTR-0147,Safe,Industrial UAV
+ESC-0025,MTR-0473,HighPerformance,Long Range FPV
+ESC-0287,MTR-0083,HighPerformance,Industrial UAV
+ESC-0052,MTR-0293,Safe,Racing FPV
+ESC-0104,MTR-0131,HighPerformance,Freestyle FPV
+ESC-0278,MTR-0138,HighPerformance,Industrial UAV
+ESC-0226,MTR-0358,HighPerformance,Long Range FPV
+ESC-0073,MTR-0488,Recommended,Cinematic FPV
+ESC-0115,MTR-0044,Safe,Freestyle FPV
+ESC-0139,MTR-0337,Safe,Freestyle FPV
+ESC-0186,MTR-0094,HighPerformance,Freestyle FPV
+ESC-0152,MTR-0475,Recommended,Industrial UAV
+ESC-0178,MTR-0088,HighPerformance,Industrial UAV
+ESC-0069,MTR-0377,Recommended,Industrial UAV
+ESC-0247,MTR-0198,Recommended,Long Range FPV
+ESC-0173,MTR-0379,Safe,Cinematic FPV
+ESC-0137,MTR-0080,HighPerformance,Cinematic FPV
+ESC-0049,MTR-0338,Recommended,Cinematic FPV
+ESC-0011,MTR-0117,HighPerformance,Industrial UAV
+ESC-0067,MTR-0218,Recommended,Freestyle FPV
+ESC-0138,MTR-0062,Safe,Long Range FPV
+ESC-0013,MTR-0116,HighPerformance,Freestyle FPV
+ESC-0256,MTR-0479,Recommended,Industrial UAV
+ESC-0238,MTR-0319,Recommended,Freestyle FPV
+ESC-0017,MTR-0073,Safe,Long Range FPV
+ESC-0121,MTR-0285,HighPerformance,Long Range FPV
+ESC-0009,MTR-0148,Recommended,Long Range FPV
+ESC-0059,MTR-0441,Safe,Long Range FPV
+ESC-0136,MTR-0255,Safe,Cinematic FPV
+ESC-0081,MTR-0439,Recommended,Cinematic FPV
+ESC-0199,MTR-0155,Recommended,Industrial UAV
+ESC-0086,MTR-0351,HighPerformance,Cinematic FPV
+ESC-0028,MTR-0139,Safe,Long Range FPV
+ESC-0208,MTR-0483,HighPerformance,Industrial UAV
+ESC-0206,MTR-0003,HighPerformance,Freestyle FPV
+ESC-0067,MTR-0420,HighPerformance,Long Range FPV
+ESC-0001,MTR-0114,Safe,Cinematic FPV
+ESC-0006,MTR-0274,Recommended,Long Range FPV
+ESC-0023,MTR-0119,Safe,Long Range FPV
+ESC-0109,MTR-0207,Safe,Industrial UAV
+ESC-0174,MTR-0375,HighPerformance,Long Range FPV
+ESC-0250,MTR-0040,Recommended,Freestyle FPV
+ESC-0183,MTR-0379,Safe,Freestyle FPV
+ESC-0003,MTR-0403,Recommended,Freestyle FPV
+ESC-0176,MTR-0343,HighPerformance,Industrial UAV
+ESC-0009,MTR-0328,Recommended,Industrial UAV
+ESC-0245,MTR-0472,Recommended,Cinematic FPV
+ESC-0089,MTR-0499,Safe,Long Range FPV
+ESC-0300,MTR-0473,Safe,Industrial UAV
+ESC-0147,MTR-0250,Safe,Cinematic FPV
+ESC-0241,MTR-0072,Recommended,Racing FPV
+ESC-0201,MTR-0117,Safe,Long Range FPV
+ESC-0171,MTR-0498,Safe,Industrial UAV
+ESC-0027,MTR-0344,Recommended,Racing FPV
+ESC-0037,MTR-0054,Recommended,Industrial UAV
+ESC-0212,MTR-0344,Safe,Racing FPV
+ESC-0121,MTR-0223,HighPerformance,Industrial UAV
+ESC-0011,MTR-0405,Safe,Racing FPV
+ESC-0119,MTR-0324,HighPerformance,Racing FPV
+ESC-0258,MTR-0125,Recommended,Long Range FPV
+ESC-0149,MTR-0493,HighPerformance,Racing FPV
+ESC-0286,MTR-0278,Safe,Industrial UAV
+ESC-0048,MTR-0281,Safe,Cinematic FPV
+ESC-0109,MTR-0252,HighPerformance,Racing FPV
+ESC-0032,MTR-0425,Safe,Industrial UAV
+ESC-0245,MTR-0463,Recommended,Freestyle FPV
+ESC-0276,MTR-0195,Safe,Industrial UAV
+ESC-0213,MTR-0171,Safe,Long Range FPV
+ESC-0004,MTR-0209,HighPerformance,Industrial UAV
+ESC-0100,MTR-0477,HighPerformance,Industrial UAV
+ESC-0076,MTR-0321,HighPerformance,Cinematic FPV
+ESC-0201,MTR-0345,Safe,Industrial UAV
+ESC-0257,MTR-0104,Safe,Freestyle FPV
+ESC-0225,MTR-0414,Recommended,Racing FPV
+ESC-0116,MTR-0227,HighPerformance,Freestyle FPV
+ESC-0109,MTR-0124,Safe,Industrial UAV
+ESC-0259,MTR-0365,HighPerformance,Cinematic FPV
+ESC-0191,MTR-0245,HighPerformance,Cinematic FPV
+ESC-0198,MTR-0205,HighPerformance,Freestyle FPV
+ESC-0112,MTR-0477,Recommended,Cinematic FPV
+ESC-0026,MTR-0339,Recommended,Long Range FPV
+ESC-0154,MTR-0190,Safe,Long Range FPV
+ESC-0117,MTR-0004,Safe,Freestyle FPV
+ESC-0201,MTR-0471,Safe,Cinematic FPV
+ESC-0001,MTR-0205,Safe,Long Range FPV
+ESC-0187,MTR-0137,Safe,Cinematic FPV
+ESC-0168,MTR-0229,Safe,Freestyle FPV
+ESC-0289,MTR-0370,Safe,Long Range FPV
+ESC-0029,MTR-0367,Recommended,Industrial UAV
+ESC-0182,MTR-0154,Safe,Cinematic FPV
+ESC-0108,MTR-0231,Recommended,Industrial UAV
+ESC-0067,MTR-0178,HighPerformance,Racing FPV
+ESC-0157,MTR-0326,Recommended,Industrial UAV
+ESC-0020,MTR-0407,Safe,Cinematic FPV
+ESC-0048,MTR-0299,HighPerformance,Freestyle FPV
+ESC-0113,MTR-0378,HighPerformance,Racing FPV
+ESC-0063,MTR-0240,Safe,Freestyle FPV
+ESC-0271,MTR-0032,Safe,Racing FPV
+ESC-0234,MTR-0030,HighPerformance,Industrial UAV
+ESC-0036,MTR-0102,Safe,Industrial UAV
+ESC-0277,MTR-0236,HighPerformance,Industrial UAV
+ESC-0055,MTR-0481,HighPerformance,Freestyle FPV
+ESC-0039,MTR-0412,Safe,Long Range FPV
+ESC-0206,MTR-0398,Recommended,Racing FPV
+ESC-0152,MTR-0336,Safe,Racing FPV
+ESC-0170,MTR-0097,HighPerformance,Cinematic FPV
+ESC-0104,MTR-0105,Recommended,Long Range FPV
+ESC-0195,MTR-0460,HighPerformance,Cinematic FPV
+ESC-0171,MTR-0142,Safe,Industrial UAV
+ESC-0068,MTR-0459,Safe,Freestyle FPV
+ESC-0224,MTR-0380,Safe,Cinematic FPV
+ESC-0216,MTR-0308,Recommended,Industrial UAV
+ESC-0232,MTR-0019,Recommended,Racing FPV
+ESC-0026,MTR-0148,HighPerformance,Long Range FPV
+ESC-0022,MTR-0154,HighPerformance,Racing FPV
+ESC-0276,MTR-0299,HighPerformance,Freestyle FPV
+ESC-0139,MTR-0419,Recommended,Industrial UAV
+ESC-0077,MTR-0126,Safe,Long Range FPV
+ESC-0234,MTR-0482,HighPerformance,Cinematic FPV
+ESC-0222,MTR-0188,Safe,Long Range FPV
+ESC-0214,MTR-0416,Safe,Long Range FPV
+ESC-0229,MTR-0154,HighPerformance,Racing FPV
+ESC-0074,MTR-0368,HighPerformance,Industrial UAV
+ESC-0028,MTR-0162,Safe,Freestyle FPV
+ESC-0268,MTR-0496,HighPerformance,Freestyle FPV
+ESC-0226,MTR-0243,Recommended,Cinematic FPV
+ESC-0136,MTR-0017,Safe,Industrial UAV
+ESC-0041,MTR-0329,HighPerformance,Long Range FPV
+ESC-0166,MTR-0318,HighPerformance,Racing FPV
+ESC-0252,MTR-0417,Safe,Industrial UAV
+ESC-0076,MTR-0341,Safe,Industrial UAV
+ESC-0245,MTR-0361,Recommended,Racing FPV
+ESC-0011,MTR-0079,Recommended,Industrial UAV
+ESC-0161,MTR-0237,HighPerformance,Racing FPV
+ESC-0025,MTR-0124,Safe,Long Range FPV
+ESC-0060,MTR-0355,Safe,Long Range FPV
+ESC-0153,MTR-0034,Safe,Cinematic FPV
+ESC-0282,MTR-0099,Safe,Freestyle FPV
+ESC-0129,MTR-0305,Recommended,Long Range FPV
+ESC-0111,MTR-0384,Recommended,Freestyle FPV
+ESC-0144,MTR-0125,Recommended,Industrial UAV
+ESC-0116,MTR-0158,HighPerformance,Industrial UAV
+ESC-0069,MTR-0377,HighPerformance,Cinematic FPV
+ESC-0174,MTR-0031,HighPerformance,Freestyle FPV
+ESC-0298,MTR-0417,HighPerformance,Racing FPV
+ESC-0155,MTR-0496,Safe,Freestyle FPV
+ESC-0053,MTR-0500,HighPerformance,Freestyle FPV
+ESC-0043,MTR-0110,Recommended,Racing FPV
+ESC-0293,MTR-0001,Safe,Cinematic FPV
+ESC-0198,MTR-0051,Recommended,Cinematic FPV
+ESC-0244,MTR-0353,Safe,Long Range FPV
+ESC-0219,MTR-0295,Recommended,Cinematic FPV
+ESC-0073,MTR-0019,Safe,Long Range FPV
+ESC-0128,MTR-0371,HighPerformance,Long Range FPV
+ESC-0132,MTR-0443,Safe,Long Range FPV
+ESC-0059,MTR-0267,Safe,Racing FPV
+ESC-0190,MTR-0354,Safe,Cinematic FPV
+ESC-0130,MTR-0434,Recommended,Freestyle FPV
+ESC-0287,MTR-0218,Recommended,Industrial UAV

@@ -1,0 +1,396 @@
+/* =========================================
+   CONTAINER
+========================================= */
+
+.image-recognition-container {
+  padding: 40px;
+
+  min-height: 100vh;
+
+  color: #1e293b;
+}
+
+/* =========================================
+   TITLE
+========================================= */
+
+.image-recognition-container h2 {
+  margin-bottom: 28px;
+
+  font-size: 38px;
+  font-weight: 700;
+
+  letter-spacing: -0.03em;
+
+  background:
+    linear-gradient(
+      135deg,
+      #4f46e5,
+      #7c3aed
+    );
+
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+/* =========================================
+   UPLOAD WRAPPER
+========================================= */
+
+.upload-box {
+  position: relative;
+
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  gap: 50px;
+
+  padding: 32px;
+
+  border-radius: 32px;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(255,255,255,0.78),
+      rgba(240,244,255,0.62)
+    );
+
+  border:
+    1px solid rgba(255,255,255,0.88);
+
+  backdrop-filter: blur(24px);
+
+  box-shadow:
+    0 14px 40px rgba(99,102,241,0.12);
+
+  overflow: hidden;
+}
+
+/* PREMIUM EDGE */
+
+.upload-box::after {
+  content: "";
+
+  position: absolute;
+  inset: 0;
+
+  border-radius: inherit;
+
+  padding: 1px;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255,255,255,0.9),
+      rgba(99,102,241,0.2),
+      rgba(14,165,233,0.12)
+    );
+
+  mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+
+  -webkit-mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+
+  mask-composite: exclude;
+  -webkit-mask-composite: xor;
+
+  pointer-events: none;
+}
+
+/* =========================================
+   FILE INPUT
+========================================= */
+
+.upload-box input {
+  flex: 1;
+
+  min-width: 280px;
+
+  height: 56px;
+  
+  padding: 0 18px;
+
+  border-radius: 18px;
+
+  border:
+    1px solid rgba(148,163,184,0.20);
+
+  background:
+    rgba(255,255,255,0.78);
+
+  color: #1e293b;
+
+  font-size: 14px;
+
+  outline: none;
+
+  transition: 0.25s ease;
+}
+
+.upload-box input:focus {
+  border-color: #6366f1;
+
+  box-shadow:
+    0 0 0 4px rgba(99,102,241,0.12);
+}
+
+/* =========================================
+   BUTTON
+========================================= */
+
+.upload-box button {
+  height: 56px;
+
+  padding: 0 30px;
+
+  border: none;
+  border-radius: 18px;
+
+  background:
+    linear-gradient(
+      135deg,
+      #4f46e5,
+      #7c3aed
+    );
+
+  color: white;
+
+  font-size: 15px;
+  font-weight: 700;
+
+  cursor: pointer;
+
+  transition: 0.25s ease;
+}
+
+.upload-box button:hover {
+  transform: translateY(-2px);
+
+  box-shadow:
+    0 14px 30px rgba(99,102,241,0.24);
+}
+
+.upload-box button:disabled {
+  opacity: 0.65;
+
+  cursor: not-allowed;
+}
+
+/* =========================================
+   LOADING
+========================================= */
+
+.loading {
+  margin-top: 16px;
+
+  color: #6366f1;
+
+  font-size: 15px;
+  font-weight: 600;
+}
+
+/* =========================================
+   RESULT BOX
+========================================= */
+
+.result-box {
+  position: relative;
+
+  margin-top: 34px;
+
+  padding: 34px;
+
+  border-radius: 32px;
+
+  overflow: hidden;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(255,255,255,0.78),
+      rgba(240,244,255,0.60)
+    );
+
+  border:
+    1px solid rgba(255,255,255,0.88);
+
+  backdrop-filter: blur(24px);
+
+  box-shadow:
+    0 16px 45px rgba(99,102,241,0.12);
+}
+
+/* PREMIUM EDGE */
+
+.result-box::after {
+  content: "";
+
+  position: absolute;
+  inset: 0;
+
+  border-radius: inherit;
+
+  padding: 1px;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255,255,255,0.9),
+      rgba(99,102,241,0.2),
+      rgba(14,165,233,0.12)
+    );
+
+  mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+
+  -webkit-mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+
+  mask-composite: exclude;
+  -webkit-mask-composite: xor;
+
+  pointer-events: none;
+}
+
+/* =========================================
+   DRONE ID
+========================================= */
+
+.id-box {
+  margin-bottom: 24px;
+}
+
+.id-box h3 {
+  margin-bottom: 10px;
+
+  color: #312e81;
+
+  font-size: 18px;
+}
+
+.id-value {
+  font-size: 30px;
+  font-weight: 700;
+
+  background:
+    linear-gradient(
+      135deg,
+      #4f46e5,
+      #7c3aed
+    );
+
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+/* =========================================
+   NO ID
+========================================= */
+
+.no-id {
+  margin-bottom: 18px;
+
+  color: #dc2626;
+
+  font-weight: 600;
+}
+
+/* =========================================
+   TEXT BOX
+========================================= */
+
+.text-box {
+  margin-bottom: 24px;
+}
+
+.text-box h3 {
+  margin-bottom: 12px;
+
+  color: #312e81;
+
+  font-size: 18px;
+}
+
+.text-values {
+  color: #475569;
+
+  line-height: 1.8;
+
+  font-size: 15px;
+}
+
+/* =========================================
+   CONFIDENCE
+========================================= */
+
+.confidence {
+  margin-top: 24px;
+
+  padding-top: 20px;
+
+  border-top:
+    1px solid rgba(99,102,241,0.12);
+
+  color: #64748b;
+
+  font-size: 14px;
+}
+
+/* =========================================
+   RESPONSIVE
+========================================= */
+
+@media (max-width: 768px) {
+
+  .upload-box {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .upload-box input,
+  .upload-box button {
+    width: 100%;
+  }
+
+  .image-recognition-container h2 {
+    font-size: 30px;
+  }
+}
+
+.preview-box {
+  margin-top: 25px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(0,255,255,0.2);
+  border-radius: 18px;
+  padding: 20px;
+}
+
+.preview-box h3 {
+  margin-bottom: 15px;
+}
+
+.preview-image {
+  max-width: 100%;
+  max-height: 450px;
+  border-radius: 12px;
+  display: block;
+  margin: auto;
+  object-fit: contain;
+}
+
+.result-box {
+  margin-top: 25px;
+}

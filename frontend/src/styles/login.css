@@ -1,0 +1,39 @@
+.login-container {
+  position: relative;
+  z-index: 2;
+  width: 320px;
+  margin: 15vh auto;
+  padding: 30px;
+  backdrop-filter: blur(12px);
+  background: rgba(0,0,0,0.6);
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+}
+
+.login-container input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.login-container button {
+  width: 100%;
+  padding: 10px;
+  background: cyan;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.login-container button:hover {
+  background: white;
+  box-shadow: 0 0 15px cyan;
+}
+
+body {
+  margin: 0;
+  background: radial-gradient(circle at top, #0f2027, #000);
+  font-family: 'Poppins', sans-serif;
+}
+

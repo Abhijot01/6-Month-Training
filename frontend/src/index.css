@@ -1,0 +1,134 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-primary: #eef4ff;
+  --bg-secondary: #dfe9ff;
+
+  --card-bg: rgba(255,255,255,0.68);
+
+  --border-light: rgba(255,255,255,0.55);
+
+  --text-primary: #172554;
+  --text-secondary: #475569;
+
+  --accent-blue: #4f46e5;
+  --accent-purple: #7c3aed;
+  --accent-cyan: #0ea5e9;
+
+  --shadow-soft:
+    0 10px 30px rgba(79,70,229,0.10);
+
+  --shadow-hover:
+    0 18px 40px rgba(79,70,229,0.18);
+
+  --glass-blur: blur(18px);
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+
+  overflow: hidden;
+
+  font-family:
+    "Inter",
+    "Poppins",
+    "Segoe UI",
+    sans-serif;
+
+  background:
+  radial-gradient(
+    circle at top left,
+    rgba(99,102,241,0.22),
+    transparent 30%
+  ),
+
+  radial-gradient(
+    circle at bottom right,
+    rgba(14,165,233,0.18),
+    transparent 30%
+  ),
+
+  linear-gradient(
+    135deg,
+    #dfe7ff 0%,
+    #eef2ff 40%,
+    #e8f3ff 100%
+  );
+
+  color: var(--text-primary);
+}
+
+/* ambient background */
+body::before {
+  content: "";
+
+  position: fixed;
+  inset: 0;
+
+  background:
+    linear-gradient(
+      rgba(255,255,255,0.35) 1px,
+      transparent 1px
+    ),
+    linear-gradient(
+      90deg,
+      rgba(255,255,255,0.35) 1px,
+      transparent 1px
+    );
+
+  background-size: 60px 60px;
+
+  opacity: 0.22;
+
+  pointer-events: none;
+}
+
+/* floating blur orb */
+body::after {
+  content: "";
+
+  position: fixed;
+
+  width: 700px;
+  height: 700px;
+
+  top: -200px;
+  right: -120px;
+
+  border-radius: 50%;
+
+  background:
+    radial-gradient(
+      circle,
+      rgba(124,58,237,0.18),
+      transparent 70%
+    );
+
+  filter: blur(40px);
+
+  animation: floatOrb 10s ease-in-out infinite;
+
+  pointer-events: none;
+}
+
+@keyframes floatOrb {
+
+  0% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(25px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}

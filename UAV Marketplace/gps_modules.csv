@@ -1,0 +1,351 @@
+﻿GPSID,Brand,Category,SubCategory,GNSSSupport,CompassIncluded,UpdateRate_Hz,Interface,VoltageInput_V,AntennaType,MountingType,SupportedFirmware,SupportedDroneType,IntendedUse
+GPS-0001,HGLRC,GPS Modules,GNSS Module,GPS,Yes,5,UART,3.3-5V,Helical,Mast Mount,INAV,FPV,Long Range FPV
+GPS-0002,iFlight,GPS Modules,GNSS Module,Multi-GNSS,No,5,CAN,3.3-5V,Helical,Frame Mount,INAV,Industrial,Mapping / Survey
+GPS-0003,HGLRC,GPS Modules,GNSS Module,Multi-GNSS,No,10,I2C,5V,Helical,Top Mount,INAV,Industrial,Autonomous UAV
+GPS-0004,Skydroid,GPS Modules,GNSS Module,GPS,No,18,I2C,5V,External Active,Top Mount,Betaflight,FPV,Long Range FPV
+GPS-0005,Holybro,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,1,CAN,3.3-5V,Ceramic Patch,Mast Mount,INAV,FPV,Long Range FPV
+GPS-0006,Flywoo,GPS Modules,GNSS Module,GPS,No,10,CAN,3.3-5V,Ceramic Patch,Mast Mount,INAV,Industrial,Mapping / Survey
+GPS-0007,Beitian,GPS Modules,GNSS Module,Multi-GNSS,No,5,I2C,3.3-5V,Ceramic Patch,Frame Mount,Betaflight,FPV,Navigation
+GPS-0008,iFlight,GPS Modules,GNSS Module,GPS+BeiDou,Yes,5,I2C,5V,Helical,Frame Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0009,iFlight,GPS Modules,GNSS Module,Multi-GNSS,No,18,UART,5V,Helical,Frame Mount,INAV,FPV,Navigation
+GPS-0010,HGLRC,GPS Modules,GNSS Module,GPS+GLONASS,Yes,10,I2C,5V,Ceramic Patch,Mast Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0011,Matek,GPS Modules,GNSS Module,Multi-GNSS,No,1,UART,3.3-5V,Helical,Frame Mount,INAV,Industrial,Autonomous UAV
+GPS-0012,Foxeer,GPS Modules,GNSS Module,GPS,Yes,18,UART,4-6S BEC,External Active,Frame Mount,INAV,FPV,Navigation
+GPS-0013,Beitian,GPS Modules,GNSS Module,GPS,No,5,CAN,4-6S BEC,Ceramic Patch,Frame Mount,Betaflight,FPV,Navigation
+GPS-0014,iFlight,GPS Modules,GNSS Module,Multi-GNSS,Yes,18,UART,4-6S BEC,Helical,Frame Mount,INAV,Industrial,Mapping / Survey
+GPS-0015,Radiolink,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,5,CAN,5V,Ceramic Patch,Frame Mount,Betaflight,FPV,Navigation
+GPS-0016,Here3,GPS Modules,GNSS Module,Multi-GNSS,Yes,18,I2C,4-6S BEC,Ceramic Patch,Mast Mount,INAV,FPV,Navigation
+GPS-0017,T-Motor,GPS Modules,GNSS Module,GPS+BeiDou,Yes,10,I2C,4-6S BEC,Ceramic Patch,Frame Mount,INAV,FPV,Long Range FPV
+GPS-0018,GEPRC,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,10,UART,4-6S BEC,External Active,Top Mount,Betaflight,FPV,Long Range FPV
+GPS-0019,Holybro,GPS Modules,GNSS Module,Multi-GNSS,No,1,UART,5V,Ceramic Patch,Mast Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0020,CUAV,GPS Modules,GNSS Module,GPS+BeiDou,Yes,1,I2C,3.3-5V,Helical,Mast Mount,PX4,Industrial,Mapping / Survey
+GPS-0021,Skydroid,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,10,CAN,4-6S BEC,Ceramic Patch,Mast Mount,INAV,FPV,Long Range FPV
+GPS-0022,HGLRC,GPS Modules,GNSS Module,GPS,No,1,UART,4-6S BEC,Ceramic Patch,Mast Mount,ArduPilot,FPV,Long Range FPV
+GPS-0023,BN-880,GPS Modules,GNSS Module,GPS+BeiDou,No,5,CAN,5V,Helical,Frame Mount,ArduPilot,FPV,Navigation
+GPS-0024,HGLRC,GPS Modules,GNSS Module,GPS,No,10,CAN,3.3-5V,Ceramic Patch,Mast Mount,ArduPilot,FPV,Navigation
+GPS-0025,HGLRC,GPS Modules,GNSS Module,GPS+BeiDou,No,1,CAN,4-6S BEC,External Active,Frame Mount,ArduPilot,FPV,Long Range FPV
+GPS-0026,Here3,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,1,UART,4-6S BEC,Helical,Mast Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0027,BN-880,GPS Modules,GNSS Module,GPS+GLONASS,No,10,I2C,3.3-5V,Helical,Top Mount,INAV,Industrial,Autonomous UAV
+GPS-0028,Holybro,GPS Modules,GNSS Module,GPS,Yes,5,I2C,3.3-5V,Ceramic Patch,Top Mount,PX4,FPV,Long Range FPV
+GPS-0029,iFlight,GPS Modules,GNSS Module,GPS,No,5,CAN,4-6S BEC,Helical,Frame Mount,ArduPilot,FPV,Navigation
+GPS-0030,BN-880,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,1,UART,3.3-5V,External Active,Mast Mount,INAV,Industrial,Autonomous UAV
+GPS-0031,Beitian,GPS Modules,GNSS Module,GPS+BeiDou,Yes,18,CAN,3.3-5V,Ceramic Patch,Mast Mount,INAV,Industrial,Autonomous UAV
+GPS-0032,Here3,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,18,I2C,4-6S BEC,Ceramic Patch,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0033,Skydroid,GPS Modules,GNSS Module,Multi-GNSS,No,18,UART,4-6S BEC,Helical,Frame Mount,INAV,FPV,Long Range FPV
+GPS-0034,T-Motor,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,18,UART,3.3-5V,External Active,Top Mount,Betaflight,Industrial,Autonomous UAV
+GPS-0035,Foxeer,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,18,I2C,5V,Ceramic Patch,Mast Mount,INAV,Industrial,Autonomous UAV
+GPS-0036,GEPRC,GPS Modules,GNSS Module,GPS+GLONASS,Yes,1,UART,3.3-5V,Ceramic Patch,Frame Mount,PX4,FPV,Long Range FPV
+GPS-0037,Here3,GPS Modules,GNSS Module,GPS+BeiDou,No,5,I2C,4-6S BEC,External Active,Frame Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0038,Flywoo,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,1,CAN,4-6S BEC,Ceramic Patch,Mast Mount,PX4,Industrial,Mapping / Survey
+GPS-0039,Beitian,GPS Modules,GNSS Module,GPS,No,18,I2C,5V,Ceramic Patch,Frame Mount,INAV,Industrial,Mapping / Survey
+GPS-0040,Foxeer,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,5,UART,3.3-5V,Ceramic Patch,Top Mount,ArduPilot,FPV,Long Range FPV
+GPS-0041,HGLRC,GPS Modules,GNSS Module,GPS+BeiDou,No,10,CAN,5V,External Active,Mast Mount,INAV,FPV,Long Range FPV
+GPS-0042,T-Motor,GPS Modules,GNSS Module,Multi-GNSS,No,5,UART,4-6S BEC,External Active,Frame Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0043,Radiolink,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,5,UART,5V,Ceramic Patch,Mast Mount,INAV,FPV,Long Range FPV
+GPS-0044,Flywoo,GPS Modules,GNSS Module,Multi-GNSS,No,5,CAN,4-6S BEC,External Active,Frame Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0045,GEPRC,GPS Modules,GNSS Module,GPS+BeiDou,Yes,10,I2C,5V,External Active,Top Mount,INAV,FPV,Navigation
+GPS-0046,Beitian,GPS Modules,GNSS Module,GPS+GLONASS,Yes,10,CAN,4-6S BEC,Ceramic Patch,Top Mount,Betaflight,FPV,Long Range FPV
+GPS-0047,GEPRC,GPS Modules,GNSS Module,Multi-GNSS,Yes,18,CAN,4-6S BEC,External Active,Top Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0048,iFlight,GPS Modules,GNSS Module,Multi-GNSS,No,18,UART,5V,Ceramic Patch,Frame Mount,ArduPilot,FPV,Navigation
+GPS-0049,CUAV,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,5,I2C,4-6S BEC,Ceramic Patch,Top Mount,Betaflight,FPV,Long Range FPV
+GPS-0050,T-Motor,GPS Modules,GNSS Module,GPS+BeiDou,No,18,UART,3.3-5V,Helical,Mast Mount,INAV,Industrial,Mapping / Survey
+GPS-0051,Skydroid,GPS Modules,GNSS Module,GPS+BeiDou,Yes,1,CAN,3.3-5V,Helical,Frame Mount,INAV,FPV,Navigation
+GPS-0052,GEPRC,GPS Modules,GNSS Module,GPS+GLONASS,Yes,10,UART,4-6S BEC,Helical,Top Mount,Betaflight,Industrial,Autonomous UAV
+GPS-0053,iFlight,GPS Modules,GNSS Module,GPS+BeiDou,Yes,10,CAN,4-6S BEC,Helical,Frame Mount,PX4,Industrial,Autonomous UAV
+GPS-0054,Matek,GPS Modules,GNSS Module,GPS+BeiDou,Yes,1,CAN,4-6S BEC,Ceramic Patch,Mast Mount,INAV,Industrial,Mapping / Survey
+GPS-0055,iFlight,GPS Modules,GNSS Module,GPS+GLONASS,No,1,UART,3.3-5V,Ceramic Patch,Mast Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0056,Radiolink,GPS Modules,GNSS Module,GPS,No,1,I2C,4-6S BEC,Ceramic Patch,Frame Mount,INAV,Industrial,Autonomous UAV
+GPS-0057,Radiolink,GPS Modules,GNSS Module,Multi-GNSS,No,5,UART,3.3-5V,Helical,Top Mount,Betaflight,FPV,Navigation
+GPS-0058,BN-880,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,1,I2C,3.3-5V,External Active,Frame Mount,ArduPilot,FPV,Navigation
+GPS-0059,Foxeer,GPS Modules,GNSS Module,GPS+GLONASS,No,5,CAN,4-6S BEC,Helical,Frame Mount,INAV,FPV,Navigation
+GPS-0060,Skydroid,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,1,UART,5V,External Active,Mast Mount,PX4,Industrial,Mapping / Survey
+GPS-0061,Holybro,GPS Modules,GNSS Module,GPS+GLONASS,Yes,1,CAN,4-6S BEC,Helical,Top Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0062,Foxeer,GPS Modules,GNSS Module,Multi-GNSS,No,5,UART,3.3-5V,Ceramic Patch,Top Mount,INAV,Industrial,Autonomous UAV
+GPS-0063,Skydroid,GPS Modules,GNSS Module,GPS+BeiDou,No,10,UART,4-6S BEC,Ceramic Patch,Top Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0064,Foxeer,GPS Modules,GNSS Module,GPS+BeiDou,No,10,UART,4-6S BEC,External Active,Mast Mount,PX4,FPV,Navigation
+GPS-0065,Flywoo,GPS Modules,GNSS Module,Multi-GNSS,Yes,18,CAN,3.3-5V,Ceramic Patch,Top Mount,INAV,Industrial,Autonomous UAV
+GPS-0066,Here3,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,18,I2C,3.3-5V,Ceramic Patch,Top Mount,INAV,FPV,Navigation
+GPS-0067,T-Motor,GPS Modules,GNSS Module,GPS+BeiDou,No,1,I2C,4-6S BEC,Helical,Mast Mount,PX4,Industrial,Autonomous UAV
+GPS-0068,T-Motor,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,18,I2C,4-6S BEC,Ceramic Patch,Frame Mount,PX4,FPV,Long Range FPV
+GPS-0069,T-Motor,GPS Modules,GNSS Module,GPS+BeiDou,Yes,10,UART,3.3-5V,Helical,Frame Mount,INAV,Industrial,Autonomous UAV
+GPS-0070,Flywoo,GPS Modules,GNSS Module,GPS+BeiDou,Yes,5,I2C,4-6S BEC,External Active,Frame Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0071,Foxeer,GPS Modules,GNSS Module,GPS+GLONASS,Yes,18,UART,5V,Ceramic Patch,Frame Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0072,Flywoo,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,18,UART,5V,Helical,Mast Mount,ArduPilot,FPV,Navigation
+GPS-0073,Foxeer,GPS Modules,GNSS Module,GPS+BeiDou,Yes,10,CAN,5V,External Active,Top Mount,PX4,FPV,Long Range FPV
+GPS-0074,Foxeer,GPS Modules,GNSS Module,Multi-GNSS,No,1,I2C,5V,Ceramic Patch,Mast Mount,INAV,Industrial,Autonomous UAV
+GPS-0075,Holybro,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,5,UART,3.3-5V,Helical,Frame Mount,Betaflight,Industrial,Autonomous UAV
+GPS-0076,HGLRC,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,5,I2C,5V,Helical,Mast Mount,PX4,FPV,Long Range FPV
+GPS-0077,Matek,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,10,CAN,3.3-5V,Ceramic Patch,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0078,HGLRC,GPS Modules,GNSS Module,GPS+GLONASS,Yes,18,UART,3.3-5V,External Active,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0079,Radiolink,GPS Modules,GNSS Module,Multi-GNSS,Yes,10,I2C,4-6S BEC,External Active,Frame Mount,PX4,FPV,Long Range FPV
+GPS-0080,Radiolink,GPS Modules,GNSS Module,GPS,Yes,18,CAN,4-6S BEC,Ceramic Patch,Frame Mount,PX4,FPV,Long Range FPV
+GPS-0081,Here3,GPS Modules,GNSS Module,Multi-GNSS,No,18,UART,4-6S BEC,Ceramic Patch,Frame Mount,ArduPilot,FPV,Long Range FPV
+GPS-0082,BN-880,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,5,UART,3.3-5V,Ceramic Patch,Frame Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0083,HGLRC,GPS Modules,GNSS Module,GPS+GLONASS,Yes,5,CAN,5V,External Active,Top Mount,PX4,Industrial,Autonomous UAV
+GPS-0084,T-Motor,GPS Modules,GNSS Module,Multi-GNSS,Yes,10,I2C,3.3-5V,Helical,Top Mount,PX4,Industrial,Autonomous UAV
+GPS-0085,GEPRC,GPS Modules,GNSS Module,GPS+GLONASS,Yes,1,I2C,3.3-5V,Ceramic Patch,Mast Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0086,Foxeer,GPS Modules,GNSS Module,GPS,No,5,I2C,5V,External Active,Frame Mount,ArduPilot,FPV,Long Range FPV
+GPS-0087,GEPRC,GPS Modules,GNSS Module,Multi-GNSS,Yes,18,CAN,4-6S BEC,Helical,Top Mount,Betaflight,Industrial,Autonomous UAV
+GPS-0088,Flywoo,GPS Modules,GNSS Module,Multi-GNSS,No,1,CAN,5V,External Active,Mast Mount,INAV,FPV,Long Range FPV
+GPS-0089,HGLRC,GPS Modules,GNSS Module,GPS,Yes,18,UART,5V,Helical,Frame Mount,Betaflight,FPV,Long Range FPV
+GPS-0090,Foxeer,GPS Modules,GNSS Module,GPS+GLONASS,Yes,5,UART,5V,Ceramic Patch,Top Mount,PX4,Industrial,Mapping / Survey
+GPS-0091,Here3,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,1,I2C,3.3-5V,Ceramic Patch,Frame Mount,INAV,FPV,Long Range FPV
+GPS-0092,CUAV,GPS Modules,GNSS Module,GPS+GLONASS,No,10,I2C,4-6S BEC,Helical,Mast Mount,Betaflight,FPV,Navigation
+GPS-0093,Radiolink,GPS Modules,GNSS Module,GPS,Yes,1,UART,4-6S BEC,Helical,Mast Mount,PX4,Industrial,Mapping / Survey
+GPS-0094,Beitian,GPS Modules,GNSS Module,GPS,No,1,CAN,5V,Ceramic Patch,Top Mount,Betaflight,FPV,Navigation
+GPS-0095,Skydroid,GPS Modules,GNSS Module,GPS+BeiDou,No,1,I2C,5V,External Active,Top Mount,Betaflight,FPV,Navigation
+GPS-0096,Matek,GPS Modules,GNSS Module,GPS+BeiDou,No,18,I2C,3.3-5V,Ceramic Patch,Mast Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0097,Here3,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,18,I2C,3.3-5V,Ceramic Patch,Frame Mount,INAV,FPV,Long Range FPV
+GPS-0098,T-Motor,GPS Modules,GNSS Module,GPS,No,1,I2C,4-6S BEC,External Active,Mast Mount,INAV,Industrial,Mapping / Survey
+GPS-0099,GEPRC,GPS Modules,GNSS Module,Multi-GNSS,No,5,UART,4-6S BEC,External Active,Frame Mount,PX4,Industrial,Mapping / Survey
+GPS-0100,Beitian,GPS Modules,GNSS Module,GPS,Yes,1,I2C,5V,Ceramic Patch,Frame Mount,PX4,Industrial,Autonomous UAV
+GPS-0101,HGLRC,GPS Modules,GNSS Module,GPS,Yes,18,UART,3.3-5V,Ceramic Patch,Frame Mount,ArduPilot,FPV,Long Range FPV
+GPS-0102,Skydroid,GPS Modules,GNSS Module,Multi-GNSS,No,10,I2C,5V,Ceramic Patch,Mast Mount,Betaflight,FPV,Navigation
+GPS-0103,Matek,GPS Modules,GNSS Module,GPS,No,5,CAN,4-6S BEC,External Active,Mast Mount,INAV,Industrial,Autonomous UAV
+GPS-0104,Flywoo,GPS Modules,GNSS Module,GPS+GLONASS,No,10,CAN,5V,External Active,Frame Mount,PX4,Industrial,Mapping / Survey
+GPS-0105,Matek,GPS Modules,GNSS Module,GPS+GLONASS,Yes,18,UART,4-6S BEC,External Active,Mast Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0106,BN-880,GPS Modules,GNSS Module,GPS+GLONASS,No,18,UART,4-6S BEC,External Active,Mast Mount,PX4,FPV,Long Range FPV
+GPS-0107,Foxeer,GPS Modules,GNSS Module,GPS,Yes,1,UART,4-6S BEC,External Active,Mast Mount,Betaflight,FPV,Long Range FPV
+GPS-0108,Foxeer,GPS Modules,GNSS Module,Multi-GNSS,Yes,18,I2C,4-6S BEC,External Active,Top Mount,Betaflight,Industrial,Autonomous UAV
+GPS-0109,T-Motor,GPS Modules,GNSS Module,Multi-GNSS,Yes,5,UART,5V,Helical,Top Mount,ArduPilot,FPV,Navigation
+GPS-0110,Matek,GPS Modules,GNSS Module,Multi-GNSS,No,5,UART,5V,Ceramic Patch,Mast Mount,PX4,FPV,Long Range FPV
+GPS-0111,Here3,GPS Modules,GNSS Module,Multi-GNSS,Yes,18,I2C,4-6S BEC,Ceramic Patch,Frame Mount,PX4,FPV,Navigation
+GPS-0112,CUAV,GPS Modules,GNSS Module,GPS,Yes,18,I2C,3.3-5V,External Active,Frame Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0113,iFlight,GPS Modules,GNSS Module,GPS+GLONASS,No,18,I2C,3.3-5V,External Active,Mast Mount,INAV,FPV,Long Range FPV
+GPS-0114,T-Motor,GPS Modules,GNSS Module,Multi-GNSS,No,1,UART,3.3-5V,Helical,Mast Mount,ArduPilot,FPV,Navigation
+GPS-0115,iFlight,GPS Modules,GNSS Module,GPS+GLONASS,No,10,I2C,5V,Helical,Top Mount,PX4,FPV,Navigation
+GPS-0116,Beitian,GPS Modules,GNSS Module,GPS+BeiDou,Yes,18,CAN,4-6S BEC,Ceramic Patch,Top Mount,PX4,Industrial,Autonomous UAV
+GPS-0117,CUAV,GPS Modules,GNSS Module,GPS+GLONASS,Yes,18,I2C,3.3-5V,External Active,Top Mount,INAV,Industrial,Autonomous UAV
+GPS-0118,Flywoo,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,5,I2C,4-6S BEC,External Active,Frame Mount,PX4,FPV,Long Range FPV
+GPS-0119,BN-880,GPS Modules,GNSS Module,GPS,No,18,I2C,3.3-5V,Ceramic Patch,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0120,Holybro,GPS Modules,GNSS Module,GPS,Yes,5,CAN,5V,Ceramic Patch,Mast Mount,INAV,FPV,Long Range FPV
+GPS-0121,iFlight,GPS Modules,GNSS Module,GPS,Yes,5,UART,5V,External Active,Top Mount,Betaflight,FPV,Navigation
+GPS-0122,iFlight,GPS Modules,GNSS Module,Multi-GNSS,No,18,UART,4-6S BEC,External Active,Frame Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0123,Matek,GPS Modules,GNSS Module,GPS,No,18,I2C,4-6S BEC,External Active,Mast Mount,ArduPilot,FPV,Navigation
+GPS-0124,Matek,GPS Modules,GNSS Module,GPS+BeiDou,No,1,I2C,4-6S BEC,External Active,Frame Mount,Betaflight,Industrial,Autonomous UAV
+GPS-0125,Holybro,GPS Modules,GNSS Module,GPS+GLONASS,No,1,CAN,4-6S BEC,Helical,Top Mount,Betaflight,Industrial,Autonomous UAV
+GPS-0126,Radiolink,GPS Modules,GNSS Module,GPS+BeiDou,Yes,10,CAN,4-6S BEC,Helical,Mast Mount,PX4,FPV,Navigation
+GPS-0127,Here3,GPS Modules,GNSS Module,Multi-GNSS,Yes,10,CAN,3.3-5V,External Active,Top Mount,INAV,Industrial,Mapping / Survey
+GPS-0128,Foxeer,GPS Modules,GNSS Module,GPS,Yes,18,I2C,5V,Helical,Frame Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0129,GEPRC,GPS Modules,GNSS Module,Multi-GNSS,No,5,I2C,5V,External Active,Frame Mount,INAV,FPV,Long Range FPV
+GPS-0130,Here3,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,10,UART,3.3-5V,External Active,Frame Mount,PX4,FPV,Long Range FPV
+GPS-0131,BN-880,GPS Modules,GNSS Module,Multi-GNSS,Yes,10,UART,5V,Helical,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0132,Matek,GPS Modules,GNSS Module,GPS+BeiDou,Yes,1,CAN,4-6S BEC,Helical,Mast Mount,Betaflight,FPV,Navigation
+GPS-0133,Matek,GPS Modules,GNSS Module,Multi-GNSS,Yes,1,UART,3.3-5V,Helical,Top Mount,Betaflight,FPV,Long Range FPV
+GPS-0134,Beitian,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,10,UART,4-6S BEC,Helical,Frame Mount,ArduPilot,FPV,Long Range FPV
+GPS-0135,Beitian,GPS Modules,GNSS Module,GPS+GLONASS,No,10,UART,3.3-5V,Helical,Mast Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0136,HGLRC,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,10,UART,4-6S BEC,Ceramic Patch,Top Mount,ArduPilot,FPV,Navigation
+GPS-0137,Foxeer,GPS Modules,GNSS Module,Multi-GNSS,No,5,UART,3.3-5V,External Active,Frame Mount,INAV,Industrial,Mapping / Survey
+GPS-0138,Flywoo,GPS Modules,GNSS Module,GPS+BeiDou,Yes,10,UART,3.3-5V,Helical,Top Mount,INAV,FPV,Navigation
+GPS-0139,HGLRC,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,5,I2C,3.3-5V,Ceramic Patch,Mast Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0140,Matek,GPS Modules,GNSS Module,GPS,Yes,5,I2C,5V,Ceramic Patch,Frame Mount,PX4,Industrial,Autonomous UAV
+GPS-0141,T-Motor,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,18,UART,4-6S BEC,External Active,Frame Mount,ArduPilot,FPV,Long Range FPV
+GPS-0142,Flywoo,GPS Modules,GNSS Module,GPS+BeiDou,No,18,CAN,5V,Ceramic Patch,Frame Mount,ArduPilot,FPV,Navigation
+GPS-0143,Radiolink,GPS Modules,GNSS Module,GPS+BeiDou,No,1,I2C,3.3-5V,External Active,Mast Mount,ArduPilot,FPV,Navigation
+GPS-0144,Flywoo,GPS Modules,GNSS Module,Multi-GNSS,No,10,CAN,4-6S BEC,Ceramic Patch,Top Mount,INAV,FPV,Long Range FPV
+GPS-0145,Holybro,GPS Modules,GNSS Module,Multi-GNSS,No,5,CAN,5V,Ceramic Patch,Frame Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0146,T-Motor,GPS Modules,GNSS Module,GPS+GLONASS,No,5,UART,4-6S BEC,External Active,Top Mount,PX4,FPV,Long Range FPV
+GPS-0147,T-Motor,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,5,I2C,3.3-5V,External Active,Frame Mount,Betaflight,FPV,Long Range FPV
+GPS-0148,T-Motor,GPS Modules,GNSS Module,Multi-GNSS,Yes,18,CAN,4-6S BEC,Ceramic Patch,Mast Mount,PX4,Industrial,Mapping / Survey
+GPS-0149,Flywoo,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,5,CAN,4-6S BEC,Ceramic Patch,Frame Mount,Betaflight,FPV,Navigation
+GPS-0150,iFlight,GPS Modules,GNSS Module,GPS,No,10,UART,5V,Helical,Frame Mount,Betaflight,FPV,Long Range FPV
+GPS-0151,Holybro,GPS Modules,GNSS Module,Multi-GNSS,Yes,1,CAN,3.3-5V,Ceramic Patch,Frame Mount,Betaflight,FPV,Long Range FPV
+GPS-0152,GEPRC,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,5,CAN,3.3-5V,External Active,Top Mount,Betaflight,FPV,Navigation
+GPS-0153,GEPRC,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,18,I2C,4-6S BEC,External Active,Mast Mount,Betaflight,FPV,Long Range FPV
+GPS-0154,CUAV,GPS Modules,GNSS Module,GPS,Yes,1,CAN,3.3-5V,Ceramic Patch,Top Mount,ArduPilot,FPV,Long Range FPV
+GPS-0155,CUAV,GPS Modules,GNSS Module,GPS,No,18,I2C,5V,Helical,Top Mount,INAV,FPV,Navigation
+GPS-0156,Skydroid,GPS Modules,GNSS Module,Multi-GNSS,Yes,1,I2C,3.3-5V,Helical,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0157,BN-880,GPS Modules,GNSS Module,GPS+BeiDou,Yes,10,UART,4-6S BEC,Ceramic Patch,Frame Mount,ArduPilot,FPV,Navigation
+GPS-0158,iFlight,GPS Modules,GNSS Module,GPS+GLONASS,No,10,I2C,5V,Helical,Mast Mount,INAV,Industrial,Mapping / Survey
+GPS-0159,Beitian,GPS Modules,GNSS Module,GPS+GLONASS,No,5,UART,5V,Ceramic Patch,Top Mount,PX4,Industrial,Autonomous UAV
+GPS-0160,Flywoo,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,18,UART,4-6S BEC,Ceramic Patch,Mast Mount,PX4,FPV,Long Range FPV
+GPS-0161,Foxeer,GPS Modules,GNSS Module,GPS+GLONASS,Yes,5,I2C,4-6S BEC,Helical,Top Mount,Betaflight,Industrial,Autonomous UAV
+GPS-0162,Radiolink,GPS Modules,GNSS Module,Multi-GNSS,Yes,10,UART,5V,Helical,Top Mount,PX4,Industrial,Mapping / Survey
+GPS-0163,T-Motor,GPS Modules,GNSS Module,GPS,No,18,CAN,4-6S BEC,External Active,Top Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0164,iFlight,GPS Modules,GNSS Module,Multi-GNSS,No,18,UART,4-6S BEC,External Active,Frame Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0165,Beitian,GPS Modules,GNSS Module,GPS,Yes,1,CAN,3.3-5V,External Active,Top Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0166,Beitian,GPS Modules,GNSS Module,Multi-GNSS,No,10,I2C,4-6S BEC,Ceramic Patch,Top Mount,INAV,FPV,Long Range FPV
+GPS-0167,CUAV,GPS Modules,GNSS Module,GPS+BeiDou,Yes,18,UART,3.3-5V,Ceramic Patch,Mast Mount,ArduPilot,FPV,Long Range FPV
+GPS-0168,Beitian,GPS Modules,GNSS Module,GPS+GLONASS,Yes,5,UART,5V,Helical,Frame Mount,INAV,Industrial,Autonomous UAV
+GPS-0169,Radiolink,GPS Modules,GNSS Module,GPS,No,10,UART,4-6S BEC,Helical,Frame Mount,Betaflight,Industrial,Autonomous UAV
+GPS-0170,Foxeer,GPS Modules,GNSS Module,GPS+GLONASS,No,18,CAN,3.3-5V,Helical,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0171,Flywoo,GPS Modules,GNSS Module,GPS+GLONASS,No,18,I2C,3.3-5V,External Active,Top Mount,INAV,Industrial,Autonomous UAV
+GPS-0172,Flywoo,GPS Modules,GNSS Module,GPS+GLONASS,Yes,5,I2C,3.3-5V,Helical,Frame Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0173,BN-880,GPS Modules,GNSS Module,GPS,Yes,1,I2C,3.3-5V,Ceramic Patch,Top Mount,Betaflight,FPV,Navigation
+GPS-0174,Matek,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,18,I2C,3.3-5V,External Active,Mast Mount,INAV,FPV,Long Range FPV
+GPS-0175,Foxeer,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,1,UART,4-6S BEC,External Active,Mast Mount,PX4,Industrial,Mapping / Survey
+GPS-0176,HGLRC,GPS Modules,GNSS Module,GPS+BeiDou,Yes,18,UART,4-6S BEC,Helical,Top Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0177,GEPRC,GPS Modules,GNSS Module,GPS+GLONASS,Yes,1,CAN,3.3-5V,External Active,Top Mount,INAV,Industrial,Autonomous UAV
+GPS-0178,Beitian,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,10,I2C,5V,Ceramic Patch,Mast Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0179,GEPRC,GPS Modules,GNSS Module,Multi-GNSS,Yes,5,CAN,5V,Ceramic Patch,Mast Mount,PX4,FPV,Long Range FPV
+GPS-0180,Matek,GPS Modules,GNSS Module,GPS+GLONASS,Yes,1,I2C,3.3-5V,Ceramic Patch,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0181,CUAV,GPS Modules,GNSS Module,GPS+GLONASS,No,18,I2C,5V,External Active,Top Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0182,Radiolink,GPS Modules,GNSS Module,GPS+BeiDou,No,1,CAN,5V,Ceramic Patch,Mast Mount,Betaflight,FPV,Navigation
+GPS-0183,GEPRC,GPS Modules,GNSS Module,GPS,No,18,CAN,4-6S BEC,Ceramic Patch,Frame Mount,INAV,Industrial,Autonomous UAV
+GPS-0184,Holybro,GPS Modules,GNSS Module,GPS+GLONASS,Yes,10,I2C,3.3-5V,Ceramic Patch,Frame Mount,Betaflight,FPV,Long Range FPV
+GPS-0185,BN-880,GPS Modules,GNSS Module,Multi-GNSS,Yes,5,I2C,4-6S BEC,External Active,Top Mount,PX4,Industrial,Autonomous UAV
+GPS-0186,BN-880,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,18,UART,3.3-5V,Ceramic Patch,Frame Mount,INAV,Industrial,Autonomous UAV
+GPS-0187,HGLRC,GPS Modules,GNSS Module,GPS+GLONASS,Yes,5,CAN,3.3-5V,Ceramic Patch,Frame Mount,PX4,Industrial,Mapping / Survey
+GPS-0188,BN-880,GPS Modules,GNSS Module,GPS+BeiDou,Yes,1,I2C,4-6S BEC,External Active,Frame Mount,ArduPilot,FPV,Long Range FPV
+GPS-0189,HGLRC,GPS Modules,GNSS Module,GPS,Yes,5,I2C,5V,Ceramic Patch,Frame Mount,INAV,FPV,Navigation
+GPS-0190,Matek,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,1,UART,3.3-5V,Ceramic Patch,Top Mount,INAV,Industrial,Mapping / Survey
+GPS-0191,T-Motor,GPS Modules,GNSS Module,GPS,Yes,1,UART,5V,Ceramic Patch,Mast Mount,INAV,Industrial,Mapping / Survey
+GPS-0192,Foxeer,GPS Modules,GNSS Module,GPS+GLONASS,No,18,I2C,5V,External Active,Frame Mount,ArduPilot,FPV,Long Range FPV
+GPS-0193,HGLRC,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,18,CAN,5V,Helical,Mast Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0194,Foxeer,GPS Modules,GNSS Module,GPS,Yes,5,I2C,4-6S BEC,Ceramic Patch,Mast Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0195,Beitian,GPS Modules,GNSS Module,Multi-GNSS,No,18,I2C,5V,External Active,Mast Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0196,Matek,GPS Modules,GNSS Module,GPS+BeiDou,No,10,I2C,4-6S BEC,Ceramic Patch,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0197,GEPRC,GPS Modules,GNSS Module,GPS,Yes,18,UART,5V,Ceramic Patch,Mast Mount,PX4,Industrial,Mapping / Survey
+GPS-0198,Matek,GPS Modules,GNSS Module,GPS,Yes,10,CAN,3.3-5V,Ceramic Patch,Mast Mount,PX4,Industrial,Mapping / Survey
+GPS-0199,HGLRC,GPS Modules,GNSS Module,GPS,No,18,UART,4-6S BEC,Ceramic Patch,Top Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0200,GEPRC,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,1,CAN,5V,Helical,Frame Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0201,Flywoo,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,5,UART,5V,Helical,Mast Mount,PX4,Industrial,Autonomous UAV
+GPS-0202,T-Motor,GPS Modules,GNSS Module,Multi-GNSS,Yes,10,CAN,3.3-5V,External Active,Mast Mount,PX4,Industrial,Mapping / Survey
+GPS-0203,HGLRC,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,1,UART,3.3-5V,Ceramic Patch,Mast Mount,INAV,FPV,Navigation
+GPS-0204,Here3,GPS Modules,GNSS Module,GPS+BeiDou,Yes,18,UART,4-6S BEC,External Active,Frame Mount,PX4,FPV,Long Range FPV
+GPS-0205,Matek,GPS Modules,GNSS Module,Multi-GNSS,No,5,UART,5V,Helical,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0206,Foxeer,GPS Modules,GNSS Module,Multi-GNSS,Yes,10,UART,5V,Helical,Frame Mount,PX4,Industrial,Mapping / Survey
+GPS-0207,Foxeer,GPS Modules,GNSS Module,GPS,Yes,1,CAN,3.3-5V,Helical,Mast Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0208,Skydroid,GPS Modules,GNSS Module,GPS+BeiDou,Yes,18,CAN,5V,Helical,Frame Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0209,Beitian,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,1,I2C,3.3-5V,External Active,Top Mount,ArduPilot,FPV,Long Range FPV
+GPS-0210,HGLRC,GPS Modules,GNSS Module,GPS,Yes,18,I2C,5V,Helical,Top Mount,INAV,FPV,Long Range FPV
+GPS-0211,Flywoo,GPS Modules,GNSS Module,GPS+GLONASS,No,5,CAN,4-6S BEC,Ceramic Patch,Frame Mount,PX4,Industrial,Autonomous UAV
+GPS-0212,Flywoo,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,18,CAN,4-6S BEC,Helical,Top Mount,INAV,FPV,Long Range FPV
+GPS-0213,iFlight,GPS Modules,GNSS Module,Multi-GNSS,No,5,UART,3.3-5V,Ceramic Patch,Top Mount,PX4,Industrial,Autonomous UAV
+GPS-0214,Here3,GPS Modules,GNSS Module,GPS,No,5,I2C,5V,External Active,Frame Mount,INAV,FPV,Navigation
+GPS-0215,Flywoo,GPS Modules,GNSS Module,GPS+BeiDou,No,10,UART,3.3-5V,Helical,Mast Mount,PX4,FPV,Navigation
+GPS-0216,Radiolink,GPS Modules,GNSS Module,GPS,Yes,5,I2C,4-6S BEC,Helical,Frame Mount,INAV,FPV,Long Range FPV
+GPS-0217,CUAV,GPS Modules,GNSS Module,GPS,Yes,10,CAN,4-6S BEC,Ceramic Patch,Frame Mount,ArduPilot,FPV,Long Range FPV
+GPS-0218,Matek,GPS Modules,GNSS Module,GPS,Yes,10,CAN,3.3-5V,Helical,Mast Mount,INAV,FPV,Navigation
+GPS-0219,Beitian,GPS Modules,GNSS Module,GPS,Yes,10,CAN,5V,Helical,Mast Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0220,HGLRC,GPS Modules,GNSS Module,GPS,Yes,1,I2C,3.3-5V,Ceramic Patch,Top Mount,Betaflight,FPV,Navigation
+GPS-0221,Flywoo,GPS Modules,GNSS Module,GPS,Yes,5,I2C,5V,Ceramic Patch,Frame Mount,ArduPilot,FPV,Long Range FPV
+GPS-0222,CUAV,GPS Modules,GNSS Module,GPS+BeiDou,No,10,CAN,3.3-5V,Helical,Top Mount,Betaflight,Industrial,Autonomous UAV
+GPS-0223,Foxeer,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,18,I2C,4-6S BEC,Ceramic Patch,Top Mount,INAV,FPV,Navigation
+GPS-0224,GEPRC,GPS Modules,GNSS Module,GPS+GLONASS,No,1,CAN,4-6S BEC,Ceramic Patch,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0225,Foxeer,GPS Modules,GNSS Module,Multi-GNSS,No,10,CAN,4-6S BEC,External Active,Frame Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0226,Holybro,GPS Modules,GNSS Module,GPS,Yes,18,I2C,5V,Ceramic Patch,Mast Mount,INAV,FPV,Navigation
+GPS-0227,Holybro,GPS Modules,GNSS Module,GPS,Yes,10,CAN,4-6S BEC,Ceramic Patch,Mast Mount,PX4,FPV,Long Range FPV
+GPS-0228,Flywoo,GPS Modules,GNSS Module,GPS+BeiDou,Yes,10,I2C,4-6S BEC,External Active,Top Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0229,HGLRC,GPS Modules,GNSS Module,Multi-GNSS,Yes,1,UART,3.3-5V,Helical,Mast Mount,INAV,FPV,Navigation
+GPS-0230,iFlight,GPS Modules,GNSS Module,GPS+BeiDou,No,10,I2C,3.3-5V,Ceramic Patch,Mast Mount,PX4,FPV,Navigation
+GPS-0231,T-Motor,GPS Modules,GNSS Module,GPS,No,10,CAN,5V,External Active,Top Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0232,CUAV,GPS Modules,GNSS Module,GPS,No,1,I2C,3.3-5V,Helical,Mast Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0233,Foxeer,GPS Modules,GNSS Module,GPS,No,5,I2C,4-6S BEC,External Active,Top Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0234,Beitian,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,10,CAN,5V,Helical,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0235,iFlight,GPS Modules,GNSS Module,Multi-GNSS,No,1,UART,4-6S BEC,Helical,Mast Mount,Betaflight,FPV,Long Range FPV
+GPS-0236,Skydroid,GPS Modules,GNSS Module,GPS+GLONASS,No,18,UART,4-6S BEC,Helical,Top Mount,Betaflight,FPV,Long Range FPV
+GPS-0237,CUAV,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,10,I2C,4-6S BEC,Helical,Frame Mount,PX4,FPV,Navigation
+GPS-0238,Foxeer,GPS Modules,GNSS Module,GPS+GLONASS,No,1,I2C,4-6S BEC,External Active,Mast Mount,PX4,Industrial,Autonomous UAV
+GPS-0239,BN-880,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,18,UART,4-6S BEC,Helical,Frame Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0240,Skydroid,GPS Modules,GNSS Module,Multi-GNSS,Yes,10,UART,3.3-5V,Helical,Frame Mount,INAV,Industrial,Autonomous UAV
+GPS-0241,T-Motor,GPS Modules,GNSS Module,GPS+BeiDou,Yes,18,I2C,5V,Helical,Top Mount,INAV,Industrial,Autonomous UAV
+GPS-0242,CUAV,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,5,I2C,5V,Helical,Top Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0243,HGLRC,GPS Modules,GNSS Module,GPS+BeiDou,No,10,I2C,5V,External Active,Mast Mount,INAV,Industrial,Mapping / Survey
+GPS-0244,Here3,GPS Modules,GNSS Module,GPS+GLONASS,No,1,UART,3.3-5V,Ceramic Patch,Frame Mount,Betaflight,FPV,Navigation
+GPS-0245,Skydroid,GPS Modules,GNSS Module,GPS+BeiDou,Yes,10,CAN,4-6S BEC,Ceramic Patch,Mast Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0246,Holybro,GPS Modules,GNSS Module,GPS+BeiDou,No,5,CAN,3.3-5V,Ceramic Patch,Top Mount,INAV,Industrial,Mapping / Survey
+GPS-0247,Here3,GPS Modules,GNSS Module,GPS,Yes,10,CAN,3.3-5V,External Active,Top Mount,PX4,FPV,Long Range FPV
+GPS-0248,Foxeer,GPS Modules,GNSS Module,GPS,No,5,CAN,3.3-5V,Helical,Top Mount,INAV,Industrial,Autonomous UAV
+GPS-0249,GEPRC,GPS Modules,GNSS Module,GPS+GLONASS,Yes,10,CAN,4-6S BEC,Ceramic Patch,Mast Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0250,Beitian,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,5,UART,5V,Helical,Frame Mount,INAV,FPV,Long Range FPV
+GPS-0251,Radiolink,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,10,UART,4-6S BEC,Helical,Top Mount,INAV,FPV,Navigation
+GPS-0252,Matek,GPS Modules,GNSS Module,GPS+BeiDou,No,5,I2C,4-6S BEC,Ceramic Patch,Frame Mount,ArduPilot,FPV,Navigation
+GPS-0253,iFlight,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,10,UART,4-6S BEC,Helical,Mast Mount,PX4,FPV,Long Range FPV
+GPS-0254,CUAV,GPS Modules,GNSS Module,GPS,No,5,I2C,4-6S BEC,Helical,Mast Mount,ArduPilot,FPV,Navigation
+GPS-0255,Skydroid,GPS Modules,GNSS Module,GPS+BeiDou,No,18,I2C,4-6S BEC,External Active,Mast Mount,Betaflight,FPV,Navigation
+GPS-0256,iFlight,GPS Modules,GNSS Module,Multi-GNSS,Yes,1,I2C,4-6S BEC,Helical,Frame Mount,INAV,FPV,Navigation
+GPS-0257,Skydroid,GPS Modules,GNSS Module,GPS,No,1,I2C,5V,Helical,Top Mount,PX4,Industrial,Mapping / Survey
+GPS-0258,iFlight,GPS Modules,GNSS Module,GPS+GLONASS,No,1,UART,4-6S BEC,External Active,Frame Mount,INAV,Industrial,Autonomous UAV
+GPS-0259,Skydroid,GPS Modules,GNSS Module,GPS+GLONASS,No,18,I2C,5V,Ceramic Patch,Top Mount,Betaflight,Industrial,Autonomous UAV
+GPS-0260,Holybro,GPS Modules,GNSS Module,GPS+BeiDou,No,5,CAN,5V,Helical,Mast Mount,ArduPilot,FPV,Long Range FPV
+GPS-0261,HGLRC,GPS Modules,GNSS Module,Multi-GNSS,Yes,1,CAN,5V,External Active,Frame Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0262,Here3,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,1,CAN,3.3-5V,External Active,Frame Mount,Betaflight,FPV,Long Range FPV
+GPS-0263,Foxeer,GPS Modules,GNSS Module,GPS,No,18,UART,3.3-5V,Helical,Frame Mount,PX4,FPV,Navigation
+GPS-0264,BN-880,GPS Modules,GNSS Module,Multi-GNSS,Yes,18,CAN,4-6S BEC,External Active,Mast Mount,Betaflight,FPV,Long Range FPV
+GPS-0265,Here3,GPS Modules,GNSS Module,Multi-GNSS,No,18,UART,5V,Helical,Top Mount,PX4,FPV,Long Range FPV
+GPS-0266,Beitian,GPS Modules,GNSS Module,GPS,No,18,UART,4-6S BEC,External Active,Mast Mount,Betaflight,FPV,Navigation
+GPS-0267,GEPRC,GPS Modules,GNSS Module,Multi-GNSS,Yes,5,CAN,5V,External Active,Mast Mount,PX4,Industrial,Autonomous UAV
+GPS-0268,GEPRC,GPS Modules,GNSS Module,GPS,Yes,10,I2C,4-6S BEC,External Active,Mast Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0269,BN-880,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,18,UART,5V,External Active,Mast Mount,PX4,FPV,Navigation
+GPS-0270,HGLRC,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,18,UART,5V,External Active,Frame Mount,INAV,FPV,Long Range FPV
+GPS-0271,HGLRC,GPS Modules,GNSS Module,Multi-GNSS,No,1,CAN,4-6S BEC,Ceramic Patch,Top Mount,PX4,FPV,Long Range FPV
+GPS-0272,T-Motor,GPS Modules,GNSS Module,GPS+BeiDou,Yes,1,UART,3.3-5V,Ceramic Patch,Mast Mount,INAV,FPV,Long Range FPV
+GPS-0273,Beitian,GPS Modules,GNSS Module,GPS+BeiDou,No,1,I2C,4-6S BEC,Ceramic Patch,Frame Mount,PX4,Industrial,Mapping / Survey
+GPS-0274,Beitian,GPS Modules,GNSS Module,GPS+BeiDou,Yes,1,I2C,5V,Helical,Frame Mount,PX4,Industrial,Autonomous UAV
+GPS-0275,Beitian,GPS Modules,GNSS Module,Multi-GNSS,No,1,UART,4-6S BEC,Ceramic Patch,Frame Mount,ArduPilot,FPV,Navigation
+GPS-0276,BN-880,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,5,CAN,4-6S BEC,Helical,Frame Mount,ArduPilot,FPV,Navigation
+GPS-0277,Beitian,GPS Modules,GNSS Module,Multi-GNSS,No,18,I2C,4-6S BEC,Helical,Top Mount,INAV,Industrial,Autonomous UAV
+GPS-0278,Skydroid,GPS Modules,GNSS Module,Multi-GNSS,No,18,I2C,3.3-5V,Helical,Top Mount,ArduPilot,FPV,Long Range FPV
+GPS-0279,Skydroid,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,10,CAN,3.3-5V,External Active,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0280,iFlight,GPS Modules,GNSS Module,Multi-GNSS,Yes,5,CAN,5V,External Active,Mast Mount,INAV,Industrial,Autonomous UAV
+GPS-0281,CUAV,GPS Modules,GNSS Module,Multi-GNSS,No,18,CAN,3.3-5V,External Active,Mast Mount,INAV,Industrial,Autonomous UAV
+GPS-0282,BN-880,GPS Modules,GNSS Module,Multi-GNSS,No,5,I2C,5V,Helical,Top Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0283,T-Motor,GPS Modules,GNSS Module,GPS+BeiDou,Yes,1,I2C,3.3-5V,Helical,Frame Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0284,Radiolink,GPS Modules,GNSS Module,Multi-GNSS,Yes,5,I2C,4-6S BEC,Ceramic Patch,Mast Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0285,Matek,GPS Modules,GNSS Module,GPS,Yes,1,UART,4-6S BEC,Helical,Top Mount,PX4,Industrial,Autonomous UAV
+GPS-0286,T-Motor,GPS Modules,GNSS Module,Multi-GNSS,No,10,UART,5V,Helical,Frame Mount,INAV,Industrial,Autonomous UAV
+GPS-0287,Holybro,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,10,I2C,5V,Ceramic Patch,Frame Mount,INAV,Industrial,Autonomous UAV
+GPS-0288,GEPRC,GPS Modules,GNSS Module,GPS,Yes,5,CAN,5V,External Active,Mast Mount,INAV,FPV,Long Range FPV
+GPS-0289,Foxeer,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,1,UART,4-6S BEC,Helical,Mast Mount,INAV,FPV,Navigation
+GPS-0290,Flywoo,GPS Modules,GNSS Module,GPS,Yes,18,UART,3.3-5V,External Active,Top Mount,Betaflight,FPV,Long Range FPV
+GPS-0291,Flywoo,GPS Modules,GNSS Module,Multi-GNSS,Yes,1,UART,4-6S BEC,Ceramic Patch,Mast Mount,PX4,Industrial,Mapping / Survey
+GPS-0292,HGLRC,GPS Modules,GNSS Module,GPS+BeiDou,No,1,UART,4-6S BEC,External Active,Mast Mount,PX4,Industrial,Autonomous UAV
+GPS-0293,Radiolink,GPS Modules,GNSS Module,GPS,No,18,UART,4-6S BEC,Helical,Frame Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0294,Radiolink,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,1,I2C,5V,External Active,Frame Mount,ArduPilot,FPV,Navigation
+GPS-0295,Here3,GPS Modules,GNSS Module,GPS+BeiDou,No,18,UART,4-6S BEC,External Active,Mast Mount,INAV,Industrial,Autonomous UAV
+GPS-0296,GEPRC,GPS Modules,GNSS Module,GPS+BeiDou,Yes,10,UART,5V,Helical,Mast Mount,INAV,Industrial,Mapping / Survey
+GPS-0297,CUAV,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,5,UART,5V,Helical,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0298,Foxeer,GPS Modules,GNSS Module,GPS,No,18,I2C,5V,Helical,Top Mount,INAV,Industrial,Autonomous UAV
+GPS-0299,Foxeer,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,18,I2C,4-6S BEC,External Active,Frame Mount,PX4,FPV,Long Range FPV
+GPS-0300,GEPRC,GPS Modules,GNSS Module,GPS,Yes,18,I2C,3.3-5V,External Active,Frame Mount,ArduPilot,Industrial,Mapping / Survey
+GPS-0301,Holybro,GPS Modules,GNSS Module,GPS+BeiDou,No,5,UART,4-6S BEC,Ceramic Patch,Mast Mount,PX4,Industrial,Autonomous UAV
+GPS-0302,BN-880,GPS Modules,GNSS Module,GPS,Yes,1,I2C,4-6S BEC,Ceramic Patch,Mast Mount,Betaflight,Industrial,Autonomous UAV
+GPS-0303,GEPRC,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,18,I2C,4-6S BEC,External Active,Frame Mount,PX4,FPV,Long Range FPV
+GPS-0304,Here3,GPS Modules,GNSS Module,GPS,Yes,10,I2C,3.3-5V,External Active,Mast Mount,Betaflight,FPV,Long Range FPV
+GPS-0305,Foxeer,GPS Modules,GNSS Module,GPS+BeiDou,No,1,UART,5V,Helical,Frame Mount,Betaflight,FPV,Navigation
+GPS-0306,Holybro,GPS Modules,GNSS Module,Multi-GNSS,No,18,CAN,3.3-5V,Ceramic Patch,Mast Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0307,Beitian,GPS Modules,GNSS Module,Multi-GNSS,No,10,CAN,3.3-5V,External Active,Top Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0308,GEPRC,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,18,UART,3.3-5V,External Active,Top Mount,Betaflight,FPV,Long Range FPV
+GPS-0309,Foxeer,GPS Modules,GNSS Module,Multi-GNSS,No,1,I2C,4-6S BEC,Helical,Frame Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0310,Skydroid,GPS Modules,GNSS Module,Multi-GNSS,Yes,18,UART,4-6S BEC,External Active,Frame Mount,PX4,FPV,Long Range FPV
+GPS-0311,Holybro,GPS Modules,GNSS Module,GPS+BeiDou,No,18,UART,4-6S BEC,External Active,Frame Mount,PX4,Industrial,Mapping / Survey
+GPS-0312,HGLRC,GPS Modules,GNSS Module,GPS+GLONASS,No,1,UART,3.3-5V,Helical,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0313,Holybro,GPS Modules,GNSS Module,GPS+BeiDou,Yes,1,CAN,5V,Ceramic Patch,Mast Mount,INAV,Industrial,Mapping / Survey
+GPS-0314,T-Motor,GPS Modules,GNSS Module,GPS+BeiDou,Yes,5,CAN,5V,Helical,Top Mount,Betaflight,FPV,Long Range FPV
+GPS-0315,Radiolink,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,1,I2C,3.3-5V,External Active,Mast Mount,INAV,FPV,Long Range FPV
+GPS-0316,Skydroid,GPS Modules,GNSS Module,GPS+BeiDou,No,10,UART,5V,External Active,Frame Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0317,HGLRC,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,1,UART,3.3-5V,Helical,Mast Mount,PX4,FPV,Long Range FPV
+GPS-0318,BN-880,GPS Modules,GNSS Module,GPS+BeiDou,Yes,5,UART,4-6S BEC,Helical,Mast Mount,INAV,Industrial,Autonomous UAV
+GPS-0319,HGLRC,GPS Modules,GNSS Module,Multi-GNSS,No,5,I2C,3.3-5V,External Active,Mast Mount,Betaflight,FPV,Navigation
+GPS-0320,Holybro,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,5,UART,3.3-5V,External Active,Top Mount,INAV,FPV,Long Range FPV
+GPS-0321,Radiolink,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,5,I2C,3.3-5V,Helical,Top Mount,INAV,FPV,Navigation
+GPS-0322,Here3,GPS Modules,GNSS Module,GPS,Yes,10,CAN,4-6S BEC,External Active,Mast Mount,INAV,FPV,Navigation
+GPS-0323,Foxeer,GPS Modules,GNSS Module,GPS,Yes,18,UART,4-6S BEC,Ceramic Patch,Mast Mount,PX4,Industrial,Autonomous UAV
+GPS-0324,iFlight,GPS Modules,GNSS Module,GPS+BeiDou,Yes,5,CAN,3.3-5V,External Active,Mast Mount,INAV,FPV,Navigation
+GPS-0325,BN-880,GPS Modules,GNSS Module,GPS,No,10,I2C,5V,Ceramic Patch,Mast Mount,ArduPilot,FPV,Long Range FPV
+GPS-0326,Holybro,GPS Modules,GNSS Module,GPS+BeiDou,No,10,I2C,3.3-5V,Helical,Top Mount,INAV,FPV,Long Range FPV
+GPS-0327,Radiolink,GPS Modules,GNSS Module,GPS+GLONASS,Yes,5,CAN,4-6S BEC,Ceramic Patch,Top Mount,PX4,FPV,Navigation
+GPS-0328,iFlight,GPS Modules,GNSS Module,GPS+GLONASS,No,1,CAN,3.3-5V,Helical,Mast Mount,INAV,FPV,Long Range FPV
+GPS-0329,HGLRC,GPS Modules,GNSS Module,GPS+GLONASS,No,1,UART,3.3-5V,Helical,Top Mount,INAV,FPV,Navigation
+GPS-0330,Here3,GPS Modules,GNSS Module,GPS+BeiDou,No,1,CAN,3.3-5V,Ceramic Patch,Top Mount,PX4,FPV,Navigation
+GPS-0331,Foxeer,GPS Modules,GNSS Module,GPS,No,10,I2C,3.3-5V,External Active,Mast Mount,INAV,Industrial,Autonomous UAV
+GPS-0332,Holybro,GPS Modules,GNSS Module,Multi-GNSS,Yes,1,I2C,3.3-5V,Helical,Mast Mount,PX4,FPV,Navigation
+GPS-0333,Here3,GPS Modules,GNSS Module,GPS+GLONASS,No,5,I2C,4-6S BEC,Ceramic Patch,Mast Mount,Betaflight,FPV,Navigation
+GPS-0334,GEPRC,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,10,CAN,4-6S BEC,Ceramic Patch,Top Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0335,CUAV,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,10,I2C,3.3-5V,Ceramic Patch,Top Mount,INAV,Industrial,Autonomous UAV
+GPS-0336,Beitian,GPS Modules,GNSS Module,Multi-GNSS,Yes,18,I2C,3.3-5V,Helical,Frame Mount,Betaflight,Industrial,Mapping / Survey
+GPS-0337,HGLRC,GPS Modules,GNSS Module,GPS+BeiDou,Yes,10,I2C,3.3-5V,Ceramic Patch,Mast Mount,Betaflight,FPV,Navigation
+GPS-0338,Flywoo,GPS Modules,GNSS Module,GPS+GLONASS,Yes,18,UART,3.3-5V,Ceramic Patch,Top Mount,PX4,FPV,Long Range FPV
+GPS-0339,Radiolink,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,5,UART,4-6S BEC,External Active,Mast Mount,Betaflight,Industrial,Autonomous UAV
+GPS-0340,Beitian,GPS Modules,GNSS Module,GPS+GLONASS,No,5,CAN,3.3-5V,Helical,Top Mount,PX4,FPV,Long Range FPV
+GPS-0341,Beitian,GPS Modules,GNSS Module,GPS+GLONASS,No,18,I2C,4-6S BEC,Ceramic Patch,Mast Mount,INAV,Industrial,Autonomous UAV
+GPS-0342,CUAV,GPS Modules,GNSS Module,GPS+BeiDou,Yes,18,CAN,4-6S BEC,Helical,Frame Mount,ArduPilot,FPV,Long Range FPV
+GPS-0343,Matek,GPS Modules,GNSS Module,GPS+GLONASS,No,1,UART,4-6S BEC,Helical,Mast Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0344,Skydroid,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,1,UART,5V,External Active,Frame Mount,INAV,Industrial,Autonomous UAV
+GPS-0345,BN-880,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,No,10,UART,3.3-5V,Ceramic Patch,Top Mount,ArduPilot,Industrial,Autonomous UAV
+GPS-0346,Foxeer,GPS Modules,GNSS Module,Multi-GNSS,Yes,5,I2C,5V,External Active,Frame Mount,Betaflight,FPV,Long Range FPV
+GPS-0347,T-Motor,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,10,CAN,5V,Ceramic Patch,Frame Mount,INAV,Industrial,Mapping / Survey
+GPS-0348,T-Motor,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,18,CAN,4-6S BEC,External Active,Mast Mount,INAV,Industrial,Mapping / Survey
+GPS-0349,BN-880,GPS Modules,GNSS Module,GPS+GLONASS+Galileo,Yes,5,CAN,3.3-5V,Ceramic Patch,Mast Mount,PX4,Industrial,Mapping / Survey
+GPS-0350,iFlight,GPS Modules,GNSS Module,GPS+GLONASS,Yes,5,UART,3.3-5V,Ceramic Patch,Mast Mount,ArduPilot,FPV,Long Range FPV

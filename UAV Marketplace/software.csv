@@ -1,0 +1,13 @@
+﻿SoftwareID,Name,SoftwareType,SupportedPlatform,LicenseType,ConnectionType,DevelopmentStatus,PrimaryPurpose
+SW-0001,Betaflight Configurator,Flight Controller Configurator,Windows / Mac / Linux,Open Source,USB,Active,Configure Betaflight FC
+SW-0002,INAV Configurator,Flight Controller Configurator,Windows / Mac / Linux,Open Source,USB,Active,Configure INAV FC
+SW-0003,Mission Planner,Ground Control Station,Windows,Open Source,Telemetry / USB,Very Active,ArduPilot Mission Planning
+SW-0004,QGroundControl,Ground Control Station,Windows / Mac / Linux / Android,Open Source,Telemetry / USB,Very Active,PX4 / ArduPilot Control
+SW-0005,BLHeliSuite,ESC Configuration Tool,Windows,Freeware,USB / Passthrough,Active,ESC Firmware Configuration
+SW-0006,SpeedyBee App,Mobile Configurator,Android / iOS,Freeware,Bluetooth,Active,Wireless FC Configuration
+SW-0007,DJI Assistant,Drone Utility Software,Windows / Mac,Proprietary,USB,Active,DJI Device Configuration
+SW-0008,UgCS,Mission Planning Software,Windows / Linux,Commercial,Telemetry,Active,Professional UAV Mission Planning
+SW-0009,Pix4Dcapture,Mapping Mission Planner,Android / iOS,Commercial,Telemetry,Active,Drone Mapping Missions
+SW-0010,DroneDeploy,Cloud Mapping Platform,Web / Mobile,Commercial,Telemetry,Active,Aerial Mapping
+SW-0011,ArduPilot Planner,Mission Planning Tool,Windows,Open Source,Telemetry,Active,Autonomous UAV Control
+SW-0012,KISS GUI,Flight Controller Configurator,Windows,Proprietary,USB,Active,KISS Flight Controller Setup

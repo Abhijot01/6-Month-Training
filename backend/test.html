@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>UAV AI Test</title>
+</head>
+<body>
+
+<h2>UAV Compatibility Test</h2>
+
+<button onclick="testAI()">Test Prediction</button>
+
+<pre id="result"></pre>
+
+<script>
+
+async function testAI() {
+  try {
+    const response = await fetch('http://localhost:5000/api/predict', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(
+
+{
+  "frame_size": 5,
+  "motor_kv": 2300,
+  "esc_amp": 35,
+  "prop_diameter": 5,
+  "battery_cells": 4
+}
+/*
+{
+  "frame_size": 7,
+  "motor_kv": 1400,
+  "esc_amp": 45,
+  "prop_diameter": 7,
+  "battery_cells": 6
+}
+*/
+/*
+{
+  "frame_size": 3,
+  "motor_kv": 3500,
+  "esc_amp": 10,
+  "prop_diameter": 8,
+  "battery_cells": 6
+}
+*/
+)
+    });
+
+    const data = await response.json();
+
+    document.getElementById('result').innerText = JSON.stringify(data, null, 2);
+
+  } catch (err) {
+    document.getElementById('result').innerText = '❌ Error: ' + err.message;
+  }
+}
+</script>
+</body>
+</html>

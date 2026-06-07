@@ -1,0 +1,1310 @@
+/* =========================================
+   MAIN LAYOUT
+========================================= */
+
+.dashboard-layout {
+
+  display: grid;
+
+  grid-template-columns: 270px 1fr;
+
+  width: 100%;
+
+  min-height: 100vh;
+
+  overflow: hidden;
+
+  background: #f8fafc;
+}
+
+/* =========================================
+   SIDEBAR SPACE FIX
+========================================= */
+
+.dashboard-layout .sidebar {
+
+  width: 270px;
+
+  min-width: 270px;
+
+  height: 100vh;
+
+  overflow-y: auto;
+
+  overflow-x: hidden;
+
+  position: sticky;
+
+  top: 0;
+
+  z-index: 100;
+}
+
+/* =========================================
+   ROOT
+========================================= */
+
+.dashboard-root {
+
+  position: relative;
+
+  width: 100%;
+
+  min-width: 0;
+
+  min-height: 100vh;
+
+  overflow-x: hidden;
+
+  overflow-y: auto;
+
+  padding: 34px;
+  padding-left: 60px;
+
+  box-sizing: border-box;
+
+  color: var(--text-primary);
+}
+
+/* =========================================
+   CONTENT
+========================================= */
+
+.dashboard-content,
+.dashboard-main,
+.dashboard-page {
+
+  width: 100%;
+
+  max-width: 100%;
+
+  margin: 0;
+
+  padding: 0;
+
+  box-sizing: border-box;
+}
+
+/* =========================================
+   HEADER
+========================================= */
+
+.dashboard-header {
+
+  margin-bottom: 28px;
+}
+
+.dashboard-header h1 {
+
+  margin: 0;
+
+  font-size: 42px;
+
+  font-weight: 700;
+
+  letter-spacing: -0.04em;
+
+  color: #0f172a;
+}
+
+.dashboard-header span {
+
+  display: block;
+
+  margin-top: 8px;
+
+  font-size: 15px;
+
+  color: #64748b;
+}
+
+/* =========================================
+   SEARCH
+========================================= */
+
+.global-search {
+
+  display: flex;
+
+  gap: 16px;
+
+  margin-top: 24px;
+
+  margin-bottom: 26px;
+
+  width: 100%;
+}
+
+.global-search input {
+
+  flex: 1;
+
+  height: 58px;
+
+  border-radius: 20px;
+
+  border: 1px solid rgba(148,163,184,0.18);
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(255,255,255,0.84),
+      rgba(240,244,255,0.72)
+    );
+
+  padding: 0 22px;
+
+  font-size: 15px;
+
+  color: #1e293b;
+
+  outline: none;
+
+  backdrop-filter: blur(18px);
+}
+
+.global-search button {
+
+  min-width: 170px;
+
+  height: 58px;
+
+  border: none;
+
+  border-radius: 20px;
+
+  cursor: pointer;
+
+  font-size: 15px;
+
+  font-weight: 700;
+
+  color: white;
+
+  background:
+    linear-gradient(
+      135deg,
+      #4f46e5,
+      #7c3aed
+    );
+
+  transition: 0.25s ease;
+}
+
+.global-search button:hover {
+
+  transform: translateY(-2px);
+
+  box-shadow:
+    0 14px 28px rgba(99,102,241,0.22);
+}
+
+/* =========================================
+   GLASS SYSTEM
+========================================= */
+
+.stat-card,
+.component-card,
+.data-card,
+.dashboard-filters,
+.components-section,
+.compatibility-bar {
+
+  position: relative;
+
+  border-radius: 28px;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(255,255,255,0.76),
+      rgba(240,244,255,0.62)
+    );
+
+  border:
+    1px solid rgba(255,255,255,0.82);
+
+  backdrop-filter: blur(20px);
+
+  box-shadow:
+    0 12px 35px rgba(99,102,241,0.10);
+
+  transition: 0.3s ease;
+}
+
+/* =========================================
+   STATS
+========================================= */
+
+.dashboard-stats {
+
+  display: grid;
+
+  grid-template-columns:
+    repeat(auto-fit, minmax(220px, 1fr));
+
+  gap: 22px;
+
+  margin-top: 30px;
+}
+
+.stat-card {
+
+  padding: 28px;
+}
+
+.stat-content h3 {
+
+  margin: 0;
+
+  font-size: 34px;
+
+  font-weight: 700;
+
+  color: #312e81;
+}
+
+.stat-content p {
+
+  margin-top: 10px;
+
+  font-size: 14px;
+
+  color: #64748b;
+}
+
+/* =========================================
+   COMPONENTS
+========================================= */
+
+.components-section {
+
+  margin-top: 36px;
+
+  padding: 30px;
+}
+
+.components-grid {
+
+  display: grid;
+
+  grid-template-columns:
+    repeat(auto-fit, minmax(220px, 1fr));
+
+  gap: 22px;
+
+  margin-top: 24px;
+}
+
+.component-card {
+
+  padding: 26px;
+
+  min-height: 220px;
+
+  text-align: center;
+
+  display: flex;
+
+  flex-direction: column;
+
+  justify-content: center;
+}
+
+.component-card h3 {
+
+  margin-top: 16px;
+
+  font-size: 18px;
+
+  color: #0f172a;
+}
+
+.component-quantity {
+
+  margin-top: 12px;
+
+  font-size: 30px;
+
+  font-weight: 700;
+
+  background:
+    linear-gradient(
+      135deg,
+      #4f46e5,
+      #7c3aed
+    );
+
+  -webkit-background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+}
+
+/* =========================================
+   GRID
+========================================= */
+
+.grid {
+
+  display: grid;
+
+  grid-template-columns:
+    repeat(auto-fill, minmax(320px, 1fr));
+
+  gap: 24px;
+
+  margin-top: 28px;
+}
+
+/* =========================================
+   DATA CARDS
+========================================= */
+
+.data-card {
+
+  padding: 28px;
+}
+
+.placeholder-card {
+
+  padding: 80px;
+
+  text-align: center;
+}
+
+/* =========================================
+   FILTERS
+========================================= */
+
+.dashboard-filters {
+
+  display: flex;
+
+  flex-wrap: wrap;
+
+  align-items: flex-start;
+
+  gap: 18px;
+
+  padding: 26px;
+
+  margin-top: 24px;
+
+  overflow: visible;
+
+  position: relative;
+
+  z-index: 50;
+}
+
+/* =========================================
+   MULTI DROPDOWN
+========================================= */
+
+.dashboard-multi-dropdown {
+
+  position: relative;
+
+  width: 220px;
+
+  flex-shrink: 0;
+
+  z-index: 10;
+}
+
+.dashboard-multi-dropdown.open {
+
+  z-index: 9999;
+}
+
+.dashboard-multi-dropdown .dropdown-header {
+
+  height: 56px;
+
+  display: flex;
+
+  align-items: center;
+
+  padding: 0 18px;
+
+  border-radius: 18px;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(255,255,255,0.84),
+      rgba(240,244,255,0.72)
+    );
+
+  border:
+    1px solid rgba(148,163,184,0.16);
+
+  color: #1e293b;
+
+  font-size: 14px;
+
+  cursor: pointer;
+
+  user-select: none;
+}
+
+.dashboard-multi-dropdown .dropdown-menu {
+
+  position: absolute;
+
+  top: calc(100% + 10px);
+
+  left: 0;
+
+  width: 100%;
+
+  min-width: 220px;
+
+  max-height: 280px;
+
+  overflow-y: auto;
+
+  padding: 12px;
+
+  border-radius: 20px;
+
+  background:
+    rgba(255,255,255,0.96);
+
+  backdrop-filter: blur(24px);
+
+  border:
+    1px solid rgba(148,163,184,0.12);
+
+  box-shadow:
+    0 14px 40px rgba(99,102,241,0.16);
+
+  z-index: 99999;
+}
+
+.dashboard-multi-dropdown .dropdown-option {
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 10px;
+
+  padding: 10px 12px;
+
+  border-radius: 12px;
+
+  cursor: pointer;
+
+  transition: 0.2s ease;
+}
+
+.dashboard-multi-dropdown .dropdown-option:hover {
+
+  background:
+    rgba(99,102,241,0.08);
+}
+
+/* =========================================
+   BUTTONS
+========================================= */
+
+.dashboard-filters button,
+.compat-btn {
+
+  min-width: 180px;
+
+  height: 56px;
+
+  border: none;
+
+  border-radius: 18px;
+
+  cursor: pointer;
+
+  font-size: 14px;
+
+  font-weight: 700;
+
+  color: white;
+
+  background:
+    linear-gradient(
+      135deg,
+      #4f46e5,
+      #7c3aed
+    );
+
+  transition: 0.25s ease;
+}
+
+.dashboard-filters button:hover,
+.compat-btn:hover {
+
+  transform: translateY(-2px);
+
+  box-shadow:
+    0 12px 24px rgba(99,102,241,0.22);
+}
+
+/* =========================================
+   DETAIL
+========================================= */
+
+.detail-container {
+
+  display: grid;
+
+  grid-template-columns: 420px 1fr;
+
+  gap: 36px;
+
+  margin-top: 30px;
+}
+
+.detail-image-wrapper,
+.detail-info {
+
+  border-radius: 30px;
+
+  overflow: hidden;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(255,255,255,0.76),
+      rgba(240,244,255,0.64)
+    );
+
+  border:
+    1px solid rgba(255,255,255,0.82);
+
+  box-shadow:
+    0 14px 35px rgba(99,102,241,0.10);
+}
+
+.detail-info {
+
+  padding: 34px;
+}
+
+/* =========================================
+   SCROLLBAR
+========================================= */
+
+.dashboard-root::-webkit-scrollbar,
+.dropdown-menu::-webkit-scrollbar {
+
+  width: 8px;
+}
+
+.dashboard-root::-webkit-scrollbar-thumb,
+.dropdown-menu::-webkit-scrollbar-thumb {
+
+  background:
+    linear-gradient(
+      #818cf8,
+      #7c3aed
+    );
+
+  border-radius: 999px;
+}
+
+/* =========================================
+   RESPONSIVE
+========================================= */
+
+@media (max-width: 1100px) {
+
+  .detail-container {
+
+    grid-template-columns: 1fr;
+  }
+
+  .dashboard-filters {
+
+    flex-direction: column;
+  }
+
+  .dashboard-multi-dropdown {
+
+    width: 100%;
+  }
+
+  .dashboard-filters button {
+
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+
+  .dashboard-layout {
+
+    grid-template-columns: 1fr;
+  }
+
+  .dashboard-layout .sidebar {
+
+    position: relative;
+
+    width: 100%;
+
+    min-width: 100%;
+
+    height: auto;
+  }
+
+  .dashboard-root {
+
+    padding: 20px;
+  }
+
+  .dashboard-header h1 {
+
+    font-size: 34px;
+  }
+
+  .grid,
+  .components-grid {
+
+    grid-template-columns: 1fr;
+  }
+}
+
+/* =========================================
+   COMPATIBILITY PAGE
+========================================= */
+
+.compatibility-bar {
+
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 24px;
+
+  padding: 28px;
+
+  margin-top: 24px;
+
+  border-radius: 28px;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(255,255,255,0.80),
+      rgba(240,244,255,0.68)
+    );
+
+  border:
+    1px solid rgba(255,255,255,0.75);
+
+  backdrop-filter: blur(18px);
+
+  box-shadow:
+    0 14px 35px rgba(99,102,241,0.10);
+}
+
+/* =========================================
+   COMPAT INPUTS
+========================================= */
+
+.compatibility-inputs {
+
+  display: flex;
+
+  /*flex-wrap: wrap;*/
+
+  gap: 18px;
+
+  width: 100%;
+}
+
+/* =========================================
+   AUTOCOMPLETE
+========================================= */
+
+.autocomplete {
+
+  position: relative;
+
+  flex: 1;
+
+  min-width: 280px;
+}
+
+.autocomplete input {
+
+  width: 100%;
+
+  height: 58px;
+
+  padding: 0 18px;
+
+  border-radius: 18px;
+
+  border:
+    1px solid rgba(148,163,184,0.18);
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(255,255,255,0.86),
+      rgba(240,244,255,0.72)
+    );
+
+  color: #0f172a;
+
+  font-size: 14px;
+
+  outline: none;
+
+  box-sizing: border-box;
+
+  transition: 0.25s ease;
+}
+
+.autocomplete input:focus {
+
+  border-color: #7c3aed;
+
+  box-shadow:
+    0 0 0 4px rgba(124,58,237,0.10);
+}
+
+/* =========================================
+   AUTOCOMPLETE DROPDOWN
+========================================= */
+
+.dropdown {
+
+  position: absolute;
+
+  top: calc(100% + 10px);
+
+  left: 0;
+
+  width: 100%;
+
+  max-height: 260px;
+
+  overflow-y: auto;
+
+  border-radius: 18px;
+
+  background:
+    rgba(255,255,255,0.96);
+
+  backdrop-filter: blur(24px);
+
+  border:
+    1px solid rgba(148,163,184,0.14);
+
+  box-shadow:
+    0 18px 40px rgba(99,102,241,0.16);
+
+  z-index: 99999;
+}
+
+.dropdown-item {
+
+  padding: 14px 16px;
+
+  cursor: pointer;
+
+  font-size: 14px;
+
+  color: #334155;
+
+  transition: 0.2s ease;
+
+  border-bottom:
+    1px solid rgba(148,163,184,0.08);
+}
+
+.dropdown-item:hover {
+
+  background:
+    rgba(99,102,241,0.08);
+
+  color: #4338ca;
+}
+
+/* =========================================
+   COMPATIBILITY BUTTON
+========================================= */
+
+.compat-btn {
+
+  width: fit-content;
+
+  min-width: 220px;
+
+  height: 56px;
+
+  border: none;
+
+  border-radius: 18px;
+
+  cursor: pointer;
+
+  font-size: 15px;
+
+  font-weight: 700;
+
+  color: white;
+
+  background:
+    linear-gradient(
+      135deg,
+      #4f46e5,
+      #7c3aed
+    );
+
+  transition: 0.25s ease;
+}
+
+.compat-btn:hover {
+
+  transform: translateY(-2px);
+
+  box-shadow:
+    0 12px 25px rgba(99,102,241,0.22);
+}
+
+/* =========================================
+   CLICKABLE CARD
+========================================= */
+
+.clickable {
+
+  cursor: pointer;
+
+  transition: 0.25s ease;
+}
+
+.clickable:hover {
+
+  transform: translateY(-4px);
+
+  box-shadow:
+    0 20px 40px rgba(99,102,241,0.16);
+}
+
+/* =========================================
+   RECOMMENDATION PAGE
+========================================= */
+
+.rec-root {
+
+  width: 100%;
+}
+
+.rec-filters {
+
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 18px;
+}
+
+/* =========================================
+   SELECTS
+========================================= */
+
+.rec-filters select {
+
+  flex: 1;
+
+  min-width: 220px;
+
+  height: 56px;
+
+  padding: 0 18px;
+
+  border-radius: 18px;
+
+  border:
+    1px solid rgba(148,163,184,0.18);
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(255,255,255,0.86),
+      rgba(240,244,255,0.72)
+    );
+
+  color: #0f172a;
+
+  font-size: 14px;
+
+  outline: none;
+
+  cursor: pointer;
+}
+
+.rec-filters select:focus {
+
+  border-color: #7c3aed;
+}
+
+/* =========================================
+   REC BUTTON
+========================================= */
+
+.rec-filters button {
+
+  min-width: 220px;
+
+  height: 56px;
+
+  border: none;
+
+  border-radius: 18px;
+
+  cursor: pointer;
+
+  font-size: 15px;
+
+  font-weight: 700;
+
+  color: white;
+
+  background:
+    linear-gradient(
+      135deg,
+      #4f46e5,
+      #7c3aed
+    );
+
+  transition: 0.25s ease;
+}
+
+.rec-filters button:hover {
+
+  transform: translateY(-2px);
+
+  box-shadow:
+    0 14px 28px rgba(99,102,241,0.22);
+}
+
+/* =========================================
+   REC SECTION
+========================================= */
+
+.rec-section {
+
+  margin-top: 36px;
+}
+
+.rec-section h2 {
+
+  margin-bottom: 20px;
+
+  font-size: 28px;
+
+  color: #0f172a;
+}
+
+.rec-subtitle {
+
+  margin-bottom: 24px;
+
+  font-size: 16px;
+
+  color: #64748b;
+}
+
+/* =========================================
+   REC GRID
+========================================= */
+
+.rec-grid {
+
+  display: grid;
+
+  grid-template-columns:
+    repeat(auto-fit, minmax(260px, 1fr));
+
+  gap: 22px;
+
+  margin-top: 20px;
+}
+
+/* =========================================
+   REC BLOCK
+========================================= */
+
+.rec-block {
+
+  margin-bottom: 40px;
+
+  padding: 30px;
+
+  border-radius: 30px;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(255,255,255,0.78),
+      rgba(240,244,255,0.68)
+    );
+
+  border:
+    1px solid rgba(255,255,255,0.82);
+
+  box-shadow:
+    0 14px 35px rgba(99,102,241,0.10);
+}
+
+/* =========================================
+   REC CARD
+========================================= */
+
+.rec-card {
+
+  padding: 24px;
+
+  border-radius: 24px;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(255,255,255,0.82),
+      rgba(240,244,255,0.68)
+    );
+
+  border:
+    1px solid rgba(255,255,255,0.76);
+
+  box-shadow:
+    0 10px 25px rgba(99,102,241,0.08);
+}
+
+.rec-card.highlight {
+
+  border:
+    1px solid rgba(124,58,237,0.18);
+}
+
+.rec-title {
+
+  margin-top: 10px;
+
+  font-size: 20px;
+
+  color: #0f172a;
+}
+
+.rec-label {
+
+  display: inline-flex;
+
+  padding: 6px 12px;
+
+  border-radius: 999px;
+
+  background:
+    rgba(99,102,241,0.10);
+
+  color: #4f46e5;
+
+  font-size: 12px;
+
+  font-weight: 700;
+
+  letter-spacing: 0.08em;
+}
+
+/* =========================================
+   SCORE CARD
+========================================= */
+
+.rec-card.score {
+
+  display: flex;
+
+  flex-direction: column;
+
+  justify-content: center;
+}
+
+.rec-score-bar {
+
+  width: 100%;
+
+  height: 12px;
+
+  margin-top: 14px;
+
+  border-radius: 999px;
+
+  overflow: hidden;
+
+  background:
+    rgba(148,163,184,0.16);
+}
+
+.rec-score-fill {
+
+  height: 100%;
+
+  border-radius: 999px;
+
+  background:
+    linear-gradient(
+      90deg,
+      #4f46e5,
+      #7c3aed
+    );
+}
+
+/* =========================================
+   REC EXPLANATION
+========================================= */
+
+.rec-explanation {
+
+  margin-top: 24px;
+
+  padding: 22px;
+
+  border-radius: 22px;
+
+  background:
+    rgba(99,102,241,0.05);
+
+  border:
+    1px solid rgba(99,102,241,0.10);
+}
+
+.rec-explanation h4 {
+
+  margin-bottom: 14px;
+
+  color: #312e81;
+}
+
+.rec-explanation ul {
+
+  padding-left: 18px;
+}
+
+.rec-explanation li {
+
+  margin-bottom: 10px;
+
+  color: #475569;
+
+  line-height: 1.6;
+}
+
+/* =========================================
+   RESPONSIVE
+========================================= */
+
+@media (max-width: 768px) {
+
+  .compatibility-inputs {
+
+    flex-direction: column;
+  }
+
+  .autocomplete {
+
+    min-width: 100%;
+  }
+
+  .rec-grid {
+
+    grid-template-columns: 1fr;
+  }
+
+  .compat-btn,
+  .rec-filters button {
+
+    width: 100%;
+  }
+}
+
+.autocomplete-wrapper {
+
+  position: relative;
+
+  width: 100%;
+
+  overflow: visible !important;
+}
+
+.autocomplete {
+
+  position: relative;
+
+  width: 100%;
+
+  overflow: visible !important;
+}
+
+.dropdown {
+
+  position: absolute;
+
+  top: calc(100% + 8px);
+
+  left: 0;
+
+  width: 100%;
+
+  max-height: 220px;
+
+  overflow-y: auto;
+
+  z-index: 999999;
+
+  background: white;
+
+  border-radius: 18px;
+
+  box-shadow:
+    0 20px 40px rgba(99,102,241,0.16);
+}
+
+.placeholder-card {
+
+  width: 100%;
+
+  min-height: 180px;
+
+  padding: 32px;
+
+  margin-top: 24px;
+
+  border-radius: 28px;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(255,255,255,0.82),
+      rgba(248,250,255,0.92)
+    );
+
+  border:
+    1px solid rgba(148,163,184,0.10);
+
+  box-shadow:
+    0 12px 40px rgba(99,102,241,0.08);
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+
+  justify-content: center;
+
+  text-align: center;
+
+  gap: 12px;
+}

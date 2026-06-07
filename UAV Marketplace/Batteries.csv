@@ -1,0 +1,301 @@
+BatteryID,Brand,Category,SubCategory,BatteryChemistry,CellCount_S,Voltage_V,Capacity_mAh,DischargeRate_C,Energy_Wh,ConnectorType,IntendedUse,CompatibleDroneType
+BAT-0001,GNB,Batteries,LiPo FPV Battery,LiPo,4,14.8,1300,120,19.24,XT60,Freestyle FPV,FPV
+BAT-0002,GNB,Batteries,LiPo FPV Battery,LiPo,3,11.1,1850,100,20.54,XT60,Training / Beginner FPV,FPV
+BAT-0003,GNB,Batteries,LiPo FPV Battery,LiPo,6,22.2,1100,120,24.42,XT60,Freestyle / Racing,FPV
+BAT-0004,GNB,Batteries,LiPo FPV Battery,LiPo,4,14.8,1550,120,22.94,XT60,Freestyle FPV,FPV
+BAT-0005,GNB,Batteries,LiPo FPV Battery,LiPo,6,22.2,1300,120,28.86,XT60,Freestyle / Long Range,FPV
+BAT-0006,Tattu,Batteries,LiPo FPV Battery,LiPo,4,14.8,1500,120,22.2,XT60,Freestyle FPV,FPV
+BAT-0007,Tattu,Batteries,LiPo FPV Battery,LiPo,6,22.2,1300,120,28.86,XT60,Freestyle / Racing,FPV
+BAT-0008,Tattu,Batteries,LiPo FPV Battery,LiPo,6,22.2,1800,100,39.96,XT90,Long Range FPV,FPV
+BAT-0009,Herewin,Batteries,Industrial LiPo Battery,LiPo,6,22.2,22000,25,488.4,XT90,Agriculture / Heavy Lift,Agricultural
+BAT-0010,Herewin,Batteries,Industrial LiPo Battery,LiPo,12,44.4,16000,25,710.4,AS150,Agriculture Drone,Agricultural
+BAT-0011,Herewin,Batteries,Industrial LiPo Battery,LiPo,14,51.8,20000,20,1036,AS150,Heavy Lift UAV,Agricultural
+BAT-0012,CNHY,Batteries,LiPo FPV Battery,LiPo,4,14.8,1500,100,22.2,XT60,Freestyle FPV,FPV
+BAT-0013,CNHY,Batteries,LiPo FPV Battery,LiPo,6,22.2,1300,100,28.86,XT60,Freestyle FPV,FPV
+BAT-0014,Bonka,Batteries,LiPo FPV Battery,LiPo,6,22.2,1550,120,34.41,XT60,Freestyle FPV,FPV
+BAT-0015,Bonka,Batteries,LiPo FPV Battery,LiPo,4,14.8,1500,120,22.2,XT60,Freestyle FPV,FPV
+BAT-0016,Ovonic,Batteries,LiPo FPV Battery,LiPo,4,14.8,1300,100,19.24,XT60,Beginner FPV,FPV
+BAT-0017,Ovonic,Batteries,LiPo FPV Battery,LiPo,6,22.2,1200,100,26.64,XT60,Freestyle FPV,FPV
+BAT-0018,Zeee,Batteries,LiPo FPV Battery,LiPo,3,11.1,2200,80,24.42,XT60,Trainer Drone,FPV
+BAT-0019,Zeee,Batteries,LiPo FPV Battery,LiPo,4,14.8,5200,50,76.96,XT90,Fixed Wing UAV,Fixed Wing
+BAT-0020,Tattu,Batteries,Smart Battery (UAV),Li-ion,6,22.2,16000,10,355.2,AS150,Mapping / Survey UAV,Industrial
+BAT-0021,GNB,Batteries,LiPo FPV Battery,LiPo,4,14.8,1500,120,22.2,XT60,Freestyle FPV,FPV
+BAT-0022,GNB,Batteries,LiPo FPV Battery,LiPo,6,22.2,1500,120,33.3,XT60,Freestyle FPV,FPV
+BAT-0023,GNB,Batteries,LiPo FPV Battery,LiPo,6,22.2,1800,100,39.96,XT90,Long Range FPV,FPV
+BAT-0024,Tattu,Batteries,LiPo FPV Battery,LiPo,4,14.8,1800,100,26.64,XT60,Freestyle FPV,FPV
+BAT-0025,Tattu,Batteries,LiPo FPV Battery,LiPo,6,22.2,1600,100,35.52,XT60,Freestyle / Racing,FPV
+BAT-0026,Tattu,Batteries,LiPo FPV Battery,LiPo,6,22.2,2200,75,48.84,XT90,Long Range FPV,FPV
+BAT-0027,CNHY,Batteries,LiPo FPV Battery,LiPo,4,14.8,1300,100,19.24,XT60,Freestyle FPV,FPV
+BAT-0028,CNHY,Batteries,LiPo FPV Battery,LiPo,6,22.2,1500,100,33.3,XT60,Freestyle FPV,FPV
+BAT-0029,Bonka,Batteries,LiPo FPV Battery,LiPo,4,14.8,1800,120,26.64,XT60,Freestyle FPV,FPV
+BAT-0030,Bonka,Batteries,LiPo FPV Battery,LiPo,6,22.2,1500,120,33.3,XT60,Freestyle FPV,FPV
+BAT-0031,Ovonics,Batteries,LiPo FPV Battery,LiPo,3,11.1,2200,80,24.42,XT60,Beginner FPV,FPV
+BAT-0032,Ovonics,Batteries,LiPo FPV Battery,LiPo,4,14.8,1550,100,22.94,XT60,Freestyle FPV,FPV
+BAT-0033,Zeee,Batteries,LiPo FPV Battery,LiPo,4,14.8,5200,50,76.96,XT90,Fixed Wing,Fixed Wing
+BAT-0034,Zeee,Batteries,LiPo FPV Battery,LiPo,6,22.2,6000,50,133.2,XT90,Fixed Wing,Fixed Wing
+BAT-0035,Tattu,Batteries,Li-ion UAV Battery,Li-ion,6,22.2,6000,15,133.2,XT90,Long Endurance UAV,FPV / Fixed Wing
+BAT-0036,Tattu,Batteries,Li-ion UAV Battery,Li-ion,6,22.2,10000,15,222,XT90,Long Endurance UAV,FPV / Fixed Wing
+BAT-0037,Herewin,Batteries,Industrial LiPo Battery,LiPo,6,22.2,16000,25,355.2,AS150,Agriculture UAV,Agricultural
+BAT-0038,Herewin,Batteries,Industrial LiPo Battery,LiPo,12,44.4,22000,20,976.8,AS150,Agriculture UAV,Agricultural
+BAT-0039,Herewin,Batteries,Industrial LiPo Battery,LiPo,14,51.8,18000,20,932.4,AS150,Heavy Lift UAV,Agricultural
+BAT-0040,Herewin,Batteries,Industrial LiPo Battery,LiPo,18,66.6,16000,15,1065.6,AS150,Heavy Lift UAV,Agricultural
+BAT-0041,Grepow,Batteries,LiPo FPV Battery,LiPo,4,14.8,1500,100,22.2,XT60,Freestyle FPV,FPV
+BAT-0042,Grepow,Batteries,LiPo FPV Battery,LiPo,6,22.2,1800,100,39.96,XT60,Freestyle FPV,FPV
+BAT-0043,Panasonic,Batteries,Li-ion UAV Battery,Li-ion,4,14.8,7000,10,103.6,XT60,Long Endurance UAV,FPV / Fixed Wing
+BAT-0044,Panasonic,Batteries,Li-ion UAV Battery,Li-ion,6,22.2,10000,10,222,XT90,Long Endurance UAV,Fixed Wing
+BAT-0045,Samsung,Batteries,Li-ion UAV Battery,Li-ion,6,22.2,8000,15,177.6,XT90,Survey UAV,Fixed Wing
+BAT-0046,Samsung,Batteries,Li-ion UAV Battery,Li-ion,8,29.6,10000,15,296,XT90,Survey UAV,Fixed Wing
+BAT-0047,Tattu,Batteries,Smart UAV Battery,Li-ion,12,44.4,16000,10,710.4,AS150,Mapping UAV,Industrial
+BAT-0048,Tattu,Batteries,Smart UAV Battery,Li-ion,14,51.8,18000,10,932.4,AS150,Industrial UAV,Industrial
+BAT-0049,Herewin,Batteries,Smart UAV Battery,Li-ion,12,44.4,20000,10,888,AS150,Agriculture UAV,Agricultural
+BAT-0050,Herewin,Batteries,Smart UAV Battery,Li-ion,18,66.6,22000,8,1465.2,AS150,Heavy Lift UAV,Agricultural
+BAT-0051,Tattu,Batteries,LiPo FPV Battery,LiPo,2,7.4,850,75,6.29,XT30,Micro FPV,FPV
+BAT-0052,Tattu,Batteries,LiPo FPV Battery,LiPo,2,7.4,1000,75,7.4,XT30,Micro FPV,FPV
+BAT-0053,GNB,Batteries,LiPo FPV Battery,LiPo,1,3.8,450,80,1.71,PH2.0,Tinywhoop,FPV
+BAT-0054,GNB,Batteries,LiPo FPV Battery,LiPo,1,3.8,650,60,2.47,PH2.0,Tinywhoop,FPV
+BAT-0055,BetaFPV,Batteries,LiPo FPV Battery,LiPo,1,3.8,300,80,1.14,PH2.0,Tinywhoop,FPV
+BAT-0056,BetaFPV,Batteries,LiPo FPV Battery,LiPo,2,7.4,450,60,3.33,XT30,Micro FPV,FPV
+BAT-0057,Zeee,Batteries,LiPo FPV Battery,LiPo,6,22.2,8000,50,177.6,XT90,Fixed Wing,Fixed Wing
+BAT-0058,Zeee,Batteries,LiPo FPV Battery,LiPo,4,14.8,10000,50,148,XT90,Fixed Wing,Fixed Wing
+BAT-0059,Turnigy,Batteries,LiPo UAV Battery,LiPo,6,22.2,10000,25,222,XT90,Multirotor UAV,Multirotor
+BAT-0060,Turnigy,Batteries,LiPo UAV Battery,LiPo,12,44.4,16000,20,710.4,AS150,Industrial UAV,Industrial
+BAT-0061,Tattu,Batteries,LiPo FPV Battery,LiPo,4,14.8,1300,120,19.24,XT60,Freestyle FPV,FPV
+BAT-0062,Tattu,Batteries,LiPo FPV Battery,LiPo,4,14.8,1550,120,22.94,XT60,Freestyle FPV,FPV
+BAT-0063,Tattu,Batteries,LiPo FPV Battery,LiPo,6,22.2,1300,120,28.86,XT60,Freestyle FPV,FPV
+BAT-0064,Tattu,Batteries,LiPo FPV Battery,LiPo,6,22.2,1800,100,39.96,XT90,Long Range FPV,FPV
+BAT-0065,GNB,Batteries,LiPo FPV Battery,LiPo,4,14.8,1100,120,16.28,XT60,Racing FPV,FPV
+BAT-0066,GNB,Batteries,LiPo FPV Battery,LiPo,4,14.8,1800,100,26.64,XT60,Freestyle FPV,FPV
+BAT-0067,GNB,Batteries,LiPo FPV Battery,LiPo,6,22.2,1400,120,31.08,XT60,Freestyle FPV,FPV
+BAT-0068,GNB,Batteries,LiPo FPV Battery,LiPo,6,22.2,2200,90,48.84,XT90,Long Range FPV,FPV
+BAT-0069,CNHY,Batteries,LiPo FPV Battery,LiPo,4,14.8,1500,100,22.2,XT60,Freestyle FPV,FPV
+BAT-0070,CNHY,Batteries,LiPo FPV Battery,LiPo,6,22.2,1800,90,39.96,XT90,Long Range FPV,FPV
+BAT-0071,Bonka,Batteries,LiPo FPV Battery,LiPo,4,14.8,1300,120,19.24,XT60,Freestyle FPV,FPV
+BAT-0072,Bonka,Batteries,LiPo FPV Battery,LiPo,6,22.2,1600,120,35.52,XT60,Freestyle FPV,FPV
+BAT-0073,Ovonics,Batteries,LiPo FPV Battery,LiPo,3,11.1,1500,80,16.65,XT60,Beginner FPV,FPV
+BAT-0074,Ovonics,Batteries,LiPo FPV Battery,LiPo,4,14.8,2200,80,32.56,XT60,Trainer FPV,FPV
+BAT-0075,Zeee,Batteries,LiPo FPV Battery,LiPo,3,11.1,5200,50,57.72,XT90,Fixed Wing,Fixed Wing
+BAT-0076,Zeee,Batteries,LiPo FPV Battery,LiPo,4,14.8,6200,50,91.76,XT90,Fixed Wing,Fixed Wing
+BAT-0077,Turnigy,Batteries,LiPo UAV Battery,LiPo,6,22.2,8000,30,177.6,XT90,Multirotor UAV,Multirotor
+BAT-0078,Turnigy,Batteries,LiPo UAV Battery,LiPo,12,44.4,10000,25,444,AS150,Industrial UAV,Industrial
+BAT-0079,Tattu,Batteries,Li-ion UAV Battery,Li-ion,4,14.8,8000,10,118.4,XT60,Long Endurance UAV,Fixed Wing
+BAT-0080,Tattu,Batteries,Li-ion UAV Battery,Li-ion,6,22.2,12000,10,266.4,XT90,Survey UAV,Fixed Wing
+BAT-0081,Panasonic,Batteries,Li-ion UAV Battery,Li-ion,6,22.2,6000,10,133.2,XT60,Endurance UAV,FPV / Fixed Wing
+BAT-0082,Panasonic,Batteries,Li-ion UAV Battery,Li-ion,8,29.6,8000,10,236.8,XT90,Survey UAV,Fixed Wing
+BAT-0083,Samsung,Batteries,Li-ion UAV Battery,Li-ion,6,22.2,9000,15,199.8,XT90,Survey UAV,Fixed Wing
+BAT-0084,Samsung,Batteries,Li-ion UAV Battery,Li-ion,12,44.4,12000,10,532.8,AS150,Industrial UAV,Industrial
+BAT-0085,Herewin,Batteries,Industrial LiPo Battery,LiPo,6,22.2,12000,25,266.4,AS150,Agriculture UAV,Agricultural
+BAT-0086,Herewin,Batteries,Industrial LiPo Battery,LiPo,12,44.4,16000,20,710.4,AS150,Agriculture UAV,Agricultural
+BAT-0087,Herewin,Batteries,Industrial LiPo Battery,LiPo,14,51.8,20000,20,1036,AS150,Heavy Lift UAV,Agricultural
+BAT-0088,Grepow,Batteries,Industrial LiPo Battery,LiPo,12,44.4,18000,20,799.2,AS150,Industrial UAV,Industrial
+BAT-0089,Grepow,Batteries,Industrial LiPo Battery,LiPo,18,66.6,16000,15,1065.6,AS150,Heavy Lift UAV,Industrial
+BAT-0090,Tattu,Batteries,Smart UAV Battery,Li-ion,12,44.4,20000,10,888,AS150,Mapping UAV,Industrial
+BAT-0091,Tattu,Batteries,Smart UAV Battery,Li-ion,14,51.8,22000,10,1139.6,AS150,Industrial UAV,Industrial
+BAT-0092,Herewin,Batteries,Smart UAV Battery,Li-ion,18,66.6,24000,8,1598.4,AS150,Heavy Lift UAV,Agricultural
+BAT-0093,GNB,Batteries,LiPo FPV Battery,LiPo,2,7.4,450,75,3.33,XT30,Micro FPV,FPV
+BAT-0094,GNB,Batteries,LiPo FPV Battery,LiPo,2,7.4,650,75,4.81,XT30,Micro FPV,FPV
+BAT-0095,BetaFPV,Batteries,LiPo FPV Battery,LiPo,1,3.8,300,80,1.14,PH2.0,Tinywhoop,FPV
+BAT-0096,BetaFPV,Batteries,LiPo FPV Battery,LiPo,1,3.8,450,80,1.71,PH2.0,Tinywhoop,FPV
+BAT-0097,BetaFPV,Batteries,LiPo FPV Battery,LiPo,2,7.4,550,60,4.07,XT30,Micro FPV,FPV
+BAT-0098,Zeee,Batteries,LiPo UAV Battery,LiPo,6,22.2,12000,30,266.4,XT90,Multirotor UAV,Multirotor
+BAT-0099,Turnigy,Batteries,LiPo UAV Battery,LiPo,8,29.6,16000,20,473.6,AS150,Industrial UAV,Industrial
+BAT-0100,Turnigy,Batteries,LiPo UAV Battery,LiPo,14,51.8,18000,15,932.4,AS150,Heavy Lift UAV,Industrial
+BAT-0101,Tattu,Batteries,LiHV FPV Battery,LiHV,4,15.2,1550,120,23.56,XT60,Freestyle FPV,FPV
+BAT-0102,Tattu,Batteries,LiHV FPV Battery,LiHV,6,22.8,1300,120,29.64,XT60,Freestyle FPV,FPV
+BAT-0103,GNB,Batteries,LiHV FPV Battery,LiHV,4,15.2,1300,120,19.76,XT60,Racing FPV,FPV
+BAT-0104,GNB,Batteries,LiHV FPV Battery,LiHV,6,22.8,1500,100,34.2,XT60,Freestyle FPV,FPV
+BAT-0105,BetaFPV,Batteries,LiPo FPV Battery,LiPo,1,3.8,200,80,0.76,PH2.0,Tinywhoop,FPV
+BAT-0106,BetaFPV,Batteries,LiPo FPV Battery,LiPo,1,3.8,550,60,2.09,PH2.0,Tinywhoop,FPV
+BAT-0107,GNB,Batteries,LiPo FPV Battery,LiPo,1,3.8,300,80,1.14,BT2.0,Tinywhoop,FPV
+BAT-0108,GNB,Batteries,LiPo FPV Battery,LiPo,1,3.8,660,60,2.51,BT2.0,Tinywhoop,FPV
+BAT-0109,Tattu,Batteries,LiPo FPV Battery,LiPo,2,7.4,300,75,2.22,XT30,Micro FPV,FPV
+BAT-0110,Tattu,Batteries,LiPo FPV Battery,LiPo,2,7.4,650,75,4.81,XT30,Micro FPV,FPV
+BAT-0111,GNB,Batteries,LiPo FPV Battery,LiPo,2,7.4,850,70,6.29,XT30,Micro FPV,FPV
+BAT-0112,Turnigy,Batteries,LiPo UAV Battery,LiPo,3,11.1,10000,25,111,XT90,Multirotor UAV,Multirotor
+BAT-0113,Zeee,Batteries,LiPo UAV Battery,LiPo,4,14.8,16000,25,236.8,XT90,Multirotor UAV,Multirotor
+BAT-0114,Zeee,Batteries,LiPo UAV Battery,LiPo,6,22.2,12000,30,266.4,XT90,Multirotor UAV,Multirotor
+BAT-0115,Tattu,Batteries,Li-ion UAV Battery,Li-ion,4,14.8,10000,10,148,XT60,Fixed Wing,Fixed Wing
+BAT-0116,Tattu,Batteries,Li-ion UAV Battery,Li-ion,8,29.6,12000,10,355.2,XT90,Survey UAV,Fixed Wing
+BAT-0117,Panasonic,Batteries,Li-ion UAV Battery,Li-ion,10,37,10000,8,370,XT90,Mapping UAV,Fixed Wing
+BAT-0118,Samsung,Batteries,Li-ion UAV Battery,Li-ion,12,44.4,14000,10,621.6,AS150,Industrial UAV,Industrial
+BAT-0119,Herewin,Batteries,Industrial LiPo Battery,LiPo,6,22.2,20000,25,444,AS150,Agriculture UAV,Agricultural
+BAT-0120,Herewin,Batteries,Industrial LiPo Battery,LiPo,12,44.4,18000,20,799.2,AS150,Agriculture UAV,Agricultural
+BAT-0121,Herewin,Batteries,Industrial LiPo Battery,LiPo,18,66.6,20000,15,1332,AS150,Heavy Lift UAV,Agricultural
+BAT-0122,Grepow,Batteries,Industrial LiPo Battery,LiPo,12,44.4,22000,20,976.8,AS150,Industrial UAV,Industrial
+BAT-0123,Grepow,Batteries,Industrial LiPo Battery,LiPo,14,51.8,20000,20,1036,AS150,Industrial UAV,Industrial
+BAT-0124,Tattu,Batteries,Smart UAV Battery,Li-ion,12,44.4,18000,10,799.2,AS150,Mapping UAV,Industrial
+BAT-0125,Tattu,Batteries,Smart UAV Battery,Li-ion,14,51.8,20000,10,1036,AS150,Industrial UAV,Industrial
+BAT-0126,Tattu,Batteries,Smart UAV Battery,Li-ion,18,66.6,22000,8,1465.2,AS150,Heavy Lift UAV,Industrial
+BAT-0127,Herewin,Batteries,Smart UAV Battery,Li-ion,12,44.4,24000,8,1065.6,AS150,Agriculture UAV,Agricultural
+BAT-0128,Herewin,Batteries,Smart UAV Battery,Li-ion,18,66.6,26000,8,1731.6,AS150,Heavy Lift UAV,Agricultural
+BAT-0129,Turnigy,Batteries,LiPo UAV Battery,LiPo,8,29.6,20000,20,592,AS150,Industrial UAV,Industrial
+BAT-0130,Turnigy,Batteries,LiPo UAV Battery,LiPo,10,37,16000,20,592,AS150,Industrial UAV,Industrial
+BAT-0131,Zeee,Batteries,LiPo UAV Battery,LiPo,12,44.4,12000,25,532.8,AS150,Industrial UAV,Industrial
+BAT-0132,GNB,Batteries,Cold Weather LiPo Battery,LiPo,4,14.8,5000,50,74,XT90,Cold Climate UAV,Multirotor
+BAT-0133,Tattu,Batteries,Cold Weather LiPo Battery,LiPo,6,22.2,6000,40,133.2,XT90,Cold Climate UAV,Multirotor
+BAT-0134,Grepow,Batteries,Cold Weather LiPo Battery,LiPo,12,44.4,10000,30,444,AS150,Cold Climate UAV,Industrial
+BAT-0135,Custom,Batteries,Parallel Battery Pack,LiPo,4,14.8,10000,50,148,XT90,Extended Endurance,FPV / Fixed Wing
+BAT-0136,Custom,Batteries,Series Battery Pack,LiPo,8,29.6,5000,50,148,XT90,High Voltage UAV,Multirotor
+BAT-0137,Custom,Batteries,Custom UAV Battery,Li-ion,10,37,20000,8,740,AS150,Survey UAV,Industrial
+BAT-0138,Custom,Batteries,Custom UAV Battery,LiPo,14,51.8,22000,15,1139.6,AS150,Heavy Lift UAV,Industrial
+BAT-0139,Custom,Batteries,Military Grade Battery,Li-ion,12,44.4,18000,10,799.2,AS150,Defense UAV,Industrial
+BAT-0140,Custom,Batteries,Military Grade Battery,Li-ion,18,66.6,20000,8,1332,AS150,Defense UAV,Industrial
+BAT-0141,Zeee,Batteries,Smart Battery (UAV),LiPo,10,37,16000,100,592,XT90,Mapping / Survey UAV,Industrial
+BAT-0142,HRB,Batteries,Industrial LiPo Battery,Li-ion,4,14.8,3000,80,44.4,XT90,Freestyle / Racing,FPV
+BAT-0143,Pulse,Batteries,Industrial LiPo Battery,Li-ion,3,11.1,3000,120,33.3,XT90,Freestyle FPV,FPV
+BAT-0144,Gaoneng,Batteries,LiPo FPV Battery,LiPo,8,29.6,8000,120,236.8,XT90,Beginner FPV,FPV
+BAT-0145,BetaFPV,Batteries,LiPo FPV Battery,LiPo,10,37,20000,50,740,AS150,Mapping / Survey UAV,Industrial
+BAT-0146,Ovonic,Batteries,Smart Battery (UAV),Li-ion,10,37,22000,75,814,XT60,Long Range FPV,FPV
+BAT-0147,Zeee,Batteries,LiPo FPV Battery,Li-ion,6,22.2,1300,80,28.86,XT90,Beginner FPV,FPV
+BAT-0148,BetaFPV,Batteries,Smart Battery (UAV),LiPo,5,18.5,1500,100,27.75,XT90,Freestyle / Racing,FPV
+BAT-0149,GNB,Batteries,Smart Battery (UAV),Li-ion,12,44.4,8000,80,355.2,XT60,Beginner FPV,FPV
+BAT-0150,Tattu,Batteries,LiPo FPV Battery,LiPo,6,22.2,2200,75,48.84,AS150,Freestyle FPV,FPV
+BAT-0151,Pulse,Batteries,Industrial LiPo Battery,LiPo,5,18.5,2600,80,48.1,XT30,Heavy Lift UAV,Agricultural
+BAT-0152,Gaoneng,Batteries,LiPo FPV Battery,LiPo,10,37,16000,120,592,XT90,Cinematic FPV,FPV
+BAT-0153,CNHL,Batteries,LiPo FPV Battery,LiPo,6,22.2,2600,100,57.72,XT30,Cinematic FPV,FPV
+BAT-0154,Grepow,Batteries,LiPo FPV Battery,LiPo,5,18.5,1800,80,33.3,XT60,Cinematic FPV,FPV
+BAT-0155,Youme,Batteries,LiPo FPV Battery,LiPo,3,11.1,3000,50,33.3,XT60,Heavy Lift UAV,Agricultural
+BAT-0156,CNHL,Batteries,Industrial LiPo Battery,LiPo,12,44.4,12000,50,532.8,XT90,Heavy Lift UAV,Agricultural
+BAT-0157,BetaFPV,Batteries,Industrial LiPo Battery,LiPo,10,37,8000,50,296,XT90,Trainer Drone,FPV
+BAT-0158,Herewin,Batteries,LiPo FPV Battery,LiPo,4,14.8,5200,75,76.96,AS150,Beginner FPV,FPV
+BAT-0159,Bonka,Batteries,LiPo FPV Battery,Li-ion,4,14.8,2200,100,32.56,AS150,Freestyle FPV,FPV
+BAT-0160,Turnigy,Batteries,LiPo FPV Battery,Li-ion,10,37,22000,80,814,XT30,Beginner FPV,FPV
+BAT-0161,BetaFPV,Batteries,LiPo FPV Battery,LiPo,4,14.8,3000,80,44.4,XT30,Long Range FPV,FPV
+BAT-0162,Herewin,Batteries,Smart Battery (UAV),LiPo,8,29.6,16000,75,473.6,XT60,Freestyle FPV,FPV
+BAT-0163,Pulse,Batteries,LiPo FPV Battery,LiPo,3,11.1,5200,75,57.72,XT60,Beginner FPV,FPV
+BAT-0164,Pulse,Batteries,LiPo FPV Battery,LiPo,3,11.1,2200,75,24.42,XT30,Beginner FPV,FPV
+BAT-0165,Youme,Batteries,LiPo FPV Battery,LiPo,3,11.1,850,80,9.43,XT60,Mapping / Survey UAV,Industrial
+BAT-0166,Bonka,Batteries,Smart Battery (UAV),LiPo,8,29.6,22000,80,651.2,XT30,Cinematic FPV,FPV
+BAT-0167,Youme,Batteries,LiPo FPV Battery,LiPo,3,11.1,1500,50,16.65,AS150,Trainer Drone,FPV
+BAT-0168,Youme,Batteries,Smart Battery (UAV),LiPo,4,14.8,1500,75,22.2,XT30,Beginner FPV,FPV
+BAT-0169,Youme,Batteries,Smart Battery (UAV),Li-ion,6,22.2,1800,100,39.96,XT30,Freestyle FPV,FPV
+BAT-0170,Grepow,Batteries,Industrial LiPo Battery,LiPo,10,37,12000,120,444,XT60,Beginner FPV,FPV
+BAT-0171,Flywoo,Batteries,LiPo FPV Battery,LiPo,12,44.4,16000,100,710.4,XT30,Cinematic FPV,FPV
+BAT-0172,Bonka,Batteries,LiPo FPV Battery,LiPo,6,22.2,1800,100,39.96,XT90,Long Range FPV,FPV
+BAT-0173,Youme,Batteries,LiPo FPV Battery,LiPo,3,11.1,850,75,9.43,XT30,Beginner FPV,FPV
+BAT-0174,Zeee,Batteries,Industrial LiPo Battery,LiPo,6,22.2,2200,50,48.84,XT30,Beginner FPV,FPV
+BAT-0175,Ovonic,Batteries,Industrial LiPo Battery,LiPo,6,22.2,2600,80,57.72,XT60,Mapping / Survey UAV,Industrial
+BAT-0176,Herewin,Batteries,LiPo FPV Battery,Li-ion,5,18.5,1100,75,20.35,XT30,Heavy Lift UAV,Agricultural
+BAT-0177,Dinogy,Batteries,LiPo FPV Battery,Li-ion,4,14.8,3000,80,44.4,XT60,Freestyle FPV,FPV
+BAT-0178,HRB,Batteries,Industrial LiPo Battery,LiPo,5,18.5,1100,75,20.35,XT30,Freestyle FPV,FPV
+BAT-0179,Grepow,Batteries,LiPo FPV Battery,Li-ion,10,37,12000,80,444,XT30,Freestyle / Racing,FPV
+BAT-0180,Youme,Batteries,Smart Battery (UAV),LiPo,5,18.5,2200,100,40.7,XT60,Freestyle / Racing,FPV
+BAT-0181,Bonka,Batteries,Smart Battery (UAV),LiPo,3,11.1,1300,120,14.43,XT60,Cinematic FPV,FPV
+BAT-0182,Bonka,Batteries,Smart Battery (UAV),LiPo,3,11.1,850,50,9.43,XT30,Cinematic FPV,FPV
+BAT-0183,Dinogy,Batteries,Industrial LiPo Battery,Li-ion,6,22.2,1100,75,24.42,XT90,Trainer Drone,FPV
+BAT-0184,Flywoo,Batteries,LiPo FPV Battery,LiPo,12,44.4,8000,50,355.2,AS150,Long Range FPV,FPV
+BAT-0185,Grepow,Batteries,LiPo FPV Battery,LiPo,5,18.5,1100,75,20.35,XT30,Mapping / Survey UAV,Industrial
+BAT-0186,Flywoo,Batteries,Industrial LiPo Battery,LiPo,12,44.4,22000,100,976.8,AS150,Cinematic FPV,FPV
+BAT-0187,CNHL,Batteries,LiPo FPV Battery,LiPo,5,18.5,2200,75,40.7,XT60,Freestyle FPV,FPV
+BAT-0188,Herewin,Batteries,Industrial LiPo Battery,LiPo,4,14.8,2200,120,32.56,XT30,Trainer Drone,FPV
+BAT-0189,Zeee,Batteries,Smart Battery (UAV),LiPo,6,22.2,1500,100,33.3,AS150,Beginner FPV,FPV
+BAT-0190,Zeee,Batteries,Industrial LiPo Battery,LiPo,4,14.8,1800,100,26.64,XT60,Mapping / Survey UAV,Industrial
+BAT-0191,Dinogy,Batteries,Smart Battery (UAV),LiPo,10,37,20000,50,740,AS150,Heavy Lift UAV,Agricultural
+BAT-0192,Herewin,Batteries,Industrial LiPo Battery,Li-ion,4,14.8,5200,120,76.96,AS150,Beginner FPV,FPV
+BAT-0193,BetaFPV,Batteries,Smart Battery (UAV),Li-ion,12,44.4,22000,120,976.8,AS150,Trainer Drone,FPV
+BAT-0194,Turnigy,Batteries,Smart Battery (UAV),LiPo,4,14.8,850,75,12.58,AS150,Trainer Drone,FPV
+BAT-0195,Turnigy,Batteries,LiPo FPV Battery,LiPo,6,22.2,1800,100,39.96,XT90,Mapping / Survey UAV,Industrial
+BAT-0196,Gaoneng,Batteries,Smart Battery (UAV),LiPo,12,44.4,12000,75,532.8,XT90,Freestyle / Racing,FPV
+BAT-0197,Grepow,Batteries,LiPo FPV Battery,LiPo,4,14.8,5200,80,76.96,AS150,Freestyle / Racing,FPV
+BAT-0198,Tattu,Batteries,Smart Battery (UAV),LiPo,3,11.1,1000,80,11.1,XT60,Beginner FPV,FPV
+BAT-0199,Dinogy,Batteries,LiPo FPV Battery,Li-ion,4,14.8,850,80,12.58,AS150,Long Range FPV,FPV
+BAT-0200,BetaFPV,Batteries,Smart Battery (UAV),LiPo,12,44.4,8000,120,355.2,XT60,Cinematic FPV,FPV
+BAT-0201,Flywoo,Batteries,Industrial LiPo Battery,LiPo,3,11.1,850,50,9.43,AS150,Freestyle FPV,FPV
+BAT-0202,Zeee,Batteries,LiPo FPV Battery,LiPo,4,14.8,1800,50,26.64,XT30,Cinematic FPV,FPV
+BAT-0203,Ovonic,Batteries,Smart Battery (UAV),Li-ion,5,18.5,1800,50,33.3,XT90,Cinematic FPV,FPV
+BAT-0204,Bonka,Batteries,LiPo FPV Battery,LiPo,6,22.2,1800,50,39.96,XT90,Beginner FPV,FPV
+BAT-0205,Flywoo,Batteries,Smart Battery (UAV),LiPo,5,18.5,1300,80,24.05,XT60,Long Range FPV,FPV
+BAT-0206,Dinogy,Batteries,LiPo FPV Battery,Li-ion,3,11.1,1500,80,16.65,XT90,Freestyle / Racing,FPV
+BAT-0207,Ovonic,Batteries,LiPo FPV Battery,LiPo,3,11.1,1800,100,19.98,XT90,Freestyle FPV,FPV
+BAT-0208,Grepow,Batteries,Industrial LiPo Battery,LiPo,6,22.2,1100,100,24.42,AS150,Mapping / Survey UAV,Industrial
+BAT-0209,Ovonic,Batteries,LiPo FPV Battery,LiPo,5,18.5,1500,120,27.75,XT90,Freestyle / Racing,FPV
+BAT-0210,HRB,Batteries,Industrial LiPo Battery,LiPo,3,11.1,1300,50,14.43,XT30,Cinematic FPV,FPV
+BAT-0211,Tattu,Batteries,Industrial LiPo Battery,LiPo,5,18.5,2200,50,40.7,XT30,Cinematic FPV,FPV
+BAT-0212,Turnigy,Batteries,LiPo FPV Battery,LiPo,10,37,8000,80,296,XT30,Trainer Drone,FPV
+BAT-0213,Grepow,Batteries,LiPo FPV Battery,Li-ion,10,37,22000,120,814,XT30,Trainer Drone,FPV
+BAT-0214,Turnigy,Batteries,LiPo FPV Battery,Li-ion,5,18.5,2200,120,40.7,XT60,Freestyle / Racing,FPV
+BAT-0215,Gaoneng,Batteries,Smart Battery (UAV),LiPo,8,29.6,8000,50,236.8,AS150,Cinematic FPV,FPV
+BAT-0216,Youme,Batteries,LiPo FPV Battery,LiPo,6,22.2,1800,75,39.96,XT60,Cinematic FPV,FPV
+BAT-0217,Grepow,Batteries,LiPo FPV Battery,LiPo,5,18.5,1100,100,20.35,XT30,Mapping / Survey UAV,Industrial
+BAT-0218,Zeee,Batteries,LiPo FPV Battery,LiPo,10,37,12000,80,444,XT90,Beginner FPV,FPV
+BAT-0219,Zeee,Batteries,Industrial LiPo Battery,Li-ion,6,22.2,2200,50,48.84,XT90,Mapping / Survey UAV,Industrial
+BAT-0220,Herewin,Batteries,LiPo FPV Battery,Li-ion,6,22.2,1100,75,24.42,XT90,Mapping / Survey UAV,Industrial
+BAT-0221,CNHL,Batteries,LiPo FPV Battery,Li-ion,4,14.8,5200,50,76.96,AS150,Mapping / Survey UAV,Industrial
+BAT-0222,Gaoneng,Batteries,LiPo FPV Battery,LiPo,10,37,16000,100,592,XT30,Trainer Drone,FPV
+BAT-0223,Flywoo,Batteries,LiPo FPV Battery,LiPo,8,29.6,22000,80,651.2,XT90,Freestyle / Racing,FPV
+BAT-0224,Tattu,Batteries,LiPo FPV Battery,LiPo,4,14.8,850,100,12.58,XT90,Long Range FPV,FPV
+BAT-0225,Herewin,Batteries,Smart Battery (UAV),LiPo,12,44.4,12000,75,532.8,XT90,Long Range FPV,FPV
+BAT-0226,Herewin,Batteries,Industrial LiPo Battery,Li-ion,3,11.1,2200,80,24.42,AS150,Heavy Lift UAV,Agricultural
+BAT-0227,Ovonic,Batteries,LiPo FPV Battery,LiPo,8,29.6,8000,120,236.8,XT30,Trainer Drone,FPV
+BAT-0228,Bonka,Batteries,Industrial LiPo Battery,LiPo,10,37,12000,50,444,XT60,Beginner FPV,FPV
+BAT-0229,Zeee,Batteries,Smart Battery (UAV),LiPo,8,29.6,12000,50,355.2,XT60,Freestyle FPV,FPV
+BAT-0230,Turnigy,Batteries,LiPo FPV Battery,LiPo,4,14.8,850,80,12.58,AS150,Cinematic FPV,FPV
+BAT-0231,Zeee,Batteries,LiPo FPV Battery,LiPo,5,18.5,2200,80,40.7,XT30,Long Range FPV,FPV
+BAT-0232,Dinogy,Batteries,Industrial LiPo Battery,Li-ion,10,37,20000,100,740,AS150,Cinematic FPV,FPV
+BAT-0233,Dinogy,Batteries,Smart Battery (UAV),LiPo,3,11.1,1800,80,19.98,AS150,Heavy Lift UAV,Agricultural
+BAT-0234,Herewin,Batteries,LiPo FPV Battery,LiPo,4,14.8,1300,120,19.24,XT30,Beginner FPV,FPV
+BAT-0235,Pulse,Batteries,LiPo FPV Battery,LiPo,12,44.4,12000,100,532.8,AS150,Beginner FPV,FPV
+BAT-0236,Grepow,Batteries,LiPo FPV Battery,Li-ion,3,11.1,1800,50,19.98,XT60,Cinematic FPV,FPV
+BAT-0237,Grepow,Batteries,Industrial LiPo Battery,LiPo,10,37,12000,50,444,XT30,Heavy Lift UAV,Agricultural
+BAT-0238,Pulse,Batteries,LiPo FPV Battery,Li-ion,10,37,16000,80,592,AS150,Freestyle FPV,FPV
+BAT-0239,Gaoneng,Batteries,Smart Battery (UAV),Li-ion,5,18.5,2600,75,48.1,XT90,Freestyle FPV,FPV
+BAT-0240,GNB,Batteries,Industrial LiPo Battery,LiPo,4,14.8,2200,50,32.56,XT60,Mapping / Survey UAV,Industrial
+BAT-0241,HRB,Batteries,Smart Battery (UAV),LiPo,5,18.5,1500,80,27.75,AS150,Beginner FPV,FPV
+BAT-0242,HRB,Batteries,LiPo FPV Battery,LiPo,8,29.6,22000,120,651.2,AS150,Beginner FPV,FPV
+BAT-0243,Tattu,Batteries,Industrial LiPo Battery,Li-ion,10,37,12000,50,444,XT60,Mapping / Survey UAV,Industrial
+BAT-0244,Pulse,Batteries,LiPo FPV Battery,Li-ion,12,44.4,12000,80,532.8,XT60,Beginner FPV,FPV
+BAT-0245,BetaFPV,Batteries,LiPo FPV Battery,LiPo,4,14.8,1500,75,22.2,XT30,Freestyle FPV,FPV
+BAT-0246,Gaoneng,Batteries,Smart Battery (UAV),LiPo,5,18.5,1500,100,27.75,XT30,Freestyle FPV,FPV
+BAT-0247,Turnigy,Batteries,LiPo FPV Battery,LiPo,6,22.2,2200,120,48.84,XT30,Freestyle / Racing,FPV
+BAT-0248,Ovonic,Batteries,LiPo FPV Battery,LiPo,10,37,12000,50,444,XT90,Trainer Drone,FPV
+BAT-0249,Youme,Batteries,Industrial LiPo Battery,LiPo,12,44.4,8000,80,355.2,XT60,Freestyle FPV,FPV
+BAT-0250,Grepow,Batteries,LiPo FPV Battery,LiPo,12,44.4,20000,50,888,AS150,Trainer Drone,FPV
+BAT-0251,Grepow,Batteries,LiPo FPV Battery,LiPo,4,14.8,850,80,12.58,AS150,Long Range FPV,FPV
+BAT-0252,GNB,Batteries,Smart Battery (UAV),LiPo,4,14.8,1000,75,14.8,AS150,Long Range FPV,FPV
+BAT-0253,Tattu,Batteries,LiPo FPV Battery,LiPo,5,18.5,1300,80,24.05,AS150,Cinematic FPV,FPV
+BAT-0254,GNB,Batteries,Smart Battery (UAV),LiPo,8,29.6,16000,120,473.6,XT30,Cinematic FPV,FPV
+BAT-0255,Youme,Batteries,LiPo FPV Battery,LiPo,12,44.4,20000,75,888,XT30,Freestyle FPV,FPV
+BAT-0256,Flywoo,Batteries,LiPo FPV Battery,LiPo,3,11.1,1800,120,19.98,XT90,Cinematic FPV,FPV
+BAT-0257,Ovonic,Batteries,LiPo FPV Battery,Li-ion,12,44.4,22000,80,976.8,XT60,Beginner FPV,FPV
+BAT-0258,BetaFPV,Batteries,Smart Battery (UAV),LiPo,10,37,12000,100,444,AS150,Mapping / Survey UAV,Industrial
+BAT-0259,Gaoneng,Batteries,Industrial LiPo Battery,Li-ion,6,22.2,1300,50,28.86,XT90,Freestyle / Racing,FPV
+BAT-0260,Gaoneng,Batteries,LiPo FPV Battery,LiPo,10,37,8000,80,296,AS150,Long Range FPV,FPV
+BAT-0261,Tattu,Batteries,LiPo FPV Battery,Li-ion,4,14.8,1000,50,14.8,XT30,Trainer Drone,FPV
+BAT-0262,Gaoneng,Batteries,LiPo FPV Battery,LiPo,10,37,22000,100,814,AS150,Cinematic FPV,FPV
+BAT-0263,Pulse,Batteries,LiPo FPV Battery,LiPo,5,18.5,2200,120,40.7,XT60,Long Range FPV,FPV
+BAT-0264,Zeee,Batteries,LiPo FPV Battery,LiPo,6,22.2,1100,50,24.42,XT90,Trainer Drone,FPV
+BAT-0265,BetaFPV,Batteries,LiPo FPV Battery,LiPo,10,37,22000,100,814,XT90,Beginner FPV,FPV
+BAT-0266,Tattu,Batteries,LiPo FPV Battery,LiPo,4,14.8,5200,100,76.96,XT90,Trainer Drone,FPV
+BAT-0267,Grepow,Batteries,Smart Battery (UAV),Li-ion,4,14.8,2200,120,32.56,AS150,Cinematic FPV,FPV
+BAT-0268,BetaFPV,Batteries,Industrial LiPo Battery,LiPo,10,37,8000,80,296,XT90,Cinematic FPV,FPV
+BAT-0269,BetaFPV,Batteries,LiPo FPV Battery,LiPo,12,44.4,20000,50,888,XT60,Heavy Lift UAV,Agricultural
+BAT-0270,HRB,Batteries,LiPo FPV Battery,LiPo,6,22.2,1300,75,28.86,AS150,Long Range FPV,FPV
+BAT-0271,Flywoo,Batteries,LiPo FPV Battery,LiPo,4,14.8,1800,50,26.64,AS150,Mapping / Survey UAV,Industrial
+BAT-0272,HRB,Batteries,Industrial LiPo Battery,LiPo,12,44.4,8000,80,355.2,XT90,Beginner FPV,FPV
+BAT-0273,Herewin,Batteries,LiPo FPV Battery,LiPo,6,22.2,2600,80,57.72,XT30,Trainer Drone,FPV
+BAT-0274,HRB,Batteries,LiPo FPV Battery,LiPo,4,14.8,850,100,12.58,XT60,Beginner FPV,FPV
+BAT-0275,Dinogy,Batteries,Industrial LiPo Battery,LiPo,8,29.6,8000,50,236.8,XT60,Freestyle / Racing,FPV
+BAT-0276,CNHL,Batteries,Smart Battery (UAV),LiPo,4,14.8,2200,50,32.56,XT60,Freestyle FPV,FPV
+BAT-0277,Zeee,Batteries,LiPo FPV Battery,LiPo,5,18.5,1500,50,27.75,XT30,Cinematic FPV,FPV
+BAT-0278,Dinogy,Batteries,LiPo FPV Battery,LiPo,8,29.6,22000,80,651.2,XT90,Cinematic FPV,FPV
+BAT-0279,Gaoneng,Batteries,LiPo FPV Battery,LiPo,8,29.6,8000,50,236.8,XT30,Freestyle FPV,FPV
+BAT-0280,GNB,Batteries,LiPo FPV Battery,LiPo,5,18.5,2600,50,48.1,XT60,Heavy Lift UAV,Agricultural
+BAT-0281,Zeee,Batteries,LiPo FPV Battery,Li-ion,10,37,20000,120,740,XT60,Beginner FPV,FPV
+BAT-0282,BetaFPV,Batteries,Smart Battery (UAV),LiPo,4,14.8,1500,120,22.2,XT90,Long Range FPV,FPV
+BAT-0283,BetaFPV,Batteries,LiPo FPV Battery,LiPo,8,29.6,22000,100,651.2,AS150,Freestyle FPV,FPV
+BAT-0284,BetaFPV,Batteries,Smart Battery (UAV),LiPo,5,18.5,1100,120,20.35,XT90,Beginner FPV,FPV
+BAT-0285,Gaoneng,Batteries,LiPo FPV Battery,Li-ion,4,14.8,5200,50,76.96,XT90,Cinematic FPV,FPV
+BAT-0286,Youme,Batteries,LiPo FPV Battery,LiPo,6,22.2,1100,120,24.42,AS150,Trainer Drone,FPV
+BAT-0287,Flywoo,Batteries,Smart Battery (UAV),LiPo,4,14.8,2200,100,32.56,XT90,Long Range FPV,FPV
+BAT-0288,CNHL,Batteries,Smart Battery (UAV),Li-ion,12,44.4,12000,50,532.8,XT60,Freestyle / Racing,FPV
+BAT-0289,Ovonic,Batteries,Industrial LiPo Battery,LiPo,12,44.4,12000,120,532.8,AS150,Long Range FPV,FPV
+BAT-0290,Youme,Batteries,LiPo FPV Battery,Li-ion,5,18.5,1100,80,20.35,XT90,Mapping / Survey UAV,Industrial
+BAT-0291,Herewin,Batteries,LiPo FPV Battery,LiPo,5,18.5,1800,120,33.3,XT60,Trainer Drone,FPV
+BAT-0292,Zeee,Batteries,LiPo FPV Battery,LiPo,10,37,8000,120,296,XT30,Mapping / Survey UAV,Industrial
+BAT-0293,HRB,Batteries,LiPo FPV Battery,LiPo,5,18.5,2200,50,40.7,XT30,Trainer Drone,FPV
+BAT-0294,Gaoneng,Batteries,LiPo FPV Battery,Li-ion,4,14.8,1000,50,14.8,XT60,Beginner FPV,FPV
+BAT-0295,Herewin,Batteries,Smart Battery (UAV),Li-ion,8,29.6,8000,120,236.8,AS150,Freestyle FPV,FPV
+BAT-0296,Flywoo,Batteries,LiPo FPV Battery,LiPo,6,22.2,1500,50,33.3,XT30,Heavy Lift UAV,Agricultural
+BAT-0297,Ovonic,Batteries,LiPo FPV Battery,LiPo,3,11.1,2200,100,24.42,XT60,Freestyle FPV,FPV
+BAT-0298,BetaFPV,Batteries,LiPo FPV Battery,Li-ion,4,14.8,5200,80,76.96,XT90,Freestyle FPV,FPV
+BAT-0299,Zeee,Batteries,LiPo FPV Battery,LiPo,8,29.6,8000,80,236.8,XT60,Mapping / Survey UAV,Industrial
+BAT-0300,HRB,Batteries,LiPo FPV Battery,Li-ion,8,29.6,12000,50,355.2,XT30,Trainer Drone,FPV

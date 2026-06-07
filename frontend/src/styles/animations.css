@@ -1,0 +1,11 @@
+.cursor-glow {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(
+    600px at var(--x) var(--y),
+    rgba(0, 255, 255, 0.15),
+    transparent 40%
+  );
+  z-index: 0;
+}

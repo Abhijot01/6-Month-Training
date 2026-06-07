@@ -1,0 +1,13 @@
+﻿FirmwareID,Name,Category,Purpose,LicenseType,SupportedHardware,DevelopmentStatus,IndustryAdoption,TypicalUse
+FW-0001,Betaflight,Flight Controller Firmware,Multirotor,Open Source,STM32 F4/F7/H7,Active,High,FPV Racing / Freestyle
+FW-0002,INAV,Flight Controller Firmware,Navigation & Stabilization,Open Source,STM32 F4/F7,Active,High,GPS Navigation / Long Range
+FW-0003,ArduPilot,Autopilot Firmware,Autonomous UAV,Open Source,Pixhawk / STM32,Active,Very High,Mapping / Survey / Industrial UAV
+FW-0004,PX4,Autopilot Firmware,Professional UAV,Open Source,Pixhawk / NuttX,Active,Very High,Research / Industrial UAV
+FW-0005,BLHeli_S,ESC Firmware,ESC Control,Open Source,8-bit ESC MCU,Stable,High,FPV ESC Control
+FW-0006,BLHeli_32,ESC Firmware,ESC Control,Proprietary,32-bit ESC MCU,Active,Very High,High Performance FPV
+FW-0007,AM32,ESC Firmware,ESC Control,Open Source,32-bit ESC MCU,Active,Growing,Modern ESC Platforms
+FW-0008,SimonK,ESC Firmware,ESC Control,Open Source,8-bit ESC MCU,Legacy,Medium,Early Multirotor ESC
+FW-0009,KISS Firmware,Flight Controller Firmware,FPV Racing,Proprietary,KISS FC,Active,High,FPV Racing
+FW-0010,EmuFlight,Flight Controller Firmware,Performance Tuning,Open Source,STM32,Active,Medium,Freestyle FPV
+FW-0011,Butterflight,Flight Controller Firmware,Betaflight Fork,Open Source,STM32,Legacy,Low,Experimental
+FW-0012,iNav Radar Firmware,Peripheral Firmware,Navigation Module,Open Source,INAV Compatible Boards,Active,Medium,Navigation Systems

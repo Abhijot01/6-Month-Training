@@ -1,0 +1,381 @@
+﻿FCID,Brand,Category,SubCategory,Processor,FormFactor,Mounting_mm,SupportedFirmware,IMU,Barometer,OSD,Blackbox,ESCInterface,ConnectorType,SupportedDroneType,IntendedUse
+FC-0001,SpeedyBee,Flight Controllers,FPV FC,F7,30x30,30.5,BetaFlight,ICM42688,BMP280,Yes,Yes,DSHOT,Plug,FPV,Freestyle
+FC-0002,SpeedyBee,Flight Controllers,FPV FC,F7,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,DSHOT,Plug,FPV,Micro Freestyle
+FC-0003,iFlight,Flight Controllers,FPV FC,F7,30x30,30.5,BetaFlight,MPU6000,BMP280,Yes,Yes,DSHOT,Plug,FPV,Freestyle
+FC-0004,iFlight,Flight Controllers,FPV FC,H7,30x30,30.5,BetaFlight,ICM42688,BMP388,Yes,Yes,DSHOT,Plug,FPV,High Performance
+FC-0005,EMAX,Flight Controllers,FPV FC,F4,30x30,30.5,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Beginner
+FC-0006,HGLRC,Flight Controllers,FPV FC,F7,30x30,30.5,BetaFlight,ICM42688,BMP280,Yes,Yes,DSHOT,Plug,FPV,Freestyle
+FC-0007,HGLRC,Flight Controllers,FPV FC,F4,20x20,20,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Micro FPV
+FC-0008,Skystars,Flight Controllers,FPV FC,F7,30x30,30.5,BetaFlight,ICM42688,BMP388,Yes,Yes,DSHOT,Plug,FPV,Freestyle
+FC-0009,Skystars,Flight Controllers,FPV FC,F4,30x30,30.5,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Beginner
+FC-0010,CL Racing,Flight Controllers,FPV FC,F7,30x30,30.5,BetaFlight,ICM42688,BMP280,Yes,Yes,DSHOT,Plug,FPV,Racing
+FC-0011,Matek,Flight Controllers,FPV FC,F722,30x30,30.5,BetaFlight,ICM42688,BMP280,Yes,Yes,DSHOT,Solder,FPV,Advanced FPV
+FC-0012,Matek,Flight Controllers,FPV FC,F405,20x20,20,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Micro Builds
+FC-0013,Matek,Flight Controllers,Fixed Wing FC,F765,30x30,30.5,INAV,ICM42605,BMP280,Yes,Yes,PWM/SBUS,Solder,Fixed Wing,Long Range
+FC-0014,Matek,Flight Controllers,Fixed Wing FC,F405-WING,30x30,30.5,INAV,MPU6000,BMP280,Yes,Yes,PWM/SBUS,Solder,Fixed Wing,Survey
+FC-0015,Omnibus,Flight Controllers,FPV FC,F4,30x30,30.5,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Legacy
+FC-0016,HappyModel,Flight Controllers,AIO FC,F4,Whoop,25.5,BetaFlight,MPU6000,None,Yes,No,Onboard ESC,Solder,FPV,Tinywhoop
+FC-0017,HappyModel,Flight Controllers,AIO FC,F4,Whoop,25.5,BetaFlight,ICM20689,None,Yes,No,Onboard ESC,Solder,FPV,Whoop Racing
+FC-0018,BetaFPV,Flight Controllers,AIO FC,F4,Whoop,25.5,BetaFlight,MPU6000,None,Yes,No,Onboard ESC,Solder,FPV,Indoor FPV
+FC-0019,BetaFPV,Flight Controllers,AIO FC,F4,20x20,20,BetaFlight,ICM20689,None,Yes,No,Onboard ESC,Solder,FPV,Micro FPV
+FC-0020,Flywoo,Flight Controllers,AIO FC,F7,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,Onboard ESC,Plug,FPV,Cinematic Micro
+FC-0021,Holybro,Flight Controllers,Autopilot,Pixhawk 4,Standard,Custom,ArduPilot,ICM20689,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Mapping UAV
+FC-0022,Holybro,Flight Controllers,Autopilot,Pixhawk 6C,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Survey UAV
+FC-0023,CUAV,Flight Controllers,Autopilot,X7,Standard,Custom,ArduPilot,ICM20689,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Industrial UAV
+FC-0024,CUAV,Flight Controllers,Autopilot,Nora,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,High End UAV
+FC-0025,Hex Cube,Flight Controllers,Autopilot,Orange Cube,Standard,Custom,ArduPilot,ICM20649,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Mapping UAV
+FC-0026,Hex Cube,Flight Controllers,Autopilot,Blue Cube,Standard,Custom,ArduPilot,ICM20602,BMP280,None,Yes,PWM/CAN,Connector,Industrial,Survey UAV
+FC-0027,Hex Cube,Flight Controllers,Autopilot,Black Cube,Standard,Custom,ArduPilot,ICM20948,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Research UAV
+FC-0028,Holybro,Flight Controllers,Autopilot,Durandal,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Industrial UAV
+FC-0029,mRo,Flight Controllers,Autopilot,Pixhawk Mini,Standard,Custom,ArduPilot,MPU6000,BMP280,None,Yes,PWM/CAN,Connector,Industrial,Small UAV
+FC-0030,mRo,Flight Controllers,Autopilot,Control Zero H7,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Advanced UAV
+FC-0031,SpeedyBee,Flight Controllers,FPV FC,F405,30x30,30.5,BetaFlight,MPU6000,None,Yes,No,DSHOT,Plug,FPV,Beginner
+FC-0032,SpeedyBee,Flight Controllers,FPV FC,F722,30x30,30.5,BetaFlight,ICM42688,BMP280,Yes,Yes,DSHOT,Plug,FPV,Advanced FPV
+FC-0033,T-Motor,Flight Controllers,FPV FC,F7,30x30,30.5,BetaFlight,ICM42688,BMP388,Yes,Yes,DSHOT,Plug,FPV,Freestyle
+FC-0034,T-Motor,Flight Controllers,Industrial FC,F7,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,CAN/PWM,Connector,Industrial,Professional UAV
+FC-0035,JHEMCU,Flight Controllers,FPV FC,F405,30x30,30.5,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Freestyle
+FC-0036,JHEMCU,Flight Controllers,FPV FC,F722,30x30,30.5,BetaFlight,ICM42688,BMP280,Yes,Yes,DSHOT,Solder,FPV,Advanced FPV
+FC-0037,Flywoo,Flight Controllers,FPV FC,F405,20x20,20,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Micro FPV
+FC-0038,Flywoo,Flight Controllers,FPV FC,F722,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,DSHOT,Plug,FPV,Cinematic FPV
+FC-0039,Beast F7,Flight Controllers,FPV FC,F7,30x30,30.5,BetaFlight,ICM42688,BMP280,Yes,Yes,DSHOT,Solder,FPV,Freestyle
+FC-0040,Diatone,Flight Controllers,FPV FC,F722,30x30,30.5,BetaFlight,ICM42688,BMP388,Yes,Yes,DSHOT,Plug,FPV,Freestyle
+FC-0041,Diatone,Flight Controllers,AIO FC,F4,Whoop,25.5,BetaFlight,MPU6000,None,Yes,No,Onboard ESC,Solder,FPV,Whoop
+FC-0042,Diatone,Flight Controllers,FPV FC,F405,20x20,20,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Micro FPV
+FC-0043,Kakute,Flight Controllers,FPV FC,F7,30x30,30.5,BetaFlight,ICM42688,BMP280,Yes,Yes,DSHOT,Plug,FPV,Freestyle
+FC-0044,Kakute,Flight Controllers,FPV FC,F4,20x20,20,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Micro Builds
+FC-0045,Airbot,Flight Controllers,FPV FC,F7,30x30,30.5,BetaFlight,ICM42688,BMP280,Yes,Yes,DSHOT,Plug,FPV,Freestyle
+FC-0046,Airbot,Flight Controllers,FPV FC,F4,30x30,30.5,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Beginner
+FC-0047,CUAV,Flight Controllers,Autopilot,V5+,Standard,Custom,ArduPilot,MPU6000,BMP280,None,Yes,PWM/CAN,Connector,Industrial,Legacy UAV
+FC-0048,Holybro,Flight Controllers,Autopilot,Pixhawk Mini 4,Standard,Custom,ArduPilot,ICM20689,BMP280,None,Yes,PWM/CAN,Connector,Industrial,Compact UAV
+FC-0049,mRo,Flight Controllers,Autopilot,Pixhawk 6X Mini,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Mini Industrial UAV
+FC-0050,Custom,Flight Controllers,Autopilot,Research FC,Custom,Custom,Custom,Custom,Custom,None,Optional,Custom,Custom,Industrial,Research UAV
+FC-0051,SpeedyBee,Flight Controllers,FPV FC,F405,20x20,20,BetaFlight,MPU6000,None,Yes,No,DSHOT,Plug,FPV,Micro Freestyle
+FC-0052,SpeedyBee,Flight Controllers,FPV FC,F7,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,DSHOT,Plug,FPV,Micro Cinematic
+FC-0053,iFlight,Flight Controllers,FPV FC,F405,20x20,20,BetaFlight,MPU6000,None,Yes,No,DSHOT,Plug,FPV,Micro Freestyle
+FC-0054,iFlight,Flight Controllers,FPV FC,F722,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,DSHOT,Plug,FPV,Cinematic FPV
+FC-0055,HGLRC,Flight Controllers,FPV FC,F722,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,DSHOT,Plug,FPV,Micro Cinematic
+FC-0056,Skystars,Flight Controllers,FPV FC,F722,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,DSHOT,Plug,FPV,Micro Freestyle
+FC-0057,CL Racing,Flight Controllers,FPV FC,F405,20x20,20,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Micro Racing
+FC-0058,Flywoo,Flight Controllers,FPV FC,F745,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,DSHOT,Plug,FPV,Ultra Micro
+FC-0059,JHEMCU,Flight Controllers,FPV FC,F405,20x20,20,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Micro Builds
+FC-0060,Airbot,Flight Controllers,FPV FC,F7,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,DSHOT,Plug,FPV,Micro Freestyle
+FC-0061,Matek,Flight Controllers,Fixed Wing FC,F405-WTE,30x30,30.5,INAV,MPU6000,BMP280,Yes,Yes,PWM/SBUS,Solder,Fixed Wing,Telemetry UAV
+FC-0062,Matek,Flight Controllers,Fixed Wing FC,F722-WPX,30x30,30.5,INAV,ICM42688,BMP388,Yes,Yes,PWM/SBUS,Solder,Fixed Wing,Long Range UAV
+FC-0063,Matek,Flight Controllers,Fixed Wing FC,H743-WING,30x30,30.5,INAV/ArduPilot,ICM42688,BMP388,Yes,Yes,PWM/CAN,Solder,Fixed Wing,Professional UAV
+FC-0064,CUAV,Flight Controllers,Autopilot,Nora+,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Professional UAV
+FC-0065,CUAV,Flight Controllers,Autopilot,X7 Pro,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Mapping UAV
+FC-0066,Holybro,Flight Controllers,Autopilot,Pixhawk 5X,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Survey UAV
+FC-0067,Holybro,Flight Controllers,Autopilot,Pixhawk 6X,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,High End UAV
+FC-0068,Holybro,Flight Controllers,Autopilot,Pixhawk Mini 6C,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Compact UAV
+FC-0069,Hex Cube,Flight Controllers,Autopilot,Yellow Cube,Standard,Custom,ArduPilot,ICM20602,BMP280,None,Yes,PWM/CAN,Connector,Industrial,Legacy UAV
+FC-0070,Hex Cube,Flight Controllers,Autopilot,Green Cube,Standard,Custom,ArduPilot,ICM20948,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Research UAV
+FC-0071,mRo,Flight Controllers,Autopilot,Pixhawk 5X Mini,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Compact Survey UAV
+FC-0072,mRo,Flight Controllers,Autopilot,Control Zero F7,Standard,Custom,ArduPilot,MPU6000,BMP280,None,Yes,PWM/CAN,Connector,Industrial,Legacy UAV
+FC-0073,mRo,Flight Controllers,Autopilot,Control Zero H7,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Advanced UAV
+FC-0074,Advanced Navigation,Flight Controllers,Autopilot,NavCube,Standard,Custom,ArduPilot,Industrial IMU,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Survey UAV
+FC-0075,Advanced Navigation,Flight Controllers,Autopilot,Certus Evo,Standard,Custom,Custom,Industrial IMU,Custom,None,Yes,CAN/Ethernet,Connector,Industrial,Precision UAV
+FC-0076,Holybro,Flight Controllers,Autopilot,Durandal Mini,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Compact UAV
+FC-0077,CUAV,Flight Controllers,Autopilot,V5 Nano,Standard,Custom,ArduPilot,MPU6000,BMP280,None,Yes,PWM/CAN,Connector,Industrial,Small UAV
+FC-0078,CUAV,Flight Controllers,Autopilot,V5+ Pro,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Survey UAV
+FC-0079,Hex Cube,Flight Controllers,Autopilot,Red Cube,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,High Reliability UAV
+FC-0080,Holybro,Flight Controllers,Autopilot,Pixhawk 2.4.8,Standard,Custom,ArduPilot,MPU6000,BMP280,None,Yes,PWM/CAN,Connector,Industrial,Legacy UAV
+FC-0081,BetaFPV,Flight Controllers,AIO FC,F4,Whoop,25.5,BetaFlight,MPU6000,None,Yes,No,Onboard ESC,Solder,FPV,Whoop Trainer
+FC-0082,BetaFPV,Flight Controllers,AIO FC,F4,Whoop,25.5,BetaFlight,ICM20689,None,Yes,No,Onboard ESC,Solder,FPV,Whoop Racing
+FC-0083,Happymodel,Flight Controllers,AIO FC,F4,Whoop,25.5,BetaFlight,MPU6000,None,Yes,No,Onboard ESC,Solder,FPV,Whoop
+FC-0084,Happymodel,Flight Controllers,AIO FC,F4,20x20,20,BetaFlight,ICM20689,None,Yes,No,Onboard ESC,Solder,FPV,Micro FPV
+FC-0085,Flywoo,Flight Controllers,AIO FC,F4,20x20,20,BetaFlight,MPU6000,None,Yes,No,Onboard ESC,Solder,FPV,Micro Freestyle
+FC-0086,Flywoo,Flight Controllers,AIO FC,F7,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,Onboard ESC,Plug,FPV,Cinematic Micro
+FC-0087,Diatone,Flight Controllers,AIO FC,F4,Whoop,25.5,BetaFlight,MPU6000,None,Yes,No,Onboard ESC,Solder,FPV,Whoop
+FC-0088,Diatone,Flight Controllers,AIO FC,F7,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,Onboard ESC,Plug,FPV,Micro Cinematic
+FC-0089,SpeedyBee,Flight Controllers,AIO FC,F4,20x20,20,BetaFlight,MPU6000,None,Yes,No,Onboard ESC,Plug,FPV,Micro FPV
+FC-0090,SpeedyBee,Flight Controllers,AIO FC,F7,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,Onboard ESC,Plug,FPV,Cinematic Micro
+FC-0091,Custom,Flight Controllers,Autopilot,VTOL FC,Standard,Custom,ArduPilot,Custom IMU,Custom,None,Yes,PWM/CAN,Connector,Industrial,VTOL UAV
+FC-0092,Custom,Flight Controllers,Autopilot,Redundant FC,Standard,Custom,Custom,Redundant IMUs,Custom,None,Yes,CAN/Ethernet,Connector,Industrial,Critical UAV
+FC-0093,Custom,Flight Controllers,Autopilot,AI Companion FC,Standard,Custom,Linux + ArduPilot,Custom,Custom,None,Yes,CAN/Ethernet,Connector,Industrial,AI UAV
+FC-0094,Custom,Flight Controllers,Autopilot,Swarm FC,Standard,Custom,Custom,Custom,None,None,Yes,Custom,Connector,Industrial,Swarm UAV
+FC-0095,Custom,Flight Controllers,Autopilot,Marine UAV FC,Standard,Custom,Custom,Custom,Custom,None,Yes,CAN/Ethernet,Connector,Industrial,Marine UAV
+FC-0096,Custom,Flight Controllers,FPV FC,F411,20x20,20,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Ultra Budget
+FC-0097,Custom,Flight Controllers,FPV FC,F745,30x30,30.5,BetaFlight,ICM42688,BMP388,Yes,Yes,DSHOT,Plug,FPV,Experimental FPV
+FC-0098,Custom,Flight Controllers,FPV FC,H743,30x30,30.5,BetaFlight,ICM42688,BMP388,Yes,Yes,DSHOT,Plug,FPV,Extreme Performance
+FC-0099,Custom,Flight Controllers,Autopilot,Research FC Pro,Standard,Custom,Custom,Custom,Custom,None,Yes,Custom,Connector,Industrial,Research UAV
+FC-0100,SpeedyBee,Flight Controllers,FPV FC,F405,20x20,20,BetaFlight,MPU6000,None,Yes,No,DSHOT,Plug,FPV,Micro Freestyle
+FC-0101,SpeedyBee,Flight Controllers,FPV FC,F7,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,DSHOT,Plug,FPV,Micro Cinematic
+FC-0102,iFlight,Flight Controllers,FPV FC,F405,20x20,20,BetaFlight,MPU6000,None,Yes,No,DSHOT,Plug,FPV,Micro Freestyle
+FC-0103,iFlight,Flight Controllers,FPV FC,F722,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,DSHOT,Plug,FPV,Cinematic FPV
+FC-0104,HGLRC,Flight Controllers,FPV FC,F722,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,DSHOT,Plug,FPV,Micro Cinematic
+FC-0105,Skystars,Flight Controllers,FPV FC,F722,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,DSHOT,Plug,FPV,Micro Freestyle
+FC-0106,CL Racing,Flight Controllers,FPV FC,F405,20x20,20,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Micro Racing
+FC-0107,Flywoo,Flight Controllers,FPV FC,F745,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,DSHOT,Plug,FPV,Ultra Micro
+FC-0108,JHEMCU,Flight Controllers,FPV FC,F405,20x20,20,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Micro Builds
+FC-0109,Airbot,Flight Controllers,FPV FC,F7,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,DSHOT,Plug,FPV,Micro Freestyle
+FC-0110,Matek,Flight Controllers,Fixed Wing FC,F405-WTE,30x30,30.5,INAV,MPU6000,BMP280,Yes,Yes,PWM/SBUS,Solder,Fixed Wing,Telemetry UAV
+FC-0111,Matek,Flight Controllers,Fixed Wing FC,F722-WPX,30x30,30.5,INAV,ICM42688,BMP388,Yes,Yes,PWM/SBUS,Solder,Fixed Wing,Long Range UAV
+FC-0112,Matek,Flight Controllers,Fixed Wing FC,H743-WING,30x30,30.5,INAV/ArduPilot,ICM42688,BMP388,Yes,Yes,PWM/CAN,Solder,Fixed Wing,Professional UAV
+FC-0113,CUAV,Flight Controllers,Autopilot,Nora+,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Professional UAV
+FC-0114,CUAV,Flight Controllers,Autopilot,X7 Pro,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Mapping UAV
+FC-0115,Holybro,Flight Controllers,Autopilot,Pixhawk 5X,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Survey UAV
+FC-0116,Holybro,Flight Controllers,Autopilot,Pixhawk 6X,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,High End UAV
+FC-0117,Holybro,Flight Controllers,Autopilot,Pixhawk Mini 6C,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Compact UAV
+FC-0118,Hex Cube,Flight Controllers,Autopilot,Yellow Cube,Standard,Custom,ArduPilot,ICM20602,BMP280,None,Yes,PWM/CAN,Connector,Industrial,Legacy UAV
+FC-0119,Hex Cube,Flight Controllers,Autopilot,Green Cube,Standard,Custom,ArduPilot,ICM20948,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Research UAV
+FC-0120,mRo,Flight Controllers,Autopilot,Pixhawk 5X Mini,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Compact Survey UAV
+FC-0121,mRo,Flight Controllers,Autopilot,Control Zero F7,Standard,Custom,ArduPilot,MPU6000,BMP280,None,Yes,PWM/CAN,Connector,Industrial,Legacy UAV
+FC-0122,mRo,Flight Controllers,Autopilot,Control Zero H7,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Advanced UAV
+FC-0123,Advanced Navigation,Flight Controllers,Autopilot,NavCube,Standard,Custom,ArduPilot,Industrial IMU,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Survey UAV
+FC-0124,Advanced Navigation,Flight Controllers,Autopilot,Certus Evo,Standard,Custom,Custom,Industrial IMU,Custom,None,Yes,CAN/Ethernet,Connector,Industrial,Precision UAV
+FC-0125,Holybro,Flight Controllers,Autopilot,Durandal Mini,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Compact UAV
+FC-0126,CUAV,Flight Controllers,Autopilot,V5 Nano,Standard,Custom,ArduPilot,MPU6000,BMP280,None,Yes,PWM/CAN,Connector,Industrial,Small UAV
+FC-0127,CUAV,Flight Controllers,Autopilot,V5+ Pro,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,Survey UAV
+FC-0128,Hex Cube,Flight Controllers,Autopilot,Red Cube,Standard,Custom,ArduPilot,ICM42688,BMP388,None,Yes,PWM/CAN,Connector,Industrial,High Reliability UAV
+FC-0129,Holybro,Flight Controllers,Autopilot,Pixhawk 2.4.8,Standard,Custom,ArduPilot,MPU6000,BMP280,None,Yes,PWM/CAN,Connector,Industrial,Legacy UAV
+FC-0130,BetaFPV,Flight Controllers,AIO FC,F4,Whoop,25.5,BetaFlight,MPU6000,None,Yes,No,Onboard ESC,Solder,FPV,Whoop Trainer
+FC-0131,BetaFPV,Flight Controllers,AIO FC,F4,Whoop,25.5,BetaFlight,ICM20689,None,Yes,No,Onboard ESC,Solder,FPV,Whoop Racing
+FC-0132,Happymodel,Flight Controllers,AIO FC,F4,Whoop,25.5,BetaFlight,MPU6000,None,Yes,No,Onboard ESC,Solder,FPV,Whoop
+FC-0133,Happymodel,Flight Controllers,AIO FC,F4,20x20,20,BetaFlight,ICM20689,None,Yes,No,Onboard ESC,Solder,FPV,Micro FPV
+FC-0134,Flywoo,Flight Controllers,AIO FC,F4,20x20,20,BetaFlight,MPU6000,None,Yes,No,Onboard ESC,Solder,FPV,Micro Freestyle
+FC-0135,Flywoo,Flight Controllers,AIO FC,F7,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,Onboard ESC,Plug,FPV,Cinematic Micro
+FC-0136,Diatone,Flight Controllers,AIO FC,F4,Whoop,25.5,BetaFlight,MPU6000,None,Yes,No,Onboard ESC,Solder,FPV,Whoop
+FC-0137,Diatone,Flight Controllers,AIO FC,F7,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,Onboard ESC,Plug,FPV,Micro Cinematic
+FC-0138,SpeedyBee,Flight Controllers,AIO FC,F4,20x20,20,BetaFlight,MPU6000,None,Yes,No,Onboard ESC,Plug,FPV,Micro FPV
+FC-0139,SpeedyBee,Flight Controllers,AIO FC,F7,20x20,20,BetaFlight,ICM42688,None,Yes,Yes,Onboard ESC,Plug,FPV,Cinematic Micro
+FC-0140,Custom,Flight Controllers,Autopilot,VTOL FC,Standard,Custom,ArduPilot,Custom IMU,Custom,None,Yes,PWM/CAN,Connector,Industrial,VTOL UAV
+FC-0141,Custom,Flight Controllers,Autopilot,Redundant FC,Standard,Custom,Custom,Redundant IMUs,Custom,None,Yes,CAN/Ethernet,Connector,Industrial,Critical UAV
+FC-0142,Custom,Flight Controllers,Autopilot,AI Companion FC,Standard,Custom,Linux + ArduPilot,Custom,Custom,None,Yes,CAN/Ethernet,Connector,Industrial,AI UAV
+FC-0143,Custom,Flight Controllers,Autopilot,Swarm FC,Standard,Custom,Custom,Custom,None,None,Yes,Custom,Connector,Industrial,Swarm UAV
+FC-0144,Custom,Flight Controllers,Autopilot,Marine UAV FC,Standard,Custom,Custom,Custom,Custom,None,Yes,CAN/Ethernet,Connector,Industrial,Marine UAV
+FC-0145,Custom,Flight Controllers,FPV FC,F411,20x20,20,BetaFlight,MPU6000,None,Yes,No,DSHOT,Solder,FPV,Ultra Budget
+FC-0146,Custom,Flight Controllers,FPV FC,F745,30x30,30.5,BetaFlight,ICM42688,BMP388,Yes,Yes,DSHOT,Plug,FPV,Experimental FPV
+FC-0147,Custom,Flight Controllers,FPV FC,H743,30x30,30.5,BetaFlight,ICM42688,BMP388,Yes,Yes,DSHOT,Plug,FPV,Extreme Performance
+FC-0148,Custom,Flight Controllers,Autopilot,Research FC Pro,Standard,Custom,Custom,Custom,Custom,None,Yes,Custom,Connector,Industrial,Research UAV
+FC-0149,Flywoo,Flight Controller,FC Board,F405,Mini FC,16x16,Betaflight,ICM42688,No,Yes,None,DShot600,JST,FPV,Freestyle FPV
+FC-0150,Foxeer,Flight Controller,FC Board,H743,AIO,16x16,INAV,ICM20689,No,Yes,16MB,PWM,JST,FPV,Cinematic FPV
+FC-0151,EMAX,Flight Controller,FC Board,F405,Mini FC,20x20,INAV,ICM42688,No,Yes,None,DShot300,Direct Solder,FPV,Racing FPV
+FC-0152,HGLRC,Flight Controller,FC Board,F745,Whoop FC,30x30,Betaflight,ICM42688,Yes,Yes,32MB,DShot300,Direct Solder,FPV,Racing FPV
+FC-0153,Holybro,Flight Controller,FC Board,F745,AIO,20x20,ArduPilot,ICM42688,No,Yes,16MB,PWM,Plug,FPV,Long Range FPV
+FC-0154,HGLRC,Flight Controller,FC Board,H743,Stack FC,30x30,ArduPilot,BMI270,No,Yes,64MB,DShot1200,JST,FPV,Long Range FPV
+FC-0155,RushFPV,Flight Controller,FC Board,F411,Whoop FC,20x20,ArduPilot,ICM42688,No,Yes,64MB,DShot300,Direct Solder,FPV,Long Range FPV
+FC-0156,GEPRC,Flight Controller,FC Board,F765,AIO,20x20,ArduPilot,ICM20689,Yes,Yes,16MB,DShot300,JST,Industrial,Industrial UAV
+FC-0157,Matek,Flight Controller,FC Board,F722,Whoop FC,30x30,ArduPilot,ICM20689,No,Yes,16MB,DShot1200,JST,FPV,Cinematic FPV
+FC-0158,GEPRC,Flight Controller,FC Board,F722,Whoop FC,30x30,Betaflight,BMI270,Yes,Yes,64MB,DShot600,Direct Solder,FPV,Racing FPV
+FC-0159,Matek,Flight Controller,FC Board,F405,AIO,16x16,INAV,ICM42688,Yes,Yes,16MB,DShot1200,Direct Solder,Industrial,Industrial UAV
+FC-0160,Skystars,Flight Controller,FC Board,F745,Whoop FC,16x16,Betaflight,MPU6000,No,Yes,64MB,DShot300,JST,FPV,Freestyle FPV
+FC-0161,RushFPV,Flight Controller,FC Board,F411,AIO,30x30,ArduPilot,ICM42688,Yes,Yes,32MB,DShot300,Direct Solder,FPV,Cinematic FPV
+FC-0162,Flywoo,Flight Controller,FC Board,H743,Stack FC,25.5x25.5,Betaflight,BMI270,No,Yes,None,DShot600,Direct Solder,FPV,Freestyle FPV
+FC-0163,Flywoo,Flight Controller,FC Board,F722,AIO,16x16,INAV,BMI270,No,Yes,None,PWM,Plug,Industrial,Industrial UAV
+FC-0164,EMAX,Flight Controller,FC Board,F405,Mini FC,20x20,ArduPilot,ICM20689,No,Yes,16MB,PWM,Plug,Industrial,Industrial UAV
+FC-0165,AxisFlying,Flight Controller,FC Board,F405,Stack FC,20x20,Betaflight,MPU6000,Yes,Yes,32MB,PWM,Plug,FPV,Cinematic FPV
+FC-0166,EMAX,Flight Controller,FC Board,F765,Whoop FC,30x30,ArduPilot,ICM42688,No,Yes,64MB,PWM,Plug,FPV,Racing FPV
+FC-0167,iFlight,Flight Controller,FC Board,F722,Whoop FC,25.5x25.5,Betaflight,MPU6000,No,Yes,32MB,PWM,Direct Solder,FPV,Racing FPV
+FC-0168,Skystars,Flight Controller,FC Board,F745,Mini FC,16x16,INAV,MPU6000,No,Yes,16MB,DShot300,Direct Solder,FPV,Freestyle FPV
+FC-0169,Matek,Flight Controller,FC Board,F765,Whoop FC,20x20,Betaflight,ICM42688,No,Yes,16MB,DShot1200,Plug,FPV,Long Range FPV
+FC-0170,Flywoo,Flight Controller,FC Board,F745,Whoop FC,16x16,Betaflight,BMI270,No,Yes,16MB,DShot1200,Direct Solder,FPV,Freestyle FPV
+FC-0171,AxisFlying,Flight Controller,FC Board,F411,Whoop FC,30x30,INAV,MPU6000,No,Yes,None,PWM,Direct Solder,Industrial,Industrial UAV
+FC-0172,Skystars,Flight Controller,FC Board,F765,Whoop FC,25.5x25.5,Betaflight,ICM42688,Yes,Yes,None,DShot600,Direct Solder,FPV,Long Range FPV
+FC-0173,AxisFlying,Flight Controller,FC Board,H743,Mini FC,25.5x25.5,INAV,MPU6000,Yes,Yes,16MB,DShot300,Direct Solder,FPV,Freestyle FPV
+FC-0174,Flywoo,Flight Controller,FC Board,F411,Whoop FC,20x20,INAV,ICM42688,Yes,Yes,16MB,PWM,Direct Solder,FPV,Freestyle FPV
+FC-0175,Foxeer,Flight Controller,FC Board,H743,AIO,30x30,ArduPilot,ICM20689,No,Yes,None,DShot600,JST,FPV,Racing FPV
+FC-0176,BetaFPV,Flight Controller,FC Board,F765,AIO,16x16,Betaflight,MPU6000,Yes,Yes,64MB,DShot300,JST,Industrial,Industrial UAV
+FC-0177,Holybro,Flight Controller,FC Board,F765,Stack FC,20x20,Betaflight,MPU6000,Yes,Yes,16MB,PWM,Plug,Industrial,Industrial UAV
+FC-0178,BetaFPV,Flight Controller,FC Board,H743,AIO,16x16,INAV,ICM42688,No,Yes,32MB,DShot600,Plug,Industrial,Industrial UAV
+FC-0179,Skystars,Flight Controller,FC Board,F765,AIO,16x16,Betaflight,ICM42688,No,Yes,64MB,PWM,Direct Solder,FPV,Cinematic FPV
+FC-0180,SpeedyBee,Flight Controller,FC Board,H743,Stack FC,20x20,ArduPilot,ICM20689,No,Yes,32MB,DShot600,Direct Solder,FPV,Long Range FPV
+FC-0181,HGLRC,Flight Controller,FC Board,H743,AIO,25.5x25.5,Betaflight,MPU6000,No,Yes,32MB,DShot1200,JST,FPV,Long Range FPV
+FC-0182,BetaFPV,Flight Controller,FC Board,F405,Whoop FC,20x20,Betaflight,MPU6000,No,Yes,None,DShot600,Plug,FPV,Racing FPV
+FC-0183,BetaFPV,Flight Controller,FC Board,H743,AIO,30x30,ArduPilot,BMI270,Yes,Yes,64MB,DShot1200,Plug,FPV,Freestyle FPV
+FC-0184,iFlight,Flight Controller,FC Board,F405,AIO,30x30,Betaflight,ICM20689,Yes,Yes,None,DShot300,JST,FPV,Freestyle FPV
+FC-0185,Holybro,Flight Controller,FC Board,F765,Mini FC,16x16,INAV,ICM42688,Yes,Yes,16MB,DShot1200,Direct Solder,FPV,Long Range FPV
+FC-0186,Foxeer,Flight Controller,FC Board,F405,Mini FC,25.5x25.5,ArduPilot,ICM20689,Yes,Yes,64MB,PWM,JST,Industrial,Industrial UAV
+FC-0187,iFlight,Flight Controller,FC Board,H743,Stack FC,16x16,INAV,MPU6000,No,Yes,32MB,DShot600,Direct Solder,FPV,Freestyle FPV
+FC-0188,Holybro,Flight Controller,FC Board,F765,Mini FC,25.5x25.5,ArduPilot,ICM42688,No,Yes,16MB,DShot1200,Plug,FPV,Long Range FPV
+FC-0189,EMAX,Flight Controller,FC Board,F765,Whoop FC,16x16,INAV,ICM20689,No,Yes,16MB,DShot600,JST,FPV,Long Range FPV
+FC-0190,iFlight,Flight Controller,FC Board,F411,Stack FC,20x20,INAV,BMI270,No,Yes,None,DShot1200,Direct Solder,FPV,Freestyle FPV
+FC-0191,RushFPV,Flight Controller,FC Board,F722,Stack FC,20x20,Betaflight,MPU6000,No,Yes,None,DShot300,Plug,Industrial,Industrial UAV
+FC-0192,iFlight,Flight Controller,FC Board,H743,Whoop FC,20x20,INAV,BMI270,Yes,Yes,32MB,DShot600,Plug,FPV,Racing FPV
+FC-0193,AxisFlying,Flight Controller,FC Board,F411,Whoop FC,30x30,INAV,MPU6000,Yes,Yes,None,DShot1200,JST,FPV,Long Range FPV
+FC-0194,Flywoo,Flight Controller,FC Board,F722,Stack FC,20x20,INAV,ICM42688,No,Yes,16MB,PWM,Direct Solder,FPV,Cinematic FPV
+FC-0195,Foxeer,Flight Controller,FC Board,F722,Whoop FC,20x20,ArduPilot,ICM20689,No,Yes,None,PWM,Plug,FPV,Racing FPV
+FC-0196,EMAX,Flight Controller,FC Board,F405,Mini FC,25.5x25.5,ArduPilot,ICM42688,No,Yes,64MB,DShot1200,Plug,FPV,Racing FPV
+FC-0197,iFlight,Flight Controller,FC Board,F411,AIO,25.5x25.5,Betaflight,BMI270,No,Yes,16MB,DShot600,Direct Solder,FPV,Racing FPV
+FC-0198,SpeedyBee,Flight Controller,FC Board,H743,AIO,16x16,INAV,BMI270,No,Yes,32MB,DShot300,JST,FPV,Freestyle FPV
+FC-0199,Holybro,Flight Controller,FC Board,F745,Mini FC,25.5x25.5,ArduPilot,BMI270,No,Yes,64MB,DShot300,JST,FPV,Freestyle FPV
+FC-0200,Matek,Flight Controller,FC Board,F722,Mini FC,30x30,INAV,ICM42688,No,Yes,16MB,DShot300,JST,Industrial,Industrial UAV
+FC-0201,Matek,Flight Controller,FC Board,F411,Whoop FC,20x20,Betaflight,ICM20689,No,Yes,64MB,DShot600,JST,Industrial,Industrial UAV
+FC-0202,RushFPV,Flight Controller,FC Board,H743,Whoop FC,20x20,ArduPilot,BMI270,No,Yes,32MB,PWM,Direct Solder,FPV,Racing FPV
+FC-0203,Holybro,Flight Controller,FC Board,F765,Whoop FC,25.5x25.5,INAV,ICM20689,Yes,Yes,64MB,DShot300,Direct Solder,FPV,Cinematic FPV
+FC-0204,BetaFPV,Flight Controller,FC Board,H743,AIO,16x16,INAV,BMI270,Yes,Yes,16MB,DShot300,Direct Solder,FPV,Long Range FPV
+FC-0205,BetaFPV,Flight Controller,FC Board,F745,AIO,25.5x25.5,ArduPilot,ICM20689,Yes,Yes,64MB,PWM,Plug,FPV,Long Range FPV
+FC-0206,AxisFlying,Flight Controller,FC Board,F722,Mini FC,20x20,Betaflight,MPU6000,No,Yes,None,DShot600,Direct Solder,Industrial,Industrial UAV
+FC-0207,BetaFPV,Flight Controller,FC Board,F722,Whoop FC,25.5x25.5,Betaflight,ICM20689,No,Yes,None,DShot300,Plug,FPV,Cinematic FPV
+FC-0208,HGLRC,Flight Controller,FC Board,H743,Whoop FC,16x16,INAV,BMI270,Yes,Yes,16MB,DShot600,JST,FPV,Racing FPV
+FC-0209,Matek,Flight Controller,FC Board,F765,AIO,30x30,INAV,BMI270,Yes,Yes,32MB,DShot1200,JST,FPV,Freestyle FPV
+FC-0210,Holybro,Flight Controller,FC Board,F405,Stack FC,20x20,ArduPilot,ICM42688,No,Yes,64MB,DShot1200,Plug,FPV,Racing FPV
+FC-0211,iFlight,Flight Controller,FC Board,F722,Whoop FC,16x16,Betaflight,ICM42688,No,Yes,64MB,DShot300,JST,Industrial,Industrial UAV
+FC-0212,SpeedyBee,Flight Controller,FC Board,H743,AIO,20x20,ArduPilot,MPU6000,No,Yes,32MB,DShot1200,JST,FPV,Freestyle FPV
+FC-0213,Foxeer,Flight Controller,FC Board,F722,AIO,30x30,Betaflight,ICM20689,No,Yes,32MB,DShot1200,Direct Solder,FPV,Freestyle FPV
+FC-0214,RushFPV,Flight Controller,FC Board,H743,Stack FC,25.5x25.5,ArduPilot,BMI270,No,Yes,64MB,DShot1200,JST,FPV,Freestyle FPV
+FC-0215,Holybro,Flight Controller,FC Board,F411,Mini FC,16x16,Betaflight,ICM20689,No,Yes,None,PWM,Plug,FPV,Freestyle FPV
+FC-0216,Diatone,Flight Controller,FC Board,H743,AIO,16x16,Betaflight,BMI270,No,Yes,64MB,DShot600,Direct Solder,FPV,Racing FPV
+FC-0217,iFlight,Flight Controller,FC Board,F411,Whoop FC,30x30,Betaflight,ICM42688,No,Yes,32MB,DShot600,Plug,FPV,Cinematic FPV
+FC-0218,SpeedyBee,Flight Controller,FC Board,F405,Mini FC,25.5x25.5,INAV,BMI270,Yes,Yes,16MB,PWM,Plug,FPV,Racing FPV
+FC-0219,GEPRC,Flight Controller,FC Board,F722,Whoop FC,25.5x25.5,ArduPilot,ICM42688,No,Yes,16MB,DShot600,JST,FPV,Freestyle FPV
+FC-0220,HGLRC,Flight Controller,FC Board,H743,Whoop FC,25.5x25.5,INAV,BMI270,Yes,Yes,64MB,PWM,Direct Solder,Industrial,Industrial UAV
+FC-0221,AxisFlying,Flight Controller,FC Board,F405,Stack FC,25.5x25.5,Betaflight,BMI270,Yes,Yes,64MB,DShot1200,Plug,FPV,Racing FPV
+FC-0222,AxisFlying,Flight Controller,FC Board,H743,Stack FC,30x30,INAV,ICM20689,No,Yes,16MB,DShot300,JST,FPV,Freestyle FPV
+FC-0223,Diatone,Flight Controller,FC Board,F411,Whoop FC,25.5x25.5,Betaflight,MPU6000,No,Yes,32MB,PWM,JST,FPV,Racing FPV
+FC-0224,SpeedyBee,Flight Controller,FC Board,H743,AIO,20x20,ArduPilot,MPU6000,No,Yes,None,DShot300,JST,FPV,Long Range FPV
+FC-0225,SpeedyBee,Flight Controller,FC Board,F765,AIO,30x30,INAV,ICM20689,Yes,Yes,64MB,DShot1200,Direct Solder,FPV,Racing FPV
+FC-0226,Matek,Flight Controller,FC Board,F405,Mini FC,20x20,Betaflight,MPU6000,Yes,Yes,32MB,PWM,Direct Solder,FPV,Freestyle FPV
+FC-0227,Skystars,Flight Controller,FC Board,F745,Whoop FC,30x30,Betaflight,ICM42688,No,Yes,None,DShot300,JST,FPV,Freestyle FPV
+FC-0228,Matek,Flight Controller,FC Board,F765,Mini FC,16x16,INAV,MPU6000,Yes,Yes,64MB,PWM,Direct Solder,FPV,Cinematic FPV
+FC-0229,iFlight,Flight Controller,FC Board,F765,Stack FC,16x16,ArduPilot,ICM42688,Yes,Yes,None,DShot1200,Direct Solder,FPV,Cinematic FPV
+FC-0230,GEPRC,Flight Controller,FC Board,F722,Whoop FC,16x16,INAV,MPU6000,Yes,Yes,64MB,DShot600,Direct Solder,FPV,Freestyle FPV
+FC-0231,iFlight,Flight Controller,FC Board,F745,Whoop FC,20x20,INAV,BMI270,No,Yes,None,DShot1200,Direct Solder,FPV,Cinematic FPV
+FC-0232,HGLRC,Flight Controller,FC Board,F765,AIO,30x30,Betaflight,ICM20689,No,Yes,64MB,DShot600,Plug,Industrial,Industrial UAV
+FC-0233,AxisFlying,Flight Controller,FC Board,F765,Stack FC,16x16,INAV,MPU6000,No,Yes,16MB,DShot300,Plug,Industrial,Industrial UAV
+FC-0234,HGLRC,Flight Controller,FC Board,F411,Stack FC,25.5x25.5,Betaflight,ICM42688,Yes,Yes,32MB,DShot1200,Plug,FPV,Freestyle FPV
+FC-0235,HGLRC,Flight Controller,FC Board,F745,Mini FC,30x30,ArduPilot,ICM42688,Yes,Yes,16MB,DShot600,Plug,FPV,Long Range FPV
+FC-0236,Flywoo,Flight Controller,FC Board,F765,Whoop FC,25.5x25.5,Betaflight,BMI270,No,Yes,None,PWM,Plug,Industrial,Industrial UAV
+FC-0237,GEPRC,Flight Controller,FC Board,F722,AIO,16x16,INAV,BMI270,Yes,Yes,None,PWM,Direct Solder,FPV,Long Range FPV
+FC-0238,Foxeer,Flight Controller,FC Board,F745,Whoop FC,30x30,INAV,ICM42688,No,Yes,32MB,DShot600,Direct Solder,FPV,Long Range FPV
+FC-0239,AxisFlying,Flight Controller,FC Board,F745,Mini FC,30x30,INAV,MPU6000,Yes,Yes,None,PWM,Plug,FPV,Freestyle FPV
+FC-0240,Foxeer,Flight Controller,FC Board,H743,Whoop FC,30x30,ArduPilot,ICM20689,No,Yes,None,DShot300,JST,FPV,Racing FPV
+FC-0241,Holybro,Flight Controller,FC Board,F722,Stack FC,30x30,Betaflight,BMI270,Yes,Yes,32MB,DShot300,JST,FPV,Racing FPV
+FC-0242,Diatone,Flight Controller,FC Board,F405,Stack FC,25.5x25.5,INAV,ICM42688,No,Yes,32MB,PWM,JST,FPV,Long Range FPV
+FC-0243,Skystars,Flight Controller,FC Board,F411,Stack FC,20x20,Betaflight,ICM20689,No,Yes,16MB,DShot600,JST,FPV,Freestyle FPV
+FC-0244,Diatone,Flight Controller,FC Board,F722,AIO,25.5x25.5,Betaflight,BMI270,Yes,Yes,64MB,DShot300,JST,FPV,Freestyle FPV
+FC-0245,Skystars,Flight Controller,FC Board,F722,Stack FC,20x20,INAV,ICM20689,Yes,Yes,32MB,DShot300,Plug,FPV,Long Range FPV
+FC-0246,Diatone,Flight Controller,FC Board,F745,AIO,20x20,Betaflight,BMI270,No,Yes,64MB,DShot300,Plug,Industrial,Industrial UAV
+FC-0247,RushFPV,Flight Controller,FC Board,F405,Stack FC,16x16,INAV,ICM42688,No,Yes,16MB,DShot600,JST,FPV,Freestyle FPV
+FC-0248,SpeedyBee,Flight Controller,FC Board,F405,Mini FC,25.5x25.5,INAV,MPU6000,Yes,Yes,16MB,DShot300,Direct Solder,FPV,Racing FPV
+FC-0249,Skystars,Flight Controller,FC Board,F722,AIO,30x30,ArduPilot,BMI270,No,Yes,32MB,DShot1200,Plug,Industrial,Industrial UAV
+FC-0250,GEPRC,Flight Controller,FC Board,F765,Mini FC,16x16,Betaflight,ICM20689,Yes,Yes,None,PWM,JST,FPV,Cinematic FPV
+FC-0251,RushFPV,Flight Controller,FC Board,F745,Whoop FC,16x16,INAV,BMI270,No,Yes,16MB,DShot1200,Direct Solder,FPV,Cinematic FPV
+FC-0252,Flywoo,Flight Controller,FC Board,F405,Mini FC,16x16,ArduPilot,BMI270,No,Yes,16MB,DShot300,JST,FPV,Cinematic FPV
+FC-0253,AxisFlying,Flight Controller,FC Board,F411,Stack FC,25.5x25.5,ArduPilot,ICM42688,Yes,Yes,32MB,DShot600,Direct Solder,Industrial,Industrial UAV
+FC-0254,HGLRC,Flight Controller,FC Board,F745,Stack FC,20x20,Betaflight,MPU6000,Yes,Yes,16MB,DShot1200,Direct Solder,FPV,Freestyle FPV
+FC-0255,Foxeer,Flight Controller,FC Board,F745,Mini FC,25.5x25.5,INAV,ICM20689,Yes,Yes,64MB,DShot300,JST,FPV,Racing FPV
+FC-0256,SpeedyBee,Flight Controller,FC Board,F405,AIO,25.5x25.5,ArduPilot,ICM42688,No,Yes,16MB,PWM,Plug,FPV,Freestyle FPV
+FC-0257,Diatone,Flight Controller,FC Board,F745,Mini FC,16x16,ArduPilot,BMI270,No,Yes,None,PWM,JST,FPV,Cinematic FPV
+FC-0258,RushFPV,Flight Controller,FC Board,F411,Mini FC,30x30,Betaflight,BMI270,Yes,Yes,64MB,DShot1200,Plug,FPV,Long Range FPV
+FC-0259,Flywoo,Flight Controller,FC Board,F765,AIO,30x30,INAV,BMI270,Yes,Yes,32MB,DShot300,JST,FPV,Cinematic FPV
+FC-0260,RushFPV,Flight Controller,FC Board,F745,Whoop FC,20x20,INAV,BMI270,Yes,Yes,16MB,DShot600,Plug,FPV,Cinematic FPV
+FC-0261,EMAX,Flight Controller,FC Board,F722,Whoop FC,25.5x25.5,INAV,ICM20689,No,Yes,16MB,DShot300,Direct Solder,FPV,Racing FPV
+FC-0262,Matek,Flight Controller,FC Board,F765,Mini FC,30x30,Betaflight,BMI270,No,Yes,32MB,DShot1200,Plug,FPV,Long Range FPV
+FC-0263,EMAX,Flight Controller,FC Board,F722,Whoop FC,30x30,Betaflight,ICM20689,Yes,Yes,None,DShot1200,JST,FPV,Racing FPV
+FC-0264,BetaFPV,Flight Controller,FC Board,F745,AIO,25.5x25.5,Betaflight,ICM20689,No,Yes,32MB,DShot1200,Plug,Industrial,Industrial UAV
+FC-0265,Diatone,Flight Controller,FC Board,F765,Mini FC,30x30,Betaflight,MPU6000,Yes,Yes,32MB,DShot1200,Plug,FPV,Racing FPV
+FC-0266,SpeedyBee,Flight Controller,FC Board,H743,Whoop FC,20x20,Betaflight,MPU6000,Yes,Yes,16MB,DShot600,JST,FPV,Long Range FPV
+FC-0267,GEPRC,Flight Controller,FC Board,H743,Whoop FC,16x16,ArduPilot,MPU6000,No,Yes,None,PWM,Direct Solder,FPV,Cinematic FPV
+FC-0268,RushFPV,Flight Controller,FC Board,F405,Stack FC,25.5x25.5,Betaflight,ICM20689,No,Yes,32MB,DShot1200,JST,FPV,Racing FPV
+FC-0269,iFlight,Flight Controller,FC Board,F411,Whoop FC,30x30,ArduPilot,MPU6000,Yes,Yes,None,DShot600,JST,FPV,Cinematic FPV
+FC-0270,BetaFPV,Flight Controller,FC Board,F722,AIO,16x16,ArduPilot,BMI270,No,Yes,None,DShot600,Direct Solder,FPV,Long Range FPV
+FC-0271,Holybro,Flight Controller,FC Board,F745,Stack FC,16x16,ArduPilot,MPU6000,No,Yes,None,DShot600,JST,Industrial,Industrial UAV
+FC-0272,Foxeer,Flight Controller,FC Board,H743,AIO,16x16,ArduPilot,BMI270,No,Yes,64MB,PWM,Direct Solder,FPV,Cinematic FPV
+FC-0273,Holybro,Flight Controller,FC Board,F722,Mini FC,30x30,Betaflight,ICM42688,No,Yes,64MB,DShot600,Direct Solder,Industrial,Industrial UAV
+FC-0274,RushFPV,Flight Controller,FC Board,H743,Stack FC,20x20,Betaflight,ICM42688,No,Yes,32MB,DShot600,Plug,FPV,Freestyle FPV
+FC-0275,Diatone,Flight Controller,FC Board,H743,Stack FC,30x30,Betaflight,ICM20689,Yes,Yes,16MB,DShot300,Direct Solder,FPV,Cinematic FPV
+FC-0276,Foxeer,Flight Controller,FC Board,F722,Mini FC,25.5x25.5,ArduPilot,ICM42688,Yes,Yes,64MB,DShot1200,Direct Solder,FPV,Cinematic FPV
+FC-0277,RushFPV,Flight Controller,FC Board,F405,Stack FC,30x30,INAV,MPU6000,No,Yes,32MB,PWM,Direct Solder,FPV,Freestyle FPV
+FC-0278,Holybro,Flight Controller,FC Board,F411,AIO,30x30,ArduPilot,ICM42688,No,Yes,16MB,DShot600,Plug,FPV,Long Range FPV
+FC-0279,Flywoo,Flight Controller,FC Board,F405,AIO,16x16,INAV,ICM42688,Yes,Yes,32MB,DShot300,Plug,FPV,Racing FPV
+FC-0280,SpeedyBee,Flight Controller,FC Board,F745,Stack FC,16x16,INAV,ICM20689,No,Yes,16MB,DShot600,JST,FPV,Freestyle FPV
+FC-0281,iFlight,Flight Controller,FC Board,F405,Whoop FC,30x30,INAV,ICM42688,No,Yes,16MB,DShot300,Plug,FPV,Freestyle FPV
+FC-0282,RushFPV,Flight Controller,FC Board,F765,Whoop FC,20x20,ArduPilot,BMI270,Yes,Yes,16MB,DShot600,JST,FPV,Long Range FPV
+FC-0283,Flywoo,Flight Controller,FC Board,F722,AIO,16x16,INAV,ICM42688,No,Yes,None,DShot1200,Direct Solder,FPV,Freestyle FPV
+FC-0284,Diatone,Flight Controller,FC Board,H743,Whoop FC,30x30,Betaflight,ICM42688,No,Yes,32MB,DShot600,JST,FPV,Freestyle FPV
+FC-0285,BetaFPV,Flight Controller,FC Board,F745,Mini FC,16x16,Betaflight,MPU6000,Yes,Yes,None,DShot600,JST,Industrial,Industrial UAV
+FC-0286,SpeedyBee,Flight Controller,FC Board,F765,Whoop FC,16x16,ArduPilot,MPU6000,Yes,Yes,32MB,DShot600,JST,FPV,Long Range FPV
+FC-0287,Holybro,Flight Controller,FC Board,F405,Stack FC,30x30,Betaflight,BMI270,Yes,Yes,32MB,DShot300,Plug,FPV,Long Range FPV
+FC-0288,BetaFPV,Flight Controller,FC Board,F745,Stack FC,25.5x25.5,Betaflight,ICM42688,Yes,Yes,None,DShot1200,Direct Solder,Industrial,Industrial UAV
+FC-0289,Diatone,Flight Controller,FC Board,F722,Mini FC,16x16,Betaflight,MPU6000,Yes,Yes,32MB,DShot600,JST,Industrial,Industrial UAV
+FC-0290,Flywoo,Flight Controller,FC Board,F722,Stack FC,16x16,ArduPilot,ICM42688,No,Yes,16MB,PWM,Direct Solder,FPV,Long Range FPV
+FC-0291,Skystars,Flight Controller,FC Board,F722,AIO,16x16,ArduPilot,ICM42688,No,Yes,None,DShot600,Direct Solder,FPV,Long Range FPV
+FC-0292,RushFPV,Flight Controller,FC Board,F745,Whoop FC,20x20,ArduPilot,ICM42688,No,Yes,None,DShot300,Direct Solder,FPV,Freestyle FPV
+FC-0293,AxisFlying,Flight Controller,FC Board,F411,Mini FC,20x20,INAV,BMI270,No,Yes,64MB,PWM,Direct Solder,Industrial,Industrial UAV
+FC-0294,AxisFlying,Flight Controller,FC Board,F405,Stack FC,25.5x25.5,INAV,MPU6000,No,Yes,64MB,DShot1200,JST,FPV,Freestyle FPV
+FC-0295,RushFPV,Flight Controller,FC Board,F745,Stack FC,30x30,INAV,BMI270,Yes,Yes,32MB,DShot600,JST,FPV,Cinematic FPV
+FC-0296,BetaFPV,Flight Controller,FC Board,F405,Whoop FC,16x16,INAV,MPU6000,Yes,Yes,16MB,PWM,Plug,Industrial,Industrial UAV
+FC-0297,BetaFPV,Flight Controller,FC Board,F722,Whoop FC,16x16,ArduPilot,MPU6000,No,Yes,None,DShot600,Direct Solder,FPV,Cinematic FPV
+FC-0298,Diatone,Flight Controller,FC Board,F745,Whoop FC,30x30,INAV,ICM20689,No,Yes,64MB,DShot300,JST,FPV,Racing FPV
+FC-0299,SpeedyBee,Flight Controller,FC Board,F765,Stack FC,25.5x25.5,ArduPilot,ICM20689,No,Yes,None,DShot1200,Direct Solder,FPV,Cinematic FPV
+FC-0300,EMAX,Flight Controller,FC Board,F411,AIO,16x16,ArduPilot,ICM20689,No,Yes,64MB,PWM,Plug,FPV,Freestyle FPV
+FC-0301,RushFPV,Flight Controller,FC Board,F411,Stack FC,20x20,INAV,BMI270,No,Yes,64MB,PWM,JST,FPV,Long Range FPV
+FC-0302,GEPRC,Flight Controller,FC Board,F722,Whoop FC,16x16,Betaflight,ICM20689,No,Yes,None,DShot1200,Plug,FPV,Freestyle FPV
+FC-0303,SpeedyBee,Flight Controller,FC Board,F405,AIO,25.5x25.5,INAV,ICM20689,No,Yes,64MB,PWM,JST,FPV,Racing FPV
+FC-0304,BetaFPV,Flight Controller,FC Board,F405,Stack FC,20x20,ArduPilot,BMI270,No,Yes,64MB,PWM,Plug,FPV,Cinematic FPV
+FC-0305,HGLRC,Flight Controller,FC Board,F722,Stack FC,20x20,INAV,MPU6000,No,Yes,None,DShot1200,JST,FPV,Long Range FPV
+FC-0306,iFlight,Flight Controller,FC Board,F411,Whoop FC,16x16,INAV,ICM42688,No,Yes,None,DShot300,Direct Solder,FPV,Freestyle FPV
+FC-0307,Foxeer,Flight Controller,FC Board,F405,Whoop FC,16x16,ArduPilot,BMI270,No,Yes,16MB,DShot1200,Plug,FPV,Cinematic FPV
+FC-0308,HGLRC,Flight Controller,FC Board,H743,Mini FC,25.5x25.5,ArduPilot,ICM20689,Yes,Yes,32MB,DShot300,Direct Solder,FPV,Freestyle FPV
+FC-0309,Flywoo,Flight Controller,FC Board,F745,Stack FC,16x16,ArduPilot,BMI270,No,Yes,64MB,DShot600,Direct Solder,FPV,Freestyle FPV
+FC-0310,SpeedyBee,Flight Controller,FC Board,F411,Stack FC,25.5x25.5,Betaflight,ICM42688,Yes,Yes,16MB,PWM,Plug,FPV,Long Range FPV
+FC-0311,Matek,Flight Controller,FC Board,F765,Stack FC,16x16,ArduPilot,MPU6000,No,Yes,64MB,PWM,JST,FPV,Racing FPV
+FC-0312,GEPRC,Flight Controller,FC Board,F745,AIO,25.5x25.5,Betaflight,ICM20689,No,Yes,None,PWM,Direct Solder,FPV,Cinematic FPV
+FC-0313,Flywoo,Flight Controller,FC Board,F722,Whoop FC,30x30,ArduPilot,ICM20689,No,Yes,32MB,PWM,Direct Solder,FPV,Cinematic FPV
+FC-0314,BetaFPV,Flight Controller,FC Board,H743,Whoop FC,20x20,INAV,BMI270,No,Yes,32MB,DShot1200,Plug,FPV,Long Range FPV
+FC-0315,HGLRC,Flight Controller,FC Board,F765,Stack FC,16x16,Betaflight,MPU6000,Yes,Yes,32MB,DShot300,Plug,FPV,Freestyle FPV
+FC-0316,AxisFlying,Flight Controller,FC Board,H743,Whoop FC,25.5x25.5,Betaflight,ICM20689,No,Yes,None,DShot600,Plug,FPV,Cinematic FPV
+FC-0317,BetaFPV,Flight Controller,FC Board,F411,Stack FC,25.5x25.5,INAV,BMI270,Yes,Yes,None,DShot1200,Plug,Industrial,Industrial UAV
+FC-0318,AxisFlying,Flight Controller,FC Board,F765,Stack FC,30x30,ArduPilot,ICM20689,No,Yes,32MB,DShot1200,JST,FPV,Long Range FPV
+FC-0319,EMAX,Flight Controller,FC Board,F411,Whoop FC,16x16,Betaflight,ICM20689,Yes,Yes,16MB,DShot300,Plug,FPV,Long Range FPV
+FC-0320,Skystars,Flight Controller,FC Board,F411,Mini FC,20x20,Betaflight,ICM20689,Yes,Yes,16MB,DShot600,Plug,FPV,Freestyle FPV
+FC-0321,Holybro,Flight Controller,FC Board,F745,AIO,20x20,ArduPilot,ICM42688,No,Yes,None,PWM,JST,Industrial,Industrial UAV
+FC-0322,EMAX,Flight Controller,FC Board,F722,Mini FC,30x30,ArduPilot,ICM42688,No,Yes,16MB,PWM,JST,FPV,Racing FPV
+FC-0323,Holybro,Flight Controller,FC Board,F411,Whoop FC,16x16,ArduPilot,MPU6000,No,Yes,64MB,DShot300,Plug,FPV,Freestyle FPV
+FC-0324,Diatone,Flight Controller,FC Board,F411,Mini FC,16x16,ArduPilot,BMI270,No,Yes,None,DShot300,Direct Solder,FPV,Freestyle FPV
+FC-0325,BetaFPV,Flight Controller,FC Board,F745,AIO,25.5x25.5,ArduPilot,ICM20689,No,Yes,64MB,DShot300,Plug,FPV,Freestyle FPV
+FC-0326,GEPRC,Flight Controller,FC Board,F411,Stack FC,16x16,Betaflight,BMI270,Yes,Yes,None,DShot1200,Direct Solder,FPV,Freestyle FPV
+FC-0327,Foxeer,Flight Controller,FC Board,H743,Stack FC,16x16,INAV,BMI270,No,Yes,16MB,DShot600,Direct Solder,FPV,Racing FPV
+FC-0328,Skystars,Flight Controller,FC Board,F765,Stack FC,16x16,ArduPilot,ICM20689,No,Yes,None,DShot300,Direct Solder,FPV,Racing FPV
+FC-0329,RushFPV,Flight Controller,FC Board,F745,Mini FC,20x20,INAV,MPU6000,Yes,Yes,64MB,DShot300,JST,FPV,Long Range FPV
+FC-0330,Diatone,Flight Controller,FC Board,F411,Mini FC,16x16,ArduPilot,ICM42688,No,Yes,64MB,DShot300,Plug,Industrial,Industrial UAV
+FC-0331,Flywoo,Flight Controller,FC Board,F411,Whoop FC,20x20,ArduPilot,BMI270,No,Yes,16MB,DShot300,JST,FPV,Cinematic FPV
+FC-0332,HGLRC,Flight Controller,FC Board,F765,Whoop FC,25.5x25.5,Betaflight,ICM20689,No,Yes,64MB,DShot300,Plug,Industrial,Industrial UAV
+FC-0333,RushFPV,Flight Controller,FC Board,F765,Whoop FC,20x20,ArduPilot,BMI270,No,Yes,64MB,DShot300,JST,FPV,Long Range FPV
+FC-0334,BetaFPV,Flight Controller,FC Board,H743,AIO,20x20,ArduPilot,ICM42688,No,Yes,None,DShot300,JST,FPV,Cinematic FPV
+FC-0335,BetaFPV,Flight Controller,FC Board,F405,Whoop FC,16x16,INAV,BMI270,No,Yes,32MB,DShot1200,Plug,FPV,Racing FPV
+FC-0336,SpeedyBee,Flight Controller,FC Board,F405,Whoop FC,30x30,Betaflight,BMI270,Yes,Yes,None,PWM,Direct Solder,FPV,Racing FPV
+FC-0337,AxisFlying,Flight Controller,FC Board,F765,Mini FC,20x20,INAV,ICM42688,Yes,Yes,None,PWM,Plug,FPV,Long Range FPV
+FC-0338,GEPRC,Flight Controller,FC Board,F722,AIO,16x16,Betaflight,ICM20689,No,Yes,64MB,PWM,Plug,FPV,Freestyle FPV
+FC-0339,SpeedyBee,Flight Controller,FC Board,F722,Whoop FC,25.5x25.5,Betaflight,ICM42688,No,Yes,64MB,PWM,JST,FPV,Cinematic FPV
+FC-0340,Skystars,Flight Controller,FC Board,F722,Whoop FC,20x20,INAV,ICM20689,No,Yes,None,DShot600,JST,FPV,Cinematic FPV
+FC-0341,iFlight,Flight Controller,FC Board,F405,AIO,30x30,ArduPilot,ICM20689,No,Yes,16MB,DShot1200,JST,FPV,Racing FPV
+FC-0342,Holybro,Flight Controller,FC Board,F411,Mini FC,30x30,Betaflight,ICM42688,Yes,Yes,64MB,PWM,JST,Industrial,Industrial UAV
+FC-0343,BetaFPV,Flight Controller,FC Board,F765,Whoop FC,16x16,INAV,ICM20689,Yes,Yes,64MB,PWM,Plug,Industrial,Industrial UAV
+FC-0344,Foxeer,Flight Controller,FC Board,F722,AIO,30x30,Betaflight,MPU6000,No,Yes,64MB,PWM,Direct Solder,FPV,Freestyle FPV
+FC-0345,RushFPV,Flight Controller,FC Board,F765,Stack FC,25.5x25.5,INAV,BMI270,No,Yes,16MB,DShot600,Direct Solder,FPV,Long Range FPV
+FC-0346,SpeedyBee,Flight Controller,FC Board,F745,Whoop FC,30x30,ArduPilot,ICM42688,Yes,Yes,64MB,DShot1200,JST,FPV,Cinematic FPV
+FC-0347,Holybro,Flight Controller,FC Board,F405,AIO,30x30,ArduPilot,MPU6000,No,Yes,16MB,PWM,Plug,FPV,Racing FPV
+FC-0348,GEPRC,Flight Controller,FC Board,F745,Mini FC,16x16,ArduPilot,ICM42688,No,Yes,64MB,DShot600,JST,FPV,Freestyle FPV
+FC-0349,RushFPV,Flight Controller,FC Board,F765,AIO,16x16,ArduPilot,ICM20689,Yes,Yes,None,PWM,JST,Industrial,Industrial UAV
+FC-0350,SpeedyBee,Flight Controller,FC Board,F765,Whoop FC,20x20,ArduPilot,MPU6000,Yes,Yes,None,DShot300,Direct Solder,FPV,Cinematic FPV
+FC-0351,iFlight,Flight Controller,FC Board,H743,AIO,30x30,INAV,ICM42688,No,Yes,None,PWM,Plug,Industrial,Industrial UAV
+FC-0352,HGLRC,Flight Controller,FC Board,H743,AIO,20x20,Betaflight,ICM42688,Yes,Yes,16MB,DShot1200,Direct Solder,FPV,Long Range FPV
+FC-0353,BetaFPV,Flight Controller,FC Board,F722,Stack FC,30x30,INAV,ICM20689,Yes,Yes,None,PWM,Direct Solder,Industrial,Industrial UAV
+FC-0354,iFlight,Flight Controller,FC Board,F722,Stack FC,25.5x25.5,INAV,ICM20689,Yes,Yes,32MB,DShot300,Direct Solder,FPV,Freestyle FPV
+FC-0355,HGLRC,Flight Controller,FC Board,F411,Mini FC,20x20,Betaflight,ICM42688,No,Yes,32MB,DShot300,JST,FPV,Cinematic FPV
+FC-0356,EMAX,Flight Controller,FC Board,F745,Whoop FC,16x16,ArduPilot,ICM20689,No,Yes,16MB,DShot600,JST,FPV,Freestyle FPV
+FC-0357,RushFPV,Flight Controller,FC Board,H743,Whoop FC,16x16,INAV,ICM20689,Yes,Yes,32MB,DShot300,Plug,Industrial,Industrial UAV
+FC-0358,Holybro,Flight Controller,FC Board,F411,Mini FC,16x16,Betaflight,ICM20689,Yes,Yes,None,DShot600,Plug,Industrial,Industrial UAV
+FC-0359,HGLRC,Flight Controller,FC Board,H743,Whoop FC,25.5x25.5,Betaflight,ICM20689,Yes,Yes,None,PWM,Direct Solder,FPV,Racing FPV
+FC-0360,RushFPV,Flight Controller,FC Board,F745,Mini FC,25.5x25.5,ArduPilot,BMI270,No,Yes,32MB,DShot1200,Direct Solder,FPV,Freestyle FPV
+FC-0361,Diatone,Flight Controller,FC Board,F411,Mini FC,30x30,INAV,MPU6000,No,Yes,32MB,DShot600,Direct Solder,FPV,Long Range FPV
+FC-0362,Flywoo,Flight Controller,FC Board,H743,Mini FC,30x30,ArduPilot,BMI270,No,Yes,32MB,DShot600,Direct Solder,FPV,Cinematic FPV
+FC-0363,GEPRC,Flight Controller,FC Board,F722,Mini FC,20x20,INAV,BMI270,Yes,Yes,16MB,PWM,JST,FPV,Long Range FPV
+FC-0364,EMAX,Flight Controller,FC Board,F765,AIO,25.5x25.5,INAV,BMI270,No,Yes,16MB,PWM,JST,FPV,Freestyle FPV
+FC-0365,Matek,Flight Controller,FC Board,F745,AIO,25.5x25.5,Betaflight,MPU6000,Yes,Yes,16MB,PWM,Direct Solder,FPV,Freestyle FPV
+FC-0366,BetaFPV,Flight Controller,FC Board,F411,AIO,16x16,Betaflight,ICM20689,No,Yes,64MB,DShot300,Direct Solder,FPV,Racing FPV
+FC-0367,Flywoo,Flight Controller,FC Board,F745,Stack FC,16x16,Betaflight,ICM20689,Yes,Yes,64MB,DShot1200,JST,FPV,Freestyle FPV
+FC-0368,Diatone,Flight Controller,FC Board,F765,Mini FC,16x16,INAV,MPU6000,Yes,Yes,16MB,PWM,JST,FPV,Cinematic FPV
+FC-0369,Matek,Flight Controller,FC Board,H743,Mini FC,20x20,ArduPilot,ICM42688,Yes,Yes,32MB,DShot300,Direct Solder,FPV,Long Range FPV
+FC-0370,iFlight,Flight Controller,FC Board,F765,Whoop FC,20x20,ArduPilot,MPU6000,Yes,Yes,32MB,DShot600,Plug,FPV,Racing FPV
+FC-0371,HGLRC,Flight Controller,FC Board,F722,Mini FC,30x30,Betaflight,ICM42688,No,Yes,64MB,DShot300,Direct Solder,FPV,Cinematic FPV
+FC-0372,HGLRC,Flight Controller,FC Board,F745,Mini FC,30x30,ArduPilot,BMI270,Yes,Yes,64MB,DShot300,Direct Solder,FPV,Long Range FPV
+FC-0373,Diatone,Flight Controller,FC Board,F405,Mini FC,25.5x25.5,INAV,MPU6000,Yes,Yes,None,DShot300,Plug,FPV,Freestyle FPV
+FC-0374,GEPRC,Flight Controller,FC Board,F405,Stack FC,16x16,INAV,BMI270,No,Yes,None,DShot300,Direct Solder,FPV,Freestyle FPV
+FC-0375,Flywoo,Flight Controller,FC Board,H743,Whoop FC,30x30,Betaflight,ICM42688,Yes,Yes,None,DShot300,Plug,Industrial,Industrial UAV
+FC-0376,Foxeer,Flight Controller,FC Board,F745,Mini FC,30x30,Betaflight,BMI270,No,Yes,None,DShot1200,JST,FPV,Cinematic FPV
+FC-0377,Matek,Flight Controller,FC Board,F405,Whoop FC,30x30,Betaflight,BMI270,No,Yes,32MB,DShot300,JST,Industrial,Industrial UAV
+FC-0378,AxisFlying,Flight Controller,FC Board,F411,Mini FC,16x16,Betaflight,ICM42688,Yes,Yes,16MB,DShot600,Plug,FPV,Cinematic FPV
+FC-0379,Flywoo,Flight Controller,FC Board,F722,Mini FC,16x16,Betaflight,ICM42688,Yes,Yes,64MB,PWM,Direct Solder,FPV,Long Range FPV
+FC-0380,Flywoo,Flight Controller,FC Board,H743,Whoop FC,30x30,INAV,MPU6000,Yes,Yes,32MB,DShot300,JST,FPV,Freestyle FPV

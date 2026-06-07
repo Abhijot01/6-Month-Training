@@ -1,0 +1,76 @@
+[
+  {
+    "id": "esc",
+    "keywords": ["esc", "what is esc", "electronic speed controller"],
+    "response": {
+      "type": "hybrid",
+      "short": "ESC (Electronic Speed Controller) controls motor speed.",
+      "detailed": "An ESC regulates power from the battery to the motors, controlling their speed based on signals from the flight controller.",
+      "bullets": [
+        "Converts battery DC power into motor signals",
+        "Controls motor speed and direction",
+        "Must match motor current rating",
+        "Common types: 4-in-1 ESC, single ESC"
+      ]
+    }
+  },
+  {
+    "id": "propeller",
+    "keywords": ["prop", "propeller", "what is prop"],
+    "response": {
+      "type": "hybrid",
+      "short": "Propellers generate thrust for the drone.",
+      "detailed": "Propellers convert motor rotation into thrust, allowing the drone to lift and move.",
+      "bullets": [
+        "Larger props → more thrust",
+        "Higher pitch → more speed",
+        "Must match motor KV",
+        "Affects efficiency and flight time"
+      ]
+    }
+  },
+  {
+    "id": "kv",
+    "keywords": ["kv", "kv rating", "motor kv"],
+    "response": {
+      "type": "hybrid",
+      "short": "KV defines motor speed per volt.",
+      "detailed": "KV rating indicates how fast a motor spins per volt without load.",
+      "bullets": [
+        "High KV → high speed, low torque",
+        "Low KV → low speed, high torque",
+        "Important for prop matching"
+      ]
+    }
+  },
+  {
+    "id": "battery",
+    "keywords": ["battery", "lipo battery"],
+    "response": {
+      "type": "hybrid",
+      "short": "Battery supplies power to the drone.",
+      "detailed": "Drone batteries (usually LiPo) determine power, flight time, and performance.",
+      "bullets": [
+        "Higher S (cells) → higher voltage",
+        "mAh → flight time",
+        "C rating → discharge capability"
+      ]
+    }
+  },
+  {
+    "id": "vibration",
+    "keywords": ["vibration", "vibrating", "shaking"],
+    "response": {
+      "type": "hybrid",
+      "short": "Drone vibration is usually caused by mechanical or tuning issues.",
+      "detailed": "Unstable flight often comes from imbalance or improper tuning.",
+      "bullets": [
+        "Check damaged propellers",
+        "Check motor alignment",
+        "Tighten frame screws",
+        "Tune PID values",
+        "Check flight controller mounting"
+      ]
+    }
+  }
+]

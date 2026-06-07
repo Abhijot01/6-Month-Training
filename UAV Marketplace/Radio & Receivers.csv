@@ -1,0 +1,298 @@
+RadioID,Brand,Category,SubCategory,DeviceType,Protocol,FrequencyBand,ChannelCount,TelemetrySupport,AntennaType,ConnectorType,PowerOutput_mW,SupportedDroneType,IntendedUse
+RAD-0001,Radiomaster,Radios & Receivers,Radio Transmitter,Handheld TX,ELRS,2.4GHz,16,Yes,External SMA,USB-C,1000,FPV,Freestyle
+RAD-0002,Radiomaster,Radios & Receivers,Radio Transmitter,Handheld TX,ELRS,900MHz,16,Yes,External SMA,USB-C,1000,FPV,Long Range
+RAD-0003,Radiomaster,Radios & Receivers,Radio Transmitter,Handheld TX,Multi-Protocol,2.4GHz,16,Yes,External SMA,USB-C,100,FPV,General FPV
+RAD-0004,FrSky,Radios & Receivers,Radio Transmitter,Handheld TX,ACCESS,2.4GHz,24,Yes,External SMA,USB,100,FPV / Fixed Wing,General RC
+RAD-0005,FrSky,Radios & Receivers,Radio Transmitter,Handheld TX,ACCST,2.4GHz,16,Yes,External SMA,USB,100,FPV,Legacy RC
+RAD-0006,TBS,Radios & Receivers,Radio Transmitter,Handheld TX,Crossfire,900MHz,12,Yes,External SMA,USB-C,2000,FPV,Long Range
+RAD-0007,TBS,Radios & Receivers,Radio Transmitter,Handheld TX,Tracer,2.4GHz,12,Yes,External SMA,USB-C,1000,FPV,Low Latency
+RAD-0008,Jumper,Radios & Receivers,Radio Transmitter,Handheld TX,Multi-Protocol,2.4GHz,16,Yes,External SMA,USB-C,150,FPV,General FPV
+RAD-0009,FlySky,Radios & Receivers,Radio Transmitter,Handheld TX,AFHDS 2A,2.4GHz,10,Yes,External SMA,USB,100,FPV / Fixed Wing,Beginner RC
+RAD-0010,FlySky,Radios & Receivers,Radio Transmitter,Handheld TX,AFHDS 3,2.4GHz,18,Yes,External SMA,USB-C,100,FPV / Fixed Wing,General RC
+RAD-0011,Radiomaster,Radios & Receivers,Radio Transmitter,Gamepad TX,ELRS,2.4GHz,16,Yes,Internal Antenna,USB-C,250,FPV,Portable FPV
+RAD-0012,Radiomaster,Radios & Receivers,Radio Transmitter,Gamepad TX,ELRS,900MHz,16,Yes,External SMA,USB-C,1000,FPV,Long Range
+RAD-0013,TBS,Radios & Receivers,Radio Transmitter,Module TX,Crossfire,900MHz,12,Yes,External SMA,JR Bay,2000,FPV,Long Range
+RAD-0014,TBS,Radios & Receivers,Radio Transmitter,Module TX,Tracer,2.4GHz,12,Yes,External SMA,JR Bay,1000,FPV,Racing
+RAD-0015,Happymodel,Radios & Receivers,Radio Transmitter,Module TX,ELRS,2.4GHz,16,Yes,External SMA,JR Bay,1000,FPV,Open Source FPV
+RAD-0016,Radiomaster,Radios & Receivers,Radio Receiver,Micro RX,ELRS,2.4GHz,16,Yes,External IPEX,U.FL,1000,FPV,Freestyle
+RAD-0017,Radiomaster,Radios & Receivers,Radio Receiver,Micro RX,ELRS,900MHz,16,Yes,External IPEX,U.FL,1000,FPV,Long Range
+RAD-0018,Happymodel,Radios & Receivers,Radio Receiver,Micro RX,ELRS,2.4GHz,16,Yes,PCB Antenna,Solder Pad,500,FPV,Micro FPV
+RAD-0019,Happymodel,Radios & Receivers,Radio Receiver,Micro RX,ELRS,900MHz,16,Yes,External IPEX,U.FL,1000,FPV,Long Range
+RAD-0020,BetaFPV,Radios & Receivers,Radio Receiver,Micro RX,ELRS,2.4GHz,16,Yes,PCB Antenna,Solder Pad,500,FPV,Whoop FPV
+RAD-0021,TBS,Radios & Receivers,Radio Receiver,Standard RX,Crossfire,900MHz,12,Yes,External SMA,U.FL,2000,FPV,Long Range
+RAD-0022,TBS,Radios & Receivers,Radio Receiver,Micro RX,Crossfire,900MHz,12,Yes,External IPEX,U.FL,2000,FPV,Long Range
+RAD-0023,TBS,Radios & Receivers,Radio Receiver,Standard RX,Tracer,2.4GHz,12,Yes,External IPEX,U.FL,1000,FPV,Racing
+RAD-0024,FrSky,Radios & Receivers,Radio Receiver,Standard RX,ACCESS,2.4GHz,24,Yes,External SMA,S.Port,100,FPV / Fixed Wing,General RC
+RAD-0025,FrSky,Radios & Receivers,Radio Receiver,Standard RX,ACCST,2.4GHz,16,Yes,External SMA,S.Port,100,FPV,Legacy RC
+RAD-0026,FlySky,Radios & Receivers,Radio Receiver,Standard RX,AFHDS 2A,2.4GHz,10,Yes,External SMA,IBUS,100,FPV / Fixed Wing,Beginner RC
+RAD-0027,FlySky,Radios & Receivers,Radio Receiver,Standard RX,AFHDS 3,2.4GHz,18,Yes,External SMA,IBUS,100,FPV / Fixed Wing,Modern RC
+RAD-0028,Spektrum,Radios & Receivers,Radio Receiver,Standard RX,DSMX,2.4GHz,12,Yes,External SMA,SRXL,100,Fixed Wing,RC Aircraft
+RAD-0029,Spektrum,Radios & Receivers,Radio Receiver,Micro RX,DSMX,2.4GHz,6,Yes,PCB Antenna,Solder Pad,100,FPV,Micro FPV
+RAD-0030,Spektrum,Radios & Receivers,Radio Transmitter,Handheld TX,DSMX,2.4GHz,20,Yes,External SMA,USB,100,Fixed Wing,RC Aircraft
+RAD-0031,Skydroid,Radios & Receivers,Industrial Radio,Ground Station TX,Proprietary,900MHz,16,Yes,Directional Antenna,Ethernet,1000,Industrial,Industrial UAV
+RAD-0032,Skydroid,Radios & Receivers,Industrial Radio,Air Unit RX,Proprietary,900MHz,16,Yes,External SMA,Ethernet,1000,Industrial,Industrial UAV
+RAD-0033,Skydroid,Radios & Receivers,Industrial Radio,Ground Station TX,Proprietary,2.4GHz,16,Yes,Directional Antenna,Ethernet,1000,Industrial,Survey UAV
+RAD-0034,Skydroid,Radios & Receivers,Industrial Radio,Air Unit RX,Proprietary,2.4GHz,16,Yes,External SMA,Ethernet,1000,Industrial,Survey UAV
+RAD-0035,Herelink,Radios & Receivers,Industrial Radio,Integrated TX,RFD900x,900MHz,16,Yes,Integrated Antenna,Ethernet,1000,Industrial,Mapping UAV
+RAD-0036,Herelink,Radios & Receivers,Industrial Radio,Air Unit RX,RFD900x,900MHz,16,Yes,External SMA,Ethernet,1000,Industrial,Mapping UAV
+RAD-0037,SiYi,Radios & Receivers,Industrial Radio,Ground Station TX,Proprietary,2.4GHz,16,Yes,Directional Antenna,Ethernet,1000,Industrial,Industrial UAV
+RAD-0038,SiYi,Radios & Receivers,Industrial Radio,Air Unit RX,Proprietary,2.4GHz,16,Yes,External SMA,Ethernet,1000,Industrial,Industrial UAV
+RAD-0039,RFD,Radios & Receivers,Telemetry Radio,Telemetry TX,RFD900x,900MHz,UART,Yes,External SMA,UART,1000,Industrial,Telemetry Link
+RAD-0040,RFD,Radios & Receivers,Telemetry Radio,Telemetry RX,RFD900x,900MHz,UART,Yes,External SMA,UART,1000,Industrial,Telemetry Link
+RAD-0041,Holybro,Radios & Receivers,Telemetry Radio,Telemetry TX,SiK,915MHz,UART,Yes,External SMA,UART,100,Industrial,Telemetry UAV
+RAD-0042,Holybro,Radios & Receivers,Telemetry Radio,Telemetry RX,SiK,915MHz,UART,Yes,External SMA,UART,100,Industrial,Telemetry UAV
+RAD-0043,3DR,Radios & Receivers,Telemetry Radio,Telemetry TX,SiK,915MHz,UART,Yes,External SMA,UART,100,Industrial,Legacy Telemetry
+RAD-0044,3DR,Radios & Receivers,Telemetry Radio,Telemetry RX,SiK,915MHz,UART,Yes,External SMA,UART,100,Industrial,Legacy Telemetry
+RAD-0045,Custom,Radios & Receivers,Telemetry Radio,Mesh Radio,Custom Mesh,900MHz,Mesh,Yes,External SMA,Ethernet,1000,Industrial,Swarm UAV
+RAD-0046,Custom,Radios & Receivers,Industrial Radio,Secure Radio,Encrypted,900MHz,16,Yes,Directional Antenna,Ethernet,2000,Industrial,Defense UAV
+RAD-0047,Custom,Radios & Receivers,Industrial Radio,Secure Radio,Encrypted,2.4GHz,16,Yes,Directional Antenna,Ethernet,1000,Industrial,Defense UAV
+RAD-0048,Custom,Radios & Receivers,Radio Receiver,Redundant RX,Custom,2.4GHz,Redundant,Yes,Dual Antenna,Custom,100,Industrial,Critical UAV
+RAD-0049,Custom,Radios & Receivers,Radio Receiver,Payload RX,Custom,915MHz,8,Yes,External SMA,RS485,100,Industrial,Payload Control
+RAD-0050,Custom,Radios & Receivers,Radio Transmitter,Training TX,Custom,2.4GHz,8,Yes,Internal Antenna,USB,100,Industrial,Training UAV
+RAD-0051,Custom,Radios & Receivers,Radio Receiver,Simulator RX,USB,USB,Virtual,Yes,Virtual,USB,0,Industrial,SITL/HITL
+RAD-0052,Custom,Radios & Receivers,Radio Transmitter,Swarm Master TX,Custom,900MHz,Mesh,Yes,Directional Antenna,Ethernet,2000,Industrial,Swarm UAV
+RAD-0053,Radiomaster,Radios & Receivers,Radio Receiver,Diversity RX,ELRS,2.4GHz,16,Yes,Dual IPEX,U.FL,1000,FPV,Freestyle
+RAD-0054,Radiomaster,Radios & Receivers,Radio Receiver,Diversity RX,ELRS,900MHz,16,Yes,Dual IPEX,U.FL,1000,FPV,Long Range
+RAD-0055,Happymodel,Radios & Receivers,Radio Receiver,Nano RX,ELRS,2.4GHz,16,Yes,PCB Antenna,Solder Pad,250,FPV,Tinywhoop
+RAD-0056,Happymodel,Radios & Receivers,Radio Receiver,Nano RX,ELRS,900MHz,16,Yes,External IPEX,U.FL,500,FPV,Micro Long Range
+RAD-0057,TBS,Radios & Receivers,Radio Receiver,Diversity RX,Crossfire,900MHz,12,Yes,Dual SMA,U.FL,2000,FPV,Extreme Long Range
+RAD-0058,TBS,Radios & Receivers,Radio Receiver,Nano RX,Crossfire,900MHz,12,Yes,External IPEX,U.FL,2000,FPV,Micro Long Range
+RAD-0059,TBS,Radios & Receivers,Radio Receiver,Diversity RX,Tracer,2.4GHz,12,Yes,Dual IPEX,U.FL,1000,FPV,Racing
+RAD-0060,FrSky,Radios & Receivers,Radio Receiver,Diversity RX,ACCESS,2.4GHz,24,Yes,Dual SMA,S.Port,100,FPV / Fixed Wing,General RC
+RAD-0061,FrSky,Radios & Receivers,Radio Receiver,Nano RX,ACCESS,2.4GHz,16,Yes,External IPEX,U.FL,100,FPV,Micro FPV
+RAD-0062,FrSky,Radios & Receivers,Radio Receiver,Telemetry RX,ACCESS,2.4GHz,16,Yes,External SMA,S.Port,100,Fixed Wing,Telemetry Aircraft
+RAD-0063,FlySky,Radios & Receivers,Radio Receiver,Diversity RX,AFHDS 2A,2.4GHz,14,Yes,Dual SMA,IBUS,100,FPV / Fixed Wing,General RC
+RAD-0064,FlySky,Radios & Receivers,Radio Receiver,Micro RX,AFHDS 2A,2.4GHz,6,Yes,PCB Antenna,Solder Pad,100,FPV,Micro FPV
+RAD-0065,FlySky,Radios & Receivers,Radio Receiver,Telemetry RX,AFHDS 3,2.4GHz,18,Yes,External SMA,IBUS,100,Industrial,Telemetry UAV
+RAD-0066,Spektrum,Radios & Receivers,Radio Receiver,Diversity RX,DSMX,2.4GHz,12,Yes,Dual SMA,SRXL,100,Fixed Wing,RC Aircraft
+RAD-0067,Spektrum,Radios & Receivers,Radio Receiver,Telemetry RX,DSMX,2.4GHz,12,Yes,External SMA,SRXL,100,Fixed Wing,Telemetry Plane
+RAD-0068,Spektrum,Radios & Receivers,Radio Receiver,Nano RX,DSMX,2.4GHz,6,Yes,PCB Antenna,Solder Pad,100,FPV,Micro FPV
+RAD-0069,Radiomaster,Radios & Receivers,Radio Transmitter,Module TX,ELRS,2.4GHz,16,Yes,External SMA,JR Bay,1000,FPV,High Power ELRS
+RAD-0070,Radiomaster,Radios & Receivers,Radio Transmitter,Module TX,ELRS,900MHz,16,Yes,External SMA,JR Bay,2000,FPV,Extreme Long Range
+RAD-0071,Skydroid,Radios & Receivers,Industrial Radio,Handheld TX,Proprietary,900MHz,16,Yes,Directional Antenna,Ethernet,2000,Industrial,Survey UAV
+RAD-0072,Skydroid,Radios & Receivers,Industrial Radio,Handheld TX,Proprietary,2.4GHz,16,Yes,Directional Antenna,Ethernet,1000,Industrial,Inspection UAV
+RAD-0073,SiYi,Radios & Receivers,Industrial Radio,Ground Station TX,Proprietary,900MHz,16,Yes,Directional Antenna,Ethernet,2000,Industrial,Long Range UAV
+RAD-0074,SiYi,Radios & Receivers,Industrial Radio,Air Unit RX,Proprietary,900MHz,16,Yes,External SMA,Ethernet,2000,Industrial,Long Range UAV
+RAD-0075,Herelink,Radios & Receivers,Industrial Radio,Integrated TX,Digital,2.4GHz,16,Yes,Integrated Antenna,Ethernet,1000,Industrial,Enterprise UAV
+RAD-0076,Herelink,Radios & Receivers,Industrial Radio,Air Unit RX,Digital,2.4GHz,16,Yes,External SMA,Ethernet,1000,Industrial,Enterprise UAV
+RAD-0077,Microhard,Radios & Receivers,Industrial Radio,IP Radio,Proprietary,900MHz,IP,Yes,External SMA,Ethernet,1000,Industrial,Long Range UAV
+RAD-0078,Microhard,Radios & Receivers,Industrial Radio,IP Radio,Proprietary,2.4GHz,IP,Yes,External SMA,Ethernet,1000,Industrial,High Bandwidth UAV
+RAD-0079,FreeWave,Radios & Receivers,Industrial Radio,IP Radio,Proprietary,900MHz,IP,Yes,External SMA,Ethernet,1000,Industrial,Telemetry & C2
+RAD-0080,FreeWave,Radios & Receivers,Industrial Radio,IP Radio,Proprietary,2.4GHz,IP,Yes,External SMA,Ethernet,1000,Industrial,Industrial UAV
+RAD-0081,Custom,Radios & Receivers,Industrial Radio,CAN Radio,CAN,915MHz,CAN,Yes,External SMA,CAN,100,Industrial,Pixhawk UAV
+RAD-0082,Custom,Radios & Receivers,Industrial Radio,CAN Radio,CAN,2.4GHz,CAN,Yes,External SMA,CAN,100,Industrial,CAN UAV
+RAD-0083,Custom,Radios & Receivers,Industrial Radio,LTE C2 Modem,LTE,Cellular,IP,Yes,Internal Antenna,SIM,200,Industrial,BVLOS UAV
+RAD-0084,Custom,Radios & Receivers,Industrial Radio,5G C2 Modem,5G,Cellular,IP,Yes,Internal Antenna,SIM,500,Industrial,BVLOS UAV
+RAD-0085,Custom,Radios & Receivers,Telemetry Radio,Long Range Telemetry,LoRa,433MHz,UART,Yes,External SMA,UART,100,Industrial,Telemetry UAV
+RAD-0086,Custom,Radios & Receivers,Telemetry Radio,Long Range Telemetry,LoRa,915MHz,UART,Yes,External SMA,UART,100,Industrial,Telemetry UAV
+RAD-0087,Custom,Radios & Receivers,Radio Receiver,Redundant RX Pair,Custom,2.4GHz,Redundant,Yes,Dual Antenna,Custom,100,Industrial,Critical UAV
+RAD-0088,Custom,Radios & Receivers,Radio Receiver,Failover RX,Custom,900MHz,8,Yes,External SMA,Custom,100,Industrial,Fail-safe UAV
+RAD-0089,Custom,Radios & Receivers,Radio Transmitter,VTOL TX,Custom,900MHz,12,Yes,External SMA,Custom,1000,Industrial,VTOL UAV
+RAD-0090,Custom,Radios & Receivers,Radio Receiver,VTOL RX,Custom,900MHz,12,Yes,External SMA,Custom,1000,Industrial,VTOL UAV
+RAD-0091,Custom,Radios & Receivers,Industrial Radio,Agriculture Radio,Proprietary,900MHz,16,Yes,Directional Antenna,Ethernet,2000,Industrial,Agriculture UAV
+RAD-0092,Custom,Radios & Receivers,Industrial Radio,Agriculture Air RX,Proprietary,900MHz,16,Yes,External SMA,Ethernet,2000,Industrial,Agriculture UAV
+RAD-0093,Custom,Radios & Receivers,Industrial Radio,Marine Radio,Proprietary,900MHz,12,Yes,External SMA,Ethernet,1000,Industrial,Marine UAV
+RAD-0094,Custom,Radios & Receivers,Industrial Radio,Marine Air RX,Proprietary,900MHz,12,Yes,External SMA,Ethernet,1000,Industrial,Marine UAV
+RAD-0095,Custom,Radios & Receivers,Industrial Radio,Encrypted Radio,Encrypted,900MHz,16,Yes,Directional Antenna,Ethernet,3000,Industrial,Defense UAV
+RAD-0096,Custom,Radios & Receivers,Industrial Radio,Encrypted Radio,Encrypted,2.4GHz,16,Yes,Directional Antenna,Ethernet,2000,Industrial,Defense UAV
+RAD-0097,Custom,Radios & Receivers,Industrial Radio,Relay Node,Mesh,900MHz,Mesh,Yes,External SMA,Ethernet,1000,Industrial,Relay UAV
+RAD-0098,Custom,Radios & Receivers,Industrial Radio,Repeater Node,Mesh,2.4GHz,Mesh,Yes,External SMA,Ethernet,1000,Industrial,Repeater UAV
+RAD-0099,Custom,Radios & Receivers,Radio Transmitter,Simulator TX,USB,USB,Virtual,Yes,Virtual,USB,0,Industrial,SITL/HITL
+RAD-0100,Custom,Radios & Receivers,Radio Receiver,Simulator RX,USB,USB,Virtual,Yes,Virtual,USB,0,Industrial,SITL/HITL
+RAD-0101,Radiomaster,Radios & Receivers,Radio Receiver,Dual-Band RX,ELRS,2.4GHz + 900MHz,16,Yes,Dual IPEX,U.FL,1000,FPV,Redundancy FPV
+RAD-0102,Happymodel,Radios & Receivers,Radio Receiver,Dual-Band RX,ELRS,2.4GHz + 900MHz,16,Yes,Dual IPEX,U.FL,500,FPV,Long Range FPV
+RAD-0103,TBS,Radios & Receivers,Radio Receiver,Long Range RX,Crossfire,868MHz,12,Yes,External SMA,U.FL,2000,FPV,EU Long Range
+RAD-0104,Radiomaster,Radios & Receivers,Radio Receiver,Long Range RX,ELRS,868MHz,16,Yes,External IPEX,U.FL,1000,FPV,EU Long Range
+RAD-0105,FrSky,Radios & Receivers,Radio Receiver,Long Range RX,ACCESS,868MHz,16,Yes,External SMA,S.Port,100,Fixed Wing,EU Fixed Wing
+RAD-0106,FlySky,Radios & Receivers,Radio Receiver,Long Range RX,AFHDS-LR,915MHz,10,Yes,External SMA,IBUS,100,Industrial,Long Range RC
+RAD-0107,TBS,Radios & Receivers,Radio Transmitter,Beltpack TX,Crossfire,900MHz,12,Yes,External SMA,USB-C,2000,FPV,Professional FPV
+RAD-0108,Custom,Radios & Receivers,Radio Transmitter,Backpack TX,Custom,900MHz,16,Yes,Directional Antenna,Ethernet,5000,Industrial,BVLOS UAV
+RAD-0109,Skydroid,Radios & Receivers,Industrial Radio,Backpack GCS,Proprietary,900MHz,16,Yes,Directional Antenna,Ethernet,3000,Industrial,Mapping UAV
+RAD-0110,SiYi,Radios & Receivers,Industrial Radio,Backpack GCS,Proprietary,2.4GHz,16,Yes,Directional Antenna,Ethernet,2000,Industrial,Inspection UAV
+RAD-0111,RFD,Radios & Receivers,Telemetry Radio,High Power Telemetry,RFD900x,900MHz,UART,Yes,External SMA,UART,2000,Industrial,Extended Telemetry
+RAD-0112,Custom,Radios & Receivers,Telemetry Radio,Redundant Telemetry,Custom,900MHz,UART,Yes,Dual SMA,UART,1000,Industrial,Critical Telemetry
+RAD-0113,Custom,Radios & Receivers,Industrial Radio,GNSS-Assisted RC,Custom,900MHz,16,Yes,External SMA,CAN,1000,Industrial,BVLOS UAV
+RAD-0114,Custom,Radios & Receivers,Industrial Radio,Time-Sync Radio,Custom,2.4GHz,IP,Yes,External SMA,Ethernet,1000,Industrial,Swarm UAV
+RAD-0115,Custom,Radios & Receivers,Industrial Radio,Relay Payload,Mesh,900MHz,Mesh,Yes,External SMA,Ethernet,1000,Industrial,Relay Drone
+RAD-0116,Custom,Radios & Receivers,Industrial Radio,Repeater Payload,Mesh,2.4GHz,Mesh,Yes,External SMA,Ethernet,1000,Industrial,Repeater Drone
+RAD-0117,Custom,Radios & Receivers,Radio Receiver,Payload RX,CAN,Custom,8,Yes,External SMA,CAN,100,Industrial,Payload UAV
+RAD-0118,Custom,Radios & Receivers,Radio Receiver,Gimbal RX,Custom,2.4GHz,6,Yes,External SMA,UART,100,Industrial,Gimbal Control
+RAD-0119,Custom,Radios & Receivers,Industrial Radio,Inspection Radio,Proprietary,900MHz,16,Yes,Directional Antenna,Ethernet,2000,Industrial,Powerline UAV
+RAD-0120,Custom,Radios & Receivers,Industrial Radio,Pipeline Radio,Proprietary,900MHz,16,Yes,Directional Antenna,Ethernet,2000,Industrial,Pipeline UAV
+RAD-0121,Custom,Radios & Receivers,Industrial Radio,Rail Radio,Proprietary,900MHz,12,Yes,External SMA,Ethernet,1000,Industrial,Rail UAV
+RAD-0122,Custom,Radios & Receivers,Industrial Radio,Tunnel Radio,Proprietary,433MHz,8,Yes,External SMA,Ethernet,500,Industrial,Tunnel UAV
+RAD-0123,Custom,Radios & Receivers,Industrial Radio,Underground Radio,LoRa,433MHz,UART,Yes,External SMA,UART,100,Industrial,Subsurface UAV
+RAD-0124,Custom,Radios & Receivers,Industrial Radio,High Penetration Radio,Custom,433MHz,8,Yes,External SMA,Ethernet,500,Industrial,Confined Space UAV
+RAD-0125,Custom,Radios & Receivers,Industrial Radio,Redundant C2 Pair,Custom,900MHz,Redundant,Yes,Dual SMA,Ethernet,2000,Industrial,Critical UAV
+RAD-0126,Custom,Radios & Receivers,Industrial Radio,Fail-Silent Radio,Custom,900MHz,12,Yes,External SMA,Ethernet,1000,Industrial,Certified UAV
+RAD-0127,Custom,Radios & Receivers,Radio Transmitter,Instructor TX,Custom,2.4GHz,8,Yes,External SMA,USB,100,Industrial,Training UAV
+RAD-0128,Custom,Radios & Receivers,Radio Receiver,Student RX,Custom,2.4GHz,8,Yes,External SMA,UART,100,Industrial,Training UAV
+RAD-0129,Custom,Radios & Receivers,Industrial Radio,Defense C2 Radio,Encrypted,900MHz,16,Yes,Directional Antenna,Ethernet,5000,Industrial,Defense UAV
+RAD-0130,Custom,Radios & Receivers,Industrial Radio,Anti-Jam Radio,Encrypted,900MHz,16,Yes,Directional Antenna,Ethernet,4000,Industrial,Defense UAV
+RAD-0131,Custom,Radios & Receivers,Industrial Radio,Satellite C2 Modem,Satcom,Satellite,IP,Yes,Integrated Antenna,Ethernet,50,Industrial,BLOS UAV
+RAD-0132,Custom,Radios & Receivers,Industrial Radio,Hybrid C2 Modem,Satcom + LTE,Hybrid,IP,Yes,Integrated Antenna,SIM/Ethernet,200,Industrial,BVLOS UAV
+RAD-0133,Custom,Radios & Receivers,Industrial Radio,Edge Compute Radio,Custom,2.4GHz,IP,Yes,External SMA,Ethernet,1000,Industrial,AI UAV
+RAD-0134,Custom,Radios & Receivers,Industrial Radio,Time-Division C2,Custom,900MHz,16,Yes,External SMA,Ethernet,1000,Industrial,Swarm UAV
+RAD-0135,Custom,Radios & Receivers,Radio Receiver,Research RX,Custom,Selectable,Variable,Yes,External SMA,Custom,100,Industrial,Research UAV
+RAD-0136,Custom,Radios & Receivers,Radio Transmitter,Research TX,Custom,Selectable,Variable,Yes,External SMA,Custom,1000,Industrial,Research UAV
+RAD-0137,Custom,Radios & Receivers,Radio Receiver,Certification RX,Custom,2.4GHz,8,Yes,External SMA,Custom,100,Industrial,Certified UAV
+RAD-0138,Radiomaster,Radio & Receivers,RC Control System,Receiver,ACCESS,2.4GHz,16,Yes,Internal,RP-SMA,100,Multirotor,Trainer RC
+RAD-0139,FrSky,Radio & Receivers,RC Control System,ELRS Receiver,ACCESS,2.4GHz,6,Yes,Internal,RP-SMA,100,FPV,Long Range FPV
+RAD-0140,ImmersionRC,Radio & Receivers,RC Control System,ELRS Receiver,DSMX,900MHz,12,Yes,Dual Diversity,U.FL,1000,Fixed Wing,Fixed Wing
+RAD-0141,FrSky,Radio & Receivers,RC Control System,Radio Transmitter,ACCST,868MHz,16,Yes,Internal,Ipex,500,FPV,General FPV
+RAD-0142,FlySky,Radio & Receivers,RC Control System,ELRS Receiver,DSM2,868MHz,12,No,External,Ipex,250,FPV,General FPV
+RAD-0143,Radiomaster,Radio & Receivers,RC Control System,Radio Transmitter,ACCESS,868MHz,10,No,Dual Diversity,Ipex,25,Fixed Wing,Fixed Wing
+RAD-0144,ImmersionRC,Radio & Receivers,RC Control System,ELRS Receiver,DSM2,2.4GHz,6,Yes,Dual Diversity,U.FL,1000,Multirotor,Trainer RC
+RAD-0145,Walksnail,Radio & Receivers,RC Control System,Radio Transmitter,ELRS,2.4GHz,10,No,Internal,SMA,250,Multirotor,Trainer RC
+RAD-0146,FrSky,Radio & Receivers,RC Control System,Receiver,CRSF,2.4GHz,24,No,Internal,SMA,100,FPV,General FPV
+RAD-0147,BetaFPV,Radio & Receivers,RC Control System,Receiver,ACCST,868MHz,6,Yes,Internal,RP-SMA,250,Multirotor,Trainer RC
+RAD-0148,BetaFPV,Radio & Receivers,RC Control System,ELRS Receiver,ACCST,868MHz,16,No,External,RP-SMA,25,FPV,Racing
+RAD-0149,Walksnail,Radio & Receivers,RC Control System,ELRS Receiver,DSMX,2.4GHz,24,Yes,Internal,RP-SMA,1000,Industrial,Industrial UAV
+RAD-0150,Foxeer,Radio & Receivers,RC Control System,Long Range Receiver,SBUS,2.4GHz,12,No,Internal,Ipex,1000,FPV,Racing
+RAD-0151,Happymodel,Radio & Receivers,RC Control System,Long Range Receiver,DSM2,2.4GHz,24,No,Internal,RP-SMA,100,FPV,General FPV
+RAD-0152,Walksnail,Radio & Receivers,RC Control System,Receiver,ACCST,900MHz,16,No,External,U.FL,100,FPV,General FPV
+RAD-0153,FlySky,Radio & Receivers,RC Control System,Radio Transmitter,SBUS,868MHz,16,No,Internal,U.FL,500,FPV,Racing
+RAD-0154,FrSky,Radio & Receivers,RC Control System,Receiver,ACCST,900MHz,12,Yes,Internal,SMA,250,FPV,Freestyle FPV
+RAD-0155,Happymodel,Radio & Receivers,RC Control System,Receiver,SBUS,2.4GHz,10,No,External,SMA,100,Fixed Wing,Fixed Wing
+RAD-0156,Spektrum,Radio & Receivers,RC Control System,ELRS Receiver,ELRS,900MHz,16,Yes,Dual Diversity,U.FL,25,Fixed Wing,Fixed Wing
+RAD-0157,TBS,Radio & Receivers,RC Control System,Receiver,CRSF,900MHz,24,No,Internal,Ipex,1000,Industrial,Industrial UAV
+RAD-0158,Spektrum,Radio & Receivers,RC Control System,Long Range Receiver,ACCESS,868MHz,8,No,Internal,Ipex,25,Multirotor,Trainer RC
+RAD-0159,Happymodel,Radio & Receivers,RC Control System,Long Range Receiver,ELRS,900MHz,8,Yes,External,Ipex,100,FPV,Freestyle FPV
+RAD-0160,Happymodel,Radio & Receivers,RC Control System,Radio Transmitter,DSMX,2.4GHz,10,Yes,Internal,U.FL,1000,Industrial,Industrial UAV
+RAD-0161,BetaFPV,Radio & Receivers,RC Control System,Long Range Receiver,ACCST,900MHz,16,No,Internal,U.FL,250,Multirotor,Trainer RC
+RAD-0162,Happymodel,Radio & Receivers,RC Control System,ELRS Receiver,ELRS,2.4GHz,16,No,External,Ipex,500,FPV,Freestyle FPV
+RAD-0163,FrSky,Radio & Receivers,RC Control System,Receiver,CRSF,900MHz,12,Yes,External,Ipex,25,FPV,Freestyle FPV
+RAD-0164,Radiomaster,Radio & Receivers,RC Control System,Receiver,ACCST,868MHz,8,Yes,External,RP-SMA,100,FPV,General FPV
+RAD-0165,BetaFPV,Radio & Receivers,RC Control System,Long Range Receiver,ELRS,2.4GHz,8,No,Dual Diversity,RP-SMA,250,FPV,General FPV
+RAD-0166,Jumper,Radio & Receivers,RC Control System,Radio Transmitter,ELRS,2.4GHz,12,Yes,External,U.FL,1000,FPV,Long Range FPV
+RAD-0167,Spektrum,Radio & Receivers,RC Control System,Receiver,DSM2,2.4GHz,10,No,Dual Diversity,SMA,500,Fixed Wing,Fixed Wing
+RAD-0168,BetaFPV,Radio & Receivers,RC Control System,ELRS Receiver,ACCST,2.4GHz,12,Yes,Internal,Ipex,500,FPV,Racing
+RAD-0169,FrSky,Radio & Receivers,RC Control System,ELRS Receiver,ACCESS,2.4GHz,16,No,Dual Diversity,SMA,25,FPV,Racing
+RAD-0170,Radiomaster,Radio & Receivers,RC Control System,ELRS Receiver,ACCST,2.4GHz,6,No,Internal,Ipex,100,FPV,Long Range FPV
+RAD-0171,Radiomaster,Radio & Receivers,RC Control System,Receiver,DSMX,900MHz,12,No,Internal,Ipex,25,FPV,Racing
+RAD-0172,FlySky,Radio & Receivers,RC Control System,Receiver,ACCESS,2.4GHz,12,No,Dual Diversity,RP-SMA,250,FPV,Racing
+RAD-0173,Foxeer,Radio & Receivers,RC Control System,Receiver,AFHDS 2A,868MHz,6,No,Internal,RP-SMA,100,FPV,Long Range FPV
+RAD-0174,Walksnail,Radio & Receivers,RC Control System,Radio Transmitter,ELRS,868MHz,24,No,Internal,SMA,25,FPV,General FPV
+RAD-0175,Jumper,Radio & Receivers,RC Control System,Radio Transmitter,DSMX,900MHz,10,Yes,Internal,RP-SMA,250,FPV,Racing
+RAD-0176,Happymodel,Radio & Receivers,RC Control System,ELRS Receiver,ELRS,2.4GHz,24,Yes,External,SMA,25,Fixed Wing,Fixed Wing
+RAD-0177,Futaba,Radio & Receivers,RC Control System,Long Range Receiver,AFHDS 2A,900MHz,16,Yes,External,SMA,100,FPV,Long Range FPV
+RAD-0178,Happymodel,Radio & Receivers,RC Control System,Receiver,CRSF,900MHz,24,No,External,Ipex,25,FPV,General FPV
+RAD-0179,Foxeer,Radio & Receivers,RC Control System,Radio Transmitter,CRSF,868MHz,10,Yes,Internal,Ipex,250,FPV,General FPV
+RAD-0180,FlySky,Radio & Receivers,RC Control System,ELRS Receiver,ELRS,900MHz,12,Yes,Internal,U.FL,250,Industrial,Industrial UAV
+RAD-0181,Futaba,Radio & Receivers,RC Control System,Radio Transmitter,ACCESS,2.4GHz,6,No,Internal,U.FL,100,Industrial,Industrial UAV
+RAD-0182,FlySky,Radio & Receivers,RC Control System,ELRS Receiver,AFHDS 2A,868MHz,24,No,Internal,Ipex,250,FPV,Freestyle FPV
+RAD-0183,FrSky,Radio & Receivers,RC Control System,Radio Transmitter,ELRS,900MHz,10,Yes,Internal,U.FL,250,Industrial,Industrial UAV
+RAD-0184,FrSky,Radio & Receivers,RC Control System,ELRS Receiver,DSM2,868MHz,24,No,Dual Diversity,SMA,25,FPV,Racing
+RAD-0185,ImmersionRC,Radio & Receivers,RC Control System,Radio Transmitter,SBUS,900MHz,12,Yes,Internal,RP-SMA,25,Multirotor,Trainer RC
+RAD-0186,Foxeer,Radio & Receivers,RC Control System,Receiver,DSMX,2.4GHz,16,No,Internal,Ipex,25,FPV,General FPV
+RAD-0187,FlySky,Radio & Receivers,RC Control System,Long Range Receiver,AFHDS 2A,868MHz,16,No,Dual Diversity,Ipex,250,Fixed Wing,Fixed Wing
+RAD-0188,Spektrum,Radio & Receivers,RC Control System,ELRS Receiver,ACCESS,900MHz,6,No,External,SMA,250,FPV,Racing
+RAD-0189,FrSky,Radio & Receivers,RC Control System,ELRS Receiver,DSM2,868MHz,16,Yes,Dual Diversity,U.FL,250,Fixed Wing,Fixed Wing
+RAD-0190,Happymodel,Radio & Receivers,RC Control System,ELRS Receiver,SBUS,900MHz,8,Yes,Dual Diversity,RP-SMA,1000,Fixed Wing,Fixed Wing
+RAD-0191,Walksnail,Radio & Receivers,RC Control System,Radio Transmitter,ACCESS,900MHz,12,Yes,Dual Diversity,Ipex,25,Fixed Wing,Fixed Wing
+RAD-0192,Foxeer,Radio & Receivers,RC Control System,Receiver,DSMX,2.4GHz,24,No,Dual Diversity,U.FL,1000,FPV,Long Range FPV
+RAD-0193,TBS,Radio & Receivers,RC Control System,Long Range Receiver,AFHDS 2A,2.4GHz,12,No,Dual Diversity,U.FL,500,FPV,General FPV
+RAD-0194,ImmersionRC,Radio & Receivers,RC Control System,Receiver,ACCESS,2.4GHz,16,Yes,Internal,U.FL,500,Multirotor,Trainer RC
+RAD-0195,Futaba,Radio & Receivers,RC Control System,Long Range Receiver,DSM2,2.4GHz,6,Yes,External,RP-SMA,250,FPV,General FPV
+RAD-0196,TBS,Radio & Receivers,RC Control System,Long Range Receiver,DSMX,868MHz,24,Yes,Dual Diversity,Ipex,250,Fixed Wing,Fixed Wing
+RAD-0197,FlySky,Radio & Receivers,RC Control System,Receiver,AFHDS 2A,2.4GHz,16,Yes,Internal,SMA,250,FPV,Racing
+RAD-0198,Radiomaster,Radio & Receivers,RC Control System,Radio Transmitter,DSM2,2.4GHz,8,Yes,External,RP-SMA,25,FPV,Freestyle FPV
+RAD-0199,FlySky,Radio & Receivers,RC Control System,ELRS Receiver,ACCESS,900MHz,8,No,Dual Diversity,SMA,500,FPV,Racing
+RAD-0200,Spektrum,Radio & Receivers,RC Control System,Long Range Receiver,SBUS,868MHz,6,Yes,External,SMA,250,Industrial,Industrial UAV
+RAD-0201,FlySky,Radio & Receivers,RC Control System,Receiver,DSMX,2.4GHz,8,Yes,External,U.FL,25,FPV,General FPV
+RAD-0202,ImmersionRC,Radio & Receivers,RC Control System,ELRS Receiver,ELRS,900MHz,6,No,Dual Diversity,RP-SMA,25,FPV,General FPV
+RAD-0203,FrSky,Radio & Receivers,RC Control System,Radio Transmitter,ELRS,868MHz,16,No,Internal,RP-SMA,1000,FPV,Racing
+RAD-0204,Futaba,Radio & Receivers,RC Control System,ELRS Receiver,AFHDS 2A,2.4GHz,12,Yes,External,Ipex,250,FPV,Racing
+RAD-0205,FlySky,Radio & Receivers,RC Control System,Receiver,ACCST,2.4GHz,16,Yes,Internal,Ipex,500,FPV,Racing
+RAD-0206,ImmersionRC,Radio & Receivers,RC Control System,Long Range Receiver,AFHDS 2A,868MHz,10,Yes,Internal,RP-SMA,500,FPV,Long Range FPV
+RAD-0207,Foxeer,Radio & Receivers,RC Control System,ELRS Receiver,SBUS,868MHz,16,No,Internal,Ipex,500,Fixed Wing,Fixed Wing
+RAD-0208,FrSky,Radio & Receivers,RC Control System,Receiver,DSM2,868MHz,6,No,External,U.FL,250,Fixed Wing,Fixed Wing
+RAD-0209,FlySky,Radio & Receivers,RC Control System,Radio Transmitter,ELRS,900MHz,10,No,Dual Diversity,U.FL,250,Fixed Wing,Fixed Wing
+RAD-0210,Spektrum,Radio & Receivers,RC Control System,Radio Transmitter,ACCST,868MHz,16,No,Internal,RP-SMA,100,FPV,Freestyle FPV
+RAD-0211,Foxeer,Radio & Receivers,RC Control System,Receiver,DSMX,868MHz,12,No,Internal,U.FL,1000,Multirotor,Trainer RC
+RAD-0212,Futaba,Radio & Receivers,RC Control System,Radio Transmitter,AFHDS 2A,868MHz,24,No,Internal,U.FL,1000,FPV,General FPV
+RAD-0213,Futaba,Radio & Receivers,RC Control System,Long Range Receiver,DSM2,900MHz,6,No,Dual Diversity,U.FL,500,Industrial,Industrial UAV
+RAD-0214,Spektrum,Radio & Receivers,RC Control System,Receiver,ACCESS,2.4GHz,6,Yes,External,RP-SMA,250,FPV,Long Range FPV
+RAD-0215,FlySky,Radio & Receivers,RC Control System,Receiver,DSMX,868MHz,10,Yes,Dual Diversity,U.FL,500,Industrial,Industrial UAV
+RAD-0216,FrSky,Radio & Receivers,RC Control System,Radio Transmitter,DSMX,868MHz,8,No,External,U.FL,250,FPV,Racing
+RAD-0217,Radiomaster,Radio & Receivers,RC Control System,Radio Transmitter,CRSF,868MHz,24,Yes,Dual Diversity,SMA,1000,FPV,Freestyle FPV
+RAD-0218,Spektrum,Radio & Receivers,RC Control System,Radio Transmitter,SBUS,900MHz,24,No,Internal,RP-SMA,100,Fixed Wing,Fixed Wing
+RAD-0219,Spektrum,Radio & Receivers,RC Control System,Radio Transmitter,ACCESS,900MHz,6,No,External,Ipex,500,FPV,Racing
+RAD-0220,TBS,Radio & Receivers,RC Control System,ELRS Receiver,SBUS,868MHz,16,No,Dual Diversity,U.FL,500,FPV,General FPV
+RAD-0221,TBS,Radio & Receivers,RC Control System,Radio Transmitter,AFHDS 2A,868MHz,24,Yes,Dual Diversity,U.FL,1000,Fixed Wing,Fixed Wing
+RAD-0222,Happymodel,Radio & Receivers,RC Control System,Long Range Receiver,DSMX,900MHz,8,Yes,External,SMA,1000,FPV,General FPV
+RAD-0223,ImmersionRC,Radio & Receivers,RC Control System,Radio Transmitter,DSMX,900MHz,12,No,Internal,U.FL,250,Multirotor,Trainer RC
+RAD-0224,FlySky,Radio & Receivers,RC Control System,ELRS Receiver,DSM2,900MHz,8,Yes,Internal,RP-SMA,250,FPV,General FPV
+RAD-0225,Happymodel,Radio & Receivers,RC Control System,ELRS Receiver,DSMX,2.4GHz,8,No,External,SMA,100,FPV,Freestyle FPV
+RAD-0226,ImmersionRC,Radio & Receivers,RC Control System,Receiver,SBUS,868MHz,24,Yes,Internal,RP-SMA,250,FPV,Long Range FPV
+RAD-0227,Radiomaster,Radio & Receivers,RC Control System,Radio Transmitter,CRSF,900MHz,6,No,Internal,SMA,250,Industrial,Industrial UAV
+RAD-0228,Happymodel,Radio & Receivers,RC Control System,Radio Transmitter,ELRS,900MHz,10,No,Internal,RP-SMA,100,Multirotor,Trainer RC
+RAD-0229,Futaba,Radio & Receivers,RC Control System,ELRS Receiver,DSM2,2.4GHz,12,No,Dual Diversity,SMA,250,Multirotor,Trainer RC
+RAD-0230,Radiomaster,Radio & Receivers,RC Control System,Long Range Receiver,ACCST,900MHz,6,No,Dual Diversity,Ipex,100,FPV,Racing
+RAD-0231,ImmersionRC,Radio & Receivers,RC Control System,Receiver,ACCESS,900MHz,24,Yes,Internal,Ipex,25,FPV,Long Range FPV
+RAD-0232,FlySky,Radio & Receivers,RC Control System,ELRS Receiver,CRSF,868MHz,24,No,Dual Diversity,U.FL,100,Industrial,Industrial UAV
+RAD-0233,Spektrum,Radio & Receivers,RC Control System,ELRS Receiver,SBUS,2.4GHz,24,Yes,Dual Diversity,SMA,25,Fixed Wing,Fixed Wing
+RAD-0234,Happymodel,Radio & Receivers,RC Control System,Receiver,DSMX,868MHz,16,No,Internal,RP-SMA,100,Fixed Wing,Fixed Wing
+RAD-0235,Radiomaster,Radio & Receivers,RC Control System,Receiver,DSMX,2.4GHz,24,Yes,External,Ipex,25,FPV,Freestyle FPV
+RAD-0236,BetaFPV,Radio & Receivers,RC Control System,Receiver,CRSF,900MHz,10,No,Internal,Ipex,250,FPV,General FPV
+RAD-0237,Spektrum,Radio & Receivers,RC Control System,ELRS Receiver,AFHDS 2A,868MHz,10,Yes,Internal,SMA,100,FPV,Freestyle FPV
+RAD-0238,TBS,Radio & Receivers,RC Control System,Receiver,ACCESS,900MHz,16,Yes,Dual Diversity,U.FL,1000,FPV,Racing
+RAD-0239,TBS,Radio & Receivers,RC Control System,ELRS Receiver,ACCST,2.4GHz,16,Yes,Internal,SMA,25,FPV,General FPV
+RAD-0240,Radiomaster,Radio & Receivers,RC Control System,Long Range Receiver,CRSF,900MHz,24,No,Dual Diversity,RP-SMA,25,FPV,Freestyle FPV
+RAD-0241,Walksnail,Radio & Receivers,RC Control System,Receiver,ELRS,900MHz,12,No,Internal,U.FL,250,FPV,Long Range FPV
+RAD-0242,Foxeer,Radio & Receivers,RC Control System,Long Range Receiver,DSM2,2.4GHz,8,Yes,Internal,U.FL,100,Industrial,Industrial UAV
+RAD-0243,BetaFPV,Radio & Receivers,RC Control System,Receiver,CRSF,868MHz,8,Yes,External,Ipex,100,Fixed Wing,Fixed Wing
+RAD-0244,Walksnail,Radio & Receivers,RC Control System,Radio Transmitter,DSM2,2.4GHz,16,No,External,U.FL,500,FPV,General FPV
+RAD-0245,Radiomaster,Radio & Receivers,RC Control System,Long Range Receiver,DSM2,900MHz,16,No,Internal,Ipex,25,FPV,General FPV
+RAD-0246,Walksnail,Radio & Receivers,RC Control System,Receiver,ACCST,2.4GHz,10,Yes,External,Ipex,25,Fixed Wing,Fixed Wing
+RAD-0247,Futaba,Radio & Receivers,RC Control System,Long Range Receiver,DSM2,2.4GHz,6,No,External,SMA,500,Multirotor,Trainer RC
+RAD-0248,Foxeer,Radio & Receivers,RC Control System,ELRS Receiver,ELRS,900MHz,16,No,External,U.FL,500,FPV,Freestyle FPV
+RAD-0249,Jumper,Radio & Receivers,RC Control System,Long Range Receiver,AFHDS 2A,2.4GHz,24,No,External,SMA,25,FPV,Long Range FPV
+RAD-0250,BetaFPV,Radio & Receivers,RC Control System,Long Range Receiver,ACCESS,900MHz,12,No,Dual Diversity,SMA,500,FPV,Racing
+RAD-0251,Futaba,Radio & Receivers,RC Control System,ELRS Receiver,ACCST,868MHz,8,Yes,Internal,SMA,1000,FPV,Freestyle FPV
+RAD-0252,FrSky,Radio & Receivers,RC Control System,Long Range Receiver,CRSF,2.4GHz,24,Yes,Internal,U.FL,250,Multirotor,Trainer RC
+RAD-0253,Happymodel,Radio & Receivers,RC Control System,Radio Transmitter,SBUS,868MHz,16,No,External,RP-SMA,100,Multirotor,Trainer RC
+RAD-0254,FrSky,Radio & Receivers,RC Control System,ELRS Receiver,AFHDS 2A,868MHz,10,Yes,Dual Diversity,U.FL,25,Fixed Wing,Fixed Wing
+RAD-0255,Spektrum,Radio & Receivers,RC Control System,ELRS Receiver,AFHDS 2A,2.4GHz,10,Yes,Dual Diversity,RP-SMA,100,Industrial,Industrial UAV
+RAD-0256,Foxeer,Radio & Receivers,RC Control System,Receiver,DSM2,868MHz,16,No,Internal,RP-SMA,250,FPV,Long Range FPV
+RAD-0257,ImmersionRC,Radio & Receivers,RC Control System,Long Range Receiver,CRSF,900MHz,12,Yes,Dual Diversity,SMA,500,FPV,Long Range FPV
+RAD-0258,Foxeer,Radio & Receivers,RC Control System,Radio Transmitter,DSMX,900MHz,6,No,Dual Diversity,RP-SMA,250,FPV,Long Range FPV
+RAD-0259,Happymodel,Radio & Receivers,RC Control System,Radio Transmitter,DSMX,900MHz,8,Yes,Internal,SMA,100,Industrial,Industrial UAV
+RAD-0260,ImmersionRC,Radio & Receivers,RC Control System,Long Range Receiver,DSMX,900MHz,8,Yes,External,U.FL,250,FPV,General FPV
+RAD-0261,BetaFPV,Radio & Receivers,RC Control System,Radio Transmitter,ELRS,900MHz,24,No,Internal,Ipex,1000,FPV,Freestyle FPV
+RAD-0262,Happymodel,Radio & Receivers,RC Control System,ELRS Receiver,AFHDS 2A,2.4GHz,10,Yes,Dual Diversity,U.FL,500,Industrial,Industrial UAV
+RAD-0263,Foxeer,Radio & Receivers,RC Control System,ELRS Receiver,SBUS,900MHz,6,Yes,Internal,Ipex,500,FPV,Freestyle FPV
+RAD-0264,Spektrum,Radio & Receivers,RC Control System,Radio Transmitter,DSM2,868MHz,24,Yes,Internal,SMA,25,Industrial,Industrial UAV
+RAD-0265,TBS,Radio & Receivers,RC Control System,Radio Transmitter,DSMX,900MHz,8,No,Dual Diversity,Ipex,250,FPV,Long Range FPV
+RAD-0266,BetaFPV,Radio & Receivers,RC Control System,Long Range Receiver,ELRS,2.4GHz,10,Yes,Internal,SMA,250,Multirotor,Trainer RC
+RAD-0267,Happymodel,Radio & Receivers,RC Control System,Radio Transmitter,AFHDS 2A,900MHz,8,No,Internal,RP-SMA,250,FPV,Freestyle FPV
+RAD-0268,Jumper,Radio & Receivers,RC Control System,Radio Transmitter,SBUS,868MHz,10,Yes,Internal,RP-SMA,250,FPV,Long Range FPV
+RAD-0269,Walksnail,Radio & Receivers,RC Control System,ELRS Receiver,DSM2,900MHz,6,Yes,External,SMA,25,Multirotor,Trainer RC
+RAD-0270,Happymodel,Radio & Receivers,RC Control System,Radio Transmitter,ACCST,900MHz,10,Yes,External,RP-SMA,250,Industrial,Industrial UAV
+RAD-0271,FlySky,Radio & Receivers,RC Control System,ELRS Receiver,ACCST,900MHz,6,Yes,External,SMA,500,Industrial,Industrial UAV
+RAD-0272,Futaba,Radio & Receivers,RC Control System,Long Range Receiver,SBUS,2.4GHz,10,Yes,Dual Diversity,U.FL,1000,FPV,General FPV
+RAD-0273,Spektrum,Radio & Receivers,RC Control System,Long Range Receiver,ELRS,868MHz,24,No,External,RP-SMA,1000,Multirotor,Trainer RC
+RAD-0274,Walksnail,Radio & Receivers,RC Control System,Long Range Receiver,AFHDS 2A,2.4GHz,12,No,Dual Diversity,U.FL,500,FPV,Racing
+RAD-0275,Walksnail,Radio & Receivers,RC Control System,Long Range Receiver,ELRS,2.4GHz,24,No,Internal,U.FL,25,Multirotor,Trainer RC
+RAD-0276,FrSky,Radio & Receivers,RC Control System,Long Range Receiver,ACCST,868MHz,8,No,External,U.FL,25,FPV,Racing
+RAD-0277,FlySky,Radio & Receivers,RC Control System,Long Range Receiver,ACCESS,2.4GHz,12,Yes,Internal,Ipex,250,Fixed Wing,Fixed Wing
+RAD-0278,BetaFPV,Radio & Receivers,RC Control System,ELRS Receiver,CRSF,900MHz,24,Yes,Internal,RP-SMA,1000,FPV,Long Range FPV
+RAD-0279,Walksnail,Radio & Receivers,RC Control System,Receiver,DSM2,900MHz,8,Yes,External,SMA,500,Industrial,Industrial UAV
+RAD-0280,Foxeer,Radio & Receivers,RC Control System,Long Range Receiver,CRSF,900MHz,10,No,Dual Diversity,Ipex,1000,Industrial,Industrial UAV
+RAD-0281,Spektrum,Radio & Receivers,RC Control System,ELRS Receiver,AFHDS 2A,2.4GHz,6,No,Dual Diversity,RP-SMA,100,FPV,Freestyle FPV
+RAD-0282,FlySky,Radio & Receivers,RC Control System,Radio Transmitter,DSM2,868MHz,12,No,Internal,SMA,100,FPV,Freestyle FPV
+RAD-0283,Foxeer,Radio & Receivers,RC Control System,Receiver,DSMX,868MHz,8,Yes,Internal,RP-SMA,250,Fixed Wing,Fixed Wing
+RAD-0284,BetaFPV,Radio & Receivers,RC Control System,Radio Transmitter,AFHDS 2A,2.4GHz,24,Yes,Internal,Ipex,1000,FPV,Freestyle FPV
+RAD-0285,FlySky,Radio & Receivers,RC Control System,Radio Transmitter,ACCESS,868MHz,10,No,External,RP-SMA,25,FPV,General FPV
+RAD-0286,ImmersionRC,Radio & Receivers,RC Control System,Receiver,ACCST,900MHz,6,No,Dual Diversity,SMA,25,FPV,Long Range FPV
+RAD-0287,Jumper,Radio & Receivers,RC Control System,ELRS Receiver,ACCESS,2.4GHz,16,No,Internal,U.FL,25,FPV,Long Range FPV
+RAD-0288,FrSky,Radio & Receivers,RC Control System,Radio Transmitter,DSMX,868MHz,10,Yes,Internal,RP-SMA,25,FPV,Long Range FPV
+RAD-0289,Foxeer,Radio & Receivers,RC Control System,Radio Transmitter,ACCST,868MHz,10,No,External,U.FL,500,FPV,Racing
+RAD-0290,TBS,Radio & Receivers,RC Control System,Long Range Receiver,SBUS,2.4GHz,10,No,External,Ipex,1000,Multirotor,Trainer RC
+RAD-0291,Foxeer,Radio & Receivers,RC Control System,Radio Transmitter,ELRS,900MHz,24,Yes,Internal,Ipex,1000,FPV,Long Range FPV
+RAD-0292,Foxeer,Radio & Receivers,RC Control System,Radio Transmitter,CRSF,2.4GHz,6,Yes,Internal,RP-SMA,1000,FPV,Racing
+RAD-0293,Futaba,Radio & Receivers,RC Control System,ELRS Receiver,DSMX,868MHz,12,No,External,Ipex,250,FPV,Freestyle FPV
+RAD-0294,Happymodel,Radio & Receivers,RC Control System,ELRS Receiver,DSMX,868MHz,16,Yes,External,U.FL,25,Industrial,Industrial UAV
+RAD-0295,FlySky,Radio & Receivers,RC Control System,Receiver,DSM2,2.4GHz,8,Yes,Dual Diversity,Ipex,250,FPV,Long Range FPV
+RAD-0296,TBS,Radio & Receivers,RC Control System,Radio Transmitter,ELRS,900MHz,8,Yes,Internal,RP-SMA,1000,FPV,Freestyle FPV
+RAD-0297,Radiomaster,Radio & Receivers,RC Control System,Receiver,SBUS,2.4GHz,16,No,Internal,RP-SMA,1000,Industrial,Industrial UAV

@@ -1,0 +1,301 @@
+﻿ESCID,Brand,Category,SubCategory,ESCType,ContinuousCurrent_A,BurstCurrent_A,SupportedVoltage,Firmware,InputProtocol,MountPattern_mm,BEC_Output,CoolingMethod,SupportedDroneType,IntendedUse
+ESC-0001,Holybro,ESC,Electronic Speed Controller,Industrial ESC,55,60,3-6S,SimonK,DShot1200,20x20,N/A,Passive,FPV,Racing FPV
+ESC-0002,T-Motor,ESC,Electronic Speed Controller,Single ESC,40,50,2-4S,BLHeli_32,Multishot,16x16,5V 3A,Active Cooling,FPV,Cinematic FPV
+ESC-0003,Foxeer,ESC,Electronic Speed Controller,4-in-1 ESC,100,115,4-8S,SimonK,Oneshot125,16x16,5V 2A,Passive,FPV,Freestyle FPV
+ESC-0004,AxisFlying,ESC,Electronic Speed Controller,Stack ESC,35,40,3-6S,BLHeli_32,DShot1200,20x20,5V 5A,Heatsink,FPV,Racing FPV
+ESC-0005,HGLRC,ESC,Electronic Speed Controller,Industrial ESC,40,60,3-6S,SimonK,DShot600,20x20,5V 3A,Heatsink,FPV,Freestyle FPV
+ESC-0006,TBS,ESC,Electronic Speed Controller,4-in-1 ESC,20,25,2-4S,AM32,Oneshot125,16x16,10V 2A,Heatsink,FPV,Racing FPV
+ESC-0007,Lumenier,ESC,Electronic Speed Controller,4-in-1 ESC,40,45,2-4S,BLHeli_32,DShot1200,30x30,N/A,Heatsink,FPV,Cinematic FPV
+ESC-0008,AxisFlying,ESC,Electronic Speed Controller,Single ESC,100,105,2-4S,SimonK,DShot1200,20x20,5V 5A,Active Cooling,FPV,Cinematic FPV
+ESC-0009,T-Motor,ESC,Electronic Speed Controller,4-in-1 ESC,20,30,3-6S,AM32,DShot1200,20x20,10V 2A,Passive,FPV,Long Range FPV
+ESC-0010,AxisFlying,ESC,Electronic Speed Controller,Stack ESC,30,45,3-6S,SimonK,DShot600,20x20,5V 2A,Passive,Industrial,Industrial UAV
+ESC-0011,GEPRC,ESC,Electronic Speed Controller,Industrial ESC,100,120,4-8S,BLHeli_32,DShot1200,16x16,5V 3A,Heatsink,FPV,Long Range FPV
+ESC-0012,Aikon,ESC,Electronic Speed Controller,Single ESC,35,55,6-12S,BLHeli_S,DShot1200,30x30,5V 2A,Active Cooling,FPV,Racing FPV
+ESC-0013,RushFPV,ESC,Electronic Speed Controller,Single ESC,40,55,6-12S,BLHeli_S,DShot600,16x16,10V 2A,Heatsink,FPV,Long Range FPV
+ESC-0014,AxisFlying,ESC,Electronic Speed Controller,Industrial ESC,45,50,4-8S,AM32,DShot600,16x16,5V 5A,Heatsink,Industrial,Industrial UAV
+ESC-0015,Foxeer,ESC,Electronic Speed Controller,4-in-1 ESC,65,70,3-6S,AM32,Oneshot125,16x16,N/A,Active Cooling,Industrial,Industrial UAV
+ESC-0016,T-Motor,ESC,Electronic Speed Controller,Single ESC,20,25,2-4S,BLHeli_S,Multishot,30x30,5V 2A,Passive,FPV,Cinematic FPV
+ESC-0017,T-Motor,ESC,Electronic Speed Controller,Industrial ESC,100,115,4-8S,BLHeli_32,Oneshot125,20x20,N/A,Heatsink,FPV,Cinematic FPV
+ESC-0018,SpeedyBee,ESC,Electronic Speed Controller,Single ESC,80,100,2-4S,BLHeli_32,DShot1200,20x20,5V 2A,Passive,FPV,Racing FPV
+ESC-0019,Lumenier,ESC,Electronic Speed Controller,Single ESC,60,75,4-8S,SimonK,DShot300,16x16,5V 2A,Passive,FPV,Cinematic FPV
+ESC-0020,Holybro,ESC,Electronic Speed Controller,Industrial ESC,50,55,6-12S,BLHeli_32,Multishot,16x16,N/A,Passive,FPV,Long Range FPV
+ESC-0021,AxisFlying,ESC,Electronic Speed Controller,Stack ESC,45,60,3-6S,BLHeli_32,DShot600,30x30,5V 3A,Passive,FPV,Freestyle FPV
+ESC-0022,Hobbywing,ESC,Electronic Speed Controller,Stack ESC,40,50,6-12S,AM32,DShot300,30x30,5V 5A,Heatsink,Industrial,Industrial UAV
+ESC-0023,AxisFlying,ESC,Electronic Speed Controller,Stack ESC,30,50,3-6S,AM32,Multishot,16x16,N/A,Heatsink,FPV,Cinematic FPV
+ESC-0024,AxisFlying,ESC,Electronic Speed Controller,4-in-1 ESC,80,100,6-12S,BLHeli_S,DShot600,20x20,5V 2A,Active Cooling,FPV,Cinematic FPV
+ESC-0025,Aikon,ESC,Electronic Speed Controller,Stack ESC,55,65,4-8S,BLHeli_S,Multishot,16x16,10V 2A,Active Cooling,FPV,Long Range FPV
+ESC-0026,Foxeer,ESC,Electronic Speed Controller,Stack ESC,100,115,4-8S,BLHeli_32,DShot600,16x16,5V 2A,Passive,FPV,Racing FPV
+ESC-0027,Lumenier,ESC,Electronic Speed Controller,Industrial ESC,100,105,6-12S,SimonK,DShot1200,16x16,10V 2A,Heatsink,FPV,Cinematic FPV
+ESC-0028,Diatone,ESC,Electronic Speed Controller,4-in-1 ESC,65,85,6-12S,BLHeli_S,DShot300,20x20,N/A,Heatsink,FPV,Racing FPV
+ESC-0029,Aikon,ESC,Electronic Speed Controller,Stack ESC,80,85,2-4S,BLHeli_32,DShot600,20x20,5V 2A,Active Cooling,FPV,Racing FPV
+ESC-0030,Lumenier,ESC,Electronic Speed Controller,4-in-1 ESC,65,85,4-8S,BLHeli_32,DShot1200,30x30,N/A,Passive,FPV,Racing FPV
+ESC-0031,RushFPV,ESC,Electronic Speed Controller,4-in-1 ESC,50,55,2-4S,BLHeli_S,DShot1200,20x20,10V 2A,Heatsink,FPV,Long Range FPV
+ESC-0032,Diatone,ESC,Electronic Speed Controller,4-in-1 ESC,65,85,6-12S,AM32,Oneshot125,30x30,5V 2A,Active Cooling,FPV,Long Range FPV
+ESC-0033,Diatone,ESC,Electronic Speed Controller,Single ESC,100,120,6-12S,AM32,DShot300,20x20,N/A,Active Cooling,FPV,Racing FPV
+ESC-0034,Hobbywing,ESC,Electronic Speed Controller,Industrial ESC,30,35,4-8S,BLHeli_S,DShot600,30x30,10V 2A,Passive,FPV,Long Range FPV
+ESC-0035,Foxeer,ESC,Electronic Speed Controller,4-in-1 ESC,55,60,4-8S,BLHeli_32,Multishot,30x30,N/A,Active Cooling,FPV,Racing FPV
+ESC-0036,HGLRC,ESC,Electronic Speed Controller,Single ESC,100,105,2-4S,AM32,Oneshot125,16x16,5V 2A,Active Cooling,FPV,Cinematic FPV
+ESC-0037,T-Motor,ESC,Electronic Speed Controller,Industrial ESC,45,55,3-6S,AM32,Oneshot125,30x30,5V 2A,Heatsink,FPV,Long Range FPV
+ESC-0038,GEPRC,ESC,Electronic Speed Controller,Industrial ESC,45,65,3-6S,BLHeli_32,Multishot,30x30,10V 2A,Heatsink,FPV,Freestyle FPV
+ESC-0039,GEPRC,ESC,Electronic Speed Controller,Stack ESC,20,25,6-12S,AM32,DShot300,30x30,5V 5A,Active Cooling,Industrial,Industrial UAV
+ESC-0040,HGLRC,ESC,Electronic Speed Controller,Stack ESC,20,40,6-12S,BLHeli_S,DShot600,20x20,10V 2A,Passive,Industrial,Industrial UAV
+ESC-0041,Foxeer,ESC,Electronic Speed Controller,Stack ESC,30,35,3-6S,AM32,Multishot,16x16,10V 2A,Passive,Industrial,Industrial UAV
+ESC-0042,HGLRC,ESC,Electronic Speed Controller,Stack ESC,45,55,3-6S,BLHeli_S,DShot300,16x16,5V 3A,Heatsink,FPV,Cinematic FPV
+ESC-0043,RushFPV,ESC,Electronic Speed Controller,Industrial ESC,40,45,3-6S,BLHeli_S,Multishot,30x30,5V 2A,Active Cooling,FPV,Cinematic FPV
+ESC-0044,Skystars,ESC,Electronic Speed Controller,Single ESC,35,40,3-6S,BLHeli_S,DShot1200,16x16,5V 2A,Heatsink,Industrial,Industrial UAV
+ESC-0045,TBS,ESC,Electronic Speed Controller,4-in-1 ESC,55,75,6-12S,SimonK,DShot1200,20x20,10V 2A,Active Cooling,FPV,Long Range FPV
+ESC-0046,Flywoo,ESC,Electronic Speed Controller,Industrial ESC,45,60,6-12S,BLHeli_S,DShot300,16x16,5V 5A,Active Cooling,FPV,Cinematic FPV
+ESC-0047,Aikon,ESC,Electronic Speed Controller,Single ESC,60,65,2-4S,BLHeli_32,DShot600,30x30,5V 2A,Passive,FPV,Cinematic FPV
+ESC-0048,Lumenier,ESC,Electronic Speed Controller,Industrial ESC,20,40,3-6S,AM32,Oneshot125,16x16,5V 3A,Active Cooling,FPV,Racing FPV
+ESC-0049,Skystars,ESC,Electronic Speed Controller,Single ESC,80,85,6-12S,SimonK,DShot600,16x16,5V 3A,Active Cooling,FPV,Cinematic FPV
+ESC-0050,iFlight,ESC,Electronic Speed Controller,Stack ESC,60,80,3-6S,BLHeli_32,DShot1200,16x16,N/A,Passive,FPV,Long Range FPV
+ESC-0051,RushFPV,ESC,Electronic Speed Controller,Single ESC,55,65,6-12S,BLHeli_32,DShot1200,20x20,10V 2A,Passive,FPV,Racing FPV
+ESC-0052,Lumenier,ESC,Electronic Speed Controller,Stack ESC,60,65,3-6S,BLHeli_S,Multishot,16x16,5V 5A,Heatsink,FPV,Cinematic FPV
+ESC-0053,GEPRC,ESC,Electronic Speed Controller,Stack ESC,30,40,2-4S,AM32,DShot300,16x16,10V 2A,Heatsink,FPV,Long Range FPV
+ESC-0054,Aikon,ESC,Electronic Speed Controller,4-in-1 ESC,45,50,3-6S,BLHeli_32,DShot1200,30x30,5V 3A,Heatsink,Industrial,Industrial UAV
+ESC-0055,Flywoo,ESC,Electronic Speed Controller,4-in-1 ESC,100,120,6-12S,AM32,Multishot,16x16,5V 5A,Passive,Industrial,Industrial UAV
+ESC-0056,Lumenier,ESC,Electronic Speed Controller,Single ESC,40,50,3-6S,SimonK,DShot1200,16x16,5V 3A,Heatsink,FPV,Racing FPV
+ESC-0057,TBS,ESC,Electronic Speed Controller,Stack ESC,80,85,2-4S,BLHeli_32,DShot300,20x20,5V 2A,Passive,FPV,Freestyle FPV
+ESC-0058,T-Motor,ESC,Electronic Speed Controller,Industrial ESC,100,105,3-6S,SimonK,DShot1200,30x30,5V 5A,Passive,FPV,Freestyle FPV
+ESC-0059,T-Motor,ESC,Electronic Speed Controller,4-in-1 ESC,40,55,2-4S,AM32,DShot300,30x30,5V 2A,Heatsink,FPV,Cinematic FPV
+ESC-0060,Aikon,ESC,Electronic Speed Controller,Stack ESC,45,50,6-12S,AM32,Multishot,20x20,5V 5A,Passive,FPV,Cinematic FPV
+ESC-0061,SpeedyBee,ESC,Electronic Speed Controller,Single ESC,35,55,6-12S,BLHeli_32,DShot600,16x16,10V 2A,Passive,FPV,Long Range FPV
+ESC-0062,Diatone,ESC,Electronic Speed Controller,Single ESC,40,60,4-8S,SimonK,Oneshot125,30x30,5V 3A,Heatsink,FPV,Long Range FPV
+ESC-0063,SpeedyBee,ESC,Electronic Speed Controller,Industrial ESC,60,65,6-12S,AM32,Oneshot125,30x30,10V 2A,Passive,FPV,Freestyle FPV
+ESC-0064,iFlight,ESC,Electronic Speed Controller,Stack ESC,45,60,3-6S,BLHeli_S,DShot300,30x30,5V 2A,Passive,FPV,Cinematic FPV
+ESC-0065,Hobbywing,ESC,Electronic Speed Controller,Stack ESC,50,70,6-12S,BLHeli_S,Oneshot125,30x30,5V 2A,Heatsink,FPV,Cinematic FPV
+ESC-0066,RushFPV,ESC,Electronic Speed Controller,Single ESC,40,50,2-4S,AM32,DShot300,16x16,5V 3A,Heatsink,FPV,Racing FPV
+ESC-0067,Diatone,ESC,Electronic Speed Controller,Industrial ESC,30,50,6-12S,AM32,DShot300,16x16,N/A,Passive,Industrial,Industrial UAV
+ESC-0068,T-Motor,ESC,Electronic Speed Controller,4-in-1 ESC,30,35,2-4S,BLHeli_S,DShot600,30x30,5V 2A,Heatsink,FPV,Long Range FPV
+ESC-0069,GEPRC,ESC,Electronic Speed Controller,Industrial ESC,30,50,4-8S,BLHeli_32,DShot300,20x20,N/A,Passive,Industrial,Industrial UAV
+ESC-0070,AxisFlying,ESC,Electronic Speed Controller,Single ESC,50,70,4-8S,AM32,DShot300,16x16,N/A,Heatsink,FPV,Racing FPV
+ESC-0071,AxisFlying,ESC,Electronic Speed Controller,4-in-1 ESC,30,40,3-6S,BLHeli_S,Multishot,30x30,N/A,Active Cooling,Industrial,Industrial UAV
+ESC-0072,Lumenier,ESC,Electronic Speed Controller,Stack ESC,45,50,4-8S,AM32,DShot600,16x16,5V 3A,Passive,Industrial,Industrial UAV
+ESC-0073,Aikon,ESC,Electronic Speed Controller,4-in-1 ESC,40,50,2-4S,AM32,Oneshot125,16x16,10V 2A,Heatsink,Industrial,Industrial UAV
+ESC-0074,iFlight,ESC,Electronic Speed Controller,Industrial ESC,20,40,2-4S,BLHeli_S,DShot1200,30x30,5V 5A,Passive,FPV,Cinematic FPV
+ESC-0075,GEPRC,ESC,Electronic Speed Controller,Stack ESC,50,60,4-8S,SimonK,DShot300,16x16,N/A,Heatsink,FPV,Cinematic FPV
+ESC-0076,GEPRC,ESC,Electronic Speed Controller,Single ESC,20,25,4-8S,BLHeli_S,DShot600,30x30,5V 3A,Heatsink,FPV,Cinematic FPV
+ESC-0077,iFlight,ESC,Electronic Speed Controller,Single ESC,55,60,6-12S,AM32,DShot300,30x30,5V 3A,Heatsink,FPV,Long Range FPV
+ESC-0078,Skystars,ESC,Electronic Speed Controller,Industrial ESC,20,40,4-8S,BLHeli_32,DShot1200,16x16,N/A,Active Cooling,Industrial,Industrial UAV
+ESC-0079,GEPRC,ESC,Electronic Speed Controller,Single ESC,55,65,4-8S,BLHeli_32,DShot600,16x16,5V 5A,Heatsink,FPV,Long Range FPV
+ESC-0080,TBS,ESC,Electronic Speed Controller,Single ESC,65,80,2-4S,BLHeli_32,DShot300,16x16,N/A,Passive,Industrial,Industrial UAV
+ESC-0081,Diatone,ESC,Electronic Speed Controller,Single ESC,55,60,3-6S,BLHeli_S,DShot1200,16x16,10V 2A,Active Cooling,FPV,Cinematic FPV
+ESC-0082,Lumenier,ESC,Electronic Speed Controller,Industrial ESC,100,115,3-6S,BLHeli_32,DShot600,20x20,5V 2A,Heatsink,FPV,Racing FPV
+ESC-0083,AxisFlying,ESC,Electronic Speed Controller,4-in-1 ESC,40,45,2-4S,SimonK,DShot1200,30x30,5V 2A,Passive,FPV,Cinematic FPV
+ESC-0084,GEPRC,ESC,Electronic Speed Controller,4-in-1 ESC,60,70,6-12S,BLHeli_S,DShot1200,30x30,10V 2A,Active Cooling,FPV,Long Range FPV
+ESC-0085,T-Motor,ESC,Electronic Speed Controller,4-in-1 ESC,20,30,2-4S,SimonK,Oneshot125,20x20,10V 2A,Passive,FPV,Long Range FPV
+ESC-0086,TBS,ESC,Electronic Speed Controller,Industrial ESC,50,70,4-8S,AM32,DShot1200,30x30,10V 2A,Active Cooling,FPV,Racing FPV
+ESC-0087,iFlight,ESC,Electronic Speed Controller,Single ESC,55,65,4-8S,BLHeli_32,Multishot,20x20,5V 5A,Passive,FPV,Freestyle FPV
+ESC-0088,GEPRC,ESC,Electronic Speed Controller,4-in-1 ESC,40,60,3-6S,AM32,DShot600,30x30,N/A,Passive,FPV,Cinematic FPV
+ESC-0089,AxisFlying,ESC,Electronic Speed Controller,Industrial ESC,35,40,2-4S,AM32,Oneshot125,16x16,5V 2A,Heatsink,FPV,Freestyle FPV
+ESC-0090,Diatone,ESC,Electronic Speed Controller,Industrial ESC,60,65,2-4S,BLHeli_32,DShot1200,30x30,N/A,Passive,Industrial,Industrial UAV
+ESC-0091,AxisFlying,ESC,Electronic Speed Controller,Industrial ESC,60,75,6-12S,BLHeli_32,DShot1200,30x30,N/A,Active Cooling,Industrial,Industrial UAV
+ESC-0092,HGLRC,ESC,Electronic Speed Controller,Single ESC,45,50,4-8S,BLHeli_32,DShot600,20x20,5V 5A,Passive,FPV,Cinematic FPV
+ESC-0093,Foxeer,ESC,Electronic Speed Controller,Single ESC,40,50,3-6S,SimonK,DShot300,30x30,N/A,Heatsink,FPV,Freestyle FPV
+ESC-0094,GEPRC,ESC,Electronic Speed Controller,4-in-1 ESC,40,55,4-8S,BLHeli_S,DShot300,20x20,5V 3A,Passive,FPV,Freestyle FPV
+ESC-0095,TBS,ESC,Electronic Speed Controller,4-in-1 ESC,30,45,4-8S,BLHeli_S,Multishot,30x30,5V 2A,Heatsink,FPV,Long Range FPV
+ESC-0096,iFlight,ESC,Electronic Speed Controller,Single ESC,50,55,2-4S,BLHeli_S,DShot600,20x20,N/A,Active Cooling,FPV,Cinematic FPV
+ESC-0097,Holybro,ESC,Electronic Speed Controller,Industrial ESC,65,70,6-12S,BLHeli_S,DShot300,16x16,5V 2A,Heatsink,FPV,Racing FPV
+ESC-0098,TBS,ESC,Electronic Speed Controller,Stack ESC,50,60,3-6S,AM32,Multishot,30x30,5V 2A,Passive,FPV,Long Range FPV
+ESC-0099,AxisFlying,ESC,Electronic Speed Controller,Single ESC,80,85,4-8S,AM32,DShot1200,20x20,5V 3A,Heatsink,Industrial,Industrial UAV
+ESC-0100,HGLRC,ESC,Electronic Speed Controller,Industrial ESC,65,70,3-6S,BLHeli_S,Oneshot125,30x30,5V 5A,Active Cooling,FPV,Long Range FPV
+ESC-0101,RushFPV,ESC,Electronic Speed Controller,Industrial ESC,45,60,3-6S,BLHeli_S,Multishot,30x30,N/A,Heatsink,Industrial,Industrial UAV
+ESC-0102,iFlight,ESC,Electronic Speed Controller,Single ESC,100,105,2-4S,AM32,DShot600,16x16,5V 2A,Active Cooling,Industrial,Industrial UAV
+ESC-0103,SpeedyBee,ESC,Electronic Speed Controller,4-in-1 ESC,50,60,6-12S,AM32,DShot600,20x20,N/A,Passive,FPV,Racing FPV
+ESC-0104,Foxeer,ESC,Electronic Speed Controller,Single ESC,50,65,2-4S,AM32,DShot1200,20x20,5V 5A,Heatsink,FPV,Long Range FPV
+ESC-0105,HGLRC,ESC,Electronic Speed Controller,4-in-1 ESC,65,75,4-8S,BLHeli_S,Oneshot125,16x16,5V 5A,Active Cooling,FPV,Racing FPV
+ESC-0106,Holybro,ESC,Electronic Speed Controller,Stack ESC,55,60,6-12S,SimonK,DShot1200,30x30,5V 3A,Heatsink,FPV,Racing FPV
+ESC-0107,GEPRC,ESC,Electronic Speed Controller,Industrial ESC,40,60,6-12S,SimonK,DShot1200,16x16,5V 5A,Heatsink,FPV,Racing FPV
+ESC-0108,Hobbywing,ESC,Electronic Speed Controller,4-in-1 ESC,35,55,4-8S,BLHeli_S,DShot300,20x20,5V 5A,Passive,FPV,Cinematic FPV
+ESC-0109,GEPRC,ESC,Electronic Speed Controller,Stack ESC,100,115,3-6S,BLHeli_S,DShot600,20x20,5V 3A,Active Cooling,Industrial,Industrial UAV
+ESC-0110,Holybro,ESC,Electronic Speed Controller,Industrial ESC,50,70,4-8S,SimonK,DShot600,16x16,N/A,Active Cooling,FPV,Freestyle FPV
+ESC-0111,Diatone,ESC,Electronic Speed Controller,Industrial ESC,100,105,3-6S,BLHeli_32,Oneshot125,30x30,5V 3A,Active Cooling,FPV,Cinematic FPV
+ESC-0112,Diatone,ESC,Electronic Speed Controller,4-in-1 ESC,55,60,3-6S,SimonK,Multishot,30x30,5V 3A,Passive,FPV,Cinematic FPV
+ESC-0113,TBS,ESC,Electronic Speed Controller,Stack ESC,45,50,3-6S,AM32,Oneshot125,16x16,5V 2A,Active Cooling,FPV,Racing FPV
+ESC-0114,HGLRC,ESC,Electronic Speed Controller,Single ESC,55,75,2-4S,AM32,DShot1200,20x20,10V 2A,Passive,FPV,Freestyle FPV
+ESC-0115,SpeedyBee,ESC,Electronic Speed Controller,Industrial ESC,40,50,6-12S,BLHeli_32,Oneshot125,16x16,5V 5A,Passive,FPV,Long Range FPV
+ESC-0116,Foxeer,ESC,Electronic Speed Controller,4-in-1 ESC,60,70,2-4S,BLHeli_32,DShot600,30x30,5V 2A,Active Cooling,FPV,Long Range FPV
+ESC-0117,T-Motor,ESC,Electronic Speed Controller,4-in-1 ESC,65,80,3-6S,SimonK,DShot1200,16x16,5V 2A,Passive,Industrial,Industrial UAV
+ESC-0118,Lumenier,ESC,Electronic Speed Controller,Stack ESC,55,60,6-12S,BLHeli_32,Oneshot125,16x16,5V 3A,Heatsink,Industrial,Industrial UAV
+ESC-0119,SpeedyBee,ESC,Electronic Speed Controller,4-in-1 ESC,40,45,4-8S,BLHeli_32,DShot600,30x30,10V 2A,Passive,FPV,Racing FPV
+ESC-0120,Diatone,ESC,Electronic Speed Controller,Single ESC,30,40,2-4S,BLHeli_S,Multishot,16x16,5V 3A,Passive,Industrial,Industrial UAV
+ESC-0121,T-Motor,ESC,Electronic Speed Controller,Single ESC,35,40,6-12S,BLHeli_S,DShot1200,30x30,N/A,Passive,FPV,Racing FPV
+ESC-0122,Skystars,ESC,Electronic Speed Controller,Single ESC,20,30,2-4S,BLHeli_32,DShot1200,16x16,N/A,Passive,FPV,Cinematic FPV
+ESC-0123,T-Motor,ESC,Electronic Speed Controller,Single ESC,35,45,4-8S,AM32,DShot600,30x30,5V 2A,Passive,FPV,Freestyle FPV
+ESC-0124,GEPRC,ESC,Electronic Speed Controller,Industrial ESC,65,75,3-6S,BLHeli_32,DShot1200,30x30,5V 5A,Active Cooling,FPV,Freestyle FPV
+ESC-0125,Skystars,ESC,Electronic Speed Controller,4-in-1 ESC,35,50,3-6S,SimonK,DShot1200,20x20,5V 5A,Passive,FPV,Racing FPV
+ESC-0126,Skystars,ESC,Electronic Speed Controller,Industrial ESC,55,70,2-4S,BLHeli_32,DShot600,16x16,5V 3A,Passive,FPV,Racing FPV
+ESC-0127,Aikon,ESC,Electronic Speed Controller,4-in-1 ESC,60,65,6-12S,AM32,Oneshot125,30x30,10V 2A,Passive,FPV,Freestyle FPV
+ESC-0128,Holybro,ESC,Electronic Speed Controller,Industrial ESC,65,70,3-6S,BLHeli_32,DShot1200,20x20,5V 5A,Active Cooling,Industrial,Industrial UAV
+ESC-0129,AxisFlying,ESC,Electronic Speed Controller,Stack ESC,80,100,3-6S,BLHeli_32,Multishot,20x20,5V 2A,Passive,FPV,Racing FPV
+ESC-0130,Skystars,ESC,Electronic Speed Controller,4-in-1 ESC,100,105,4-8S,BLHeli_32,Oneshot125,16x16,N/A,Heatsink,Industrial,Industrial UAV
+ESC-0131,Foxeer,ESC,Electronic Speed Controller,4-in-1 ESC,50,70,6-12S,BLHeli_S,DShot1200,30x30,N/A,Heatsink,FPV,Racing FPV
+ESC-0132,Skystars,ESC,Electronic Speed Controller,4-in-1 ESC,55,75,6-12S,SimonK,DShot1200,30x30,5V 2A,Heatsink,FPV,Racing FPV
+ESC-0133,Lumenier,ESC,Electronic Speed Controller,Industrial ESC,35,45,6-12S,BLHeli_32,DShot600,20x20,10V 2A,Passive,FPV,Long Range FPV
+ESC-0134,AxisFlying,ESC,Electronic Speed Controller,Single ESC,30,45,4-8S,BLHeli_S,Multishot,16x16,5V 2A,Heatsink,FPV,Freestyle FPV
+ESC-0135,Flywoo,ESC,Electronic Speed Controller,Single ESC,80,90,4-8S,AM32,DShot1200,16x16,N/A,Active Cooling,FPV,Freestyle FPV
+ESC-0136,SpeedyBee,ESC,Electronic Speed Controller,Single ESC,45,50,2-4S,AM32,Oneshot125,16x16,5V 2A,Heatsink,FPV,Freestyle FPV
+ESC-0137,Hobbywing,ESC,Electronic Speed Controller,4-in-1 ESC,50,60,4-8S,AM32,DShot600,16x16,5V 3A,Active Cooling,FPV,Racing FPV
+ESC-0138,Skystars,ESC,Electronic Speed Controller,4-in-1 ESC,35,45,3-6S,SimonK,DShot600,30x30,N/A,Active Cooling,FPV,Freestyle FPV
+ESC-0139,Lumenier,ESC,Electronic Speed Controller,Single ESC,80,90,4-8S,AM32,DShot1200,20x20,N/A,Passive,FPV,Racing FPV
+ESC-0140,Foxeer,ESC,Electronic Speed Controller,Single ESC,60,65,2-4S,BLHeli_S,DShot300,20x20,5V 5A,Heatsink,Industrial,Industrial UAV
+ESC-0141,Flywoo,ESC,Electronic Speed Controller,Single ESC,30,50,4-8S,AM32,DShot600,30x30,5V 3A,Active Cooling,FPV,Racing FPV
+ESC-0142,SpeedyBee,ESC,Electronic Speed Controller,Single ESC,80,90,4-8S,BLHeli_S,DShot600,30x30,5V 3A,Passive,FPV,Cinematic FPV
+ESC-0143,Skystars,ESC,Electronic Speed Controller,4-in-1 ESC,20,30,6-12S,SimonK,DShot300,20x20,5V 2A,Heatsink,FPV,Cinematic FPV
+ESC-0144,GEPRC,ESC,Electronic Speed Controller,Stack ESC,100,115,3-6S,AM32,DShot300,30x30,5V 2A,Passive,FPV,Freestyle FPV
+ESC-0145,Lumenier,ESC,Electronic Speed Controller,4-in-1 ESC,60,80,4-8S,SimonK,Oneshot125,30x30,5V 3A,Passive,FPV,Cinematic FPV
+ESC-0146,iFlight,ESC,Electronic Speed Controller,Single ESC,100,110,6-12S,SimonK,DShot600,20x20,N/A,Active Cooling,Industrial,Industrial UAV
+ESC-0147,Hobbywing,ESC,Electronic Speed Controller,Stack ESC,35,40,4-8S,AM32,Oneshot125,20x20,10V 2A,Active Cooling,FPV,Racing FPV
+ESC-0148,Flywoo,ESC,Electronic Speed Controller,Single ESC,50,55,2-4S,SimonK,DShot600,30x30,5V 2A,Passive,FPV,Cinematic FPV
+ESC-0149,Skystars,ESC,Electronic Speed Controller,Stack ESC,60,80,4-8S,AM32,DShot300,16x16,5V 2A,Passive,FPV,Long Range FPV
+ESC-0150,SpeedyBee,ESC,Electronic Speed Controller,4-in-1 ESC,35,55,2-4S,BLHeli_32,DShot300,20x20,5V 2A,Heatsink,FPV,Cinematic FPV
+ESC-0151,T-Motor,ESC,Electronic Speed Controller,Industrial ESC,30,45,4-8S,BLHeli_S,DShot600,16x16,10V 2A,Heatsink,FPV,Freestyle FPV
+ESC-0152,Diatone,ESC,Electronic Speed Controller,Stack ESC,30,50,2-4S,BLHeli_32,DShot600,16x16,5V 2A,Heatsink,FPV,Long Range FPV
+ESC-0153,SpeedyBee,ESC,Electronic Speed Controller,4-in-1 ESC,65,85,4-8S,SimonK,Multishot,20x20,5V 3A,Active Cooling,FPV,Racing FPV
+ESC-0154,AxisFlying,ESC,Electronic Speed Controller,Industrial ESC,65,85,3-6S,AM32,DShot300,20x20,5V 5A,Active Cooling,FPV,Cinematic FPV
+ESC-0155,Aikon,ESC,Electronic Speed Controller,Single ESC,20,30,2-4S,SimonK,DShot600,20x20,5V 2A,Active Cooling,FPV,Racing FPV
+ESC-0156,TBS,ESC,Electronic Speed Controller,Single ESC,80,85,6-12S,SimonK,Multishot,20x20,5V 3A,Heatsink,FPV,Cinematic FPV
+ESC-0157,Diatone,ESC,Electronic Speed Controller,Stack ESC,80,100,4-8S,AM32,DShot600,20x20,N/A,Active Cooling,FPV,Freestyle FPV
+ESC-0158,HGLRC,ESC,Electronic Speed Controller,4-in-1 ESC,60,75,6-12S,SimonK,Oneshot125,16x16,5V 3A,Active Cooling,FPV,Long Range FPV
+ESC-0159,Skystars,ESC,Electronic Speed Controller,Stack ESC,45,65,6-12S,BLHeli_32,DShot300,30x30,5V 3A,Passive,FPV,Long Range FPV
+ESC-0160,Skystars,ESC,Electronic Speed Controller,Single ESC,100,120,6-12S,BLHeli_32,DShot1200,16x16,5V 3A,Active Cooling,FPV,Racing FPV
+ESC-0161,Aikon,ESC,Electronic Speed Controller,Industrial ESC,40,55,2-4S,AM32,DShot300,20x20,5V 5A,Active Cooling,FPV,Freestyle FPV
+ESC-0162,T-Motor,ESC,Electronic Speed Controller,Single ESC,50,55,4-8S,BLHeli_32,Multishot,16x16,N/A,Passive,FPV,Racing FPV
+ESC-0163,Skystars,ESC,Electronic Speed Controller,Single ESC,35,50,6-12S,AM32,DShot1200,20x20,N/A,Heatsink,FPV,Freestyle FPV
+ESC-0164,HGLRC,ESC,Electronic Speed Controller,4-in-1 ESC,60,75,2-4S,SimonK,Multishot,20x20,5V 3A,Passive,FPV,Long Range FPV
+ESC-0165,Diatone,ESC,Electronic Speed Controller,Single ESC,100,110,4-8S,AM32,Oneshot125,20x20,5V 5A,Heatsink,FPV,Cinematic FPV
+ESC-0166,TBS,ESC,Electronic Speed Controller,Industrial ESC,65,75,3-6S,AM32,DShot1200,20x20,5V 2A,Active Cooling,FPV,Freestyle FPV
+ESC-0167,Holybro,ESC,Electronic Speed Controller,Single ESC,50,65,4-8S,SimonK,Multishot,16x16,N/A,Heatsink,FPV,Racing FPV
+ESC-0168,Diatone,ESC,Electronic Speed Controller,Stack ESC,65,70,3-6S,BLHeli_32,Oneshot125,20x20,5V 3A,Passive,FPV,Cinematic FPV
+ESC-0169,SpeedyBee,ESC,Electronic Speed Controller,4-in-1 ESC,65,70,2-4S,AM32,DShot300,30x30,N/A,Active Cooling,FPV,Racing FPV
+ESC-0170,Holybro,ESC,Electronic Speed Controller,Stack ESC,45,50,3-6S,BLHeli_S,DShot300,20x20,10V 2A,Heatsink,FPV,Racing FPV
+ESC-0171,Lumenier,ESC,Electronic Speed Controller,Industrial ESC,55,60,3-6S,BLHeli_32,DShot1200,16x16,5V 2A,Active Cooling,FPV,Cinematic FPV
+ESC-0172,Aikon,ESC,Electronic Speed Controller,Industrial ESC,65,85,6-12S,AM32,DShot1200,20x20,N/A,Active Cooling,FPV,Racing FPV
+ESC-0173,RushFPV,ESC,Electronic Speed Controller,4-in-1 ESC,60,80,2-4S,BLHeli_32,DShot1200,20x20,10V 2A,Passive,Industrial,Industrial UAV
+ESC-0174,Flywoo,ESC,Electronic Speed Controller,4-in-1 ESC,20,25,3-6S,BLHeli_32,DShot1200,30x30,10V 2A,Active Cooling,FPV,Freestyle FPV
+ESC-0175,Holybro,ESC,Electronic Speed Controller,Single ESC,35,40,6-12S,AM32,DShot600,16x16,5V 3A,Active Cooling,FPV,Freestyle FPV
+ESC-0176,Hobbywing,ESC,Electronic Speed Controller,Stack ESC,45,50,6-12S,BLHeli_S,DShot600,20x20,5V 3A,Passive,Industrial,Industrial UAV
+ESC-0177,Flywoo,ESC,Electronic Speed Controller,Single ESC,65,75,2-4S,BLHeli_S,Oneshot125,16x16,5V 3A,Heatsink,Industrial,Industrial UAV
+ESC-0178,T-Motor,ESC,Electronic Speed Controller,Industrial ESC,35,50,6-12S,SimonK,DShot600,16x16,5V 5A,Heatsink,Industrial,Industrial UAV
+ESC-0179,AxisFlying,ESC,Electronic Speed Controller,4-in-1 ESC,55,70,4-8S,SimonK,Multishot,16x16,5V 3A,Passive,FPV,Freestyle FPV
+ESC-0180,Holybro,ESC,Electronic Speed Controller,4-in-1 ESC,55,70,3-6S,BLHeli_S,Multishot,20x20,10V 2A,Heatsink,FPV,Cinematic FPV
+ESC-0181,Foxeer,ESC,Electronic Speed Controller,Industrial ESC,55,60,4-8S,BLHeli_S,Multishot,20x20,5V 5A,Active Cooling,FPV,Long Range FPV
+ESC-0182,AxisFlying,ESC,Electronic Speed Controller,Single ESC,30,40,3-6S,BLHeli_32,Oneshot125,20x20,5V 5A,Passive,FPV,Freestyle FPV
+ESC-0183,SpeedyBee,ESC,Electronic Speed Controller,Stack ESC,100,120,2-4S,AM32,DShot1200,30x30,5V 3A,Passive,FPV,Long Range FPV
+ESC-0184,T-Motor,ESC,Electronic Speed Controller,Single ESC,55,75,4-8S,AM32,DShot600,16x16,10V 2A,Active Cooling,FPV,Long Range FPV
+ESC-0185,Lumenier,ESC,Electronic Speed Controller,Industrial ESC,20,40,6-12S,SimonK,DShot300,30x30,5V 5A,Active Cooling,FPV,Racing FPV
+ESC-0186,Foxeer,ESC,Electronic Speed Controller,Single ESC,35,55,2-4S,BLHeli_S,DShot300,20x20,5V 2A,Passive,FPV,Long Range FPV
+ESC-0187,RushFPV,ESC,Electronic Speed Controller,4-in-1 ESC,20,35,2-4S,AM32,DShot1200,30x30,5V 3A,Active Cooling,FPV,Cinematic FPV
+ESC-0188,Foxeer,ESC,Electronic Speed Controller,Stack ESC,60,65,2-4S,AM32,Multishot,16x16,10V 2A,Passive,FPV,Cinematic FPV
+ESC-0189,iFlight,ESC,Electronic Speed Controller,4-in-1 ESC,65,75,4-8S,SimonK,DShot1200,30x30,5V 3A,Passive,FPV,Cinematic FPV
+ESC-0190,AxisFlying,ESC,Electronic Speed Controller,Industrial ESC,30,35,6-12S,SimonK,DShot1200,16x16,5V 2A,Passive,FPV,Racing FPV
+ESC-0191,Holybro,ESC,Electronic Speed Controller,Industrial ESC,40,55,2-4S,BLHeli_32,DShot300,16x16,N/A,Passive,FPV,Freestyle FPV
+ESC-0192,HGLRC,ESC,Electronic Speed Controller,Single ESC,35,45,3-6S,BLHeli_S,DShot1200,16x16,5V 5A,Passive,FPV,Racing FPV
+ESC-0193,TBS,ESC,Electronic Speed Controller,Single ESC,60,65,6-12S,BLHeli_S,Multishot,30x30,5V 5A,Heatsink,FPV,Racing FPV
+ESC-0194,Skystars,ESC,Electronic Speed Controller,4-in-1 ESC,55,70,6-12S,SimonK,DShot300,16x16,10V 2A,Heatsink,Industrial,Industrial UAV
+ESC-0195,Hobbywing,ESC,Electronic Speed Controller,Industrial ESC,55,70,3-6S,BLHeli_S,DShot1200,16x16,5V 3A,Active Cooling,FPV,Long Range FPV
+ESC-0196,Skystars,ESC,Electronic Speed Controller,Stack ESC,80,100,2-4S,BLHeli_S,DShot1200,16x16,5V 3A,Passive,FPV,Racing FPV
+ESC-0197,SpeedyBee,ESC,Electronic Speed Controller,4-in-1 ESC,65,80,4-8S,SimonK,DShot300,30x30,10V 2A,Active Cooling,FPV,Cinematic FPV
+ESC-0198,T-Motor,ESC,Electronic Speed Controller,Single ESC,45,50,6-12S,BLHeli_S,DShot300,16x16,5V 5A,Passive,FPV,Cinematic FPV
+ESC-0199,Lumenier,ESC,Electronic Speed Controller,Stack ESC,30,45,3-6S,AM32,Oneshot125,16x16,5V 3A,Passive,Industrial,Industrial UAV
+ESC-0200,SpeedyBee,ESC,Electronic Speed Controller,Stack ESC,40,45,2-4S,BLHeli_S,DShot300,16x16,5V 3A,Heatsink,Industrial,Industrial UAV
+ESC-0201,T-Motor,ESC,Electronic Speed Controller,Industrial ESC,45,55,6-12S,BLHeli_S,DShot1200,20x20,5V 2A,Active Cooling,FPV,Racing FPV
+ESC-0202,Lumenier,ESC,Electronic Speed Controller,Industrial ESC,55,70,3-6S,BLHeli_S,Oneshot125,16x16,5V 3A,Active Cooling,Industrial,Industrial UAV
+ESC-0203,AxisFlying,ESC,Electronic Speed Controller,4-in-1 ESC,20,30,3-6S,SimonK,DShot300,30x30,5V 5A,Heatsink,FPV,Freestyle FPV
+ESC-0204,Hobbywing,ESC,Electronic Speed Controller,4-in-1 ESC,35,50,4-8S,BLHeli_S,Multishot,20x20,5V 2A,Heatsink,FPV,Long Range FPV
+ESC-0205,Holybro,ESC,Electronic Speed Controller,Single ESC,35,45,2-4S,AM32,Oneshot125,16x16,5V 3A,Heatsink,FPV,Racing FPV
+ESC-0206,Lumenier,ESC,Electronic Speed Controller,4-in-1 ESC,80,95,4-8S,BLHeli_32,DShot1200,20x20,N/A,Heatsink,FPV,Cinematic FPV
+ESC-0207,Holybro,ESC,Electronic Speed Controller,Industrial ESC,55,70,3-6S,AM32,Multishot,16x16,5V 3A,Heatsink,FPV,Freestyle FPV
+ESC-0208,Diatone,ESC,Electronic Speed Controller,Industrial ESC,50,65,3-6S,BLHeli_32,DShot600,20x20,5V 2A,Heatsink,FPV,Freestyle FPV
+ESC-0209,HGLRC,ESC,Electronic Speed Controller,Single ESC,40,55,6-12S,BLHeli_32,Oneshot125,30x30,N/A,Active Cooling,FPV,Racing FPV
+ESC-0210,Skystars,ESC,Electronic Speed Controller,4-in-1 ESC,50,55,2-4S,AM32,DShot300,16x16,5V 5A,Active Cooling,FPV,Long Range FPV
+ESC-0211,Foxeer,ESC,Electronic Speed Controller,Single ESC,80,90,2-4S,BLHeli_S,Multishot,20x20,N/A,Active Cooling,FPV,Freestyle FPV
+ESC-0212,Lumenier,ESC,Electronic Speed Controller,Stack ESC,60,80,2-4S,BLHeli_32,DShot300,20x20,5V 2A,Passive,FPV,Racing FPV
+ESC-0213,Diatone,ESC,Electronic Speed Controller,Stack ESC,65,80,4-8S,BLHeli_32,DShot600,20x20,5V 3A,Heatsink,FPV,Racing FPV
+ESC-0214,iFlight,ESC,Electronic Speed Controller,Industrial ESC,80,95,6-12S,SimonK,Multishot,20x20,5V 2A,Active Cooling,FPV,Cinematic FPV
+ESC-0215,AxisFlying,ESC,Electronic Speed Controller,4-in-1 ESC,35,40,4-8S,SimonK,Oneshot125,16x16,N/A,Passive,FPV,Cinematic FPV
+ESC-0216,AxisFlying,ESC,Electronic Speed Controller,Stack ESC,30,35,3-6S,BLHeli_S,DShot600,16x16,5V 3A,Heatsink,FPV,Freestyle FPV
+ESC-0217,RushFPV,ESC,Electronic Speed Controller,Single ESC,55,60,4-8S,BLHeli_32,DShot300,16x16,10V 2A,Active Cooling,Industrial,Industrial UAV
+ESC-0218,Skystars,ESC,Electronic Speed Controller,Industrial ESC,60,80,4-8S,BLHeli_S,Multishot,30x30,N/A,Heatsink,FPV,Racing FPV
+ESC-0219,Skystars,ESC,Electronic Speed Controller,4-in-1 ESC,20,25,4-8S,SimonK,Multishot,30x30,N/A,Heatsink,FPV,Racing FPV
+ESC-0220,AxisFlying,ESC,Electronic Speed Controller,Single ESC,100,115,3-6S,BLHeli_32,Oneshot125,16x16,5V 2A,Passive,FPV,Long Range FPV
+ESC-0221,HGLRC,ESC,Electronic Speed Controller,Single ESC,80,85,6-12S,SimonK,Oneshot125,16x16,10V 2A,Passive,FPV,Cinematic FPV
+ESC-0222,Diatone,ESC,Electronic Speed Controller,Single ESC,60,70,3-6S,BLHeli_S,Oneshot125,20x20,10V 2A,Active Cooling,FPV,Racing FPV
+ESC-0223,Holybro,ESC,Electronic Speed Controller,Stack ESC,45,60,2-4S,AM32,DShot300,16x16,N/A,Active Cooling,Industrial,Industrial UAV
+ESC-0224,HGLRC,ESC,Electronic Speed Controller,Industrial ESC,20,35,2-4S,SimonK,DShot300,20x20,5V 3A,Passive,Industrial,Industrial UAV
+ESC-0225,Skystars,ESC,Electronic Speed Controller,Single ESC,80,85,4-8S,BLHeli_S,DShot300,20x20,N/A,Heatsink,Industrial,Industrial UAV
+ESC-0226,Holybro,ESC,Electronic Speed Controller,Industrial ESC,50,65,2-4S,BLHeli_32,DShot600,30x30,10V 2A,Passive,FPV,Cinematic FPV
+ESC-0227,Diatone,ESC,Electronic Speed Controller,Single ESC,100,105,3-6S,BLHeli_32,Multishot,30x30,5V 2A,Passive,FPV,Freestyle FPV
+ESC-0228,HGLRC,ESC,Electronic Speed Controller,Stack ESC,50,70,3-6S,BLHeli_S,Multishot,20x20,10V 2A,Heatsink,FPV,Cinematic FPV
+ESC-0229,Flywoo,ESC,Electronic Speed Controller,Industrial ESC,30,35,2-4S,BLHeli_32,DShot300,30x30,N/A,Heatsink,FPV,Freestyle FPV
+ESC-0230,Lumenier,ESC,Electronic Speed Controller,4-in-1 ESC,35,40,6-12S,AM32,DShot1200,20x20,5V 2A,Heatsink,Industrial,Industrial UAV
+ESC-0231,Holybro,ESC,Electronic Speed Controller,4-in-1 ESC,20,25,3-6S,BLHeli_S,DShot300,16x16,5V 2A,Active Cooling,FPV,Cinematic FPV
+ESC-0232,HGLRC,ESC,Electronic Speed Controller,Stack ESC,65,75,4-8S,AM32,DShot600,16x16,5V 3A,Heatsink,FPV,Long Range FPV
+ESC-0233,Foxeer,ESC,Electronic Speed Controller,Single ESC,20,30,3-6S,BLHeli_S,Multishot,16x16,10V 2A,Active Cooling,FPV,Freestyle FPV
+ESC-0234,HGLRC,ESC,Electronic Speed Controller,Stack ESC,65,70,6-12S,BLHeli_S,DShot1200,30x30,N/A,Active Cooling,FPV,Racing FPV
+ESC-0235,iFlight,ESC,Electronic Speed Controller,Industrial ESC,40,60,6-12S,AM32,DShot300,20x20,N/A,Active Cooling,Industrial,Industrial UAV
+ESC-0236,Aikon,ESC,Electronic Speed Controller,Single ESC,30,50,3-6S,AM32,Oneshot125,30x30,5V 5A,Heatsink,FPV,Long Range FPV
+ESC-0237,HGLRC,ESC,Electronic Speed Controller,Industrial ESC,20,35,3-6S,AM32,Oneshot125,20x20,N/A,Heatsink,FPV,Freestyle FPV
+ESC-0238,SpeedyBee,ESC,Electronic Speed Controller,4-in-1 ESC,55,75,3-6S,BLHeli_32,DShot600,16x16,10V 2A,Passive,FPV,Long Range FPV
+ESC-0239,Skystars,ESC,Electronic Speed Controller,Stack ESC,40,60,3-6S,BLHeli_S,Oneshot125,30x30,5V 2A,Passive,Industrial,Industrial UAV
+ESC-0240,Diatone,ESC,Electronic Speed Controller,4-in-1 ESC,20,40,2-4S,BLHeli_32,DShot600,30x30,5V 2A,Heatsink,FPV,Long Range FPV
+ESC-0241,Diatone,ESC,Electronic Speed Controller,4-in-1 ESC,35,50,4-8S,AM32,DShot300,30x30,N/A,Passive,FPV,Racing FPV
+ESC-0242,Foxeer,ESC,Electronic Speed Controller,Single ESC,80,100,2-4S,BLHeli_32,DShot1200,30x30,10V 2A,Passive,FPV,Cinematic FPV
+ESC-0243,RushFPV,ESC,Electronic Speed Controller,4-in-1 ESC,30,50,2-4S,BLHeli_32,DShot600,20x20,5V 2A,Heatsink,FPV,Racing FPV
+ESC-0244,Hobbywing,ESC,Electronic Speed Controller,Stack ESC,60,75,3-6S,SimonK,DShot600,20x20,N/A,Heatsink,FPV,Racing FPV
+ESC-0245,Lumenier,ESC,Electronic Speed Controller,Industrial ESC,30,50,2-4S,BLHeli_S,Multishot,16x16,N/A,Passive,FPV,Cinematic FPV
+ESC-0246,Hobbywing,ESC,Electronic Speed Controller,Stack ESC,100,120,4-8S,SimonK,DShot1200,20x20,10V 2A,Heatsink,FPV,Freestyle FPV
+ESC-0247,Aikon,ESC,Electronic Speed Controller,Stack ESC,50,65,3-6S,BLHeli_32,Multishot,16x16,5V 2A,Passive,FPV,Long Range FPV
+ESC-0248,Flywoo,ESC,Electronic Speed Controller,4-in-1 ESC,55,70,2-4S,SimonK,DShot600,30x30,5V 5A,Passive,FPV,Freestyle FPV
+ESC-0249,Skystars,ESC,Electronic Speed Controller,Stack ESC,55,75,2-4S,AM32,Oneshot125,30x30,5V 2A,Passive,FPV,Freestyle FPV
+ESC-0250,TBS,ESC,Electronic Speed Controller,Stack ESC,65,70,4-8S,SimonK,DShot1200,16x16,5V 5A,Passive,FPV,Racing FPV
+ESC-0251,Diatone,ESC,Electronic Speed Controller,Stack ESC,65,75,3-6S,AM32,Oneshot125,20x20,10V 2A,Passive,FPV,Racing FPV
+ESC-0252,SpeedyBee,ESC,Electronic Speed Controller,Industrial ESC,65,85,4-8S,BLHeli_32,DShot600,30x30,5V 2A,Passive,FPV,Freestyle FPV
+ESC-0253,Foxeer,ESC,Electronic Speed Controller,Single ESC,80,95,4-8S,BLHeli_S,DShot300,30x30,5V 2A,Passive,FPV,Long Range FPV
+ESC-0254,GEPRC,ESC,Electronic Speed Controller,Industrial ESC,60,75,6-12S,AM32,DShot600,20x20,5V 5A,Active Cooling,FPV,Freestyle FPV
+ESC-0255,SpeedyBee,ESC,Electronic Speed Controller,4-in-1 ESC,55,65,3-6S,BLHeli_32,Oneshot125,16x16,N/A,Active Cooling,FPV,Racing FPV
+ESC-0256,HGLRC,ESC,Electronic Speed Controller,Single ESC,55,75,2-4S,BLHeli_32,DShot300,16x16,5V 2A,Passive,Industrial,Industrial UAV
+ESC-0257,Skystars,ESC,Electronic Speed Controller,4-in-1 ESC,60,65,6-12S,AM32,DShot600,30x30,5V 2A,Active Cooling,FPV,Long Range FPV
+ESC-0258,GEPRC,ESC,Electronic Speed Controller,4-in-1 ESC,60,75,4-8S,SimonK,DShot300,16x16,N/A,Active Cooling,FPV,Racing FPV
+ESC-0259,RushFPV,ESC,Electronic Speed Controller,Industrial ESC,80,85,3-6S,BLHeli_S,DShot600,30x30,5V 3A,Active Cooling,FPV,Freestyle FPV
+ESC-0260,HGLRC,ESC,Electronic Speed Controller,Stack ESC,45,55,3-6S,BLHeli_32,Oneshot125,30x30,10V 2A,Active Cooling,FPV,Racing FPV
+ESC-0261,Foxeer,ESC,Electronic Speed Controller,4-in-1 ESC,30,50,4-8S,SimonK,DShot300,16x16,10V 2A,Heatsink,FPV,Long Range FPV
+ESC-0262,Skystars,ESC,Electronic Speed Controller,4-in-1 ESC,80,100,4-8S,SimonK,DShot600,16x16,5V 3A,Heatsink,FPV,Cinematic FPV
+ESC-0263,Skystars,ESC,Electronic Speed Controller,Stack ESC,20,40,2-4S,AM32,DShot1200,30x30,10V 2A,Active Cooling,FPV,Racing FPV
+ESC-0264,HGLRC,ESC,Electronic Speed Controller,Industrial ESC,100,120,3-6S,AM32,DShot300,20x20,10V 2A,Passive,FPV,Freestyle FPV
+ESC-0265,Lumenier,ESC,Electronic Speed Controller,Stack ESC,55,60,6-12S,AM32,Multishot,30x30,N/A,Active Cooling,FPV,Freestyle FPV
+ESC-0266,Aikon,ESC,Electronic Speed Controller,4-in-1 ESC,65,85,2-4S,SimonK,DShot300,16x16,5V 2A,Passive,FPV,Racing FPV
+ESC-0267,GEPRC,ESC,Electronic Speed Controller,Single ESC,80,90,4-8S,BLHeli_32,DShot600,20x20,10V 2A,Heatsink,FPV,Racing FPV
+ESC-0268,HGLRC,ESC,Electronic Speed Controller,Single ESC,80,95,6-12S,SimonK,Oneshot125,30x30,5V 2A,Active Cooling,FPV,Freestyle FPV
+ESC-0269,T-Motor,ESC,Electronic Speed Controller,4-in-1 ESC,60,80,2-4S,SimonK,DShot300,20x20,5V 3A,Active Cooling,Industrial,Industrial UAV
+ESC-0270,SpeedyBee,ESC,Electronic Speed Controller,Stack ESC,40,45,6-12S,AM32,DShot1200,16x16,5V 2A,Heatsink,Industrial,Industrial UAV
+ESC-0271,TBS,ESC,Electronic Speed Controller,4-in-1 ESC,50,65,6-12S,BLHeli_S,DShot600,16x16,5V 3A,Active Cooling,FPV,Freestyle FPV
+ESC-0272,Skystars,ESC,Electronic Speed Controller,Single ESC,55,60,6-12S,SimonK,DShot1200,30x30,10V 2A,Heatsink,FPV,Freestyle FPV
+ESC-0273,Flywoo,ESC,Electronic Speed Controller,Stack ESC,65,70,6-12S,BLHeli_32,DShot1200,30x30,5V 5A,Active Cooling,FPV,Racing FPV
+ESC-0274,T-Motor,ESC,Electronic Speed Controller,Stack ESC,80,90,3-6S,AM32,DShot1200,20x20,10V 2A,Active Cooling,FPV,Racing FPV
+ESC-0275,AxisFlying,ESC,Electronic Speed Controller,Industrial ESC,30,40,3-6S,BLHeli_S,DShot600,30x30,5V 5A,Heatsink,FPV,Cinematic FPV
+ESC-0276,GEPRC,ESC,Electronic Speed Controller,Stack ESC,65,70,3-6S,SimonK,DShot300,20x20,5V 2A,Active Cooling,FPV,Racing FPV
+ESC-0277,AxisFlying,ESC,Electronic Speed Controller,Single ESC,30,45,6-12S,SimonK,Multishot,16x16,5V 5A,Passive,FPV,Racing FPV
+ESC-0278,SpeedyBee,ESC,Electronic Speed Controller,Single ESC,55,60,6-12S,BLHeli_S,Multishot,20x20,5V 3A,Heatsink,FPV,Cinematic FPV
+ESC-0279,HGLRC,ESC,Electronic Speed Controller,4-in-1 ESC,35,45,6-12S,BLHeli_32,DShot1200,20x20,5V 3A,Active Cooling,Industrial,Industrial UAV
+ESC-0280,iFlight,ESC,Electronic Speed Controller,Single ESC,60,80,4-8S,BLHeli_S,Oneshot125,20x20,5V 2A,Active Cooling,Industrial,Industrial UAV
+ESC-0281,SpeedyBee,ESC,Electronic Speed Controller,4-in-1 ESC,55,60,3-6S,SimonK,Multishot,16x16,5V 5A,Active Cooling,FPV,Freestyle FPV
+ESC-0282,Diatone,ESC,Electronic Speed Controller,Industrial ESC,40,60,4-8S,BLHeli_S,DShot300,16x16,5V 3A,Heatsink,FPV,Racing FPV
+ESC-0283,TBS,ESC,Electronic Speed Controller,Single ESC,55,70,6-12S,BLHeli_S,DShot600,16x16,5V 2A,Active Cooling,FPV,Racing FPV
+ESC-0284,Diatone,ESC,Electronic Speed Controller,4-in-1 ESC,30,50,4-8S,AM32,DShot600,30x30,5V 5A,Heatsink,FPV,Long Range FPV
+ESC-0285,Skystars,ESC,Electronic Speed Controller,Stack ESC,40,60,2-4S,SimonK,DShot1200,30x30,N/A,Heatsink,FPV,Cinematic FPV
+ESC-0286,Skystars,ESC,Electronic Speed Controller,Single ESC,80,100,3-6S,BLHeli_S,DShot600,20x20,N/A,Passive,Industrial,Industrial UAV
+ESC-0287,SpeedyBee,ESC,Electronic Speed Controller,Industrial ESC,40,60,6-12S,SimonK,Oneshot125,20x20,5V 2A,Active Cooling,FPV,Cinematic FPV
+ESC-0288,Flywoo,ESC,Electronic Speed Controller,Stack ESC,40,50,6-12S,BLHeli_S,Multishot,30x30,5V 5A,Heatsink,FPV,Racing FPV
+ESC-0289,Diatone,ESC,Electronic Speed Controller,Single ESC,30,50,4-8S,AM32,Oneshot125,16x16,5V 2A,Passive,FPV,Racing FPV
+ESC-0290,Lumenier,ESC,Electronic Speed Controller,Stack ESC,60,75,3-6S,AM32,Oneshot125,30x30,5V 2A,Active Cooling,FPV,Long Range FPV
+ESC-0291,SpeedyBee,ESC,Electronic Speed Controller,Industrial ESC,60,80,4-8S,BLHeli_32,Multishot,30x30,N/A,Heatsink,FPV,Long Range FPV
+ESC-0292,T-Motor,ESC,Electronic Speed Controller,Stack ESC,60,65,4-8S,AM32,DShot1200,16x16,5V 3A,Heatsink,FPV,Freestyle FPV
+ESC-0293,Flywoo,ESC,Electronic Speed Controller,Single ESC,40,60,3-6S,BLHeli_S,Multishot,16x16,5V 3A,Active Cooling,FPV,Racing FPV
+ESC-0294,GEPRC,ESC,Electronic Speed Controller,Single ESC,40,55,6-12S,AM32,DShot1200,20x20,10V 2A,Passive,FPV,Long Range FPV
+ESC-0295,HGLRC,ESC,Electronic Speed Controller,Industrial ESC,100,115,3-6S,SimonK,DShot1200,16x16,5V 3A,Passive,FPV,Freestyle FPV
+ESC-0296,Hobbywing,ESC,Electronic Speed Controller,Stack ESC,80,95,2-4S,BLHeli_32,DShot600,20x20,10V 2A,Passive,FPV,Racing FPV
+ESC-0297,Flywoo,ESC,Electronic Speed Controller,Single ESC,80,95,4-8S,BLHeli_32,DShot1200,16x16,N/A,Active Cooling,FPV,Freestyle FPV
+ESC-0298,T-Motor,ESC,Electronic Speed Controller,Stack ESC,20,25,6-12S,SimonK,Multishot,16x16,5V 3A,Passive,Industrial,Industrial UAV
+ESC-0299,Diatone,ESC,Electronic Speed Controller,Single ESC,100,105,4-8S,AM32,Oneshot125,30x30,10V 2A,Active Cooling,FPV,Freestyle FPV
+ESC-0300,GEPRC,ESC,Electronic Speed Controller,4-in-1 ESC,100,115,2-4S,AM32,DShot300,30x30,5V 2A,Active Cooling,FPV,Cinematic FPV

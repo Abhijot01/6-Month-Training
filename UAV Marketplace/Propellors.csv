@@ -1,0 +1,301 @@
+PropID,Brand,Category,SubCategory,PropType,Diameter_in,Pitch_in,BladeCount,Material,MountType,Rotation,CompatibleDroneType,IntendedUse
+PROP-0001,Gemfan,Propellers,FPV Props,Standard,5,4.3,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0002,Gemfan,Propellers,FPV Props,Standard,5,4.6,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0003,Gemfan,Propellers,FPV Props,Standard,5,5.1,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Racing
+PROP-0004,HQProp,Propellers,FPV Props,Standard,5,4.3,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0005,HQProp,Propellers,FPV Props,Standard,5,4.8,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0006,HQProp,Propellers,FPV Props,Standard,5,5.2,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Racing
+PROP-0007,DALProp,Propellers,FPV Props,Standard,5,4.5,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0008,DALProp,Propellers,FPV Props,Standard,5,5,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Racing
+PROP-0009,Azure Power,Propellers,FPV Props,Standard,5,5.5,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Racing
+PROP-0010,Ethix,Propellers,FPV Props,Signature,5,4.2,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0011,Gemfan,Propellers,FPV Props,Standard,6,4.5,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0012,Gemfan,Propellers,FPV Props,Standard,6,3.8,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0013,HQProp,Propellers,FPV Props,Standard,6,4.3,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Cinematic
+PROP-0014,DALProp,Propellers,FPV Props,Standard,6,4,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0015,Ethix,Propellers,FPV Props,Signature,6,4.8,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0016,Gemfan,Propellers,FPV Props,Standard,7,4,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0017,Gemfan,Propellers,FPV Props,Standard,7,3.5,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0018,HQProp,Propellers,FPV Props,Standard,7,4.5,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0019,DALProp,Propellers,FPV Props,Standard,7,3.8,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0020,Ethix,Propellers,FPV Props,Signature,7,4.2,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0021,Gemfan,Propellers,Cinewhoop Props,Ducted,3,3.1,4,Polycarbonate,Press Fit,CW/CCW,FPV,Cinewhoop
+PROP-0022,Gemfan,Propellers,Cinewhoop Props,Ducted,3.5,3,4,Polycarbonate,Press Fit,CW/CCW,FPV,Cinewhoop
+PROP-0023,HQProp,Propellers,Cinewhoop Props,Ducted,3,2.8,4,Polycarbonate,Press Fit,CW/CCW,FPV,Cinematic
+PROP-0024,DALProp,Propellers,Cinewhoop Props,Ducted,3.5,3.5,4,Polycarbonate,Press Fit,CW/CCW,FPV,Cinematic
+PROP-0025,Gemfan,Propellers,Cinewhoop Props,Ducted,2.5,3,4,Polycarbonate,Press Fit,CW/CCW,FPV,Indoor Cinewhoop
+PROP-0026,Gemfan,Propellers,Micro FPV Props,Standard,2,2,3,Polycarbonate,1.5mm Shaft,CW/CCW,FPV,Tinywhoop
+PROP-0027,Gemfan,Propellers,Micro FPV Props,Standard,1.6,1.6,3,Polycarbonate,Press Fit,CW/CCW,FPV,Tinywhoop
+PROP-0028,HQProp,Propellers,Micro FPV Props,Standard,2.5,2.3,3,Polycarbonate,1.5mm Shaft,CW/CCW,FPV,Micro Freestyle
+PROP-0029,DALProp,Propellers,Micro FPV Props,Standard,3,3,3,Polycarbonate,1.5mm Shaft,CW/CCW,FPV,Micro Freestyle
+PROP-0030,Gemfan,Propellers,Micro FPV Props,Standard,4,2.5,2,Polycarbonate,1.5mm Shaft,CW/CCW,FPV,Micro Long Range
+PROP-0031,APC,Propellers,Fixed Wing Props,Standard,8,4,2,Composite,Collet,CW,Fixed Wing,Trainer Aircraft
+PROP-0032,APC,Propellers,Fixed Wing Props,Standard,9,6,2,Composite,Collet,CW,Fixed Wing,RC Plane
+PROP-0033,APC,Propellers,Fixed Wing Props,Standard,10,5,2,Composite,Collet,CW,Fixed Wing,Endurance Plane
+PROP-0034,APC,Propellers,Fixed Wing Props,Standard,12,6,2,Composite,Collet,CW,Fixed Wing,UAV Plane
+PROP-0035,Master Airscrew,Propellers,Fixed Wing Props,Standard,11,7,2,Composite,Collet,CW,Fixed Wing,RC Aircraft
+PROP-0036,T-MOTOR,Propellers,Industrial Props,Carbon Fiber,15,5.2,2,Carbon Fiber,Hub Mount,CW/CCW,Agricultural,Agriculture UAV
+PROP-0037,T-MOTOR,Propellers,Industrial Props,Carbon Fiber,18,6.1,2,Carbon Fiber,Hub Mount,CW/CCW,Agricultural,Heavy Lift UAV
+PROP-0038,T-MOTOR,Propellers,Industrial Props,Carbon Fiber,22,7,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Heavy Lift UAV
+PROP-0039,Carbonix,Propellers,Industrial Props,Carbon Fiber,20,6.6,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Survey UAV
+PROP-0040,Gemfan,Propellers,Industrial Props,Composite,13,5.5,2,Composite,Hub Mount,CW/CCW,Multirotor,Camera UAV
+PROP-0041,APC,Propellers,Multirotor Props,Standard,10,4.5,2,Composite,Hub Mount,CW/CCW,Multirotor,Camera Drone
+PROP-0042,APC,Propellers,Multirotor Props,Standard,12,4.5,2,Composite,Hub Mount,CW/CCW,Multirotor,Survey UAV
+PROP-0043,APC,Propellers,Multirotor Props,Standard,15,5.5,2,Composite,Hub Mount,CW/CCW,Multirotor,Heavy Lift
+PROP-0044,T-MOTOR,Propellers,Multirotor Props,Carbon Fiber,16,5.4,2,Carbon Fiber,Hub Mount,CW/CCW,Multirotor,Heavy Lift
+PROP-0045,T-MOTOR,Propellers,Multirotor Props,Carbon Fiber,18,6.1,2,Carbon Fiber,Hub Mount,CW/CCW,Multirotor,Heavy Lift
+PROP-0046,APC,Propellers,Fixed Wing Props,Standard,14,7,2,Composite,Collet,CW,Fixed Wing,Endurance UAV
+PROP-0047,APC,Propellers,Fixed Wing Props,Standard,16,8,2,Composite,Collet,CW,Fixed Wing,UAV Plane
+PROP-0048,Master Airscrew,Propellers,Fixed Wing Props,Standard,13,6,2,Composite,Collet,CW,Fixed Wing,Trainer UAV
+PROP-0049,Gemfan,Propellers,Multirotor Props,Standard,9,4.5,2,Polycarbonate,Hub Mount,CW/CCW,Multirotor,Camera Drone
+PROP-0050,Gemfan,Propellers,Multirotor Props,Standard,11,5.2,2,Polycarbonate,Hub Mount,CW/CCW,Multirotor,Survey UAV
+PROP-0051,T-MOTOR,Propellers,Industrial Props,Carbon Fiber,24,8,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Heavy Lift UAV
+PROP-0052,T-MOTOR,Propellers,Industrial Props,Carbon Fiber,26,8.5,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Heavy Lift UAV
+PROP-0053,Carbonix,Propellers,Industrial Props,Carbon Fiber,28,9.2,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Heavy Lift UAV
+PROP-0054,Carbonix,Propellers,Industrial Props,Carbon Fiber,30,10,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Extreme Heavy Lift
+PROP-0055,Gemfan,Propellers,FPV Props,Standard,4,3.5,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Micro Freestyle
+PROP-0056,HQProp,Propellers,FPV Props,Standard,4,4,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Micro Freestyle
+PROP-0057,DALProp,Propellers,FPV Props,Standard,4,4.5,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Micro Racing
+PROP-0058,Ethix,Propellers,FPV Props,Signature,5.1,4,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0059,Gemfan,Propellers,FPV Props,Standard,5.1,4.8,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0060,HQProp,Propellers,FPV Props,Standard,5.1,5,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Racing
+PROP-0061,Gemfan,Propellers,FPV Props,Standard,5,3.5,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0062,Gemfan,Propellers,FPV Props,Standard,5,4,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0063,Gemfan,Propellers,FPV Props,Standard,5,4.8,4,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0064,HQProp,Propellers,FPV Props,Standard,5,3.8,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0065,HQProp,Propellers,FPV Props,Standard,5,4.6,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0066,DALProp,Propellers,FPV Props,Standard,5,4.7,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0067,DALProp,Propellers,FPV Props,Standard,5,5.3,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Racing
+PROP-0068,Azure Power,Propellers,FPV Props,Standard,5,4.1,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0069,Ethix,Propellers,FPV Props,Signature,5,3.7,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0070,Ethix,Propellers,FPV Props,Signature,5,4.9,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0071,Gemfan,Propellers,FPV Props,Standard,6,3.2,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0072,Gemfan,Propellers,FPV Props,Standard,6,4.8,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0073,HQProp,Propellers,FPV Props,Standard,6,3.5,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0074,DALProp,Propellers,FPV Props,Standard,6,5,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0075,Ethix,Propellers,FPV Props,Signature,6,4.2,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Cinematic
+PROP-0076,Gemfan,Propellers,FPV Props,Standard,7,3,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Ultra Long Range
+PROP-0077,Gemfan,Propellers,FPV Props,Standard,7,4.8,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Heavy Long Range
+PROP-0078,HQProp,Propellers,FPV Props,Standard,7,3.2,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0079,DALProp,Propellers,FPV Props,Standard,7,4,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0080,Ethix,Propellers,FPV Props,Signature,7,4.6,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Cinematic LR
+PROP-0081,Gemfan,Propellers,Cinewhoop Props,Ducted,2.5,2.5,4,Polycarbonate,Press Fit,CW/CCW,FPV,Indoor Cinewhoop
+PROP-0082,Gemfan,Propellers,Cinewhoop Props,Ducted,3,3.3,5,Polycarbonate,Press Fit,CW/CCW,FPV,Cinematic Cinewhoop
+PROP-0083,HQProp,Propellers,Cinewhoop Props,Ducted,3.5,3.1,5,Polycarbonate,Press Fit,CW/CCW,FPV,Cinematic
+PROP-0084,DALProp,Propellers,Cinewhoop Props,Ducted,4,3.5,4,Polycarbonate,Press Fit,CW/CCW,FPV,Cinewhoop Outdoor
+PROP-0085,Gemfan,Propellers,Cinewhoop Props,Ducted,3,2.6,4,Polycarbonate,Press Fit,CW/CCW,FPV,Low Noise Cinewhoop
+PROP-0086,Gemfan,Propellers,Micro FPV Props,Standard,1.9,1.9,3,Polycarbonate,Press Fit,CW/CCW,FPV,Tinywhoop
+PROP-0087,Gemfan,Propellers,Micro FPV Props,Standard,2.3,2,3,Polycarbonate,1.5mm Shaft,CW/CCW,FPV,Micro Freestyle
+PROP-0088,HQProp,Propellers,Micro FPV Props,Standard,2.8,2.6,3,Polycarbonate,1.5mm Shaft,CW/CCW,FPV,Micro Freestyle
+PROP-0089,DALProp,Propellers,Micro FPV Props,Standard,3.5,3.1,3,Polycarbonate,1.5mm Shaft,CW/CCW,FPV,Micro Freestyle
+PROP-0090,Gemfan,Propellers,Micro FPV Props,Standard,4.5,3.5,2,Polycarbonate,1.5mm Shaft,CW/CCW,FPV,Micro Long Range
+PROP-0091,APC,Propellers,Fixed Wing Props,Standard,7,5,2,Composite,Collet,CW,Fixed Wing,Trainer UAV
+PROP-0092,APC,Propellers,Fixed Wing Props,Standard,9,4.5,2,Composite,Collet,CW,Fixed Wing,Endurance Plane
+PROP-0093,APC,Propellers,Fixed Wing Props,Standard,11,8,2,Composite,Collet,CW,Fixed Wing,High Lift UAV
+PROP-0094,APC,Propellers,Fixed Wing Props,Standard,13,8,2,Composite,Collet,CW,Fixed Wing,Survey UAV
+PROP-0095,Master Airscrew,Propellers,Fixed Wing Props,Standard,15,8,2,Composite,Collet,CW,Fixed Wing,Large UAV Plane
+PROP-0096,APC,Propellers,Multirotor Props,Standard,9,4.7,2,Composite,Hub Mount,CW/CCW,Multirotor,Camera Drone
+PROP-0097,APC,Propellers,Multirotor Props,Standard,11,4.7,2,Composite,Hub Mount,CW/CCW,Multirotor,Survey UAV
+PROP-0098,T-MOTOR,Propellers,Multirotor Props,Carbon Fiber,13,4.4,2,Carbon Fiber,Hub Mount,CW/CCW,Multirotor,Professional UAV
+PROP-0099,T-MOTOR,Propellers,Multirotor Props,Carbon Fiber,15,5.2,2,Carbon Fiber,Hub Mount,CW/CCW,Multirotor,Heavy Lift
+PROP-0100,Gemfan,Propellers,Multirotor Props,Standard,12,4.8,2,Polycarbonate,Hub Mount,CW/CCW,Multirotor,Survey UAV
+PROP-0101,T-MOTOR,Propellers,Industrial Props,Carbon Fiber,14,5,2,Carbon Fiber,Hub Mount,CW/CCW,Agricultural,Agriculture UAV
+PROP-0102,T-MOTOR,Propellers,Industrial Props,Carbon Fiber,17,5.8,2,Carbon Fiber,Hub Mount,CW/CCW,Agricultural,Heavy Lift
+PROP-0103,Carbonix,Propellers,Industrial Props,Carbon Fiber,19,6.3,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Survey UAV
+PROP-0104,Carbonix,Propellers,Industrial Props,Carbon Fiber,23,7.5,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Heavy Lift
+PROP-0105,Gemfan,Propellers,Industrial Props,Composite,14,6,2,Composite,Hub Mount,CW/CCW,Multirotor,Camera UAV
+PROP-0106,T-MOTOR,Propellers,Industrial Props,Carbon Fiber,27,9,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Extreme Heavy Lift
+PROP-0107,T-MOTOR,Propellers,Industrial Props,Carbon Fiber,29,9.8,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Extreme Heavy Lift
+PROP-0108,Carbonix,Propellers,Industrial Props,Carbon Fiber,32,10.5,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Extreme Heavy Lift
+PROP-0109,Carbonix,Propellers,Industrial Props,Carbon Fiber,34,11.2,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Extreme Heavy Lift
+PROP-0110,Carbonix,Propellers,Industrial Props,Carbon Fiber,36,12,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Extreme Heavy Lift
+PROP-0111,APC,Propellers,Multirotor Props,Standard,17,6,2,Composite,Hub Mount,CW/CCW,Multirotor,Heavy Lift
+PROP-0112,APC,Propellers,Multirotor Props,Standard,19,6.5,2,Composite,Hub Mount,CW/CCW,Multirotor,Heavy Lift
+PROP-0113,Gemfan,Propellers,Multirotor Props,Standard,10,4,2,Polycarbonate,Hub Mount,CW/CCW,Multirotor,Camera Drone
+PROP-0114,Gemfan,Propellers,Multirotor Props,Standard,8,4.5,2,Polycarbonate,Hub Mount,CW/CCW,Multirotor,Small Camera Drone
+PROP-0115,Gemfan,Propellers,Multirotor Props,Standard,7,4.2,2,Polycarbonate,Hub Mount,CW/CCW,Multirotor,Light Multirotor
+PROP-0116,APC,Propellers,Fixed Wing Props,Standard,18,10,2,Composite,Collet,CW,Fixed Wing,Large UAV Plane
+PROP-0117,APC,Propellers,Fixed Wing Props,Standard,20,12,2,Composite,Collet,CW,Fixed Wing,Heavy Lift Plane
+PROP-0118,Master Airscrew,Propellers,Fixed Wing Props,Standard,17,10,2,Composite,Collet,CW,Fixed Wing,Endurance UAV
+PROP-0119,Master Airscrew,Propellers,Fixed Wing Props,Standard,19,12,2,Composite,Collet,CW,Fixed Wing,Large UAV
+PROP-0120,Master Airscrew,Propellers,Fixed Wing Props,Standard,22,12,2,Composite,Collet,CW,Fixed Wing,Extreme UAV Plane
+PROP-0121,APC,Propellers,Fixed Wing Props,Folding,9,5,2,Composite,Collet,CW,Fixed Wing,Endurance UAV
+PROP-0122,APC,Propellers,Fixed Wing Props,Folding,10,6,2,Composite,Collet,CW,Fixed Wing,Endurance UAV
+PROP-0123,APC,Propellers,Fixed Wing Props,Folding,11,7,2,Composite,Collet,CW,Fixed Wing,Survey UAV
+PROP-0124,APC,Propellers,Fixed Wing Props,Folding,13,8,2,Composite,Collet,CW,Fixed Wing,Long Range UAV
+PROP-0125,Master Airscrew,Propellers,Fixed Wing Props,Folding,15,8,2,Composite,Collet,CW,Fixed Wing,Large UAV Plane
+PROP-0126,Gemfan,Propellers,FPV Props,Low Noise,5,3.1,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Quiet Freestyle
+PROP-0127,HQProp,Propellers,FPV Props,Low Noise,5,3.5,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Stealth FPV
+PROP-0128,Ethix,Propellers,FPV Props,Low Noise,5,3.8,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Cinematic FPV
+PROP-0129,Gemfan,Propellers,FPV Props,Low Noise,7,3,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Ultra Long Range
+PROP-0130,HQProp,Propellers,FPV Props,Low Noise,6,3.2,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0131,T-MOTOR,Propellers,Industrial Props,Coaxial Optimized,15,5,2,Carbon Fiber,Hub Mount,CW/CCW,Agricultural,Coaxial UAV
+PROP-0132,T-MOTOR,Propellers,Industrial Props,Coaxial Optimized,18,6,2,Carbon Fiber,Hub Mount,CW/CCW,Agricultural,Coaxial UAV
+PROP-0133,Carbonix,Propellers,Industrial Props,Coaxial Optimized,22,7.2,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Coaxial Heavy Lift
+PROP-0134,Carbonix,Propellers,Industrial Props,Coaxial Optimized,26,8.5,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Coaxial Heavy Lift
+PROP-0135,T-MOTOR,Propellers,Industrial Props,Coaxial Optimized,30,10,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Extreme Coaxial Lift
+PROP-0136,APC,Propellers,Fixed Wing Props,High Altitude,10,4.5,2,Composite,Collet,CW,Fixed Wing,High Altitude UAV
+PROP-0137,APC,Propellers,Fixed Wing Props,High Altitude,12,5.5,2,Composite,Collet,CW,Fixed Wing,Mountain UAV
+PROP-0138,Master Airscrew,Propellers,Fixed Wing Props,High Altitude,14,6,2,Composite,Collet,CW,Fixed Wing,High Elevation Flight
+PROP-0139,APC,Propellers,Fixed Wing Props,High Altitude,16,7,2,Composite,Collet,CW,Fixed Wing,Survey UAV
+PROP-0140,Master Airscrew,Propellers,Fixed Wing Props,High Altitude,18,8,2,Composite,Collet,CW,Fixed Wing,Long Endurance UAV
+PROP-0141,Gemfan,Propellers,Micro FPV Props,Low RPM,2,1.5,2,Polycarbonate,Press Fit,CW/CCW,FPV,Tinywhoop
+PROP-0142,Gemfan,Propellers,Micro FPV Props,Low RPM,2.5,1.9,2,Polycarbonate,1.5mm Shaft,CW/CCW,FPV,Micro Endurance
+PROP-0143,HQProp,Propellers,Micro FPV Props,Low RPM,3,2.2,2,Polycarbonate,1.5mm Shaft,CW/CCW,FPV,Micro Long Range
+PROP-0144,DALProp,Propellers,Micro FPV Props,Low RPM,3.5,2.5,2,Polycarbonate,1.5mm Shaft,CW/CCW,FPV,Micro LR
+PROP-0145,Gemfan,Propellers,Micro FPV Props,Low RPM,4,2,2,Polycarbonate,1.5mm Shaft,CW/CCW,FPV,Micro Endurance
+PROP-0146,T-MOTOR,Propellers,Industrial Props,Variable Pitch,18,Adjustable,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Research UAV
+PROP-0147,T-MOTOR,Propellers,Industrial Props,Variable Pitch,22,Adjustable,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,VTOL UAV
+PROP-0148,Custom,Propellers,Industrial Props,Variable Pitch,26,Adjustable,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Experimental UAV
+PROP-0149,Custom,Propellers,Industrial Props,Variable Pitch,30,Adjustable,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Research Heavy Lift
+PROP-0150,Custom,Propellers,Industrial Props,Variable Pitch,34,Adjustable,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Experimental Heavy Lift
+PROP-0151,APC,Propellers,Multirotor Props,Legacy,8,4.5,2,Composite,Hub Mount,CW/CCW,Multirotor,Legacy Camera Drone
+PROP-0152,APC,Propellers,Multirotor Props,Legacy,10,4.7,2,Composite,Hub Mount,CW/CCW,Multirotor,Legacy Survey UAV
+PROP-0153,Gemfan,Propellers,Multirotor Props,Legacy,9,4.3,2,Polycarbonate,Hub Mount,CW/CCW,Multirotor,Legacy Multirotor
+PROP-0154,Gemfan,Propellers,Multirotor Props,Legacy,11,4.5,2,Polycarbonate,Hub Mount,CW/CCW,Multirotor,Legacy Camera UAV
+PROP-0155,APC,Propellers,Multirotor Props,Legacy,13,5,2,Composite,Hub Mount,CW/CCW,Multirotor,Legacy Heavy Lift
+PROP-0156,T-MOTOR,Propellers,Industrial Props,Low Noise,17,5.5,2,Carbon Fiber,Hub Mount,CW/CCW,Agricultural,Stealth Agri UAV
+PROP-0157,T-MOTOR,Propellers,Industrial Props,Low Noise,21,6.8,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Quiet Survey UAV
+PROP-0158,Carbonix,Propellers,Industrial Props,Low Noise,25,8,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Low Noise Mapping
+PROP-0159,Carbonix,Propellers,Industrial Props,Low Noise,29,9.5,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Stealth UAV
+PROP-0160,T-MOTOR,Propellers,Industrial Props,Low Noise,33,11,2,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Stealth Heavy Lift
+PROP-0161,Gemfan,Propellers,FPV Props,Two Blade,5,4,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0162,HQProp,Propellers,FPV Props,Two Blade,5,4.5,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Freestyle
+PROP-0163,DALProp,Propellers,FPV Props,Two Blade,6,4,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0164,Gemfan,Propellers,FPV Props,Two Blade,7,3.8,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Long Range
+PROP-0165,Ethix,Propellers,FPV Props,Two Blade,6,4.5,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Cinematic FPV
+PROP-0166,APC,Propellers,Fixed Wing Props,Scale,12,8,3,Composite,Collet,CW,Fixed Wing,Scale Aircraft
+PROP-0167,Master Airscrew,Propellers,Fixed Wing Props,Scale,14,9,3,Composite,Collet,CW,Fixed Wing,Scale UAV
+PROP-0168,APC,Propellers,Fixed Wing Props,Scale,16,10,3,Composite,Collet,CW,Fixed Wing,Large Scale UAV
+PROP-0169,Master Airscrew,Propellers,Fixed Wing Props,Scale,18,10,3,Composite,Collet,CW,Fixed Wing,Scale Endurance UAV
+PROP-0170,APC,Propellers,Fixed Wing Props,Scale,20,12,3,Composite,Collet,CW,Fixed Wing,Large Scale UAV
+PROP-0171,Custom,Propellers,Industrial Props,Experimental,20,Variable,3,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Experimental UAV
+PROP-0172,Custom,Propellers,Industrial Props,Experimental,24,Variable,3,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Experimental UAV
+PROP-0173,Custom,Propellers,Industrial Props,Experimental,28,Variable,3,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Experimental UAV
+PROP-0174,Custom,Propellers,Industrial Props,Experimental,32,Variable,3,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Experimental Heavy Lift
+PROP-0175,Custom,Propellers,Industrial Props,Experimental,36,Variable,3,Carbon Fiber,Hub Mount,CW/CCW,Industrial,Extreme Experimental UAV
+PROP-0176,Gemfan,Propellers,FPV Props,Legacy,5,4.5,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Legacy Freestyle
+PROP-0177,HQProp,Propellers,FPV Props,Legacy,5,5,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Legacy Racing
+PROP-0178,DALProp,Propellers,FPV Props,Legacy,6,4.5,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Legacy FPV
+PROP-0179,Gemfan,Propellers,FPV Props,Legacy,7,4.2,2,Polycarbonate,5mm Shaft,CW/CCW,FPV,Legacy Long Range
+PROP-0180,Ethix,Propellers,FPV Props,Legacy,5,4.3,3,Polycarbonate,5mm Shaft,CW/CCW,FPV,Legacy Freestyle
+PROP-0181,Ethix,Propellers,FPV Propeller,5x2.5 2-Blade,5,2.5,2,Polycarbonate,5mm Shaft,CW,FPV,Freestyle
+PROP-0182,Gemfan Hurricane,Propellers,FPV Propeller,2.5x5.1 4-Blade,2.5,5.1,4,Carbon Reinforced Nylon,1.5mm Shaft,CW,FPV,Indoor FPV
+PROP-0183,Azure Power,Propellers,FPV Propeller,3.5x2.5 3-Blade,3.5,2.5,3,Plastic,5mm Shaft,CW,FPV,Cinematic FPV
+PROP-0184,Foxeer,Propellers,FPV Propeller,5x4.3 3-Blade,5,4.3,3,Plastic,1.5mm Shaft,CCW,FPV,Freestyle
+PROP-0185,BrotherHobby,Propellers,FPV Propeller,7x6 3-Blade,7,6,3,Carbon Reinforced Nylon,1.5mm Shaft,CW,FPV,Long Range FPV
+PROP-0186,Gemfan Hurricane,Propellers,FPV Propeller,3x4.5 4-Blade,3,4.5,4,Carbon Reinforced Nylon,T-Mount,CCW,FPV,Cinematic FPV
+PROP-0187,Gemfan,Propellers,FPV Propeller,2.5x5.1 4-Blade,2.5,5.1,4,Plastic,1.5mm Shaft,CCW,FPV,Indoor FPV
+PROP-0188,BrotherHobby,Propellers,FPV Propeller,7x5 2-Blade,7,5,2,Carbon Reinforced Nylon,T-Mount,CW,FPV,Long Range FPV
+PROP-0189,Ethix,Propellers,FPV Propeller,3x2.5 3-Blade,3,2.5,3,Carbon Reinforced Nylon,T-Mount,CW,FPV,Cinematic FPV
+PROP-0190,Gemfan,Propellers,FPV Propeller,5x2.5 3-Blade,5,2.5,3,Nylon,1.5mm Shaft,CCW,FPV,Freestyle
+PROP-0191,Master Airscrew,Propellers,FPV Propeller,8x4.5 2-Blade,8,4.5,2,Carbon Reinforced Nylon,1.5mm Shaft,CW,FPV,Explorer FPV
+PROP-0192,iFlight,Propellers,FPV Propeller,3x3.5 2-Blade,3,3.5,2,Polycarbonate,1.5mm Shaft,CW,FPV,Cinematic FPV
+PROP-0193,iFlight,Propellers,FPV Propeller,8x2.5 2-Blade,8,2.5,2,Nylon,1.5mm Shaft,CW,FPV,Explorer FPV
+PROP-0194,Ethix,Propellers,FPV Propeller,7x4.5 2-Blade,7,4.5,2,Carbon Reinforced Nylon,T-Mount,CW,FPV,Long Range FPV
+PROP-0195,DALProp,Propellers,FPV Propeller,3.5x4 4-Blade,3.5,4,4,Nylon,5mm Shaft,CCW,FPV,Cinematic FPV
+PROP-0196,Master Airscrew,Propellers,FPV Propeller,2x5.1 4-Blade,2,5.1,4,Carbon Reinforced Nylon,1.5mm Shaft,CCW,FPV,Indoor FPV
+PROP-0197,Lumenier,Propellers,FPV Propeller,2x4 2-Blade,2,4,2,Plastic,T-Mount,CCW,FPV,Indoor FPV
+PROP-0198,Gemfan,Propellers,FPV Propeller,10x2.5 2-Blade,10,2.5,2,Carbon Reinforced Nylon,1.5mm Shaft,CCW,FPV,Mapping / Survey
+PROP-0199,iFlight,Propellers,FPV Propeller,7x6 4-Blade,7,6,4,Nylon,T-Mount,CCW,FPV,Long Range FPV
+PROP-0200,Foxeer,Propellers,FPV Propeller,10x4.3 2-Blade,10,4.3,2,Plastic,T-Mount,CW,FPV,Mapping / Survey
+PROP-0201,Gemfan Hurricane,Propellers,FPV Propeller,6x4 4-Blade,6,4,4,Carbon Reinforced Nylon,1.5mm Shaft,CW,FPV,Long Range FPV
+PROP-0202,HQProp,Propellers,FPV Propeller,7x4.5 4-Blade,7,4.5,4,Nylon,T-Mount,CCW,FPV,Long Range FPV
+PROP-0203,HQProp,Propellers,FPV Propeller,3.5x6 3-Blade,3.5,6,3,Polycarbonate,1.5mm Shaft,CW,FPV,Cinematic FPV
+PROP-0204,Gemfan,Propellers,FPV Propeller,10x2.5 4-Blade,10,2.5,4,Plastic,1.5mm Shaft,CCW,FPV,Mapping / Survey
+PROP-0205,Lumenier,Propellers,FPV Propeller,7x3.5 2-Blade,7,3.5,2,Polycarbonate,1.5mm Shaft,CW,FPV,Long Range FPV
+PROP-0206,Gemfan,Propellers,FPV Propeller,4x5 4-Blade,4,5,4,Polycarbonate,1.5mm Shaft,CW,FPV,Freestyle
+PROP-0207,iFlight,Propellers,FPV Propeller,6x4.5 3-Blade,6,4.5,3,Polycarbonate,1.5mm Shaft,CW,FPV,Long Range FPV
+PROP-0208,Foxeer,Propellers,FPV Propeller,4x5 3-Blade,4,5,3,Carbon Reinforced Nylon,T-Mount,CW,FPV,Freestyle
+PROP-0209,Lumenier,Propellers,FPV Propeller,3.5x6 2-Blade,3.5,6,2,Nylon,1.5mm Shaft,CW,FPV,Cinematic FPV
+PROP-0210,Foxeer,Propellers,FPV Propeller,2x3 2-Blade,2,3,2,Polycarbonate,T-Mount,CW,FPV,Indoor FPV
+PROP-0211,Gemfan,Propellers,FPV Propeller,8x4.5 4-Blade,8,4.5,4,Plastic,T-Mount,CCW,FPV,Explorer FPV
+PROP-0212,DALProp,Propellers,FPV Propeller,10x3 4-Blade,10,3,4,Nylon,5mm Shaft,CCW,FPV,Mapping / Survey
+PROP-0213,Azure Power,Propellers,FPV Propeller,5x3 2-Blade,5,3,2,Plastic,5mm Shaft,CCW,FPV,Freestyle
+PROP-0214,Master Airscrew,Propellers,FPV Propeller,2x6 3-Blade,2,6,3,Carbon Reinforced Nylon,1.5mm Shaft,CCW,FPV,Indoor FPV
+PROP-0215,Master Airscrew,Propellers,FPV Propeller,7x3 2-Blade,7,3,2,Plastic,1.5mm Shaft,CW,FPV,Long Range FPV
+PROP-0216,iFlight,Propellers,FPV Propeller,8x3 4-Blade,8,3,4,Nylon,5mm Shaft,CW,FPV,Explorer FPV
+PROP-0217,Foxeer,Propellers,FPV Propeller,5x4.3 3-Blade,5,4.3,3,Nylon,T-Mount,CW,FPV,Freestyle
+PROP-0218,Gemfan,Propellers,FPV Propeller,3.5x5 3-Blade,3.5,5,3,Plastic,5mm Shaft,CW,FPV,Cinematic FPV
+PROP-0219,Master Airscrew,Propellers,FPV Propeller,7x2.5 4-Blade,7,2.5,4,Nylon,T-Mount,CW,FPV,Long Range FPV
+PROP-0220,BrotherHobby,Propellers,FPV Propeller,4x5.1 4-Blade,4,5.1,4,Plastic,1.5mm Shaft,CW,FPV,Freestyle
+PROP-0221,Azure Power,Propellers,FPV Propeller,2.5x4.3 2-Blade,2.5,4.3,2,Carbon Reinforced Nylon,5mm Shaft,CW,FPV,Indoor FPV
+PROP-0222,Ethix,Propellers,FPV Propeller,7x4.3 4-Blade,7,4.3,4,Plastic,T-Mount,CW,FPV,Long Range FPV
+PROP-0223,Master Airscrew,Propellers,FPV Propeller,4x6 3-Blade,4,6,3,Carbon Reinforced Nylon,5mm Shaft,CW,FPV,Freestyle
+PROP-0224,HQProp,Propellers,FPV Propeller,3x6 3-Blade,3,6,3,Carbon Reinforced Nylon,1.5mm Shaft,CW,FPV,Cinematic FPV
+PROP-0225,Gemfan,Propellers,FPV Propeller,7x4.3 4-Blade,7,4.3,4,Polycarbonate,5mm Shaft,CW,FPV,Long Range FPV
+PROP-0226,HQProp,Propellers,FPV Propeller,2.5x3 4-Blade,2.5,3,4,Polycarbonate,T-Mount,CCW,FPV,Indoor FPV
+PROP-0227,Lumenier,Propellers,FPV Propeller,3x5 2-Blade,3,5,2,Plastic,T-Mount,CCW,FPV,Cinematic FPV
+PROP-0228,Master Airscrew,Propellers,FPV Propeller,9x4.5 4-Blade,9,4.5,4,Plastic,5mm Shaft,CCW,FPV,Long Endurance
+PROP-0229,Ethix,Propellers,FPV Propeller,8x3.5 2-Blade,8,3.5,2,Carbon Reinforced Nylon,1.5mm Shaft,CCW,FPV,Explorer FPV
+PROP-0230,HQProp,Propellers,FPV Propeller,7x4 3-Blade,7,4,3,Nylon,5mm Shaft,CCW,FPV,Long Range FPV
+PROP-0231,Master Airscrew,Propellers,FPV Propeller,6x4.5 4-Blade,6,4.5,4,Nylon,1.5mm Shaft,CW,FPV,Long Range FPV
+PROP-0232,BrotherHobby,Propellers,FPV Propeller,2.5x6 3-Blade,2.5,6,3,Polycarbonate,T-Mount,CW,FPV,Indoor FPV
+PROP-0233,Gemfan Hurricane,Propellers,FPV Propeller,8x4.3 3-Blade,8,4.3,3,Carbon Reinforced Nylon,T-Mount,CCW,FPV,Explorer FPV
+PROP-0234,Ethix,Propellers,FPV Propeller,6x4.3 4-Blade,6,4.3,4,Polycarbonate,5mm Shaft,CW,FPV,Long Range FPV
+PROP-0235,T-Motor,Propellers,FPV Propeller,4x4.3 2-Blade,4,4.3,2,Polycarbonate,1.5mm Shaft,CCW,FPV,Freestyle
+PROP-0236,BrotherHobby,Propellers,FPV Propeller,3.5x3 2-Blade,3.5,3,2,Carbon Reinforced Nylon,T-Mount,CW,FPV,Cinematic FPV
+PROP-0237,BrotherHobby,Propellers,FPV Propeller,3x3.5 4-Blade,3,3.5,4,Nylon,1.5mm Shaft,CW,FPV,Cinematic FPV
+PROP-0238,Foxeer,Propellers,FPV Propeller,4x3.5 2-Blade,4,3.5,2,Nylon,T-Mount,CW,FPV,Freestyle
+PROP-0239,Master Airscrew,Propellers,FPV Propeller,5x6 2-Blade,5,6,2,Carbon Reinforced Nylon,5mm Shaft,CW,FPV,Freestyle
+PROP-0240,iFlight,Propellers,FPV Propeller,8x4.5 2-Blade,8,4.5,2,Plastic,1.5mm Shaft,CW,FPV,Explorer FPV
+PROP-0241,Master Airscrew,Propellers,FPV Propeller,4x5 2-Blade,4,5,2,Carbon Reinforced Nylon,T-Mount,CW,FPV,Freestyle
+PROP-0242,T-Motor,Propellers,FPV Propeller,3x4.5 4-Blade,3,4.5,4,Nylon,1.5mm Shaft,CW,FPV,Cinematic FPV
+PROP-0243,Ethix,Propellers,FPV Propeller,8x5.1 4-Blade,8,5.1,4,Carbon Reinforced Nylon,1.5mm Shaft,CCW,FPV,Explorer FPV
+PROP-0244,DALProp,Propellers,FPV Propeller,4x6 4-Blade,4,6,4,Plastic,5mm Shaft,CCW,FPV,Freestyle
+PROP-0245,HQProp,Propellers,FPV Propeller,6x3.5 3-Blade,6,3.5,3,Carbon Reinforced Nylon,1.5mm Shaft,CW,FPV,Long Range FPV
+PROP-0246,Lumenier,Propellers,FPV Propeller,6x5 4-Blade,6,5,4,Nylon,1.5mm Shaft,CCW,FPV,Long Range FPV
+PROP-0247,Gemfan,Propellers,FPV Propeller,4x3.5 3-Blade,4,3.5,3,Nylon,1.5mm Shaft,CCW,FPV,Freestyle
+PROP-0248,Azure Power,Propellers,FPV Propeller,2x3 3-Blade,2,3,3,Polycarbonate,1.5mm Shaft,CW,FPV,Indoor FPV
+PROP-0249,Lumenier,Propellers,FPV Propeller,3.5x5 4-Blade,3.5,5,4,Polycarbonate,1.5mm Shaft,CW,FPV,Cinematic FPV
+PROP-0250,Ethix,Propellers,FPV Propeller,3x4.3 3-Blade,3,4.3,3,Polycarbonate,1.5mm Shaft,CCW,FPV,Cinematic FPV
+PROP-0251,Ethix,Propellers,FPV Propeller,7x4.5 3-Blade,7,4.5,3,Carbon Reinforced Nylon,1.5mm Shaft,CW,FPV,Long Range FPV
+PROP-0252,T-Motor,Propellers,FPV Propeller,2x5 3-Blade,2,5,3,Carbon Reinforced Nylon,5mm Shaft,CCW,FPV,Indoor FPV
+PROP-0253,Gemfan Hurricane,Propellers,FPV Propeller,2x3.5 4-Blade,2,3.5,4,Carbon Reinforced Nylon,1.5mm Shaft,CCW,FPV,Indoor FPV
+PROP-0254,Master Airscrew,Propellers,FPV Propeller,3x4.3 3-Blade,3,4.3,3,Polycarbonate,1.5mm Shaft,CW,FPV,Cinematic FPV
+PROP-0255,Foxeer,Propellers,FPV Propeller,3.5x4.3 2-Blade,3.5,4.3,2,Plastic,T-Mount,CCW,FPV,Cinematic FPV
+PROP-0256,Gemfan,Propellers,FPV Propeller,5x4.3 4-Blade,5,4.3,4,Nylon,T-Mount,CW,FPV,Freestyle
+PROP-0257,HQProp,Propellers,FPV Propeller,6x2.5 2-Blade,6,2.5,2,Plastic,T-Mount,CCW,FPV,Long Range FPV
+PROP-0258,Azure Power,Propellers,FPV Propeller,5x4.3 3-Blade,5,4.3,3,Polycarbonate,5mm Shaft,CW,FPV,Freestyle
+PROP-0259,BrotherHobby,Propellers,FPV Propeller,4x4.3 4-Blade,4,4.3,4,Polycarbonate,5mm Shaft,CW,FPV,Freestyle
+PROP-0260,Master Airscrew,Propellers,FPV Propeller,7x5 4-Blade,7,5,4,Polycarbonate,T-Mount,CCW,FPV,Long Range FPV
+PROP-0261,iFlight,Propellers,FPV Propeller,4x3 3-Blade,4,3,3,Carbon Reinforced Nylon,T-Mount,CW,FPV,Freestyle
+PROP-0262,BrotherHobby,Propellers,FPV Propeller,2.5x5 2-Blade,2.5,5,2,Plastic,1.5mm Shaft,CCW,FPV,Indoor FPV
+PROP-0263,DALProp,Propellers,FPV Propeller,4x3.5 3-Blade,4,3.5,3,Carbon Reinforced Nylon,1.5mm Shaft,CW,FPV,Freestyle
+PROP-0264,Foxeer,Propellers,FPV Propeller,2.5x6 2-Blade,2.5,6,2,Nylon,1.5mm Shaft,CW,FPV,Indoor FPV
+PROP-0265,Lumenier,Propellers,FPV Propeller,6x6 3-Blade,6,6,3,Polycarbonate,5mm Shaft,CW,FPV,Long Range FPV
+PROP-0266,iFlight,Propellers,FPV Propeller,2x3 4-Blade,2,3,4,Plastic,5mm Shaft,CW,FPV,Indoor FPV
+PROP-0267,HQProp,Propellers,FPV Propeller,3x4.3 4-Blade,3,4.3,4,Carbon Reinforced Nylon,T-Mount,CCW,FPV,Cinematic FPV
+PROP-0268,Azure Power,Propellers,FPV Propeller,7x2.5 3-Blade,7,2.5,3,Plastic,5mm Shaft,CW,FPV,Long Range FPV
+PROP-0269,Foxeer,Propellers,FPV Propeller,10x2.5 3-Blade,10,2.5,3,Plastic,5mm Shaft,CW,FPV,Mapping / Survey
+PROP-0270,BrotherHobby,Propellers,FPV Propeller,2.5x6 3-Blade,2.5,6,3,Carbon Reinforced Nylon,1.5mm Shaft,CCW,FPV,Indoor FPV
+PROP-0271,BrotherHobby,Propellers,FPV Propeller,7x6 3-Blade,7,6,3,Nylon,T-Mount,CW,FPV,Long Range FPV
+PROP-0272,BrotherHobby,Propellers,FPV Propeller,7x6 3-Blade,7,6,3,Nylon,1.5mm Shaft,CCW,FPV,Long Range FPV
+PROP-0273,Foxeer,Propellers,FPV Propeller,4x3 2-Blade,4,3,2,Nylon,1.5mm Shaft,CCW,FPV,Freestyle
+PROP-0274,T-Motor,Propellers,FPV Propeller,3.5x4.3 3-Blade,3.5,4.3,3,Carbon Reinforced Nylon,5mm Shaft,CCW,FPV,Cinematic FPV
+PROP-0275,Azure Power,Propellers,FPV Propeller,3.5x3 4-Blade,3.5,3,4,Polycarbonate,5mm Shaft,CCW,FPV,Cinematic FPV
+PROP-0276,Ethix,Propellers,FPV Propeller,2x5.1 4-Blade,2,5.1,4,Nylon,T-Mount,CCW,FPV,Indoor FPV
+PROP-0277,DALProp,Propellers,FPV Propeller,10x5 4-Blade,10,5,4,Polycarbonate,5mm Shaft,CW,FPV,Mapping / Survey
+PROP-0278,BrotherHobby,Propellers,FPV Propeller,3.5x6 2-Blade,3.5,6,2,Polycarbonate,T-Mount,CCW,FPV,Cinematic FPV
+PROP-0279,Gemfan,Propellers,FPV Propeller,2.5x3 3-Blade,2.5,3,3,Nylon,1.5mm Shaft,CCW,FPV,Indoor FPV
+PROP-0280,BrotherHobby,Propellers,FPV Propeller,5x2.5 3-Blade,5,2.5,3,Carbon Reinforced Nylon,5mm Shaft,CCW,FPV,Freestyle
+PROP-0281,Master Airscrew,Propellers,FPV Propeller,3.5x5 2-Blade,3.5,5,2,Carbon Reinforced Nylon,1.5mm Shaft,CW,FPV,Cinematic FPV
+PROP-0282,Gemfan,Propellers,FPV Propeller,2x6 3-Blade,2,6,3,Polycarbonate,T-Mount,CW,FPV,Indoor FPV
+PROP-0283,Gemfan,Propellers,FPV Propeller,2x5.1 2-Blade,2,5.1,2,Plastic,1.5mm Shaft,CW,FPV,Indoor FPV
+PROP-0284,Gemfan,Propellers,FPV Propeller,3x4.5 3-Blade,3,4.5,3,Polycarbonate,1.5mm Shaft,CW,FPV,Cinematic FPV
+PROP-0285,Gemfan Hurricane,Propellers,FPV Propeller,3x3 2-Blade,3,3,2,Plastic,5mm Shaft,CCW,FPV,Cinematic FPV
+PROP-0286,Master Airscrew,Propellers,FPV Propeller,3.5x4.5 3-Blade,3.5,4.5,3,Carbon Reinforced Nylon,1.5mm Shaft,CW,FPV,Cinematic FPV
+PROP-0287,Ethix,Propellers,FPV Propeller,5x4.5 4-Blade,5,4.5,4,Plastic,1.5mm Shaft,CW,FPV,Freestyle
+PROP-0288,Gemfan,Propellers,FPV Propeller,9x4.3 2-Blade,9,4.3,2,Carbon Reinforced Nylon,5mm Shaft,CCW,FPV,Long Endurance
+PROP-0289,Lumenier,Propellers,FPV Propeller,5x3 2-Blade,5,3,2,Plastic,1.5mm Shaft,CW,FPV,Freestyle
+PROP-0290,BrotherHobby,Propellers,FPV Propeller,3x2.5 2-Blade,3,2.5,2,Carbon Reinforced Nylon,1.5mm Shaft,CCW,FPV,Cinematic FPV
+PROP-0291,Lumenier,Propellers,FPV Propeller,4x3 4-Blade,4,3,4,Plastic,1.5mm Shaft,CCW,FPV,Freestyle
+PROP-0292,DALProp,Propellers,FPV Propeller,5x4.3 4-Blade,5,4.3,4,Plastic,5mm Shaft,CW,FPV,Freestyle
+PROP-0293,Ethix,Propellers,FPV Propeller,9x3.5 2-Blade,9,3.5,2,Plastic,T-Mount,CCW,FPV,Long Endurance
+PROP-0294,Gemfan,Propellers,FPV Propeller,6x6 4-Blade,6,6,4,Nylon,5mm Shaft,CCW,FPV,Long Range FPV
+PROP-0295,Gemfan Hurricane,Propellers,FPV Propeller,10x4.3 2-Blade,10,4.3,2,Nylon,1.5mm Shaft,CW,FPV,Mapping / Survey
+PROP-0296,Lumenier,Propellers,FPV Propeller,6x4 2-Blade,6,4,2,Polycarbonate,1.5mm Shaft,CW,FPV,Long Range FPV
+PROP-0297,Foxeer,Propellers,FPV Propeller,6x3.5 3-Blade,6,3.5,3,Nylon,T-Mount,CW,FPV,Long Range FPV
+PROP-0298,T-Motor,Propellers,FPV Propeller,2.5x5 2-Blade,2.5,5,2,Plastic,T-Mount,CCW,FPV,Indoor FPV
+PROP-0299,Master Airscrew,Propellers,FPV Propeller,3x4 3-Blade,3,4,3,Nylon,5mm Shaft,CCW,FPV,Cinematic FPV
+PROP-0300,Azure Power,Propellers,FPV Propeller,3.5x3 4-Blade,3.5,3,4,Polycarbonate,T-Mount,CCW,FPV,Cinematic FPV

@@ -1,0 +1,351 @@
+DroneID,Brand,Category,SubCategory,DroneType,BuildLevel,FrameSize_Inch,Wheelbase_mm,MotorSize,PropellerSize,BatterySpec,FlightController,Firmware,PayloadSupport,MaxTakeoffWeight_kg,IntendedUse,Notes
+DRN-0001,iFlight,Kits & RTF,FPV RTF,Freestyle FPV,RTF,5,225,2207,5x4.3,6S LiPo,BetaFlight FC,BetaFlight,Action Camera,1.2,Freestyle FPV,Popular beginner RTF
+DRN-0002,GEPRC,Kits & RTF,FPV RTF,Freestyle FPV,RTF,5,225,2207,5x4.5,6S LiPo,BetaFlight FC,BetaFlight,Action Camera,1.3,Freestyle FPV,Smooth flight tuning
+DRN-0003,Diatone,Kits & RTF,FPV RTF,Freestyle FPV,RTF,5,230,2306,5x4.6,6S LiPo,BetaFlight FC,BetaFlight,Action Camera,1.4,Freestyle FPV,Durable freestyle RTF
+DRN-0004,Armattan,Kits & RTF,FPV Kit,Freestyle FPV,Kit,5,220,Custom,5x4.3,6S LiPo,User Choice,User Choice,Action Camera,1.3,Freestyle FPV,Build-it-yourself kit
+DRN-0005,ImpulseRC,Kits & RTF,FPV Kit,Freestyle FPV,Kit,5,220,Custom,5x4.3,6S LiPo,User Choice,User Choice,Action Camera,1.3,Freestyle FPV,Premium FPV kit
+DRN-0006,BetaFPV,Kits & RTF,FPV RTF,Whoop FPV,RTF,2,75,802,40mm,1S Li-ion,AIO FC,BetaFlight,None,0.2,Training FPV,Beginner whoop RTF
+DRN-0007,Happymodel,Kits & RTF,FPV RTF,Whoop FPV,RTF,2,75,802,40mm,1S Li-ion,AIO FC,BetaFlight,None,0.2,Indoor FPV,Micro indoor drone
+DRN-0008,Flywoo,Kits & RTF,FPV RTF,Cinewhoop FPV,RTF,3.5,135,1404,3.5in,4S LiPo,BetaFlight FC,BetaFlight,Naked Camera,0.7,Cinematic FPV,Smooth cinematic flight
+DRN-0009,iFlight,Kits & RTF,FPV RTF,Cinewhoop FPV,RTF,3.5,130,1507,3.5in,4S LiPo,BetaFlight FC,BetaFlight,Naked Camera,0.8,Cinematic FPV,Indoor/outdoor cine
+DRN-0010,GEPRC,Kits & RTF,FPV RTF,Cinewhoop FPV,RTF,3,120,1404,3in,4S LiPo,BetaFlight FC,BetaFlight,Naked Camera,0.6,Cinematic FPV,Compact cine RTF
+DRN-0011,iFlight,Kits & RTF,FPV RTF,Long Range FPV,RTF,7,295,2806,7in,6S LiPo,BetaFlight FC,BetaFlight,Action Camera,2,Long Range FPV,Explorer style LR
+DRN-0012,Flywoo,Kits & RTF,FPV RTF,Long Range FPV,RTF,7,300,2806,7in,6S LiPo,BetaFlight FC,BetaFlight,Action Camera,2.1,Explorer FPV,Long endurance tuning
+DRN-0013,GEPRC,Kits & RTF,FPV RTF,Long Range FPV,RTF,10,420,3110,10in,6S LiPo,BetaFlight FC,BetaFlight,Action Camera,3.5,Ultra Long Range,Heavy LR platform
+DRN-0014,Reptile,Kits & RTF,FPV Kit,Long Range FPV,Kit,10,450,Custom,10in,6S LiPo,User Choice,User Choice,Action Camera,3.5,Explorer FPV,Foldable LR kit
+DRN-0015,Custom,Kits & RTF,FPV Kit,Endurance FPV,Kit,9,380,Custom,9in,6S LiPo,User Choice,User Choice,Action Camera,3,Endurance FPV,Endurance-focused kit
+DRN-0016,Skydio,Kits & RTF,Industrial RTF,Inspection UAV,RTF,Custom,650,Proprietary,Proprietary,Smart Battery,Autopilot,Custom,None,1.5,Inspection UAV,Autonomous obstacle avoidance
+DRN-0017,DJI,Kits & RTF,Industrial RTF,Survey UAV,RTF,Custom,350,Proprietary,Proprietary,Smart Battery,Autopilot,Custom,Gimbal Camera,1,Survey UAV,Enterprise mapping
+DRN-0018,Autel,Kits & RTF,Industrial RTF,Survey UAV,RTF,Custom,360,Proprietary,Proprietary,Smart Battery,Autopilot,Custom,Gimbal Camera,1.1,Survey UAV,Survey and mapping
+DRN-0019,Parrot,Kits & RTF,Industrial RTF,Mapping UAV,RTF,Custom,400,Proprietary,Proprietary,Smart Battery,Autopilot,Custom,Gimbal Camera,1.2,Mapping UAV,Lightweight mapper
+DRN-0020,Yuneec,Kits & RTF,Industrial RTF,Inspection UAV,RTF,Custom,450,Proprietary,Proprietary,Smart Battery,Autopilot,Custom,Gimbal Camera,1.6,Inspection UAV,Stable inspection drone
+DRN-0021,Holybro,Kits & RTF,Industrial Kit,Survey UAV,Kit,Custom,450,User Choice,Custom,LiPo/Li-ion,Pixhawk,ArduPilot,Gimbal/Camera,2.5,Survey UAV,Pixhawk starter kit
+DRN-0022,CUAV,Kits & RTF,Industrial Kit,Mapping UAV,Kit,Custom,500,User Choice,Custom,LiPo/Li-ion,Pixhawk,ArduPilot,Gimbal/Camera,3,Mapping UAV,Enterprise DIY kit
+DRN-0023,Custom,Kits & RTF,Industrial Kit,Inspection UAV,Kit,Custom,600,User Choice,Custom,LiPo/Li-ion,Pixhawk,ArduPilot,Gimbal/Camera,3.5,Inspection UAV,Inspection starter kit
+DRN-0024,Custom,Kits & RTF,Industrial Kit,Delivery UAV,Kit,Custom,800,User Choice,Custom,LiPo/Li-ion,Pixhawk,ArduPilot,Cargo Hook,5,Delivery UAV,Delivery platform kit
+DRN-0025,Custom,Kits & RTF,Industrial Kit,Heavy Lift UAV,Kit,Custom,1000,User Choice,Custom,LiPo/Li-ion,Pixhawk,ArduPilot,Payload Mount,8,Heavy Lift,Heavy lift DIY
+DRN-0026,Custom,Kits & RTF,Agriculture RTF,Sprayer UAV,RTF,Custom,1600,Proprietary,Custom,Smart Battery,Autopilot,Custom,Spray Tank,15,Agriculture UAV,Crop spraying
+DRN-0027,Custom,Kits & RTF,Agriculture RTF,Sprayer UAV,RTF,Custom,1800,Proprietary,Custom,Smart Battery,Autopilot,Custom,Spray Tank,20,Agriculture UAV,Large farm use
+DRN-0028,Custom,Kits & RTF,Agriculture Kit,Sprayer UAV,Kit,Custom,2000,User Choice,Custom,Li-ion,Autopilot,Custom,Spray Tank,25,Agriculture UAV,Build-your-own sprayer
+DRN-0029,Custom,Kits & RTF,VTOL RTF,Mapping VTOL,RTF,Custom,1100,Proprietary,Fixed Wing,Smart Battery,Autopilot,ArduPilot,Gimbal Camera,5,VTOL Mapping,Long range VTOL
+DRN-0030,Custom,Kits & RTF,VTOL Kit,Mapping VTOL,Kit,Custom,1200,User Choice,Fixed Wing,Li-ion,Pixhawk,ArduPilot,Gimbal Camera,6,VTOL Mapping,VTOL DIY kit
+DRN-0031,Custom,Kits & RTF,Fixed Wing RTF,Survey Wing,RTF,Custom,1200,Proprietary,Fixed Wing,Li-ion,Autopilot,ArduPilot,None,2.5,Survey UAV,Foam wing RTF
+DRN-0032,RMRC,Kits & RTF,Fixed Wing Kit,Long Range Wing,Kit,Custom,1500,User Choice,Fixed Wing,Li-ion,Pixhawk,ArduPilot,None,3,Long Range UAV,Wing kit
+DRN-0033,Zeta,Kits & RTF,Fixed Wing RTF,FPV Wing,RTF,Custom,700,Proprietary,Fixed Wing,Li-ion,Autopilot,INAV,None,1.2,FPV Wing,FPV flying wing
+DRN-0034,AtomRC,Kits & RTF,Fixed Wing Kit,Survey Wing,Kit,Custom,1300,User Choice,Fixed Wing,Li-ion,Pixhawk,ArduPilot,None,3.5,Survey UAV,Survey wing kit
+DRN-0035,Custom,Kits & RTF,Delivery RTF,Cargo UAV,RTF,Custom,1400,Proprietary,Custom,Smart Battery,Autopilot,Custom,Cargo Box,10,Delivery UAV,Autonomous delivery
+DRN-0036,Custom,Kits & RTF,Delivery Kit,Cargo UAV,Kit,Custom,1600,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,Cargo Box,12,Delivery UAV,Delivery DIY kit
+DRN-0037,Custom,Kits & RTF,Marine RTF,USV/UAV Hybrid,RTF,Custom,1000,Proprietary,Custom,Li-ion,Autopilot,Custom,None,6,Marine Ops,Water-resistant UAV
+DRN-0038,Custom,Kits & RTF,Marine Kit,Marine UAV,Kit,Custom,1200,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,None,8,Marine Ops,Marine UAV kit
+DRN-0039,Custom,Kits & RTF,Training RTF,Trainer Drone,RTF,Custom,350,Proprietary,Custom,Li-ion,AIO FC,Custom,None,0.8,Training,Flight training drone
+DRN-0040,Custom,Kits & RTF,Training Kit,Trainer Drone,Kit,Custom,400,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,None,1,Training,Education kit
+DRN-0041,Custom,Kits & RTF,Swarm RTF,Swarm UAV,RTF,Custom,300,Proprietary,Custom,Li-ion,Autopilot,Custom,None,0.6,Swarm UAV,Swarm-ready RTF
+DRN-0042,Custom,Kits & RTF,Swarm Kit,Swarm UAV,Kit,Custom,350,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,None,0.8,Swarm UAV,Swarm research kit
+DRN-0043,Custom,Kits & RTF,Defense RTF,Tactical UAV,RTF,Custom,1200,Proprietary,Custom,Smart Battery,Autopilot,Custom,ISR Payload,7,Defense UAV,Hardened platform
+DRN-0044,Custom,Kits & RTF,Defense Kit,Tactical UAV,Kit,Custom,1400,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,ISR Payload,9,Defense UAV,Defense DIY
+DRN-0045,Custom,Kits & RTF,Experimental RTF,Research UAV,RTF,Custom,600,Proprietary,Custom,Li-ion,Autopilot,Custom,Custom Payload,2,Research UAV,Research platform
+DRN-0046,Custom,Kits & RTF,Experimental Kit,Research UAV,Kit,Custom,700,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,Custom Payload,2.5,Research UAV,Open research kit
+DRN-0047,Custom,Kits & RTF,Inspection RTF,Confined UAV,RTF,Custom,500,Proprietary,Protected,Li-ion,Autopilot,Custom,None,1.5,Confined Inspection,Caged UAV
+DRN-0048,Custom,Kits & RTF,Inspection Kit,Confined UAV,Kit,Custom,600,User Choice,Protected,Li-ion,Pixhawk,ArduPilot,None,2,Confined Inspection,Confined space kit
+DRN-0049,Custom,Kits & RTF,High Altitude RTF,HALE UAV,RTF,Custom,1800,Proprietary,Fixed Wing,Li-ion,Autopilot,Custom,None,6,HALE UAV,High altitude
+DRN-0050,Custom,Kits & RTF,High Altitude Kit,HALE UAV,Kit,Custom,2000,User Choice,Fixed Wing,Li-ion,Pixhawk,ArduPilot,None,8,HALE UAV,HALE research kit
+DRN-0051,iFlight,Kits & RTF,FPV RTF,Racing FPV,RTF,5,210,2207,5x4.6,6S LiPo,BetaFlight FC,BetaFlight,None,1.1,FPV Racing,Race-tuned RTF
+DRN-0052,GEPRC,Kits & RTF,FPV RTF,Racing FPV,RTF,5,205,2207,5x4.5,6S LiPo,BetaFlight FC,BetaFlight,None,1,FPV Racing,Lightweight racer
+DRN-0053,Diatone,Kits & RTF,FPV RTF,Racing FPV,RTF,5,200,2306,5x4.6,6S LiPo,BetaFlight FC,BetaFlight,None,1.2,FPV Racing,Aggressive race geometry
+DRN-0054,Custom,Kits & RTF,FPV Kit,Toothpick FPV,Kit,3,120,1204,3in,3S LiPo,User Choice,User Choice,None,0.35,Lightweight FPV,Ultralight toothpick kit
+DRN-0055,Custom,Kits & RTF,FPV RTF,Toothpick FPV,RTF,4,150,1404,4in,4S LiPo,BetaFlight FC,BetaFlight,None,0.45,Lightweight FPV,Ready-to-fly toothpick
+DRN-0056,Flywoo,Kits & RTF,FPV RTF,Explorer FPV,RTF,6,265,2507,6in,4S Li-ion,BetaFlight FC,BetaFlight,Action Camera,1.6,Explorer FPV,Li-ion long flight
+DRN-0057,GEPRC,Kits & RTF,FPV RTF,Explorer FPV,RTF,6,270,2507,6in,4S Li-ion,BetaFlight FC,BetaFlight,Action Camera,1.7,Explorer FPV,Long endurance FPV
+DRN-0058,Custom,Kits & RTF,FPV Kit,Hybrid LR FPV,Kit,8,340,2806,8in,6S Li-ion,User Choice,User Choice,Action Camera,2.8,Hybrid FPV,LR + endurance hybrid
+DRN-0059,Custom,Kits & RTF,FPV RTF,Hybrid LR FPV,RTF,8,350,2806,8in,6S Li-ion,BetaFlight FC,BetaFlight,Action Camera,3,Hybrid FPV,RTF hybrid long range
+DRN-0060,Autel,Kits & RTF,Industrial RTF,Inspection UAV,RTF,Custom,380,Proprietary,Proprietary,Smart Battery,Autopilot,Custom,Gimbal Camera,1.3,Inspection UAV,Enterprise inspection
+DRN-0061,Parrot,Kits & RTF,Industrial RTF,Public Safety UAV,RTF,Custom,400,Proprietary,Proprietary,Smart Battery,Autopilot,Custom,Thermal Camera,1.4,Public Safety,Search & rescue
+DRN-0062,Custom,Kits & RTF,Industrial RTF,Tethered UAV,RTF,Custom,450,Proprietary,Custom,Tethered Power,Autopilot,Custom,Camera Payload,3,Persistent Ops,Tethered surveillance
+DRN-0063,Custom,Kits & RTF,Industrial Kit,Tethered UAV,Kit,Custom,500,User Choice,Custom,Tethered Power,Pixhawk,ArduPilot,Camera Payload,3.5,Persistent Ops,Tethered DIY kit
+DRN-0064,Custom,Kits & RTF,Industrial RTF,Emergency UAV,RTF,Custom,600,Proprietary,Custom,Smart Battery,Autopilot,Custom,Medical Payload,4,Emergency Response,Medical delivery
+DRN-0065,Custom,Kits & RTF,Industrial Kit,Emergency UAV,Kit,Custom,650,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,Medical Payload,4.5,Emergency Response,Emergency DIY platform
+DRN-0066,Custom,Kits & RTF,Delivery RTF,Urban Delivery UAV,RTF,Custom,900,Proprietary,Custom,Smart Battery,Autopilot,Custom,Cargo Box,8,Urban Delivery,City delivery UAV
+DRN-0067,Custom,Kits & RTF,Delivery RTF,Rural Delivery UAV,RTF,Custom,1200,Proprietary,Custom,Smart Battery,Autopilot,Custom,Cargo Box,12,Rural Delivery,Longer range delivery
+DRN-0068,Custom,Kits & RTF,Industrial Kit,Powerline UAV,Kit,Custom,800,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,Inspection Payload,4,Powerline Inspection,Utility inspection kit
+DRN-0069,Custom,Kits & RTF,Industrial RTF,Powerline UAV,RTF,Custom,850,Proprietary,Custom,Smart Battery,Autopilot,Custom,Inspection Payload,4.5,Powerline Inspection,RTF inspection drone
+DRN-0070,Custom,Kits & RTF,Industrial RTF,Pipeline UAV,RTF,Custom,1000,Proprietary,Custom,Smart Battery,Autopilot,Custom,Inspection Payload,6,Pipeline Inspection,Pipeline survey
+DRN-0071,Custom,Kits & RTF,Industrial Kit,Pipeline UAV,Kit,Custom,1100,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,Inspection Payload,6.5,Pipeline Inspection,Pipeline kit
+DRN-0072,Custom,Kits & RTF,Industrial RTF,Urban Inspection UAV,RTF,Custom,700,Proprietary,Protected,Smart Battery,Autopilot,Custom,None,2.5,Urban Inspection,Caged urban UAV
+DRN-0073,Custom,Kits & RTF,Industrial Kit,Urban Inspection UAV,Kit,Custom,750,User Choice,Protected,Li-ion,Pixhawk,ArduPilot,None,3,Urban Inspection,Confined-space kit
+DRN-0074,Custom,Kits & RTF,VTOL RTF,Long Range VTOL,RTF,Custom,1400,Proprietary,Fixed Wing,Li-ion,Autopilot,ArduPilot,Gimbal Camera,7,VTOL Survey,Long-range VTOL
+DRN-0075,Custom,Kits & RTF,VTOL Kit,Heavy Lift VTOL,Kit,Custom,1600,User Choice,Fixed Wing,Li-ion,Pixhawk,ArduPilot,Payload Mount,10,Heavy VTOL,Heavy VTOL kit
+DRN-0076,Custom,Kits & RTF,Fixed Wing RTF,Endurance Wing,RTF,Custom,1800,Proprietary,Fixed Wing,Li-ion,Autopilot,ArduPilot,None,4.5,Endurance UAV,Long endurance wing
+DRN-0077,Custom,Kits & RTF,Fixed Wing RTF,STOL Wing,RTF,Custom,1500,Proprietary,Fixed Wing,Li-ion,Autopilot,ArduPilot,None,3.8,STOL UAV,Short takeoff wing
+DRN-0078,Custom,Kits & RTF,Fixed Wing Kit,HALE Wing,Kit,Custom,2200,User Choice,Fixed Wing,Li-ion,Pixhawk,ArduPilot,None,7,HALE Research,High altitude kit
+DRN-0079,Custom,Kits & RTF,Education RTF,STEM Drone,RTF,Custom,300,Proprietary,Custom,Li-ion,AIO FC,Custom,None,0.6,Education,STEM education drone
+DRN-0080,Custom,Kits & RTF,Education Kit,STEM Drone,Kit,Custom,350,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,None,0.8,Education,Educational UAV kit
+DRN-0081,Custom,Kits & RTF,Swarm RTF,Micro Swarm UAV,RTF,Custom,200,Proprietary,Custom,Li-ion,Autopilot,Custom,None,0.3,Swarm Research,Micro swarm unit
+DRN-0082,Custom,Kits & RTF,Swarm RTF,Industrial Swarm UAV,RTF,Custom,400,Proprietary,Custom,Li-ion,Autopilot,Custom,None,0.9,Swarm Ops,Industrial swarm node
+DRN-0083,Custom,Kits & RTF,Research RTF,AI UAV,RTF,Custom,600,Proprietary,Custom,Li-ion,Autopilot,Linux+PX4,AI Module,2.2,AI Research,Onboard AI compute
+DRN-0084,Custom,Kits & RTF,Research Kit,AI UAV,Kit,Custom,700,User Choice,Custom,Li-ion,Pixhawk,Linux+ArduPilot,AI Module,2.8,AI Research,AI research kit
+DRN-0085,Custom,Kits & RTF,Defense RTF,ISR UAV,RTF,Custom,1500,Proprietary,Custom,Smart Battery,Autopilot,Custom,ISR Payload,9,ISR Ops,ISR platform
+DRN-0086,Custom,Kits & RTF,Defense RTF,Loiter UAV,RTF,Custom,1300,Proprietary,Fixed Wing,Li-ion,Autopilot,Custom,Sensor Payload,6.5,Defense Ops,Loiter platform
+DRN-0087,Custom,Kits & RTF,Marine RTF,USV Aerial Hybrid,RTF,Custom,1100,Proprietary,Custom,Li-ion,Autopilot,Custom,None,7.5,Marine Ops,Air-sea hybrid
+DRN-0088,Custom,Kits & RTF,Marine Kit,USV Aerial Hybrid,Kit,Custom,1200,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,None,8.5,Marine Ops,Hybrid research kit
+DRN-0089,Custom,Kits & RTF,Logistics RTF,Warehouse UAV,RTF,Custom,500,Proprietary,Protected,Li-ion,Autopilot,Custom,None,1.8,Indoor Logistics,Indoor navigation
+DRN-0090,Custom,Kits & RTF,Logistics Kit,Warehouse UAV,Kit,Custom,550,User Choice,Protected,Li-ion,Pixhawk,ArduPilot,None,2.2,Indoor Logistics,Warehouse kit
+DRN-0091,Custom,Kits & RTF,Inspection RTF,Tunnel UAV,RTF,Custom,450,Proprietary,Protected,Li-ion,Autopilot,Custom,None,2,Tunnel Inspection,Low-light UAV
+DRN-0092,Custom,Kits & RTF,Inspection Kit,Tunnel UAV,Kit,Custom,500,User Choice,Protected,Li-ion,Pixhawk,ArduPilot,None,2.5,Tunnel Inspection,Tunnel inspection kit
+DRN-0093,Custom,Kits & RTF,Public Safety RTF,Firefighting UAV,RTF,Custom,1000,Proprietary,Custom,Smart Battery,Autopilot,Custom,Fire Payload,8,Fire Response,Fire response UAV
+DRN-0094,Custom,Kits & RTF,Public Safety Kit,Firefighting UAV,Kit,Custom,1100,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,Fire Payload,9.5,Fire Response,Fire UAV kit
+DRN-0095,Custom,Kits & RTF,Experimental RTF,Edge UAV,RTF,Custom,650,Proprietary,Custom,Li-ion,Autopilot,Custom,Edge Compute,2.6,Edge Ops,Edge compute UAV
+DRN-0096,Custom,Kits & RTF,Experimental Kit,Edge UAV,Kit,Custom,750,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,Edge Compute,3.2,Edge Ops,Edge research kit
+DRN-0097,Custom,Kits & RTF,High Altitude RTF,Stratospheric UAV,RTF,Custom,2400,Proprietary,Fixed Wing,Li-ion,Autopilot,Custom,None,9,Near Space,Stratospheric platform
+DRN-0098,Custom,Kits & RTF,High Altitude Kit,Stratospheric UAV,Kit,Custom,2600,User Choice,Fixed Wing,Li-ion,Pixhawk,ArduPilot,None,11,Near Space,Near-space research kit
+DRN-0099,BetaFPV,Kits & RTF,FPV RTF,Beginner FPV,RTF,3,115,1103,3in,2S Li-ion,AIO FC,BetaFlight,None,0.45,FPV Training,Beginner-friendly RTF
+DRN-0100,Happymodel,Kits & RTF,FPV RTF,Beginner FPV,RTF,2,75,802,40mm,1S Li-ion,AIO FC,BetaFlight,None,0.2,FPV Training,Entry-level whoop
+DRN-0101,Custom,Kits & RTF,FPV Kit,Deadcat FPV,Kit,5,235,2207,5in,6S LiPo,User Choice,User Choice,Action Camera,1.4,Cinematic FPV,No props in view
+DRN-0102,Custom,Kits & RTF,FPV RTF,Deadcat FPV,RTF,7,315,2806,7in,6S LiPo,BetaFlight FC,BetaFlight,Action Camera,2.2,Cinematic FPV,Wide camera FOV
+DRN-0103,Custom,Kits & RTF,FPV RTF,Pusher FPV,RTF,7,320,2806,7in,6S Li-ion,BetaFlight FC,BetaFlight,Action Camera,2.4,Endurance FPV,Rear motor configuration
+DRN-0104,Custom,Kits & RTF,FPV Kit,Pusher FPV,Kit,9,380,3110,9in,6S Li-ion,User Choice,User Choice,Action Camera,3.2,Endurance FPV,Efficient pusher layout
+DRN-0105,Custom,Kits & RTF,Industrial RTF,Tethered Surveillance UAV,RTF,Custom,500,Proprietary,Custom,Tethered Power,Autopilot,Custom,EO/IR Camera,4.5,Persistent Surveillance,24/7 operation capable
+DRN-0106,Custom,Kits & RTF,Industrial RTF,Relay UAV,RTF,Custom,450,Proprietary,Custom,Li-ion,Autopilot,Custom,None,2.8,Comms Relay,Airborne relay node
+DRN-0107,Custom,Kits & RTF,Industrial Kit,Relay UAV,Kit,Custom,500,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,None,3.2,Comms Relay,Relay research kit
+DRN-0108,Custom,Kits & RTF,Industrial RTF,Gas Sensor UAV,RTF,Custom,650,Proprietary,Custom,Smart Battery,Autopilot,Custom,Gas Sensors,3.8,HAZMAT Ops,Gas leak detection
+DRN-0109,Custom,Kits & RTF,Industrial RTF,Radiation Survey UAV,RTF,Custom,700,Proprietary,Custom,Smart Battery,Autopilot,Custom,Radiation Sensor,4,Radiation Survey,Radiation mapping
+DRN-0110,Custom,Kits & RTF,Industrial Kit,Environmental UAV,Kit,Custom,750,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,Env Sensors,4.2,Environmental Survey,Multi-sensor platform
+DRN-0111,Custom,Kits & RTF,Industrial RTF,Weather UAV,RTF,Custom,800,Proprietary,Custom,Smart Battery,Autopilot,Custom,Weather Sensors,4.5,Meteorology,Atmospheric sampling
+DRN-0112,Custom,Kits & RTF,Industrial RTF,High Wind UAV,RTF,Custom,900,Proprietary,Custom,Smart Battery,Autopilot,Custom,None,5.5,Extreme Weather,High-wind stability
+DRN-0113,Custom,Kits & RTF,Industrial RTF,Urban Micro UAV,RTF,Custom,300,Proprietary,Protected,Li-ion,Autopilot,Custom,None,0.9,Urban Ops,Discreet urban UAV
+DRN-0114,Custom,Kits & RTF,Industrial Kit,Urban Micro UAV,Kit,Custom,350,User Choice,Protected,Li-ion,Pixhawk,ArduPilot,None,1.2,Urban Ops,Urban kit
+DRN-0115,Custom,Kits & RTF,Industrial RTF,Indoor Inspection UAV,RTF,Custom,400,Proprietary,Protected,Li-ion,Autopilot,Custom,None,1.6,Indoor Inspection,GPS-denied ops
+DRN-0116,Custom,Kits & RTF,Industrial Kit,Indoor Inspection UAV,Kit,Custom,450,User Choice,Protected,Li-ion,Pixhawk,ArduPilot,None,2,Indoor Inspection,Indoor kit
+DRN-0117,Custom,Kits & RTF,Industrial RTF,Bridge Inspection UAV,RTF,Custom,850,Proprietary,Custom,Smart Battery,Autopilot,Custom,Inspection Camera,4.8,Bridge Inspection,Infrastructure inspection
+DRN-0118,Custom,Kits & RTF,Industrial RTF,Mining UAV,RTF,Custom,900,Proprietary,Protected,Smart Battery,Autopilot,Custom,None,5.2,Mining Ops,Dust resistant
+DRN-0119,Custom,Kits & RTF,Industrial Kit,Mining UAV,Kit,Custom,950,User Choice,Protected,Li-ion,Pixhawk,ArduPilot,None,5.8,Mining Ops,Mining kit
+DRN-0120,Custom,Kits & RTF,Industrial RTF,Polar UAV,RTF,Custom,1000,Proprietary,Custom,Li-ion,Autopilot,Custom,None,6,Polar Ops,Extreme cold rated
+DRN-0121,Custom,Kits & RTF,Industrial RTF,Desert UAV,RTF,Custom,1000,Proprietary,Custom,Li-ion,Autopilot,Custom,None,6,Desert Ops,Heat resistant
+DRN-0122,Custom,Kits & RTF,Industrial RTF,Marine Survey UAV,RTF,Custom,1100,Proprietary,Custom,Li-ion,Autopilot,Custom,None,6.5,Marine Survey,Salt-resistant
+DRN-0123,Custom,Kits & RTF,Industrial Kit,Marine Survey UAV,Kit,Custom,1200,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,None,7.2,Marine Survey,Marine kit
+DRN-0124,Custom,Kits & RTF,Certification RTF,Certification UAV,RTF,Custom,600,Proprietary,Custom,Li-ion,Autopilot,Custom,None,2.5,Certification Testing,Standards testing
+DRN-0125,Custom,Kits & RTF,Certification Kit,Certification UAV,Kit,Custom,650,User Choice,Custom,Li-ion,Pixhawk,ArduPilot,None,3,Certification Testing,Compliance kit
+DRN-0126,Custom,Kits & RTF,Research RTF,Algorithm Test UAV,RTF,Custom,500,Proprietary,Custom,Li-ion,Autopilot,Linux+PX4,None,2.2,Algorithm Testing,Control algorithm testbed
+DRN-0127,Custom,Kits & RTF,Research Kit,Algorithm Test UAV,Kit,Custom,550,User Choice,Custom,Li-ion,Pixhawk,Linux+ArduPilot,None,2.6,Algorithm Testing,Research kit
+DRN-0128,Custom,Kits & RTF,Experimental RTF,Modular UAV,RTF,Custom,700,Proprietary,Modular,Li-ion,Autopilot,Custom,Custom Payload,3.5,Experimental,Highly modular UAV
+DRN-0129,Custom,Kits & RTF,Experimental Kit,Modular UAV,Kit,Custom,800,User Choice,Modular,Li-ion,Pixhawk,ArduPilot,Custom Payload,4.2,Experimental,Modular research kit
+DRN-0130,Custom,Kits & RTF,High Altitude RTF,Sub-Stratospheric UAV,RTF,Custom,2600,Proprietary,Fixed Wing,Li-ion,Autopilot,Custom,None,10,High Altitude,Upper-atmosphere ops
+DRN-0131,Custom,Kits & RTF,High Altitude Kit,Sub-Stratospheric UAV,Kit,Custom,2800,User Choice,Fixed Wing,Li-ion,Pixhawk,ArduPilot,None,12,High Altitude,Near-space research
+DRN-0132,Custom,Kits & RTF,Experimental RTF,Experimental UAV ?,RTF,Custom,900,Proprietary,Hybrid,Li-ion,Autopilot,Custom,Experimental Payload,5,Experimental,Prototype platform
+DRN-0133,Autel,Kits & RTF,Complete UAV,Explorer UAV,RTF,10,95,1806,6 inch,6S 1500mAh,H7 Flight Controller,Ardupilot,None,3.28,Long Range FPV,
+DRN-0134,AxisFlying,Kits & RTF,Complete UAV,Racing Drone,RTF,6,110,1806,6 inch,3S 850mAh,F4 Flight Controller,Ardupilot,Camera,2.15,Racing,
+DRN-0135,iFlight,Kits & RTF,Complete UAV,FPV Freestyle Drone,BNF,6,75,1806,3 inch,6S 2200mAh,F405 Stack,Betaflight,GoPro,1.14,Freestyle FPV,
+DRN-0136,GEPRC,Kits & RTF,Complete UAV,FPV Freestyle Drone,RTF,10,140,2806.5,3 inch,4S 1500mAh,F405 Stack,Ardupilot,None,4.89,Racing,
+DRN-0137,Skydroid,Kits & RTF,Complete UAV,Long Range Drone,BNF,8,110,1103,7 inch,3S 850mAh,H7 Flight Controller,Betaflight,Survey Camera,1.03,Mapping / Survey,
+DRN-0138,GEPRC,Kits & RTF,Complete UAV,Long Range Drone,BNF,3.5,95,1103,8 inch,6S 1300mAh,F7 Flight Controller,INAV,GoPro,1.03,Racing,
+DRN-0139,DJI,Kits & RTF,Complete UAV,Cinewhoop Drone,DIY Kit,3.5,85,2004,4 inch,4S 1500mAh,F722 Stack,INAV,Camera,2.35,Cinematic FPV,
+DRN-0140,BetaFPV,Kits & RTF,Complete UAV,FPV Freestyle Drone,BNF,2,260,1507,10 inch,4S 1300mAh,F405 Stack,Betaflight,Camera,4.56,Mapping / Survey,
+DRN-0141,HGLRC,Kits & RTF,Complete UAV,Explorer UAV,BNF,5,180,2806.5,6 inch,4S 1300mAh,F7 Flight Controller,INAV,None,6.17,Racing,
+DRN-0142,Skydroid,Kits & RTF,Complete UAV,Long Range Drone,DIY Kit,4,110,2806.5,7 inch,6S 1500mAh,F7 Flight Controller,INAV,Survey Camera,6.18,Freestyle FPV,
+DRN-0143,ImpulseRC,Kits & RTF,Complete UAV,Explorer UAV,RTF,8,180,2407,8 inch,6S 1500mAh,H7 Flight Controller,INAV,Survey Camera,1.44,Mapping / Survey,
+DRN-0144,DJI,Kits & RTF,Complete UAV,Industrial Survey Drone,RTF,2.5,140,2205,8 inch,4S 1300mAh,F7 Flight Controller,Betaflight,None,1.38,Industrial Inspection,
+DRN-0145,Autel,Kits & RTF,Complete UAV,Racing Drone,RTF,5,85,1404,2 inch,6S 1500mAh,F7 Flight Controller,Betaflight,GoPro,5.06,Industrial Inspection,
+DRN-0146,Skydroid,Kits & RTF,Complete UAV,FPV Freestyle Drone,RTF,2.5,110,2306,4 inch,Li-ion 6S 4000mAh,F405 Stack,Betaflight,None,1.79,Industrial Inspection,
+DRN-0147,Diatone,Kits & RTF,Complete UAV,Cinewhoop Drone,RTF,3.5,300,1404,2 inch,6S 1300mAh,F4 Flight Controller,INAV,None,1.9,Mapping / Survey,
+DRN-0148,DJI,Kits & RTF,Complete UAV,FPV Freestyle Drone,DIY Kit,5,85,1806,10 inch,4S 1300mAh,F405 Stack,Betaflight,Camera,3.88,Racing,
+DRN-0149,Holybro,Kits & RTF,Complete UAV,Racing Drone,DIY Kit,2,140,1507,5 inch,4S 1300mAh,F405 Stack,INAV,GoPro,5.09,Mapping / Survey,
+DRN-0150,Autel,Kits & RTF,Complete UAV,Racing Drone,RTF,4,140,1507,8 inch,4S 1500mAh,F405 Stack,INAV,None,2.35,Long Range FPV,
+DRN-0151,GEPRC,Kits & RTF,Complete UAV,Racing Drone,BNF,2.5,75,2207,6 inch,6S 1500mAh,F4 Flight Controller,Betaflight,GoPro,5.09,Industrial Inspection,
+DRN-0152,iFlight,Kits & RTF,Complete UAV,Explorer UAV,RTF,10,85,2205,5 inch,4S 1300mAh,F4 Flight Controller,Ardupilot,Survey Camera,2.86,Long Range FPV,
+DRN-0153,Holybro,Kits & RTF,Complete UAV,FPV Freestyle Drone,DIY Kit,3,85,1806,4 inch,6S 1500mAh,F4 Flight Controller,Betaflight,Survey Camera,6.46,Mapping / Survey,
+DRN-0154,AxisFlying,Kits & RTF,Complete UAV,Industrial Survey Drone,DIY Kit,8,140,2806.5,3 inch,3S 850mAh,F405 Stack,Betaflight,None,4.15,Long Range FPV,
+DRN-0155,HGLRC,Kits & RTF,Complete UAV,Long Range Drone,RTF,5,300,1103,4 inch,6S 1300mAh,F7 Flight Controller,INAV,Survey Camera,2.68,Racing,
+DRN-0156,Flywoo,Kits & RTF,Complete UAV,Industrial Survey Drone,RTF,2,120,1507,6 inch,6S 1300mAh,F405 Stack,INAV,None,4.76,Long Range FPV,
+DRN-0157,ImpulseRC,Kits & RTF,Complete UAV,FPV Freestyle Drone,RTF,3.5,110,2806.5,2 inch,3S 850mAh,F405 Stack,Ardupilot,None,1.94,Long Range FPV,
+DRN-0158,Diatone,Kits & RTF,Complete UAV,Cinewhoop Drone,RTF,2,180,2806.5,10 inch,3S 850mAh,F4 Flight Controller,INAV,Survey Camera,4.76,Mapping / Survey,
+DRN-0159,BetaFPV,Kits & RTF,Complete UAV,Cinewhoop Drone,RTF,2,180,1103,10 inch,3S 850mAh,F4 Flight Controller,Ardupilot,None,3.13,Industrial Inspection,
+DRN-0160,ImpulseRC,Kits & RTF,Complete UAV,Industrial Survey Drone,DIY Kit,7,220,1103,7 inch,Li-ion 6S 4000mAh,H7 Flight Controller,Ardupilot,Survey Camera,5.54,Freestyle FPV,
+DRN-0161,HGLRC,Kits & RTF,Complete UAV,Racing Drone,BNF,6,350,1404,3 inch,Li-ion 6S 4000mAh,F4 Flight Controller,Betaflight,Camera,2.92,Racing,
+DRN-0162,AxisFlying,Kits & RTF,Complete UAV,Industrial Survey Drone,RTF,10,300,2205,6 inch,6S 1300mAh,H7 Flight Controller,Betaflight,Survey Camera,0.85,Freestyle FPV,
+DRN-0163,Diatone,Kits & RTF,Complete UAV,Industrial Survey Drone,BNF,10,95,1103,6 inch,4S 1500mAh,F7 Flight Controller,Betaflight,None,5.25,Cinematic FPV,
+DRN-0164,Foxeer,Kits & RTF,Complete UAV,Racing Drone,DIY Kit,7,180,1806,6 inch,6S 1300mAh,F4 Flight Controller,INAV,Survey Camera,4.31,Mapping / Survey,
+DRN-0165,DJI,Kits & RTF,Complete UAV,Industrial Survey Drone,DIY Kit,7,110,2306,6 inch,Li-ion 6S 4000mAh,F7 Flight Controller,Ardupilot,Survey Camera,5.67,Industrial Inspection,
+DRN-0166,AxisFlying,Kits & RTF,Complete UAV,Explorer UAV,BNF,8,120,1404,7 inch,6S 1300mAh,F4 Flight Controller,Betaflight,Camera,5.77,Racing,
+DRN-0167,Flywoo,Kits & RTF,Complete UAV,FPV Freestyle Drone,DIY Kit,6,110,1806,2 inch,4S 1500mAh,H7 Flight Controller,Ardupilot,None,3.89,Mapping / Survey,
+DRN-0168,Skydroid,Kits & RTF,Complete UAV,Racing Drone,BNF,6,350,2207,2 inch,4S 1300mAh,F4 Flight Controller,INAV,Camera,3.7,Long Range FPV,
+DRN-0169,Walksnail,Kits & RTF,Complete UAV,Cinewhoop Drone,DIY Kit,10,120,2306,7 inch,3S 850mAh,F405 Stack,Betaflight,None,3,Freestyle FPV,
+DRN-0170,Armattan,Kits & RTF,Complete UAV,Racing Drone,RTF,5,260,1103,7 inch,6S 1300mAh,H7 Flight Controller,Betaflight,Survey Camera,4.04,Industrial Inspection,
+DRN-0171,Foxeer,Kits & RTF,Complete UAV,Explorer UAV,RTF,5,220,1806,10 inch,6S 1500mAh,F722 Stack,Betaflight,None,5.39,Long Range FPV,
+DRN-0172,Holybro,Kits & RTF,Complete UAV,Long Range Drone,RTF,2,85,2004,7 inch,Li-ion 6S 6000mAh,F4 Flight Controller,Ardupilot,Survey Camera,1.53,Freestyle FPV,
+DRN-0173,Autel,Kits & RTF,Complete UAV,Racing Drone,BNF,2.5,85,1806,8 inch,6S 2200mAh,F7 Flight Controller,Betaflight,GoPro,3.6,Freestyle FPV,
+DRN-0174,ImpulseRC,Kits & RTF,Complete UAV,Racing Drone,DIY Kit,4,120,2806.5,10 inch,6S 2200mAh,F405 Stack,INAV,None,4.91,Cinematic FPV,
+DRN-0175,iFlight,Kits & RTF,Complete UAV,Industrial Survey Drone,DIY Kit,10,300,1806,5 inch,Li-ion 6S 6000mAh,F405 Stack,Betaflight,GoPro,1.86,Mapping / Survey,
+DRN-0176,AxisFlying,Kits & RTF,Complete UAV,Industrial Survey Drone,BNF,6,300,2004,2 inch,Li-ion 6S 4000mAh,F7 Flight Controller,INAV,Survey Camera,2.26,Industrial Inspection,
+DRN-0177,ImpulseRC,Kits & RTF,Complete UAV,Long Range Drone,RTF,7,260,2205,5 inch,Li-ion 6S 6000mAh,F4 Flight Controller,Betaflight,Camera,0.35,Industrial Inspection,
+DRN-0178,Walksnail,Kits & RTF,Complete UAV,Industrial Survey Drone,DIY Kit,10,300,1507,4 inch,3S 850mAh,H7 Flight Controller,Betaflight,None,1.96,Industrial Inspection,
+DRN-0179,Armattan,Kits & RTF,Complete UAV,Cinewhoop Drone,BNF,3.5,180,2306,2 inch,6S 1500mAh,F722 Stack,Ardupilot,None,3.7,Freestyle FPV,
+DRN-0180,HGLRC,Kits & RTF,Complete UAV,Explorer UAV,RTF,5,85,2407,5 inch,4S 1300mAh,H7 Flight Controller,Betaflight,GoPro,1.84,Racing,
+DRN-0181,Walksnail,Kits & RTF,Complete UAV,Explorer UAV,RTF,4,140,2205,4 inch,3S 850mAh,H7 Flight Controller,Ardupilot,Camera,1.78,Long Range FPV,
+DRN-0182,Diatone,Kits & RTF,Complete UAV,Racing Drone,DIY Kit,7,260,2407,7 inch,4S 1300mAh,F7 Flight Controller,INAV,Survey Camera,0.4,Freestyle FPV,
+DRN-0183,Holybro,Kits & RTF,Complete UAV,Industrial Survey Drone,BNF,2.5,85,1103,10 inch,4S 1300mAh,F405 Stack,INAV,GoPro,1.07,Cinematic FPV,
+DRN-0184,Foxeer,Kits & RTF,Complete UAV,FPV Freestyle Drone,RTF,5,350,2806.5,8 inch,Li-ion 6S 6000mAh,F405 Stack,Ardupilot,Camera,5.66,Industrial Inspection,
+DRN-0185,Skydroid,Kits & RTF,Complete UAV,Cinewhoop Drone,RTF,8,140,1507,5 inch,Li-ion 6S 4000mAh,F722 Stack,Ardupilot,Camera,6.11,Freestyle FPV,
+DRN-0186,AxisFlying,Kits & RTF,Complete UAV,FPV Freestyle Drone,RTF,2.5,140,1806,8 inch,3S 850mAh,F7 Flight Controller,INAV,Survey Camera,3.77,Industrial Inspection,
+DRN-0187,Holybro,Kits & RTF,Complete UAV,Racing Drone,DIY Kit,3,220,1507,6 inch,4S 1500mAh,H7 Flight Controller,INAV,Survey Camera,2.38,Mapping / Survey,
+DRN-0188,Skydroid,Kits & RTF,Complete UAV,Racing Drone,DIY Kit,2.5,85,2806.5,5 inch,Li-ion 6S 4000mAh,F4 Flight Controller,INAV,GoPro,4.07,Industrial Inspection,
+DRN-0189,AxisFlying,Kits & RTF,Complete UAV,FPV Freestyle Drone,DIY Kit,3,95,2306,4 inch,Li-ion 6S 6000mAh,F4 Flight Controller,Betaflight,Camera,0.5,Freestyle FPV,
+DRN-0190,Skydroid,Kits & RTF,Complete UAV,FPV Freestyle Drone,RTF,10,180,2407,4 inch,4S 1300mAh,F4 Flight Controller,Betaflight,GoPro,3.97,Mapping / Survey,
+DRN-0191,Diatone,Kits & RTF,Complete UAV,Explorer UAV,RTF,4,180,2806.5,4 inch,6S 1500mAh,F7 Flight Controller,Ardupilot,Camera,3.49,Racing,
+DRN-0192,Holybro,Kits & RTF,Complete UAV,FPV Freestyle Drone,RTF,10,110,2407,4 inch,6S 1300mAh,F405 Stack,INAV,Camera,0.35,Racing,
+DRN-0193,Flywoo,Kits & RTF,Complete UAV,Explorer UAV,RTF,8,350,1103,3 inch,6S 2200mAh,F405 Stack,INAV,Camera,3.9,Racing,
+DRN-0194,Diatone,Kits & RTF,Complete UAV,Long Range Drone,RTF,6,180,1103,8 inch,6S 1300mAh,F7 Flight Controller,Ardupilot,Camera,5.02,Industrial Inspection,
+DRN-0195,Diatone,Kits & RTF,Complete UAV,Explorer UAV,BNF,2.5,110,1507,6 inch,Li-ion 6S 6000mAh,F722 Stack,Ardupilot,Survey Camera,6.42,Mapping / Survey,
+DRN-0196,iFlight,Kits & RTF,Complete UAV,Industrial Survey Drone,RTF,8,350,1103,3 inch,Li-ion 6S 4000mAh,F7 Flight Controller,Betaflight,Survey Camera,6.33,Racing,
+DRN-0197,DJI,Kits & RTF,Complete UAV,Industrial Survey Drone,BNF,2,75,2004,2 inch,Li-ion 6S 6000mAh,H7 Flight Controller,INAV,Survey Camera,0.43,Racing,
+DRN-0198,Diatone,Kits & RTF,Complete UAV,Racing Drone,BNF,4,260,2207,6 inch,4S 1500mAh,F722 Stack,INAV,GoPro,3.53,Cinematic FPV,
+DRN-0199,iFlight,Kits & RTF,Complete UAV,Industrial Survey Drone,RTF,4,95,2806.5,2 inch,4S 1300mAh,F4 Flight Controller,INAV,Survey Camera,1.62,Cinematic FPV,
+DRN-0200,Holybro,Kits & RTF,Complete UAV,FPV Freestyle Drone,DIY Kit,8,220,2207,5 inch,6S 2200mAh,F405 Stack,Betaflight,Survey Camera,1.92,Cinematic FPV,
+DRN-0201,iFlight,Kits & RTF,Complete UAV,Explorer UAV,DIY Kit,5,95,1507,6 inch,4S 1300mAh,F722 Stack,INAV,Camera,0.37,Racing,
+DRN-0202,Skydroid,Kits & RTF,Complete UAV,FPV Freestyle Drone,BNF,6,110,1103,10 inch,4S 1300mAh,H7 Flight Controller,Ardupilot,GoPro,3.66,Long Range FPV,
+DRN-0203,Foxeer,Kits & RTF,Complete UAV,Racing Drone,RTF,2,260,2407,8 inch,6S 1500mAh,F7 Flight Controller,INAV,Survey Camera,0.29,Mapping / Survey,
+DRN-0204,Armattan,Kits & RTF,Complete UAV,Racing Drone,BNF,3.5,260,1404,5 inch,3S 850mAh,F405 Stack,Betaflight,Survey Camera,5.88,Freestyle FPV,
+DRN-0205,Foxeer,Kits & RTF,Complete UAV,Explorer UAV,DIY Kit,10,85,2407,3 inch,Li-ion 6S 4000mAh,F4 Flight Controller,Ardupilot,GoPro,2.93,Cinematic FPV,
+DRN-0206,GEPRC,Kits & RTF,Complete UAV,Long Range Drone,DIY Kit,2,75,2004,8 inch,Li-ion 6S 4000mAh,F405 Stack,INAV,None,3.12,Industrial Inspection,
+DRN-0207,Skydroid,Kits & RTF,Complete UAV,Cinewhoop Drone,RTF,6,110,1507,2 inch,3S 850mAh,H7 Flight Controller,INAV,GoPro,5.01,Racing,
+DRN-0208,Walksnail,Kits & RTF,Complete UAV,Racing Drone,DIY Kit,4,180,2205,4 inch,3S 850mAh,F4 Flight Controller,INAV,GoPro,1.63,Freestyle FPV,
+DRN-0209,Flywoo,Kits & RTF,Complete UAV,Long Range Drone,RTF,6,120,1103,3 inch,4S 1300mAh,F7 Flight Controller,INAV,GoPro,4.88,Long Range FPV,
+DRN-0210,Autel,Kits & RTF,Complete UAV,Long Range Drone,RTF,3,120,2306,6 inch,Li-ion 6S 6000mAh,H7 Flight Controller,INAV,GoPro,3.93,Mapping / Survey,
+DRN-0211,HGLRC,Kits & RTF,Complete UAV,Long Range Drone,DIY Kit,6,75,2205,7 inch,4S 1500mAh,F405 Stack,Ardupilot,Survey Camera,0.84,Industrial Inspection,
+DRN-0212,Diatone,Kits & RTF,Complete UAV,Explorer UAV,BNF,6,110,2407,5 inch,Li-ion 6S 6000mAh,F722 Stack,Ardupilot,None,4.51,Mapping / Survey,
+DRN-0213,Armattan,Kits & RTF,Complete UAV,Industrial Survey Drone,RTF,10,180,1103,3 inch,6S 2200mAh,F4 Flight Controller,Betaflight,Camera,1.6,Cinematic FPV,
+DRN-0214,Holybro,Kits & RTF,Complete UAV,Racing Drone,DIY Kit,4,350,2407,4 inch,Li-ion 6S 6000mAh,F405 Stack,Ardupilot,Survey Camera,5.86,Mapping / Survey,
+DRN-0215,ImpulseRC,Kits & RTF,Complete UAV,Explorer UAV,BNF,3.5,95,1404,10 inch,3S 850mAh,H7 Flight Controller,INAV,GoPro,5.5,Cinematic FPV,
+DRN-0216,HGLRC,Kits & RTF,Complete UAV,Racing Drone,RTF,6,180,2806.5,6 inch,6S 2200mAh,F7 Flight Controller,Betaflight,None,4.59,Long Range FPV,
+DRN-0217,ImpulseRC,Kits & RTF,Complete UAV,Long Range Drone,BNF,6,260,2207,10 inch,6S 2200mAh,F405 Stack,INAV,Survey Camera,5.83,Racing,
+DRN-0218,ImpulseRC,Kits & RTF,Complete UAV,Racing Drone,DIY Kit,5,350,1806,4 inch,3S 850mAh,F4 Flight Controller,INAV,Survey Camera,1.7,Racing,
+DRN-0219,BetaFPV,Kits & RTF,Complete UAV,Cinewhoop Drone,BNF,2,110,1507,6 inch,4S 1500mAh,F405 Stack,Ardupilot,Camera,0.54,Industrial Inspection,
+DRN-0220,Diatone,Kits & RTF,Complete UAV,Racing Drone,RTF,8,110,2806.5,5 inch,4S 1300mAh,F405 Stack,INAV,Camera,2.79,Mapping / Survey,
+DRN-0221,ImpulseRC,Kits & RTF,Complete UAV,Cinewhoop Drone,BNF,4,140,2207,3 inch,6S 1300mAh,F7 Flight Controller,Ardupilot,None,5.9,Industrial Inspection,
+DRN-0222,BetaFPV,Kits & RTF,Complete UAV,Long Range Drone,DIY Kit,5,120,2306,4 inch,6S 1500mAh,F4 Flight Controller,Ardupilot,None,3.29,Industrial Inspection,
+DRN-0223,Foxeer,Kits & RTF,Complete UAV,FPV Freestyle Drone,BNF,10,110,2806.5,2 inch,4S 1500mAh,F722 Stack,Betaflight,Camera,5.59,Industrial Inspection,
+DRN-0224,ImpulseRC,Kits & RTF,Complete UAV,Cinewhoop Drone,BNF,2,140,1103,8 inch,6S 1300mAh,F4 Flight Controller,Ardupilot,Camera,4.41,Freestyle FPV,
+DRN-0225,DJI,Kits & RTF,Complete UAV,Explorer UAV,DIY Kit,6,220,2306,8 inch,4S 1300mAh,F4 Flight Controller,INAV,GoPro,0.81,Long Range FPV,
+DRN-0226,iFlight,Kits & RTF,Complete UAV,Explorer UAV,RTF,2,180,2207,8 inch,6S 2200mAh,H7 Flight Controller,INAV,None,0.78,Industrial Inspection,
+DRN-0227,Skydroid,Kits & RTF,Complete UAV,Cinewhoop Drone,RTF,5,75,1103,4 inch,6S 1300mAh,F4 Flight Controller,INAV,Survey Camera,2.13,Racing,
+DRN-0228,Autel,Kits & RTF,Complete UAV,Explorer UAV,DIY Kit,8,260,2407,5 inch,3S 850mAh,F7 Flight Controller,INAV,Survey Camera,3.17,Racing,
+DRN-0229,Skydroid,Kits & RTF,Complete UAV,Racing Drone,DIY Kit,2,85,2407,5 inch,6S 1300mAh,F722 Stack,Ardupilot,Camera,3.06,Long Range FPV,
+DRN-0230,Autel,Kits & RTF,Complete UAV,Industrial Survey Drone,DIY Kit,4,140,2207,4 inch,6S 1300mAh,F722 Stack,Ardupilot,Camera,2.58,Cinematic FPV,
+DRN-0231,AxisFlying,Kits & RTF,Complete UAV,FPV Freestyle Drone,RTF,6,95,1103,8 inch,Li-ion 6S 6000mAh,F722 Stack,Betaflight,GoPro,5.49,Long Range FPV,
+DRN-0232,GEPRC,Kits & RTF,Complete UAV,Explorer UAV,BNF,3.5,350,1103,3 inch,Li-ion 6S 4000mAh,F722 Stack,Ardupilot,Camera,4.93,Mapping / Survey,
+DRN-0233,AxisFlying,Kits & RTF,Complete UAV,Industrial Survey Drone,BNF,8,140,2004,4 inch,6S 1300mAh,H7 Flight Controller,Betaflight,Survey Camera,1.08,Mapping / Survey,
+DRN-0234,Holybro,Kits & RTF,Complete UAV,Explorer UAV,RTF,7,260,1806,5 inch,6S 2200mAh,F405 Stack,Ardupilot,None,3.49,Long Range FPV,
+DRN-0235,AxisFlying,Kits & RTF,Complete UAV,Explorer UAV,DIY Kit,7,85,2306,2 inch,Li-ion 6S 6000mAh,H7 Flight Controller,INAV,GoPro,1.89,Freestyle FPV,
+DRN-0236,HGLRC,Kits & RTF,Complete UAV,Cinewhoop Drone,BNF,10,350,2306,5 inch,6S 2200mAh,F405 Stack,Betaflight,Camera,1.01,Racing,
+DRN-0237,HGLRC,Kits & RTF,Complete UAV,Explorer UAV,RTF,4,260,2205,6 inch,4S 1500mAh,F405 Stack,Betaflight,Camera,2.12,Cinematic FPV,
+DRN-0238,Autel,Kits & RTF,Complete UAV,Cinewhoop Drone,DIY Kit,6,220,2407,4 inch,6S 1300mAh,F7 Flight Controller,Ardupilot,Survey Camera,4.68,Mapping / Survey,
+DRN-0239,GEPRC,Kits & RTF,Complete UAV,Racing Drone,BNF,8,95,2004,2 inch,4S 1300mAh,H7 Flight Controller,Betaflight,Survey Camera,1.76,Cinematic FPV,
+DRN-0240,HGLRC,Kits & RTF,Complete UAV,Racing Drone,DIY Kit,2,350,1103,4 inch,4S 1300mAh,F4 Flight Controller,Ardupilot,GoPro,3.05,Cinematic FPV,
+DRN-0241,Holybro,Kits & RTF,Complete UAV,Long Range Drone,RTF,3,95,2207,3 inch,6S 1500mAh,H7 Flight Controller,Betaflight,GoPro,4.62,Racing,
+DRN-0242,BetaFPV,Kits & RTF,Complete UAV,Industrial Survey Drone,BNF,7,85,2207,10 inch,6S 2200mAh,H7 Flight Controller,INAV,Survey Camera,4.67,Mapping / Survey,
+DRN-0243,Holybro,Kits & RTF,Complete UAV,Explorer UAV,DIY Kit,2,140,1806,6 inch,Li-ion 6S 6000mAh,F405 Stack,Betaflight,GoPro,5.26,Freestyle FPV,
+DRN-0244,Holybro,Kits & RTF,Complete UAV,Cinewhoop Drone,DIY Kit,10,140,1507,4 inch,6S 2200mAh,F722 Stack,Ardupilot,GoPro,3.83,Freestyle FPV,
+DRN-0245,HGLRC,Kits & RTF,Complete UAV,FPV Freestyle Drone,DIY Kit,3.5,300,1103,10 inch,4S 1300mAh,F722 Stack,Ardupilot,Camera,3.3,Cinematic FPV,
+DRN-0246,iFlight,Kits & RTF,Complete UAV,Cinewhoop Drone,RTF,7,350,2207,7 inch,4S 1500mAh,F7 Flight Controller,Ardupilot,None,4.29,Cinematic FPV,
+DRN-0247,GEPRC,Kits & RTF,Complete UAV,Racing Drone,RTF,8,75,2004,3 inch,Li-ion 6S 6000mAh,F722 Stack,Ardupilot,Camera,2.76,Industrial Inspection,
+DRN-0248,Diatone,Kits & RTF,Complete UAV,Industrial Survey Drone,RTF,5,140,2306,3 inch,4S 1500mAh,H7 Flight Controller,Ardupilot,Survey Camera,3.24,Racing,
+DRN-0249,Flywoo,Kits & RTF,Complete UAV,Racing Drone,DIY Kit,6,220,1103,4 inch,Li-ion 6S 6000mAh,F4 Flight Controller,Betaflight,GoPro,0.83,Cinematic FPV,
+DRN-0250,ImpulseRC,Kits & RTF,Complete UAV,Industrial Survey Drone,DIY Kit,4,75,2205,5 inch,6S 2200mAh,F722 Stack,Ardupilot,None,2.08,Cinematic FPV,
+DRN-0251,ImpulseRC,Kits & RTF,Complete UAV,Industrial Survey Drone,BNF,2,300,2806.5,5 inch,4S 1500mAh,F722 Stack,Ardupilot,None,3.33,Racing,
+DRN-0252,HGLRC,Kits & RTF,Complete UAV,Long Range Drone,BNF,2,110,2806.5,2 inch,3S 850mAh,F405 Stack,INAV,GoPro,5.84,Freestyle FPV,
+DRN-0253,Walksnail,Kits & RTF,Complete UAV,Long Range Drone,RTF,2.5,220,2407,2 inch,6S 1300mAh,F4 Flight Controller,INAV,Survey Camera,2.31,Long Range FPV,
+DRN-0254,Autel,Kits & RTF,Complete UAV,Long Range Drone,DIY Kit,3,180,1507,2 inch,6S 1500mAh,H7 Flight Controller,INAV,GoPro,1.82,Cinematic FPV,
+DRN-0255,Holybro,Kits & RTF,Complete UAV,Industrial Survey Drone,DIY Kit,3.5,300,2407,10 inch,6S 1300mAh,F4 Flight Controller,Ardupilot,GoPro,0.42,Long Range FPV,
+DRN-0256,Flywoo,Kits & RTF,Complete UAV,FPV Freestyle Drone,DIY Kit,2.5,260,1404,10 inch,Li-ion 6S 4000mAh,F7 Flight Controller,Ardupilot,Camera,5.48,Long Range FPV,
+DRN-0257,Diatone,Kits & RTF,Complete UAV,Racing Drone,BNF,2.5,120,1404,6 inch,Li-ion 6S 6000mAh,H7 Flight Controller,Ardupilot,Survey Camera,5.49,Freestyle FPV,
+DRN-0258,Foxeer,Kits & RTF,Complete UAV,FPV Freestyle Drone,DIY Kit,3,350,1507,7 inch,3S 850mAh,F7 Flight Controller,Betaflight,None,0.64,Freestyle FPV,
+DRN-0259,Foxeer,Kits & RTF,Complete UAV,Long Range Drone,BNF,3.5,85,2306,4 inch,4S 1300mAh,F405 Stack,INAV,GoPro,4.04,Long Range FPV,
+DRN-0260,BetaFPV,Kits & RTF,Complete UAV,Explorer UAV,RTF,2.5,120,2207,8 inch,4S 1300mAh,F7 Flight Controller,Betaflight,Camera,3.53,Mapping / Survey,
+DRN-0261,BetaFPV,Kits & RTF,Complete UAV,Racing Drone,RTF,5,300,1103,4 inch,6S 1500mAh,H7 Flight Controller,Betaflight,Survey Camera,1.57,Long Range FPV,
+DRN-0262,Autel,Kits & RTF,Complete UAV,Industrial Survey Drone,BNF,2,220,2306,5 inch,4S 1500mAh,F7 Flight Controller,Betaflight,GoPro,2.06,Cinematic FPV,
+DRN-0263,Autel,Kits & RTF,Complete UAV,Explorer UAV,BNF,10,140,2207,7 inch,Li-ion 6S 4000mAh,F722 Stack,Ardupilot,None,6.39,Racing,
+DRN-0264,Flywoo,Kits & RTF,Complete UAV,Cinewhoop Drone,RTF,6,95,2207,2 inch,Li-ion 6S 4000mAh,F722 Stack,Ardupilot,Survey Camera,1.31,Industrial Inspection,
+DRN-0265,AxisFlying,Kits & RTF,Complete UAV,Explorer UAV,RTF,2,140,2306,3 inch,Li-ion 6S 6000mAh,F405 Stack,Ardupilot,Camera,0.77,Freestyle FPV,
+DRN-0266,Diatone,Kits & RTF,Complete UAV,Industrial Survey Drone,DIY Kit,3.5,140,2306,5 inch,3S 850mAh,F405 Stack,Betaflight,Camera,2.05,Freestyle FPV,
+DRN-0267,HGLRC,Kits & RTF,Complete UAV,Long Range Drone,BNF,2,220,1404,4 inch,6S 1300mAh,F7 Flight Controller,INAV,Camera,2.75,Long Range FPV,
+DRN-0268,ImpulseRC,Kits & RTF,Complete UAV,Explorer UAV,RTF,10,95,2306,6 inch,4S 1300mAh,F722 Stack,Ardupilot,None,4.16,Long Range FPV,
+DRN-0269,Armattan,Kits & RTF,Complete UAV,FPV Freestyle Drone,BNF,7,140,1806,4 inch,4S 1500mAh,F722 Stack,Betaflight,Survey Camera,5.15,Cinematic FPV,
+DRN-0270,Holybro,Kits & RTF,Complete UAV,FPV Freestyle Drone,BNF,5,140,2004,2 inch,6S 1500mAh,F7 Flight Controller,INAV,Camera,6.28,Cinematic FPV,
+DRN-0271,Armattan,Kits & RTF,Complete UAV,Racing Drone,BNF,7,350,2205,5 inch,3S 850mAh,F7 Flight Controller,Betaflight,Survey Camera,6.11,Mapping / Survey,
+DRN-0272,HGLRC,Kits & RTF,Complete UAV,Cinewhoop Drone,DIY Kit,8,220,1507,6 inch,6S 2200mAh,F7 Flight Controller,Betaflight,Survey Camera,4.41,Freestyle FPV,
+DRN-0273,HGLRC,Kits & RTF,Complete UAV,Explorer UAV,RTF,2.5,220,2205,7 inch,Li-ion 6S 6000mAh,F722 Stack,Ardupilot,GoPro,4.71,Cinematic FPV,
+DRN-0274,Flywoo,Kits & RTF,Complete UAV,Cinewhoop Drone,DIY Kit,10,75,1103,3 inch,6S 1500mAh,F7 Flight Controller,Ardupilot,Camera,0.24,Racing,
+DRN-0275,AxisFlying,Kits & RTF,Complete UAV,Industrial Survey Drone,DIY Kit,5,95,2407,3 inch,Li-ion 6S 4000mAh,H7 Flight Controller,Ardupilot,Camera,1.08,Racing,
+DRN-0276,Autel,Kits & RTF,Complete UAV,Cinewhoop Drone,RTF,3,220,1806,10 inch,6S 1500mAh,F722 Stack,INAV,Survey Camera,1.5,Mapping / Survey,
+DRN-0277,DJI,Kits & RTF,Complete UAV,FPV Freestyle Drone,DIY Kit,7,75,2407,10 inch,4S 1500mAh,F405 Stack,Ardupilot,GoPro,1.1,Freestyle FPV,
+DRN-0278,ImpulseRC,Kits & RTF,Complete UAV,Industrial Survey Drone,RTF,2,220,2004,3 inch,Li-ion 6S 6000mAh,F4 Flight Controller,INAV,Survey Camera,4.4,Industrial Inspection,
+DRN-0279,HGLRC,Kits & RTF,Complete UAV,Explorer UAV,BNF,10,220,2806.5,10 inch,3S 850mAh,H7 Flight Controller,Ardupilot,GoPro,6.09,Racing,
+DRN-0280,Flywoo,Kits & RTF,Complete UAV,Explorer UAV,RTF,5,300,2207,4 inch,Li-ion 6S 4000mAh,F4 Flight Controller,Betaflight,GoPro,1.48,Racing,
+DRN-0281,Armattan,Kits & RTF,Complete UAV,Racing Drone,DIY Kit,6,110,1103,8 inch,6S 1500mAh,F4 Flight Controller,Ardupilot,Survey Camera,3.7,Industrial Inspection,
+DRN-0282,BetaFPV,Kits & RTF,Complete UAV,Explorer UAV,BNF,5,140,1103,6 inch,Li-ion 6S 4000mAh,H7 Flight Controller,Betaflight,GoPro,3.54,Industrial Inspection,
+DRN-0283,iFlight,Kits & RTF,Complete UAV,Explorer UAV,BNF,8,85,2306,3 inch,6S 2200mAh,H7 Flight Controller,Betaflight,GoPro,4.87,Mapping / Survey,
+DRN-0284,Walksnail,Kits & RTF,Complete UAV,Racing Drone,RTF,7,220,1507,5 inch,6S 2200mAh,F722 Stack,Ardupilot,None,2.02,Mapping / Survey,
+DRN-0285,Autel,Kits & RTF,Complete UAV,Explorer UAV,RTF,3,180,1507,8 inch,Li-ion 6S 6000mAh,H7 Flight Controller,Ardupilot,Survey Camera,1.13,Industrial Inspection,
+DRN-0286,Armattan,Kits & RTF,Complete UAV,Cinewhoop Drone,DIY Kit,4,110,2306,2 inch,4S 1300mAh,F722 Stack,Ardupilot,Survey Camera,2.68,Industrial Inspection,
+DRN-0287,BetaFPV,Kits & RTF,Complete UAV,Industrial Survey Drone,BNF,3.5,300,2806.5,8 inch,4S 1300mAh,F7 Flight Controller,INAV,GoPro,0.69,Long Range FPV,
+DRN-0288,Armattan,Kits & RTF,Complete UAV,Long Range Drone,BNF,4,350,2407,5 inch,6S 2200mAh,F405 Stack,INAV,None,5.48,Long Range FPV,
+DRN-0289,HGLRC,Kits & RTF,Complete UAV,Cinewhoop Drone,BNF,8,95,1806,7 inch,6S 1300mAh,F7 Flight Controller,INAV,GoPro,5.84,Cinematic FPV,
+DRN-0290,DJI,Kits & RTF,Complete UAV,Long Range Drone,DIY Kit,6,300,1507,10 inch,Li-ion 6S 4000mAh,F7 Flight Controller,Betaflight,None,1.9,Long Range FPV,
+DRN-0291,iFlight,Kits & RTF,Complete UAV,Racing Drone,RTF,2,75,2004,3 inch,6S 2200mAh,F405 Stack,Ardupilot,GoPro,0.51,Cinematic FPV,
+DRN-0292,iFlight,Kits & RTF,Complete UAV,Long Range Drone,RTF,10,350,2205,6 inch,4S 1300mAh,F722 Stack,Betaflight,GoPro,1.26,Freestyle FPV,
+DRN-0293,Walksnail,Kits & RTF,Complete UAV,FPV Freestyle Drone,RTF,10,350,2004,4 inch,Li-ion 6S 4000mAh,F4 Flight Controller,INAV,None,0.53,Freestyle FPV,
+DRN-0294,Skydroid,Kits & RTF,Complete UAV,Explorer UAV,DIY Kit,5,220,2407,2 inch,6S 1500mAh,F405 Stack,INAV,Camera,3.76,Cinematic FPV,
+DRN-0295,Foxeer,Kits & RTF,Complete UAV,Long Range Drone,BNF,3.5,260,1806,5 inch,Li-ion 6S 4000mAh,F722 Stack,Betaflight,Camera,3.97,Long Range FPV,
+DRN-0296,Walksnail,Kits & RTF,Complete UAV,Cinewhoop Drone,BNF,3,350,2306,6 inch,4S 1500mAh,F405 Stack,Betaflight,None,4.85,Long Range FPV,
+DRN-0297,Holybro,Kits & RTF,Complete UAV,Explorer UAV,RTF,5,180,2207,2 inch,4S 1500mAh,H7 Flight Controller,INAV,Camera,4.1,Mapping / Survey,
+DRN-0298,Diatone,Kits & RTF,Complete UAV,Long Range Drone,DIY Kit,10,120,2306,5 inch,6S 1300mAh,H7 Flight Controller,INAV,None,5.93,Long Range FPV,
+DRN-0299,ImpulseRC,Kits & RTF,Complete UAV,Industrial Survey Drone,DIY Kit,2,120,1507,3 inch,3S 850mAh,F405 Stack,Betaflight,Survey Camera,1.49,Long Range FPV,
+DRN-0300,Diatone,Kits & RTF,Complete UAV,Cinewhoop Drone,RTF,2.5,350,2407,7 inch,6S 1300mAh,F405 Stack,Ardupilot,Camera,2.96,Racing,
+DRN-0301,ImpulseRC,Kits & RTF,Complete UAV,Long Range Drone,RTF,10,75,1806,7 inch,4S 1300mAh,F7 Flight Controller,Ardupilot,None,0.35,Freestyle FPV,
+DRN-0302,iFlight,Kits & RTF,Complete UAV,Industrial Survey Drone,BNF,2.5,300,1806,4 inch,6S 1300mAh,H7 Flight Controller,Betaflight,None,3.47,Long Range FPV,
+DRN-0303,iFlight,Kits & RTF,Complete UAV,Explorer UAV,RTF,6,260,2207,4 inch,4S 1500mAh,H7 Flight Controller,Betaflight,None,5.08,Industrial Inspection,
+DRN-0304,Diatone,Kits & RTF,Complete UAV,Long Range Drone,RTF,3.5,300,2207,8 inch,Li-ion 6S 4000mAh,F4 Flight Controller,INAV,GoPro,4.16,Freestyle FPV,
+DRN-0305,Skydroid,Kits & RTF,Complete UAV,Racing Drone,BNF,3.5,95,1806,2 inch,6S 1500mAh,F7 Flight Controller,INAV,Survey Camera,3.37,Cinematic FPV,
+DRN-0306,Walksnail,Kits & RTF,Complete UAV,FPV Freestyle Drone,DIY Kit,4,220,2407,10 inch,Li-ion 6S 4000mAh,F4 Flight Controller,Betaflight,None,1.95,Industrial Inspection,
+DRN-0307,HGLRC,Kits & RTF,Complete UAV,Explorer UAV,RTF,6,350,2207,6 inch,Li-ion 6S 4000mAh,F722 Stack,Ardupilot,GoPro,0.39,Freestyle FPV,
+DRN-0308,Diatone,Kits & RTF,Complete UAV,Explorer UAV,DIY Kit,3,350,2205,10 inch,6S 1500mAh,H7 Flight Controller,Betaflight,GoPro,2.07,Racing,
+DRN-0309,GEPRC,Kits & RTF,Complete UAV,Racing Drone,BNF,3.5,95,2407,7 inch,3S 850mAh,F4 Flight Controller,INAV,Camera,3.67,Industrial Inspection,
+DRN-0310,Foxeer,Kits & RTF,Complete UAV,Cinewhoop Drone,DIY Kit,3.5,95,1507,2 inch,Li-ion 6S 6000mAh,F722 Stack,Ardupilot,GoPro,2.51,Cinematic FPV,
+DRN-0311,Diatone,Kits & RTF,Complete UAV,FPV Freestyle Drone,RTF,6,110,1507,7 inch,6S 2200mAh,H7 Flight Controller,Ardupilot,Camera,0.57,Mapping / Survey,
+DRN-0312,Autel,Kits & RTF,Complete UAV,FPV Freestyle Drone,BNF,10,110,2004,7 inch,6S 1500mAh,F722 Stack,Betaflight,Camera,5.91,Mapping / Survey,
+DRN-0313,GEPRC,Kits & RTF,Complete UAV,Racing Drone,DIY Kit,8,120,2205,3 inch,4S 1500mAh,F7 Flight Controller,Betaflight,GoPro,5.94,Cinematic FPV,
+DRN-0314,HGLRC,Kits & RTF,Complete UAV,Industrial Survey Drone,DIY Kit,7,180,1507,7 inch,6S 2200mAh,F7 Flight Controller,Betaflight,GoPro,5.42,Cinematic FPV,
+DRN-0315,Diatone,Kits & RTF,Complete UAV,Cinewhoop Drone,BNF,7,260,2004,2 inch,6S 2200mAh,F4 Flight Controller,Betaflight,GoPro,0.84,Cinematic FPV,
+DRN-0316,Skydroid,Kits & RTF,Complete UAV,FPV Freestyle Drone,RTF,6,110,2407,3 inch,4S 1300mAh,H7 Flight Controller,Ardupilot,None,4.5,Mapping / Survey,
+DRN-0317,Autel,Kits & RTF,Complete UAV,FPV Freestyle Drone,BNF,4,95,2004,5 inch,6S 2200mAh,H7 Flight Controller,Ardupilot,None,5.98,Industrial Inspection,
+DRN-0318,GEPRC,Kits & RTF,Complete UAV,Cinewhoop Drone,DIY Kit,4,220,2207,10 inch,Li-ion 6S 4000mAh,F4 Flight Controller,INAV,GoPro,3.89,Freestyle FPV,
+DRN-0319,Diatone,Kits & RTF,Complete UAV,Explorer UAV,BNF,10,120,2205,8 inch,3S 850mAh,F405 Stack,INAV,Camera,0.47,Long Range FPV,
+DRN-0320,Autel,Kits & RTF,Complete UAV,Long Range Drone,DIY Kit,5,220,2207,10 inch,4S 1300mAh,F405 Stack,INAV,Survey Camera,0.94,Long Range FPV,
+DRN-0321,HGLRC,Kits & RTF,Complete UAV,Industrial Survey Drone,DIY Kit,2,220,1806,5 inch,6S 1500mAh,F405 Stack,Betaflight,None,0.96,Freestyle FPV,
+DRN-0322,ImpulseRC,Kits & RTF,Complete UAV,Long Range Drone,RTF,2,180,2306,8 inch,6S 1500mAh,F7 Flight Controller,Betaflight,Survey Camera,2.31,Long Range FPV,
+DRN-0323,HGLRC,Kits & RTF,Complete UAV,FPV Freestyle Drone,RTF,3.5,260,2207,5 inch,6S 1500mAh,F4 Flight Controller,Betaflight,Survey Camera,2.1,Long Range FPV,
+DRN-0324,Foxeer,Kits & RTF,Complete UAV,Long Range Drone,DIY Kit,8,95,1103,7 inch,Li-ion 6S 4000mAh,F405 Stack,Ardupilot,None,2.4,Racing,
+DRN-0325,GEPRC,Kits & RTF,Complete UAV,Racing Drone,BNF,3.5,85,2205,8 inch,Li-ion 6S 4000mAh,H7 Flight Controller,Ardupilot,GoPro,2.74,Industrial Inspection,
+DRN-0326,Autel,Kits & RTF,Complete UAV,Long Range Drone,DIY Kit,2,300,2205,5 inch,3S 850mAh,F4 Flight Controller,Ardupilot,None,4.29,Mapping / Survey,
+DRN-0327,Skydroid,Kits & RTF,Complete UAV,Explorer UAV,RTF,3,300,2407,8 inch,6S 2200mAh,F722 Stack,Betaflight,None,2.45,Racing,
+DRN-0328,DJI,Kits & RTF,Complete UAV,FPV Freestyle Drone,DIY Kit,8,75,2207,5 inch,4S 1300mAh,F722 Stack,INAV,Survey Camera,3.08,Freestyle FPV,
+DRN-0329,Diatone,Kits & RTF,Complete UAV,Explorer UAV,RTF,8,260,2004,7 inch,6S 2200mAh,F722 Stack,INAV,GoPro,6.37,Cinematic FPV,
+DRN-0330,Holybro,Kits & RTF,Complete UAV,Racing Drone,BNF,7,220,2207,8 inch,6S 1300mAh,H7 Flight Controller,Ardupilot,Camera,1.22,Cinematic FPV,
+DRN-0331,HGLRC,Kits & RTF,Complete UAV,FPV Freestyle Drone,RTF,8,260,1806,6 inch,Li-ion 6S 4000mAh,F722 Stack,Betaflight,None,1.04,Cinematic FPV,
+DRN-0332,HGLRC,Kits & RTF,Complete UAV,Cinewhoop Drone,BNF,6,300,2004,10 inch,3S 850mAh,F7 Flight Controller,INAV,GoPro,3.77,Long Range FPV,
+DRN-0333,Holybro,Kits & RTF,Complete UAV,FPV Freestyle Drone,RTF,10,120,2407,7 inch,Li-ion 6S 6000mAh,H7 Flight Controller,Ardupilot,Survey Camera,0.62,Cinematic FPV,
+DRN-0334,Holybro,Kits & RTF,Complete UAV,Cinewhoop Drone,BNF,10,260,2407,8 inch,6S 2200mAh,F7 Flight Controller,INAV,Camera,1.72,Long Range FPV,
+DRN-0335,Autel,Kits & RTF,Complete UAV,FPV Freestyle Drone,RTF,3,95,1103,6 inch,6S 2200mAh,H7 Flight Controller,Betaflight,Survey Camera,3.5,Industrial Inspection,
+DRN-0336,Skydroid,Kits & RTF,Complete UAV,FPV Freestyle Drone,DIY Kit,2.5,300,1806,3 inch,4S 1500mAh,F4 Flight Controller,Betaflight,Survey Camera,2.47,Mapping / Survey,
+DRN-0337,DJI,Kits & RTF,Complete UAV,Long Range Drone,DIY Kit,3.5,300,1806,4 inch,Li-ion 6S 4000mAh,F4 Flight Controller,Ardupilot,GoPro,4.87,Industrial Inspection,
+DRN-0338,Flywoo,Kits & RTF,Complete UAV,Explorer UAV,BNF,2.5,110,1404,4 inch,4S 1500mAh,F4 Flight Controller,Betaflight,GoPro,0.64,Cinematic FPV,
+DRN-0339,iFlight,Kits & RTF,Complete UAV,FPV Freestyle Drone,DIY Kit,7,95,2407,5 inch,6S 1500mAh,F7 Flight Controller,Ardupilot,Survey Camera,1.85,Long Range FPV,
+DRN-0340,Walksnail,Kits & RTF,Complete UAV,Explorer UAV,BNF,6,140,1103,4 inch,4S 1300mAh,F405 Stack,Ardupilot,None,5.69,Mapping / Survey,
+DRN-0341,BetaFPV,Kits & RTF,Complete UAV,Cinewhoop Drone,BNF,3.5,110,2205,5 inch,6S 1500mAh,F4 Flight Controller,Betaflight,Camera,1.24,Freestyle FPV,
+DRN-0342,Autel,Kits & RTF,Complete UAV,Long Range Drone,RTF,5,110,2306,3 inch,3S 850mAh,F7 Flight Controller,Betaflight,Survey Camera,0.36,Long Range FPV,
+DRN-0343,Flywoo,Kits & RTF,Complete UAV,Cinewhoop Drone,RTF,3,300,2004,3 inch,4S 1500mAh,F7 Flight Controller,Ardupilot,None,3.62,Long Range FPV,
+DRN-0344,Foxeer,Kits & RTF,Complete UAV,Cinewhoop Drone,RTF,8,85,2407,8 inch,Li-ion 6S 6000mAh,H7 Flight Controller,Betaflight,None,1.66,Cinematic FPV,
+DRN-0345,HGLRC,Kits & RTF,Complete UAV,Industrial Survey Drone,DIY Kit,3.5,220,1806,8 inch,4S 1500mAh,H7 Flight Controller,Ardupilot,Survey Camera,3.91,Cinematic FPV,
+DRN-0346,Armattan,Kits & RTF,Complete UAV,Racing Drone,RTF,6,220,2004,7 inch,6S 1500mAh,F7 Flight Controller,INAV,GoPro,0.68,Industrial Inspection,
+DRN-0347,HGLRC,Kits & RTF,Complete UAV,Long Range Drone,RTF,5,220,2306,10 inch,Li-ion 6S 4000mAh,H7 Flight Controller,Betaflight,GoPro,5.92,Freestyle FPV,
+DRN-0348,Walksnail,Kits & RTF,Complete UAV,Explorer UAV,DIY Kit,2,180,2806.5,6 inch,6S 1300mAh,F722 Stack,Betaflight,Camera,3.35,Cinematic FPV,
+DRN-0349,BetaFPV,Kits & RTF,Complete UAV,Explorer UAV,BNF,2.5,85,2207,10 inch,Li-ion 6S 4000mAh,F722 Stack,INAV,None,5.06,Long Range FPV,
+DRN-0350,BetaFPV,Kits & RTF,Complete UAV,FPV Freestyle Drone,BNF,8,300,2004,6 inch,Li-ion 6S 6000mAh,F7 Flight Controller,INAV,GoPro,3.17,Mapping / Survey,
